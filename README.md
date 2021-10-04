@@ -17,3 +17,4 @@ ___
 
 ## Product Vision
 For the environmentally-conscious driver who doesn’t have an electric car but would like to ensure they are using gasoline responsibly, the Green Gas Mileage Calculator is a gas mileage calculator that allows the user to keep records of their mileage and fuel consumption across several automobiles and evaluate their carbon footprint from said data. Unlike competing gas mileage calculators in the Google Play Store, our product incorporates unique features that empower users to track their environmental impact through analysis of fuel consumption and quality of driving.
+
