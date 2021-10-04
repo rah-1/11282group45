@@ -13,3 +13,4 @@
   ##   Research into UX Library
   We have done considerable research into a UX Library for development, and we have come close to a decision.
   ##   Research into Testing Framework
+  JUnit was selected as the testing framework for this Java application for the fact that it is quite common and has a large amount of support.
