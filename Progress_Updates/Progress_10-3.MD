@@ -4,8 +4,9 @@
   Below is a list of some of the work we've done.  
   
 # Work Done This Week
-  ###   Researching Emissions Database
-  ###   Work on System Context Model
-  ###   Work on Presentation
-  ###   Research into UX Library
-  ###   Research into Testing Framework
+  ##   Researching Emissions Database
+  Rahul and I have been looking into an emissions database. We've found a promising source in the EPA (available at https://www.fueleconomy.gov/feg/ws/index.shtml), but it will require us to find a means of putting this data into the application.
+  ##   Work on System Context Model
+  ##   Work on Presentation
+  ##   Research into UX Library
+  ##   Research into Testing Framework
