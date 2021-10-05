@@ -5,11 +5,11 @@
   
 # Work Done This Week
   ##   Researching Emissions Database
-  Rahul and I have been looking into an emissions database. We've found a promising source in the EPA (available at https://www.fueleconomy.gov/feg/ws/index.shtml), but it will require us to find a means of putting this data into the application.
+  Rahul and I have been looking into an emissions database. We've found a promising source in the EPA (available at https://www.fueleconomy.gov/feg/ws/index.shtml), but it will require us to find means of putting the data into our application.
   ##   Work on System Context Model
-  We have also been working on the System Context Model, which is almost finished. A version will be available on GitHub shortly.
+  We have also been working on the System Context Model, which is almost finished.
   ##   Work on Presentation
-  Each team member has been working on the first presentation. Like the Context Model, a version of it will be available here on GitHub.
+  Each team member has been working on the first presentation. This will review the progress so far and the System Model assignment productions
   ##   Research into UX Library
   We have done considerable research into a UX Library for development, and we have come close to a decision.
   ##   Research into Testing Framework
