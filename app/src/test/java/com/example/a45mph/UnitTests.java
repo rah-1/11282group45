@@ -6,17 +6,17 @@ import java.nio.channels.ScatteringByteChannel;
 
 public class UnitTests {
     @Test
-    private void executeHypotheticalBuyableFuel()
+    public void executeHypotheticalBuyableFuel()
     {
         assert (3.00 == BuyableFuel.hypotheticalBuyableFuel(3.00, 9.00));
         assert (4.00 == BuyableFuel.hypotheticalBuyableFuel(3.00, 12.00));
-        assert (2.50 == BuyableFuel.hypotheticalBuyableFuel(2.50, 5.00));
+        assert (2.50 == BuyableFuel.hypotheticalBuyableFuel(2.00, 5.00));
     }
 
     @Test
-    private void testHypotheticalBuyableFuelWithZero()
+    public void testHypotheticalBuyableFuelWithZero()
     {
-        for (int i = 0; i < 9; i++)
+        for (int i = 1; i < 10; i++)
         {
             assert (0 == BuyableFuel.hypotheticalBuyableFuel(i,0));
         }
@@ -37,7 +37,7 @@ public class UnitTests {
     }
 
     @Test
-    private void testHypotheticalBuyableFuelWithNegativeArguments()
+    public void testHypotheticalBuyableFuelWithNegativeArguments()
     {
         try
         {
