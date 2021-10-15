@@ -21,7 +21,7 @@ public class HypotheticalFuelCostTests {
     @Test
     public void testHypotheticalFuelCostWithZero()
     {
-        for (int i = 1; i < 10; i++)
+        for (int i = 1; i <= 10; i++)
         {
             assert (0 == FuelCalculators.hypotheticalFuelCost(i,0));
         }
