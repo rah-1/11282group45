@@ -12,6 +12,13 @@ public class HypotheticalFuelCostTests {
     }
 
     @Test
+    public void testRounding()
+    {
+        assert (0.13 == FuelCalculators.hypotheticalFuelCost(1, 0.125));
+        assert (0.13 == FuelCalculators.hypotheticalFuelCost(0.125, 1));
+    }
+
+    @Test
     public void testHypotheticalFuelCostWithZero()
     {
         for (int i = 1; i < 10; i++)

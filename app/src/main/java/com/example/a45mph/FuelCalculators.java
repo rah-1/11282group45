@@ -10,5 +10,12 @@ abstract public class FuelCalculators {
         return amtHeld / unitPrice;
     }
 
+    public static double hypotheticalFuelCost(double unitPrice, double amtBought) throws ArithmeticException
+    {
+        if (unitPrice < 0 || amtBought < 0) {
+            throw new ArithmeticException();
+        }
 
+        return Math.round(unitPrice * amtBought * 100) / 100.00;
+    }
 }
