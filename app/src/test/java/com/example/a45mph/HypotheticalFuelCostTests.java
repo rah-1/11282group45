@@ -44,7 +44,7 @@ public class HypotheticalFuelCostTests {
             assert true; // ArithmeticException caught. Pass test
         } catch (Exception f)
         {
-            assert false; // fail bc another exception occured
+            assert false; // fail bc another exception occurred
         }
     }
 }
