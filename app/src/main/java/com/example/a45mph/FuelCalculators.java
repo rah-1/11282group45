@@ -1,6 +1,6 @@
 package com.example.a45mph;
 
-public class BuyableFuel {
+abstract public class FuelCalculators {
     public static double hypotheticalBuyableFuel(double unitPrice, double amtHeld) throws ArithmeticException
     {
         if (unitPrice <= 0 || amtHeld < 0) {

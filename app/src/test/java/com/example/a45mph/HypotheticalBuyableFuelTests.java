@@ -1,16 +1,14 @@
 package com.example.a45mph;
 
 import org.junit.Test;
-import org.junit.Assert.*;
-import java.nio.channels.ScatteringByteChannel;
 
-public class UnitTests {
+public class HypotheticalBuyableFuelTests {
     @Test
     public void executeHypotheticalBuyableFuel()
     {
-        assert (3.00 == BuyableFuel.hypotheticalBuyableFuel(3.00, 9.00));
-        assert (4.00 == BuyableFuel.hypotheticalBuyableFuel(3.00, 12.00));
-        assert (2.50 == BuyableFuel.hypotheticalBuyableFuel(2.00, 5.00));
+        assert (3.00 == FuelCalculators.hypotheticalBuyableFuel(3.00, 9.00));
+        assert (4.00 == FuelCalculators.hypotheticalBuyableFuel(3.00, 12.00));
+        assert (2.50 == FuelCalculators.hypotheticalBuyableFuel(2.00, 5.00));
     }
 
     @Test
@@ -18,13 +16,13 @@ public class UnitTests {
     {
         for (int i = 1; i < 10; i++)
         {
-            assert (0 == BuyableFuel.hypotheticalBuyableFuel(i,0));
+            assert (0 == FuelCalculators.hypotheticalBuyableFuel(i,0));
         }
 
         try
         {
             // this will throw an arithmetic exception
-            double ensureFuncRuns = BuyableFuel.hypotheticalBuyableFuel(0,0);
+            double ensureFuncRuns = FuelCalculators.hypotheticalBuyableFuel(0,0);
             assert false; // fail the case if you get here
 
         } catch (ArithmeticException e)
@@ -42,9 +40,9 @@ public class UnitTests {
         try
         {
             // this will throw an arithmetic exception
-            double ensure1 = BuyableFuel.hypotheticalBuyableFuel(-1,1);
-            double ensure2 = BuyableFuel.hypotheticalBuyableFuel(1,-1);
-            double ensure3 = BuyableFuel.hypotheticalBuyableFuel(-1,-1);
+            double ensure1 = FuelCalculators.hypotheticalBuyableFuel(-1,1);
+            double ensure2 = FuelCalculators.hypotheticalBuyableFuel(1,-1);
+            double ensure3 = FuelCalculators.hypotheticalBuyableFuel(-1,-1);
             assert false; // fail the case if you get here
 
         } catch (ArithmeticException e)
