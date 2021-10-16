@@ -22,6 +22,6 @@ public class TripTests
     public void testMileageCalculation()
     {
         TripLog test = new TripLog(50, 2.5);
-        assert (test.getMileage(50, 2.5) == (50 / 2.5));
+        assert (test.getMileage() == (50 / 2.5));
     }
 }
