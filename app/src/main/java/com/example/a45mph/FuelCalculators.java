@@ -1,11 +1,32 @@
 package com.example.a45mph;
 
+import java.util.ArrayList;
+
 abstract public class FuelCalculators {
+    private static ArrayList<Double> fuelExpenditure = new ArrayList<>();
+    private static ArrayList<Double> fuelBought = new ArrayList<>();
+
+    // gettor for testing fuelCost method
+    public static ArrayList<Double> getFuelBought()
+    {
+        return fuelBought;
+    }
+
+    public static ArrayList<Double> getFuelExpenditure()
+    {
+        return fuelExpenditure;
+    }
+
+    public static void transferLogs()
+    {
+    }
+
     public static double hypotheticalBuyableFuel(double unitPrice, double amtHeld) throws ArithmeticException
     {
         if (unitPrice <= 0 || amtHeld < 0) {
             throw new ArithmeticException();
         }
+
 
         return amtHeld / unitPrice;
     }
@@ -19,11 +40,13 @@ abstract public class FuelCalculators {
         return Math.round(unitPrice * amtBought * 100) / 100.00;
     }
 
-    // Dummy method so that the project compiles while we work on other features. Remove when real
-    // implementation exists
     public static double fuelCost(double unitPrice, double amtBought)
     {
-        return 0;
+        double result = hypotheticalFuelCost(unitPrice,amtBought);
+        fuelBought.add(result);
+        fuelExpenditure.add(amtBought);
+
+        return result;
     }
 
 
