@@ -6,7 +6,6 @@ abstract public class FuelCalculators {
     private static ArrayList<Double> fuelExpenditure = new ArrayList<>();
     private static ArrayList<Double> fuelBought = new ArrayList<>();
 
-    // gettor for testing fuelCost method
     public static ArrayList<Double> getFuelBought()
     {
         return fuelBought;
