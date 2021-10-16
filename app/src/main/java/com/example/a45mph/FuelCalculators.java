@@ -18,4 +18,14 @@ abstract public class FuelCalculators {
 
         return Math.round(unitPrice * amtBought * 100) / 100.00;
     }
+
+    // Dummy method so that the project compiles while we work on other features. Remove when real
+    // implementation exists
+    public static double fuelCost(double unitPrice, double amtBought)
+    {
+        return 0;
+    }
+
+
+
 }
