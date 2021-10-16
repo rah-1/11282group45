@@ -19,6 +19,20 @@ abstract public class FuelCalculators {
 
     public static void transferLogs()
     {
+        clearBought();
+        clearExpenditure();
+    }
+
+    private static void clearExpenditure()
+    {
+        // TODO: transfer to logs when they exist
+        fuelExpenditure.clear();
+    }
+
+    private static void clearBought()
+    {
+        // TODO: transfer to logs when they exist
+        fuelBought.clear();
     }
 
     public static double hypotheticalBuyableFuel(double unitPrice, double amtHeld) throws ArithmeticException
@@ -43,8 +57,8 @@ abstract public class FuelCalculators {
     public static double fuelCost(double unitPrice, double amtBought)
     {
         double result = hypotheticalFuelCost(unitPrice,amtBought);
-        fuelBought.add(result);
-        fuelExpenditure.add(amtBought);
+        fuelBought.add(amtBought);
+        fuelExpenditure.add(result);
 
         return result;
     }
