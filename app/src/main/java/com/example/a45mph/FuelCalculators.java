@@ -40,7 +40,6 @@ abstract public class FuelCalculators {
             throw new ArithmeticException();
         }
 
-
         return amtHeld / unitPrice;
     }
 
