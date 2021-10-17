@@ -15,11 +15,20 @@ public class FuelCostActivity extends AppCompatActivity {
 
     public double calculateCost(double unitPrice, double amtBought, boolean clear)
     {
+        double result = FuelCalculators.fuelCost(unitPrice,amtBought);
+
+        if(clear)
+        {
+            FuelCalculators.transferLogs();
+        }
+
+        return result;
     }
 
     public double calculateCost(View v)
     {
-
+        // assess whether the data should be saved and then do the correct function
+        return 0;
     }
 
 }

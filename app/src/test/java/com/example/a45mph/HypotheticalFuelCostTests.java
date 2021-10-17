@@ -45,4 +45,31 @@ public class HypotheticalFuelCostTests {
             assert false; // fail bc another exception occurred
         }
     }
+
+    @Test
+    public void testCorrectDataInput()
+    {
+        FuelCostActivity test = new FuelCostActivity();
+
+        double result = test.calculateHypotheticalCost(2.5,30);
+
+        assert (result == 75);
+        assert (FuelCalculators.getFuelExpenditure().size() == 0);
+        assert (FuelCalculators.getFuelBought().size() == 0);
+    }
+
+    @Test
+    public void testBadDataInput()
+    {
+        FuelCostActivity test = new FuelCostActivity();
+
+        try {
+            double result = test.calculateHypotheticalCost(-2.5, -30);
+            assert false;
+        } catch (ArithmeticException e) {
+            assert true;
+        } catch (Exception f) {
+            assert false;
+        }
+    }
 }
