@@ -49,9 +49,7 @@ public class HypotheticalFuelCostTests {
     @Test
     public void testCorrectDataInput()
     {
-        FuelCostActivity test = new FuelCostActivity();
-
-        double result = test.calculateHypotheticalCost(2.5,30);
+        double result = FuelCostActivity.calculateHypotheticalCost(2.5,30);
 
         assert (result == 75);
         assert (FuelCalculators.getFuelExpenditure().size() == 0);
@@ -61,10 +59,8 @@ public class HypotheticalFuelCostTests {
     @Test
     public void testBadDataInput()
     {
-        FuelCostActivity test = new FuelCostActivity();
-
         try {
-            double result = test.calculateHypotheticalCost(-2.5, -30);
+            double result = FuelCostActivity.calculateHypotheticalCost(-2.5, -30);
             assert false;
         } catch (ArithmeticException e) {
             assert true;
