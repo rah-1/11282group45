@@ -40,8 +40,6 @@ public class HypotheticalBuyableFuelTests {
         try
         {
             // this will throw an arithmetic exception
-            double ensure1 = FuelCalculators.hypotheticalBuyableFuel(-1,1);
-            double ensure2 = FuelCalculators.hypotheticalBuyableFuel(1,-1);
             double ensure3 = FuelCalculators.hypotheticalBuyableFuel(-1,-1);
             assert false; // fail the case if you get here
 
