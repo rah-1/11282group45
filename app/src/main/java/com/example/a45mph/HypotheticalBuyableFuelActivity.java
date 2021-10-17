@@ -22,7 +22,7 @@ public class HypotheticalBuyableFuelActivity extends AppCompatActivity {
         } catch (ArithmeticException e) {
             // negative inputs not allowed here
         } catch (Exception f) {
-            // something else wet wrong
+            // something else went wrong
         }
 
         return result;
