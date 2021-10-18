@@ -4,17 +4,17 @@ import android.os.Build;
 import androidx.annotation.RequiresApi;
 import java.time.LocalDateTime;
 
-public abstract class Log
+public abstract class DataLog
 {
     protected LocalDateTime time;
 
     @RequiresApi(api = Build.VERSION_CODES.O)
-    public Log()
+    public DataLog()
     {
         time = LocalDateTime.now();
     }
 
-    public Log(LocalDateTime time)
+    public DataLog(LocalDateTime time)
     {
         this.time = time;
     }

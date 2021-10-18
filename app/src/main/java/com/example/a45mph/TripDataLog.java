@@ -2,7 +2,7 @@ package com.example.a45mph;
 
 import java.time.LocalDateTime;
 
-public class TripLog extends Log {
+public class TripDataLog extends DataLog {
     private double odometer;
     private double consumption;
     private double mileage;
@@ -14,17 +14,17 @@ public class TripLog extends Log {
         mileage = odom / con;
     }
 
-    public TripLog()
+    public TripDataLog()
     {
         setAll(0,0);
     }
 
-    public TripLog(double odom, double con)
+    public TripDataLog(double odom, double con)
     {
         setAll(odom, con);
     }
 
-    public TripLog(double odom, double con, LocalDateTime time)
+    public TripDataLog(double odom, double con, LocalDateTime time)
     {
         super(time);
         setAll(odom,con);
