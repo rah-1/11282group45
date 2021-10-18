@@ -35,7 +35,7 @@ public class FuelCostTests {
     }
 
     @Test
-    public void testFuelCostWithNegativeArguments1()
+    public void testFuelCostWithNegativeArguments()
     {
         try
         {
@@ -52,6 +52,30 @@ public class FuelCostTests {
         } catch (Exception f)
         {
             assert false; // fail bc another exception occurred
+        }
+    }
+
+    @Test
+    public void testCorrectDataInput()
+    {
+        double result = FuelCostActivity.calculateCost(2.5,30,false);
+
+        assert (result == 75);
+        assert (FuelCalculators.getFuelExpenditure().size() == 1);
+        assert (FuelCalculators.getFuelBought().size() == 1);
+    }
+
+    @Test
+    public void testBadDataInput()
+    {
+        try {
+            double result = FuelCostActivity.calculateCost(-2.5, -30, false);
+            assert false;
+        } catch (ArithmeticException e) {
+            assert (FuelCalculators.getFuelExpenditure().size() == 0);
+            assert (FuelCalculators.getFuelBought().size() == 0);
+        } catch (Exception f) {
+            assert false;
         }
     }
 }
