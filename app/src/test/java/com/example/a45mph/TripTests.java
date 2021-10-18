@@ -9,21 +9,21 @@ public class TripTests
     @Test
     public void testConsumption()
     {
-        TripLog test = new TripLog(50, 2.5);
+        TripDataLog test = new TripDataLog(50, 2.5);
         assert (test.getConsumption() == 2.5);
     }
 
     @Test
     public void testOdometer()
     {
-        TripLog test = new TripLog(50, 2.5);
+        TripDataLog test = new TripDataLog(50, 2.5);
         assert (test.getOdometer() == 50);
     }
 
     @Test
     public void testMileageCalculation()
     {
-        TripLog test = new TripLog(50, 2.5);
+        TripDataLog test = new TripDataLog(50, 2.5);
         assert (test.getMileage() == (50 / 2.5));
     }
 
@@ -31,7 +31,7 @@ public class TripTests
     public void testTripLogTiming()
     {
         LocalDateTime thisInstant = LocalDateTime.now();
-        TripLog test = new TripLog(50, 2.5, thisInstant);
+        TripDataLog test = new TripDataLog(50, 2.5, thisInstant);
         assert (thisInstant == test.getTime());
     }
 }
