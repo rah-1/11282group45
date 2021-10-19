@@ -1,6 +1,8 @@
 package com.example.a45mph;
 
-import java.io.BufferedWriter;
+import android.content.Context;
+import android.util.Log;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -39,16 +41,28 @@ public class TripDataLog extends DataLog {
     public double getMileage() { return mileage; }
 
     public void transfer() throws IOException {
-        File tempFile = new File("tripLog.csv");
-        if(tempFile.exists() == false){
-            BufferedWriter bf = new BufferedWriter((new FileWriter("tripLog.csv")));
-            bf.write(time + "," + consumption + "," + odometer + "," + mileage);
-            bf.close();
-        }
-        else {
-            FileWriter fw = new FileWriter("tripLog.csv", true);
-            fw.write("," + time + "," + consumption + "," + odometer + "," + mileage);
+        File tripLogFile = new File("/data/data/com.example.a45mph/tripLog.csv");
+        Log.d("File Man", tripLogFile.getAbsoluteFile().toString());
+
+        if(!tripLogFile.exists()){
+            if (!tripLogFile.createNewFile())
+            {
+                throw new IOException("Unable to Create " + tripLogFile.getAbsoluteFile().toString());
+            }
+
+            Log.d("File Man", "File created successfully");
+
+            FileWriter fw = new FileWriter(tripLogFile);
+            fw.write(time + "," + consumption + "," + odometer + "," + mileage + "\n");
             fw.close();
         }
-    }
+        else
+        {
+            Log.d("File Man","File exists");
+            FileWriter fw = new FileWriter(tripLogFile);
+            fw.write(time + "," + consumption + "," + odometer + "," + mileage + "\n");
+            fw.close();
+        }
+
+}
 }

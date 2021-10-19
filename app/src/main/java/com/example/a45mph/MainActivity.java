@@ -3,7 +3,10 @@ package com.example.a45mph;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
+
+import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity {
 

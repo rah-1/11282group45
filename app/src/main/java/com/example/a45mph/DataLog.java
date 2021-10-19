@@ -1,10 +1,12 @@
 package com.example.a45mph;
 
+import android.app.Application;
+import android.content.Context;
 import android.os.Build;
 import androidx.annotation.RequiresApi;
 import java.time.LocalDateTime;
 
-public abstract class DataLog
+public abstract class DataLog extends Application
 {
     protected LocalDateTime time;
 
