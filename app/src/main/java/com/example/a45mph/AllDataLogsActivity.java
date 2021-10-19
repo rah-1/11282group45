@@ -9,7 +9,6 @@ import android.widget.Button;
 
 public class AllDataLogsActivity extends AppCompatActivity {
     private Button tripLogsButton;
-    private Button dataLogsButton;
     private Button drivingReportsButton;
 
     @Override
@@ -25,14 +24,6 @@ public class AllDataLogsActivity extends AppCompatActivity {
             }
         });
 
-        dataLogsButton = (Button) findViewById(R.id.datalogsbutton);
-        dataLogsButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                openDataLogsActivity();
-            }
-        });
-
         drivingReportsButton = (Button) findViewById(R.id.drivingreportsbutton);
         drivingReportsButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -43,13 +34,10 @@ public class AllDataLogsActivity extends AppCompatActivity {
     }
 
     public void opentripLogsActivity() {
-        Intent intent = new Intent(this, TripLog.class);
+        Intent intent = new Intent(this, RecordTripActivity.class);
         startActivity(intent);
     }
-    public void openDataLogsActivity() {
-        Intent intent = new Intent(this, Log.class);
-        startActivity(intent);
-    }
+
     public void openRecordsActivity() {
         Intent intent = new Intent(this, RecordsActivity.class);
         startActivity(intent);
