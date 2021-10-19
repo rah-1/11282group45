@@ -14,9 +14,13 @@ public class TripDataLog extends DataLog {
         mileage = odom / con;
     }
 
+    // defaults should not be necessary, but in the event that a default constructor call is made on accident,
+    // we set all attributes to 0.
     public TripDataLog()
     {
-        setAll(0,0);
+        odometer = 0;
+        consumption = 0;
+        mileage = 0;
     }
 
     public TripDataLog(double odom, double con)

@@ -11,4 +11,6 @@ public class DrivingReports extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_driving_reports);
     }
+
+    // devise methods of viewing trip records
 }

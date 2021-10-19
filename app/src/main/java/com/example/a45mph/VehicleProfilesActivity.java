@@ -11,4 +11,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vehicle_profiles);
     }
+
+    // Here, we make and select user's vehicle profiles.
 }

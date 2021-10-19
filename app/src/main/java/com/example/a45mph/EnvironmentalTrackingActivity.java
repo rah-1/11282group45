@@ -11,4 +11,6 @@ public class EnvironmentalTrackingActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_environmental_tracking);
     }
+
+    // devise methods for viewing environmental impact
 }

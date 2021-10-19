@@ -10,4 +10,6 @@ public class RecordsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_records);
     }
+
+    // Devise methods of viewing various records, probably using DataLogs
 }

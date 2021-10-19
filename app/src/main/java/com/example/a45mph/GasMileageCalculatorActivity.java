@@ -11,4 +11,6 @@ public class GasMileageCalculatorActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_gas_mileage_calculator);
     }
+
+    // devise methods of calculating gas mileage
 }
