@@ -4,6 +4,8 @@ import android.app.Application;
 import android.content.Context;
 import android.os.Build;
 import androidx.annotation.RequiresApi;
+
+import java.io.IOException;
 import java.time.LocalDateTime;
 
 public abstract class DataLog extends Application
@@ -22,4 +24,6 @@ public abstract class DataLog extends Application
     }
 
     public LocalDateTime getTime() { return time; }
+
+    public abstract void transfer() throws IOException;
 }
