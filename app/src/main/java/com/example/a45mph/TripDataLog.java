@@ -42,27 +42,35 @@ public class TripDataLog extends DataLog {
 
     public void transfer() throws IOException {
         File tripLogFile = new File("/data/data/com.example.a45mph/tripLog.csv");
-        Log.d("File Man", tripLogFile.getAbsoluteFile().toString());
+        setEntry();
+        // Log.d("File Man", tripLogFile.getAbsoluteFile().toString());
 
-        if(!tripLogFile.exists()){
+        if(!tripLogFile.exists()) {
             if (!tripLogFile.createNewFile())
             {
                 throw new IOException("Unable to Create " + tripLogFile.getAbsoluteFile().toString());
             }
 
-            Log.d("File Man", "File created successfully");
+            // Log.d("File Man", "File created successfully");
 
             FileWriter fw = new FileWriter(tripLogFile);
-            fw.write(time + "," + consumption + "," + odometer + "," + mileage + "\n");
+            fw.write(entry);
             fw.close();
         }
         else
         {
-            Log.d("File Man","File exists");
-            FileWriter fw = new FileWriter(tripLogFile);
-            fw.write(time + "," + consumption + "," + odometer + "," + mileage + "\n");
+            // Log.d("File Man","File exists");
+            FileWriter fw = new FileWriter(tripLogFile, true);
+            fw.write(entry);
             fw.close();
         }
 
-}
+    }
+
+    @Override
+    public void setEntry()
+    {
+        entry = time + "," + consumption + "," + odometer + "," + mileage + "\n";
+        // Log.d("File Man", entry);
+    }
 }
