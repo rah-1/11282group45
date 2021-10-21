@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.RadioButton;
 
 import java.io.IOException;
 
@@ -15,6 +16,7 @@ public class FuelCostActivity extends AppCompatActivity {
     private EditText unitCostField;
     private EditText amtBoughtField;
     private Button calculateButton;
+    private RadioButton isHypotheticalButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,7 +24,7 @@ public class FuelCostActivity extends AppCompatActivity {
         setContentView(R.layout.activity_fuel_cost);
 
         // Create onClick events
-        //  calculateButton = (Button) findViewById(R.id.calculatebutton);
+        calculateButton = (Button) findViewById(R.id.calculatebutton);
         calculateButton.setOnClickListener(new View.OnClickListener() {
             @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
@@ -52,23 +54,24 @@ public class FuelCostActivity extends AppCompatActivity {
     @RequiresApi(api = Build.VERSION_CODES.O)
     public double calculateCost(boolean immediateTransfer)
     {
-        boolean hypothetical = true;
+        boolean hypothetical = isHypotheticalButton.isActivated();
         double result = -1;
 
-        // assess whether the data should be saved and then do the correct function
-        // obtain input data from text fields
-
-
         try {
+            // obtain input data from text fields
+            double unitCost = Double.parseDouble(unitCostField.getText().toString());
+            double amtBought = Double.parseDouble(amtBoughtField.getText().toString());
+
             if (hypothetical)
             { result = calculateHypotheticalCost(0.0,0.0); }
             else
             { result = calculateCost(0.0,0.0, immediateTransfer); }
+
         } catch (ArithmeticException e) {
             // write to the screen somewhere that negative amounts for either field are disallowed
-        } catch (IOException f) {
+        } catch (IOException e) {
             // write to the screen somewhere that another type of error has occurred
-        } catch (Exception g) {
+        } catch (Exception e) {
 
         }
 
