@@ -10,7 +10,6 @@ abstract public class FuelCalculators {
     {
         return fuelBought;
     }
-
     public static ArrayList<Double> getFuelExpenditure()
     {
         return fuelExpenditure;
