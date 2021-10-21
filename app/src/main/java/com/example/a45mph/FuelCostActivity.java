@@ -5,10 +5,13 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Looper;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RadioButton;
+import android.widget.TextView;
 
 import java.io.IOException;
 
@@ -17,6 +20,7 @@ public class FuelCostActivity extends AppCompatActivity {
     private EditText amtBoughtField;
     private Button calculateButton;
     private RadioButton isHypotheticalButton;
+    private TextView resultText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +41,7 @@ public class FuelCostActivity extends AppCompatActivity {
         unitCostField = (EditText) findViewById(R.id.fuelcostfuelamountfield);
         amtBoughtField = (EditText) findViewById(R.id.fuelcostunitpricefield);
         isHypotheticalButton = (RadioButton) findViewById(R.id.ishypotheticalbutton);
+        resultText = (TextView) findViewById(R.id.fuelcostresulttext);
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
@@ -60,7 +65,8 @@ public class FuelCostActivity extends AppCompatActivity {
     public double calculateCost(boolean immediateTransfer)
     {
         boolean hypothetical = isHypotheticalButton.isActivated();
-        double result = -1;
+        double result = -1; // this function returns -1 in the event of an error
+        String errorMessage = "No Error";
 
         try {
             // obtain input data from text fields
@@ -74,14 +80,23 @@ public class FuelCostActivity extends AppCompatActivity {
 
         } catch (NumberFormatException e) {
             // write to the screen that there is an issue with the input
+            errorMessage = "Error: Invalid Input!";
+            resultText.setText(errorMessage);
         } catch (ArithmeticException e) {
             // write to the screen somewhere that negative amounts for either field are disallowed
+            errorMessage = "Error: Arithmetic Error!";
+            resultText.setText(errorMessage);
         } catch (IOException e) {
             // write to the screen somewhere that a file error has occurred
+            errorMessage = "Error: File IO Error!";
+            resultText.setText(errorMessage);
         } catch (Exception e) {
             // write to the screen that something unexplained has happened
+            errorMessage = "Error: Something Went Wrong";
+            resultText.setText(errorMessage);
         }
 
+        Log.d("calculateCost", errorMessage);
         return result;
     }
 
