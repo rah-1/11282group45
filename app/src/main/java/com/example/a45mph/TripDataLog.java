@@ -13,12 +13,17 @@ public class TripDataLog extends DataLog {
     private double odometer;
     private double consumption;
     private double mileage;
+    private final String FILEPATH = "/data/data/com.example.a45mph/tripLog.csv";
 
     private void setAll(double odom, double con)
     {
         odometer = odom;
         consumption = con;
-        mileage = odom / con;
+        try {
+            mileage = odom / con;
+        } catch (ArithmeticException e) {
+            mileage = 0;
+        }
     }
 
     // defaults should not be necessary, but in the event that a default constructor call is made on accident,
@@ -46,31 +51,12 @@ public class TripDataLog extends DataLog {
     public double getMileage() { return mileage; }
   
     public void transfer() throws IOException {
-        File tripLogFile = new File("/data/data/com.example.a45mph/tripLog.csv");
+        File tripLogFile = new File(FILEPATH);
         setEntry();
         Log.d("File Man", tripLogFile.getAbsoluteFile().toString());
         Log.d("File Man", entry);
 
-        if(!tripLogFile.exists()) {
-            if (!tripLogFile.createNewFile())
-            {
-                throw new IOException("Unable to Create " + tripLogFile.getAbsoluteFile().toString());
-            }
-
-            Log.d("File Man", "File created successfully");
-
-            FileWriter fw = new FileWriter(tripLogFile);
-            fw.write(entry);
-            fw.close();
-        }
-        else
-        {
-            Log.d("File Man","File exists");
-            FileWriter fw = new FileWriter(tripLogFile, true);
-            fw.write(entry);
-            fw.close();
-        }
-
+        transfer(tripLogFile);
     }
 
     @Override

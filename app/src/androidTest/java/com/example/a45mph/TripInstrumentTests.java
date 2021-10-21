@@ -5,7 +5,6 @@ import android.util.Log;
 
 import androidx.test.platform.app.InstrumentationRegistry;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
-
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
@@ -20,6 +19,8 @@ import java.util.Scanner;
 
 @RunWith(AndroidJUnit4.class)
 public class TripInstrumentTests {
+    private final String FILEPATH = "/data/data/com.example.a45mph/tripLog.csv";
+
     @Test
     public void useAppContext() {
         // Context of the app under test.
@@ -33,23 +34,19 @@ public class TripInstrumentTests {
         TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant);
         TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant);
 
-        try {
-            File f = new File("/data/data/com.example.a45mph/tripLog.csv");
-            if(f.delete())
-            {
-               Log.d("File Man", "File Existed");
-            }
+        assert InstrumentationTestHelper.setUpFile(FILEPATH);
 
+        try {
             testTrip1.transfer();
             testTrip2.transfer();
 
+            File f = new File(FILEPATH);
             Scanner s = new Scanner(f);
 
-            assert (Objects.equals(testTrip1.toString(), s.nextLine() + "\n"));
-            assert (Objects.equals(testTrip2.toString(), s.nextLine() + "\n"));
-            assert (!s.hasNextLine());
-
-        } catch (IOException e) {
+            assert InstrumentationTestHelper.testTransfer(testTrip1,s);
+            assert InstrumentationTestHelper.testTransfer(testTrip2,s);
+            assert !s.hasNextLine();
+        } catch (Exception e) {
             assert false;
         }
     }

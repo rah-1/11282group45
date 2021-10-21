@@ -4,13 +4,19 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.EditText;
 
 public class FuelCostActivity extends AppCompatActivity {
+    private EditText unitCostField;
+    private EditText amtBoughtField;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fuel_cost);
+
+        // Create onClick events
+
     }
 
     public static double calculateCost(double unitPrice, double amtBought, boolean clear)
@@ -29,13 +35,14 @@ public class FuelCostActivity extends AppCompatActivity {
         return FuelCalculators.hypotheticalFuelCost(unitPrice, amtBought);
     }
 
-    public double calculateCost(View v)
+    public double calculateCost()
     {
         boolean hypothetical = true;
         double result = -1;
 
         // assess whether the data should be saved and then do the correct function
         // obtain input data from text fields
+
 
         try {
             if (hypothetical)
