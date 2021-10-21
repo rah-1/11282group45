@@ -1,5 +1,6 @@
 package com.example.a45mph;
 
+
 import android.content.Context;
 import android.util.Log;
 
@@ -20,9 +21,13 @@ public class TripDataLog extends DataLog {
         mileage = odom / con;
     }
 
+    // defaults should not be necessary, but in the event that a default constructor call is made on accident,
+    // we set all attributes to 0.
     public TripDataLog()
     {
-        setAll(0,0);
+        odometer = 0;
+        consumption = 0;
+        mileage = 0;
     }
 
     public TripDataLog(double odom, double con)
@@ -39,7 +44,7 @@ public class TripDataLog extends DataLog {
     public double getConsumption() { return consumption; }
     public double getOdometer() { return odometer; }
     public double getMileage() { return mileage; }
-
+  
     public void transfer() throws IOException {
         File tripLogFile = new File("/data/data/com.example.a45mph/tripLog.csv");
         setEntry();
@@ -73,4 +78,5 @@ public class TripDataLog extends DataLog {
     {
         entry = time + "," + consumption + "," + odometer + "," + mileage + "\n";
     }
+
 }

@@ -2,7 +2,6 @@ package com.example.a45mph;
 
 import org.junit.Test;
 
-
 public class FuelCostTests {
     @Test
     public void executeFuelCost()

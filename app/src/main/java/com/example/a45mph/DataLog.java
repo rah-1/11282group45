@@ -1,5 +1,7 @@
 package com.example.a45mph;
 
+import android.os.Build;
+import androidx.annotation.RequiresApi;
 import android.app.Application;
 import android.content.Context;
 import android.os.Build;
@@ -11,6 +13,7 @@ import java.time.LocalDateTime;
 public abstract class DataLog
 {
     protected LocalDateTime time;
+
     protected String entry;
 
     @RequiresApi(api = Build.VERSION_CODES.O)
@@ -33,4 +36,5 @@ public abstract class DataLog
 
     @Override
     public String toString() { return entry; }
+
 }

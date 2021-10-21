@@ -17,6 +17,8 @@ public class HypotheticalBuyableFuelActivity extends AppCompatActivity {
     {
         double result = -1;
 
+        // get data input from the text fields
+
         try {
             result = FuelCalculators.hypotheticalBuyableFuel(0.0,0.0);
         } catch (ArithmeticException e) {
