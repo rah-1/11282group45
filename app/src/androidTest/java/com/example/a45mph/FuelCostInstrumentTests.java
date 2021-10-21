@@ -10,7 +10,6 @@ import androidx.test.platform.app.InstrumentationRegistry;
 import org.junit.Test;
 
 import java.io.File;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class FuelCostInstrumentTests {
@@ -21,9 +20,9 @@ public class FuelCostInstrumentTests {
     {
         try
         {
-            ((EditText) fca.findViewById(R.id.fuelamountfield)).setText(unitPrice);
-            ((EditText) fca.findViewById(R.id.unitcostfield)).setText(amtBought);
-            ((RadioButton) fca.findViewById(R.id.ishypothetical)).setChecked(isHypothetical);
+            ((EditText) fca.findViewById(R.id.fuelcostfuelamountfield)).setText(unitPrice);
+            ((EditText) fca.findViewById(R.id.fuelcostunitpricefield)).setText(amtBought);
+            ((RadioButton) fca.findViewById(R.id.ishypotheticalbutton)).setChecked(isHypothetical);
 
         } catch (Exception e) {
             return false;
@@ -46,7 +45,7 @@ public class FuelCostInstrumentTests {
         // test calculation
         assert setupTests(fca,"2.5","50",false);
         fca.calculateCost(false);
-        String tester = ((TextView) fca.findViewById(R.id.resulttext)).getText().toString();
+        String tester = ((TextView) fca.findViewById(R.id.fuelcostresulttext)).getText().toString();
         assertEquals("125.00",tester);
     }
 
@@ -57,7 +56,7 @@ public class FuelCostInstrumentTests {
         assert setupTests(fca,"3","20",false);
         double result = fca.calculateCost(false);
         fca.calculateCost(false);
-        String tester = ((TextView) fca.findViewById(R.id.resulttext)).getText().toString();
+        String tester = ((TextView) fca.findViewById(R.id.fuelcostresulttext)).getText().toString();
         assertEquals("60",tester);
 
         ExpenditureDataLog expenditure = FuelCalculators.getFuelExpenditure().get(0);
@@ -80,9 +79,9 @@ public class FuelCostInstrumentTests {
         FuelCostActivity fca = new FuelCostActivity();
 
         // test calculation
-        assert setupTests(fca,"2.5","50",false);
+        assert setupTests(fca,"2.5","50",true);
         fca.calculateCost(false);
-        String tester = ((TextView) fca.findViewById(R.id.resulttext)).getText().toString();
+        String tester = ((TextView) fca.findViewById(R.id.fuelcostresulttext)).getText().toString();
         assertEquals("125.00",tester);
     }
 

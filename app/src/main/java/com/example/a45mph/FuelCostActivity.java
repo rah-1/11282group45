@@ -24,7 +24,7 @@ public class FuelCostActivity extends AppCompatActivity {
         setContentView(R.layout.activity_fuel_cost);
 
         // Create onClick events
-        //calculateButton = (Button) findViewById(R.id.calculatebutton);
+        calculateButton = (Button) findViewById(R.id.fuelcostcalculatebutton);
         calculateButton.setOnClickListener(new View.OnClickListener() {
             @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
@@ -32,6 +32,11 @@ public class FuelCostActivity extends AppCompatActivity {
                 calculateCost(true);
             }
         });
+
+
+        unitCostField = (EditText) findViewById(R.id.fuelcostfuelamountfield);
+        amtBoughtField = (EditText) findViewById(R.id.fuelcostunitpricefield);
+        isHypotheticalButton = (RadioButton) findViewById(R.id.ishypotheticalbutton);
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
@@ -67,12 +72,14 @@ public class FuelCostActivity extends AppCompatActivity {
             else
             { result = calculateCost(0.0,0.0, immediateTransfer); }
 
+        } catch (NumberFormatException e) {
+            // write to the screen that there is an issue with the input
         } catch (ArithmeticException e) {
             // write to the screen somewhere that negative amounts for either field are disallowed
         } catch (IOException e) {
-            // write to the screen somewhere that another type of error has occurred
+            // write to the screen somewhere that a file error has occurred
         } catch (Exception e) {
-
+            // write to the screen that something unexplained has happened
         }
 
         return result;
