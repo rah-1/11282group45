@@ -6,4 +6,50 @@
     android:layout_height="match_parent"
     tools:context=".GasMileageCalculatorActivity">
 
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="362dp"
+        android:layout_height="47dp"
+        android:text="Gas Mileage Calculator"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="38dp" />
+
+    <EditText
+        android:id="@+id/fuelusedfield"
+        android:layout_width="166dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="199dp"
+        tools:text="Enter Fuel Used" />
+
+    <EditText
+        android:id="@+id/distancedrivenfield"
+        android:layout_width="182dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="199dp"
+        tools:layout_editor_absoluteY="199dp"
+        tools:text="Enter Distance Driven" />
+
+    <Button
+        android:id="@+id/calculatempgbutton"
+        android:layout_width="133dp"
+        android:layout_height="61dp"
+        android:text="Calcualte"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="278dp" />
+
+    <TextView
+        android:id="@+id/mpgresulttext"
+        android:layout_width="171dp"
+        android:layout_height="42dp"
+        android:text="Result"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="401dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
