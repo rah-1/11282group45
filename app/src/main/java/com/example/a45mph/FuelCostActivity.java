@@ -24,7 +24,7 @@ public class FuelCostActivity extends AppCompatActivity {
         setContentView(R.layout.activity_fuel_cost);
 
         // Create onClick events
-        calculateButton = (Button) findViewById(R.id.calculatebutton);
+        //calculateButton = (Button) findViewById(R.id.calculatebutton);
         calculateButton.setOnClickListener(new View.OnClickListener() {
             @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
