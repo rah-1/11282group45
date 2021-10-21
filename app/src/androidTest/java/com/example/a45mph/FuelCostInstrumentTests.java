@@ -55,7 +55,7 @@ public class FuelCostInstrumentTests {
         FuelCostActivity fca = new FuelCostActivity();
 
         assert setupTests(fca,"3","20",false);
-        double result = fca.calculateCost();
+        double result = fca.calculateCost(false);
         fca.calculateCost(false);
         String tester = ((TextView) fca.findViewById(R.id.resulttext)).getText().toString();
         assertEquals("60",tester);
@@ -63,6 +63,8 @@ public class FuelCostInstrumentTests {
         ExpenditureDataLog expenditure = FuelCalculators.getFuelExpenditure().get(0);
 
         try {
+            assert InstrumentationTestHelper.setUpFile(FILEPATH);
+
             expenditure.transfer();
             File f = new File(FILEPATH);
             Scanner s = new Scanner(f);
