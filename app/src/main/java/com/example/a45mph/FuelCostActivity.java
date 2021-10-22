@@ -82,24 +82,25 @@ public class FuelCostActivity extends AppCompatActivity {
         } catch (NumberFormatException e) {
             // write to the screen that there is an issue with the input
             errorMessage = "Error: Invalid Input!";
-            resultText.setText(errorMessage);
         } catch (ArithmeticException e) {
             // write to the screen somewhere that negative amounts for either field are disallowed
             errorMessage = "Error: Arithmetic Error!";
-            resultText.setText(errorMessage);
         } catch (IOException e) {
             // write to the screen somewhere that a file error has occurred
             errorMessage = "Error: File IO Error!";
-            resultText.setText(errorMessage);
         } catch (Exception e) {
             // write to the screen that something unexplained has happened
             errorMessage = "Error: Something Went Wrong";
-            resultText.setText(errorMessage);
         }
 
         Log.d("calculateCost", errorMessage);
         Log.d("calculateCost", Double.toString(result));
-        resultText.setText(Double.toString(result));
+
+        if (result != -1)
+            resultText.setText(Double.toString(result));
+        else
+            resultText.setText(errorMessage);
+
         return result;
     }
 

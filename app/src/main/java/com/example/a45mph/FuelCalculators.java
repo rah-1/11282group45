@@ -37,7 +37,7 @@ abstract public class FuelCalculators {
             throw new ArithmeticException();
         }
 
-        return amtHeld / unitPrice;
+        return Math.round((amtHeld / unitPrice) * 100) / 100.00;
     }
 
     public static double hypotheticalFuelCost(double unitPrice, double amtBought) throws ArithmeticException
