@@ -20,27 +20,22 @@ public class RecordTripActivity extends AppCompatActivity {
     // This data should immediately be put into the user's data files
     public static double recordTrip(double odom, double con) throws IOException
     {
+        if (odom <= 0 || con <= 0)
+            throw new ArithmeticException("Odometer or Consumption is 0");
+
         TripDataLog trip = new TripDataLog(odom,con);
-
-        if (odom > 0 && con > 0)
-            trip.transfer();
-        else
-            return 0;
-
+        trip.transfer();
         return trip.getMileage();
     }
 
     // overloading this method for testing
     public static double recordTrip(double odom, double con, LocalDateTime time) throws IOException
     {
+        if (odom <= 0 || con <= 0)
+            throw new ArithmeticException("Odometer or Consumption is 0");
+
         TripDataLog trip = new TripDataLog(odom,con,time);
         trip.transfer();
-
-        if (odom > 0 && con > 0)
-            trip.transfer();
-        else
-            return 0;
-
         return trip.getMileage();
     }
 

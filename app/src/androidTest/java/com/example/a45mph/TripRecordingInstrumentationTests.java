@@ -10,6 +10,7 @@ import androidx.test.platform.app.InstrumentationRegistry;
 import org.junit.Test;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.Scanner;
@@ -34,7 +35,6 @@ public class TripRecordingInstrumentationTests {
 
             Scanner s = new Scanner(new File(FILEPATH));
             assert s.hasNextLine();
-
         } catch (Exception e) {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
@@ -61,13 +61,19 @@ public class TripRecordingInstrumentationTests {
         try {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
             double result = RecordTripActivity.recordTrip(0,0);
-            assertEquals(result, 0, 0);
-
-            Scanner s = new Scanner(new File(FILEPATH));
-            assert !s.hasNextLine();
+        } catch (ArithmeticException e) {
+            Log.d("Test Exception", e.toString());
         } catch (Exception e) {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
+
+        try {
+            Scanner s = new Scanner(new File(FILEPATH));
+            assert !s.hasNextLine();
+        } catch (FileNotFoundException e) {
+            assert InstrumentationTestHelper.exceptionHandler(e);
+        }
+
     }
 
     @Test
@@ -76,11 +82,16 @@ public class TripRecordingInstrumentationTests {
         try {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
             double result = RecordTripActivity.recordTrip(-3,-1);
-            assertEquals(result, 0, 0);
+        } catch (ArithmeticException e) {
+            Log.d("Test Exception", e.toString());
+        } catch (Exception e) {
+            assert InstrumentationTestHelper.exceptionHandler(e);
+        }
 
+        try {
             Scanner s = new Scanner(new File(FILEPATH));
             assert !s.hasNextLine();
-        } catch (Exception e) {
+        } catch (FileNotFoundException e) {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
@@ -92,7 +103,6 @@ public class TripRecordingInstrumentationTests {
             LocalDateTime thisInstant = LocalDateTime.now();
             assertEquals(RecordTripActivity.recordTrip(60, 4, thisInstant), 15,0);
             assertEquals(RecordTripActivity.recordTrip(120,10,thisInstant), 12, 0);
-
 
             Scanner s = new Scanner(new File(FILEPATH));
             TripDataLog trip1 = new TripDataLog(60,4,thisInstant);
