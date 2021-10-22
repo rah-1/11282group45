@@ -17,7 +17,6 @@ import java.time.LocalDateTime;
 import java.util.Objects;
 import java.util.Scanner;
 
-@RunWith(AndroidJUnit4.class)
 public class TripInstrumentTests {
     private final String FILEPATH = "/data/data/com.example.a45mph/tripLog.csv";
 
@@ -25,7 +24,7 @@ public class TripInstrumentTests {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.myapplication", appContext.getPackageName());
+        assertEquals("com.example.a45mph", appContext.getPackageName());
     }
 
     @Test
