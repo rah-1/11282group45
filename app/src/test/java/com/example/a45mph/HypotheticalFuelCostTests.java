@@ -53,7 +53,6 @@ public class HypotheticalFuelCostTests {
 
         assert (result == 75);
         assert (FuelCalculators.getFuelExpenditure().size() == 0);
-        assert (FuelCalculators.getFuelBought().size() == 0);
     }
 
     @Test

@@ -1,19 +1,52 @@
 package com.example.a45mph;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.os.Build;
 import android.os.Bundle;
+import android.os.Looper;
+import android.util.Log;
 import android.view.View;
+import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.EditText;
+import android.widget.RadioButton;
+import android.widget.TextView;
+
+import java.io.IOException;
 
 public class FuelCostActivity extends AppCompatActivity {
+    private EditText unitCostField;
+    private EditText amtBoughtField;
+    private Button calculateButton;
+    private CheckBox isHypotheticalCheck;
+    private TextView resultText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fuel_cost);
+
+        // Create onClick events
+        calculateButton = (Button) findViewById(R.id.fuelcostcalculatebutton);
+        calculateButton.setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.O)
+            @Override
+            public void onClick(View v) {
+                calculateCost(true);
+            }
+        });
+
+
+        unitCostField = (EditText) findViewById(R.id.fuelcostfuelamountfield);
+        amtBoughtField = (EditText) findViewById(R.id.fuelcostunitpricefield);
+        isHypotheticalCheck = (CheckBox) findViewById(R.id.ishypotheticalcheck);
+        resultText = (TextView) findViewById(R.id.fuelcostresulttext);
     }
 
-    public static double calculateCost(double unitPrice, double amtBought, boolean clear)
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static double calculateCost(double unitPrice, double amtBought, boolean clear) throws IOException
     {
         double result = FuelCalculators.fuelCost(unitPrice,amtBought);
 
@@ -29,25 +62,44 @@ public class FuelCostActivity extends AppCompatActivity {
         return FuelCalculators.hypotheticalFuelCost(unitPrice, amtBought);
     }
 
-    public double calculateCost(View v)
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public double calculateCost(boolean immediateTransfer)
     {
-        boolean hypothetical = true;
-        double result = -1;
-
-        // assess whether the data should be saved and then do the correct function
-        // obtain input data from text fields
+        boolean hypothetical = isHypotheticalCheck.isActivated();
+        double result = -1; // this function returns -1 in the event of an error
+        String errorMessage = "No Error";
 
         try {
+            // obtain input data from text fields
+            double unitCost = Double.parseDouble(unitCostField.getText().toString());
+            double amtBought = Double.parseDouble(amtBoughtField.getText().toString());
+
             if (hypothetical)
-            { result = calculateHypotheticalCost(0.0,0.0); }
+            { result = calculateHypotheticalCost(unitCost,amtBought); }
             else
-            { result = calculateCost(0.0,0.0,true); }
+            { result = calculateCost(unitCost,amtBought, immediateTransfer); }
+
+        } catch (NumberFormatException e) {
+            // write to the screen that there is an issue with the input
+            errorMessage = "Error: Invalid Input!";
+            resultText.setText(errorMessage);
         } catch (ArithmeticException e) {
             // write to the screen somewhere that negative amounts for either field are disallowed
-        } catch (Exception f) {
-            // write to the screen somewhere that another type of error has occurred
+            errorMessage = "Error: Arithmetic Error!";
+            resultText.setText(errorMessage);
+        } catch (IOException e) {
+            // write to the screen somewhere that a file error has occurred
+            errorMessage = "Error: File IO Error!";
+            resultText.setText(errorMessage);
+        } catch (Exception e) {
+            // write to the screen that something unexplained has happened
+            errorMessage = "Error: Something Went Wrong";
+            resultText.setText(errorMessage);
         }
 
+        Log.d("calculateCost", errorMessage);
+        Log.d("calculateCost", Double.toString(result));
+        resultText.setText(Double.toString(result));
         return result;
     }
 
