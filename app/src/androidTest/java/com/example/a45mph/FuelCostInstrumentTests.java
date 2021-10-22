@@ -3,6 +3,7 @@ package com.example.a45mph;
 import static org.junit.Assert.assertEquals;
 import android.content.Context;
 import android.os.Looper;
+import android.util.Log;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.TextView;
@@ -56,7 +57,8 @@ public class FuelCostInstrumentTests {
             // essentially emulates the transferLogs() function of FuelCalculators class
             expenditureDataLog.transfer();
 
-            Scanner s = new Scanner(new File(FILEPATH));
+            File f = new File(FILEPATH);
+            Scanner s = new Scanner(f);
             assert InstrumentationTestHelper.testTransfer(expenditureDataLog,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
@@ -97,14 +99,23 @@ public class FuelCostInstrumentTests {
             assert (FuelCalculators.getFuelExpenditure().size() == 2);
 
             // save the multiple logs before transferring them. The inference is that the effect should
-            // be the same as letting the second call to calculateCost do the transfer
-            ArrayList<ExpenditureDataLog> fuelExpenditures = FuelCalculators.getFuelExpenditure();
+            // be the same as letting the second call to calculateCost do the transfer.
+            ArrayList<ExpenditureDataLog> temp = FuelCalculators.getFuelExpenditure();
+            ExpenditureDataLog fuelExpenditure1 = new ExpenditureDataLog(temp.get(0).getExpenditure(),
+                    temp.get(0).getAmountBought(),temp.get(0).getTime());
+            ExpenditureDataLog fuelExpenditure2 = new ExpenditureDataLog(temp.get(1).getExpenditure(),
+                    temp.get(1).getAmountBought(),temp.get(1).getTime());
+
+            fuelExpenditure1.setEntry();
+            fuelExpenditure2.setEntry();
+
             FuelCalculators.transferLogs();
             assert (FuelCalculators.getFuelExpenditure().isEmpty());
 
-            Scanner s = new Scanner(new File(FILEPATH));
-            assert InstrumentationTestHelper.testTransfer(fuelExpenditures.get(0),s);
-            assert InstrumentationTestHelper.testTransfer(fuelExpenditures.get(1),s);
+            File f = new File(FILEPATH);
+            Scanner s = new Scanner(f);
+            assert InstrumentationTestHelper.testTransfer(fuelExpenditure1,s);
+            assert InstrumentationTestHelper.testTransfer(fuelExpenditure2,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
             assert false;

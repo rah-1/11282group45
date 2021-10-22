@@ -9,6 +9,7 @@ import android.os.Looper;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.TextView;
@@ -19,7 +20,7 @@ public class FuelCostActivity extends AppCompatActivity {
     private EditText unitCostField;
     private EditText amtBoughtField;
     private Button calculateButton;
-    private RadioButton isHypotheticalButton;
+    private CheckBox isHypotheticalCheck;
     private TextView resultText;
 
     @Override
@@ -40,7 +41,7 @@ public class FuelCostActivity extends AppCompatActivity {
 
         unitCostField = (EditText) findViewById(R.id.fuelcostfuelamountfield);
         amtBoughtField = (EditText) findViewById(R.id.fuelcostunitpricefield);
-        isHypotheticalButton = (RadioButton) findViewById(R.id.ishypotheticalbutton);
+        isHypotheticalCheck = (CheckBox) findViewById(R.id.ishypotheticalcheck);
         resultText = (TextView) findViewById(R.id.fuelcostresulttext);
     }
 
@@ -64,7 +65,7 @@ public class FuelCostActivity extends AppCompatActivity {
     @RequiresApi(api = Build.VERSION_CODES.O)
     public double calculateCost(boolean immediateTransfer)
     {
-        boolean hypothetical = isHypotheticalButton.isActivated();
+        boolean hypothetical = isHypotheticalCheck.isActivated();
         double result = -1; // this function returns -1 in the event of an error
         String errorMessage = "No Error";
 
@@ -74,9 +75,9 @@ public class FuelCostActivity extends AppCompatActivity {
             double amtBought = Double.parseDouble(amtBoughtField.getText().toString());
 
             if (hypothetical)
-            { result = calculateHypotheticalCost(0.0,0.0); }
+            { result = calculateHypotheticalCost(unitCost,amtBought); }
             else
-            { result = calculateCost(0.0,0.0, immediateTransfer); }
+            { result = calculateCost(unitCost,amtBought, immediateTransfer); }
 
         } catch (NumberFormatException e) {
             // write to the screen that there is an issue with the input
@@ -97,6 +98,8 @@ public class FuelCostActivity extends AppCompatActivity {
         }
 
         Log.d("calculateCost", errorMessage);
+        Log.d("calculateCost", Double.toString(result));
+        resultText.setText(Double.toString(result));
         return result;
     }
 

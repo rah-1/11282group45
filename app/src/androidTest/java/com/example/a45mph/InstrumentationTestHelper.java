@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class InstrumentationTestHelper {
     public static boolean setUpFile(String filePath) {
         try {
-            File f = new File("/data/data/com.example.a45mph/tripLog.csv");
+            File f = new File(filePath);
             if(f.delete()) {
                 Log.d("File Man", "File Existed");
             }
@@ -22,7 +22,8 @@ public class InstrumentationTestHelper {
 
     public static boolean testTransfer(DataLog transLog, Scanner s) {
         try {
-            return Objects.equals(transLog.toString(),s.nextLine() + "\n");
+            String compareString = s.nextLine();
+            return Objects.equals(transLog.toString(), compareString + "\n");
         } catch (Exception e) {
             return false;
         }
