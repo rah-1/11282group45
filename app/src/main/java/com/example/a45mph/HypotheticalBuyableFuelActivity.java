@@ -13,7 +13,12 @@ public class HypotheticalBuyableFuelActivity extends AppCompatActivity {
         setContentView(R.layout.activity_hypothetical_buyable_fuel);
     }
 
-    public double calculateHypotheticalBuyableFuel(View V)
+    public static double calculateHypotheticalBuyableFuel(double unitPrice, double amtHeld)
+    {
+       return 0;
+    }
+
+    public double calculateHypotheticalBuyableFuel()
     {
         double result = -1;
 

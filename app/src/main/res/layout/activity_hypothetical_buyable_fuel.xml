@@ -16,7 +16,7 @@
         tools:layout_editor_absoluteY="38dp" />
 
     <EditText
-        android:id="@+id/dollaramountfield"
+        android:id="@+id/hypotheticaldollaramountfield"
         android:layout_width="172dp"
         android:layout_height="45dp"
         android:ems="10"
@@ -44,7 +44,7 @@
         tools:layout_editor_absoluteY="282dp" />
 
     <TextView
-        android:id="@+id/hypothticalresultfield"
+        android:id="@+id/hypothticalresulttext"
         android:layout_width="173dp"
         android:layout_height="56dp"
         android:textAlignment="center"
