@@ -2,6 +2,8 @@ package com.example.a45mph;
 
 import android.util.Log;
 
+import androidx.annotation.NonNull;
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Objects;
@@ -27,5 +29,12 @@ public class InstrumentationTestHelper {
         } catch (Exception e) {
             return false;
         }
+    }
+
+    // called to log and fail tests in exceptions. Return is always false on purpose
+    public static boolean exceptionHandler(@NonNull Exception e)
+    {
+        Log.d("Test Exception", e.toString());
+        return false;
     }
 }
