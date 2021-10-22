@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HypotheticalBuyableFuelActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="376dp"
+        android:layout_height="45dp"
+        android:text="Hypothetical Buyable Fuel"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="38dp" />
+
+    <EditText
+        android:id="@+id/dollaramountfield"
+        android:layout_width="172dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="194dp"
+        tools:text="Enter Dollar Amount" />
+
+    <EditText
+        android:id="@+id/hypotheticalunitpricefield"
+        android:layout_width="171dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="194dp"
+        tools:text="Enter Unit Price" />
+
+    <Button
+        android:id="@+id/hypotheticalcalculatebutton"
+        android:layout_width="143dp"
+        android:layout_height="63dp"
+        android:text="Calculate"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="282dp" />
+
+    <TextView
+        android:id="@+id/hypothticalresultfield"
+        android:layout_width="173dp"
+        android:layout_height="56dp"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="119dp"
+        tools:layout_editor_absoluteY="406dp"
+        tools:text="Result" />
+</androidx.constraintlayout.widget.ConstraintLayout>
