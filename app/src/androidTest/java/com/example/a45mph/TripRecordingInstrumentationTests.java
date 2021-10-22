@@ -49,6 +49,9 @@ public class TripRecordingInstrumentationTests {
 
             Scanner s = new Scanner(new File(FILEPATH));
             TripDataLog trip = new TripDataLog(60,4,thisInstant);
+
+            trip.setEntry();
+
             assert InstrumentationTestHelper.testTransfer(trip,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
@@ -107,6 +110,9 @@ public class TripRecordingInstrumentationTests {
             Scanner s = new Scanner(new File(FILEPATH));
             TripDataLog trip1 = new TripDataLog(60,4,thisInstant);
             TripDataLog trip2 = new TripDataLog(120, 10, thisInstant);
+
+            trip1.setEntry();
+            trip2.setEntry();
 
             assert InstrumentationTestHelper.testTransfer(trip1,s);
             assert InstrumentationTestHelper.testTransfer(trip2,s);
