@@ -31,10 +31,16 @@ public class InstrumentationTestHelper {
         }
     }
 
-    // called to log and fail tests in exceptions. Return is always false on purpose
+    // support for old calls that always failed
     public static boolean exceptionHandler(@NonNull Exception e)
     {
+        return exceptionHandler(e,false);
+    }
+
+    // handles testing exceptions
+    public static boolean exceptionHandler(@NonNull Exception e, boolean pass)
+    {
         Log.d("Test Exception", e.toString());
-        return false;
+        return pass;
     }
 }

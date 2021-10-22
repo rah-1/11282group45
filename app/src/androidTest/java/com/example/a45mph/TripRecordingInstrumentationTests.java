@@ -62,7 +62,7 @@ public class TripRecordingInstrumentationTests {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
             double result = RecordTripActivity.recordTrip(0,0);
         } catch (ArithmeticException e) {
-            Log.d("Test Exception", e.toString());
+            assert InstrumentationTestHelper.exceptionHandler(e,true);
         } catch (Exception e) {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
@@ -83,7 +83,7 @@ public class TripRecordingInstrumentationTests {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
             double result = RecordTripActivity.recordTrip(-3,-1);
         } catch (ArithmeticException e) {
-            Log.d("Test Exception", e.toString());
+            assert InstrumentationTestHelper.exceptionHandler(e,true);
         } catch (Exception e) {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
