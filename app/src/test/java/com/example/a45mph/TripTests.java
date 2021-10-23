@@ -23,14 +23,14 @@ public class TripTests
         boolean created;
 
         try {
-            deleted = file.delete();
+            file.delete();
             created = file.createNewFile();
         } catch (Exception e) {
             // some kind of issue writing to file
             return false;
         }
 
-        return deleted && created;
+        return created;
     }
 
 
