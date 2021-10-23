@@ -20,7 +20,7 @@ public class TripDataLog extends DataLog {
         odometer = odom;
         consumption = con;
         try {
-            mileage = odom / con;
+            mileage = Math.round((odom / con) * 100) / 100.00;
         } catch (ArithmeticException e) {
             mileage = 0;
         }

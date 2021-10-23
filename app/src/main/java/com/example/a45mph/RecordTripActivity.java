@@ -72,7 +72,7 @@ public class RecordTripActivity extends AppCompatActivity {
             double consumption = Double.parseDouble(consumptionField.getText().toString());
             mileage = recordTrip(unitCost,consumption);
 
-            Toast.makeText(getApplicationContext(),"Trip Recorded with" +
+            Toast.makeText(getApplicationContext(),"Trip recorded with" +
                     " average gas mileage of " + mileage + ".",Toast.LENGTH_LONG).show();
             noExceptions = true;
         } catch (NumberFormatException e) {
@@ -93,7 +93,7 @@ public class RecordTripActivity extends AppCompatActivity {
         Log.d("Trip Record", Double.toString(mileage));
         if (!noExceptions)
         {
-            Toast.makeText(getApplicationContext(), "Error: " + errorMessage,Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(),errorMessage,Toast.LENGTH_LONG).show();
         }
 
         return mileage;
