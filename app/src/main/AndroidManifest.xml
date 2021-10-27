@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.45mph">
-
+        <activity
+            android:name=".PersonalizedReportsActivity"
+            android:exported="true" />
         <activity
             android:name=".RecordsActivity"
             android:exported="true" />
@@ -17,7 +19,7 @@
             android:name=".RecordTripActivity"
             android:exported="true" />
         <activity
-            android:name=".DrivingReports"
+            android:name=".DrivingReportsActivity"
             android:exported="true" />
         <activity
             android:name=".VehicleProfilesActivity"

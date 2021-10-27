@@ -56,23 +56,27 @@ public class HypotheticalBuyableFuelActivity extends AppCompatActivity {
         double result = -1;
         String errorMessage = "No Error";
 
-        // get data input from the text fields
-        double unitPrice = Double.parseDouble(unitPriceField.getText().toString());
-        double amtHeld = Double.parseDouble(amtHeldField.getText().toString());
-
         try {
+            // get data input from the text fields
+            double unitPrice = Double.parseDouble(unitPriceField.getText().toString());
+            double amtHeld = Double.parseDouble(amtHeldField.getText().toString());
+
             result = FuelCalculators.hypotheticalBuyableFuel(unitPrice,amtHeld);
-        } catch (ArithmeticException e) {
-            errorMessage = "Error: Non Positive Input Detected!";
+        } catch (NumberFormatException e) {
+            // write to the screen that there is an issue with the input
+            errorMessage = "Error: Invalid Input!";
+        }catch (ArithmeticException e) {
+            errorMessage = "Error: Nonpositive Input Detected!";
         } catch (Exception f) {
             errorMessage = "Error: Something Went Wrong!";
         }
 
+        String resultString = result + " gal";
         Log.d("Hypothetical Fuel", errorMessage);
-        Log.d("Hypothetical Fuel", Double.toString(result));
+        Log.d("Hypothetical Fuel", resultString);
 
         if (result != -1)
-            resultText.setText(Double.toString(result));
+            resultText.setText(resultString);
         else
             resultText.setText(errorMessage);
 
