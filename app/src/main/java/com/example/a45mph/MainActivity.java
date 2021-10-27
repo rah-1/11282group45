@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
     private Button recordTripButton;
     private Button vehicleProfilesButton;
     private Button allCalculatorsButton;
-    private Button allDataLogsButton;
     private Button allRecordsButton;
     private Button environmentalTrackingButton;
 
@@ -48,19 +47,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        allDataLogsButton = (Button) findViewById(R.id.alldatalogs);
-        allDataLogsButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                allDataLogsActivity();
-            }
-        });
-
         allRecordsButton = (Button) findViewById(R.id.allrecords);
         allRecordsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                allRecordsActivity();
+                allDataLogsActivity();
             }
         });
 
@@ -89,20 +80,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, AllDataLogsActivity.class);
         startActivity(intent);
     }
-    public void allRecordsActivity() {
-        Intent intent = new Intent(this, RecordsActivity.class);
-        startActivity(intent);
-    }
     public void environmentalTrackingActivity() {
         Intent intent = new Intent(this, EnvironmentalTrackingActivity.class);
         startActivity(intent);
     }
-
-    // TODO: add event handlers here
-    // main activity events focus on jumping to the other activities.
-    // should be deprecated now
-    public void jumpToFuelCosts(View view) { }
-    public void jumpToHypotheticalBuyableFuel(View view) { }
-    public void jumpToTrip(View view) { }
 
 }

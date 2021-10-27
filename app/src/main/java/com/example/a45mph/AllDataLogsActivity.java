@@ -5,11 +5,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.Button;
 
 public class AllDataLogsActivity extends AppCompatActivity {
     private Button tripLogsButton;
     private Button drivingReportsButton;
+    private Button personalReportsButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +33,14 @@ public class AllDataLogsActivity extends AppCompatActivity {
                 openRecordsActivity();
             }
         });
+
+        personalReportsButton = (Button) findViewById(R.id.personalizedreportsbutton);
+        personalReportsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openPersonalizedReportsActivity();
+            }
+        });
     }
 
     public void opentripLogsActivity() {
@@ -40,6 +50,11 @@ public class AllDataLogsActivity extends AppCompatActivity {
 
     public void openRecordsActivity() {
         Intent intent = new Intent(this, RecordsActivity.class);
+        startActivity(intent);
+    }
+
+    public void openPersonalizedReportsActivity() {
+        Intent intent = new Intent(this,PersonalizedReportsActivity.class);
         startActivity(intent);
     }
 }

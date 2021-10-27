@@ -13,7 +13,7 @@
         android:layout_marginTop="64dp"
         android:text="Record Trip"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -28,25 +28,13 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/alldatalogs"
-        android:layout_width="152dp"
-        android:layout_height="74dp"
-        android:layout_marginStart="44dp"
-        android:layout_marginTop="284dp"
-        android:text="Data Logs"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
         android:id="@+id/allrecords"
-        android:layout_width="152dp"
+        android:layout_width="324dp"
         android:layout_height="74dp"
-        android:layout_marginStart="216dp"
-        android:layout_marginTop="284dp"
-        android:layout_marginEnd="43dp"
+        android:layout_marginTop="280dp"
         android:text="Records"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -64,10 +52,10 @@
         android:id="@+id/environmentaltrackingbutton"
         android:layout_width="324dp"
         android:layout_height="75dp"
-        android:layout_marginTop="396dp"
+        android:layout_marginTop="380dp"
         android:text="Environmental Tracking"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

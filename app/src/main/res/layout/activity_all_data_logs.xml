@@ -17,6 +17,16 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:id="@+id/personalizedreportsbutton"
+        android:layout_width="145dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="324dp"
+        android:text="Personal Reports"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
         android:id="@+id/triplogsbutton"
         android:layout_width="145dp"
         android:layout_height="57dp"
