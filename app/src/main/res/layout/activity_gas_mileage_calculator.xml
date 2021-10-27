@@ -10,46 +10,78 @@
         android:id="@+id/textView4"
         android:layout_width="362dp"
         android:layout_height="47dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
         android:text="Gas Mileage Calculator"
         android:textSize="34sp"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="38dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/fuelusedfield"
         android:layout_width="166dp"
         android:layout_height="45dp"
+        android:layout_marginTop="152dp"
         android:ems="10"
         android:inputType="number"
-        tools:layout_editor_absoluteX="17dp"
-        tools:layout_editor_absoluteY="199dp"
-        tools:text="Enter Fuel Used" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.065"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
-    <EditText
-        android:id="@+id/distancedrivenfield"
-        android:layout_width="182dp"
-        android:layout_height="45dp"
-        android:ems="10"
-        android:inputType="number"
-        tools:layout_editor_absoluteX="199dp"
-        tools:layout_editor_absoluteY="199dp"
-        tools:text="Enter Distance Driven" />
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="136dp"
+        android:text="Distance Driven"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.68"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/calculatempgbutton"
         android:layout_width="133dp"
         android:layout_height="61dp"
+        android:layout_marginTop="252dp"
         android:text="Calcualte"
-        tools:layout_editor_absoluteX="139dp"
-        tools:layout_editor_absoluteY="278dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="136dp"
+        android:text="Fuel Consumed"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/mpgresulttext"
         android:layout_width="171dp"
         android:layout_height="42dp"
-        android:text="Result"
+        android:layout_marginTop="356dp"
         android:textAlignment="center"
         android:textSize="34sp"
-        tools:layout_editor_absoluteX="120dp"
-        tools:layout_editor_absoluteY="401dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/distancedrivenfield"
+        android:layout_width="182dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="152dp"
+        android:ems="10"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.93"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

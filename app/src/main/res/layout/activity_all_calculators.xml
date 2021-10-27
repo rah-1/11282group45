@@ -6,44 +6,22 @@
     android:layout_height="match_parent"
     tools:context=".AllCalculatorsActivity">
 
-    <EditText
-        android:id="@+id/editTextTextPersonName"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="24dp"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Calculator Menu"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <Button
         android:id="@+id/fuelcostbutton"
         android:layout_width="137dp"
         android:layout_height="73dp"
-        android:layout_marginStart="42dp"
-        android:layout_marginTop="155dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="160dp"
         android:text="Fuel Cost"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <ImageButton
-        android:id="@+id/imageButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
-        android:layout_marginEnd="16dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/ic_menu_info_details" />
 
     <Button
         android:id="@+id/buyablefuelbutton"
         android:layout_width="137dp"
         android:layout_height="73dp"
-        android:layout_marginTop="155dp"
-        android:layout_marginEnd="48dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginEnd="44dp"
         android:text="Buyable Fuel"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -52,12 +30,21 @@
         android:id="@+id/gasmileagecalculatorbutton"
         android:layout_width="137dp"
         android:layout_height="73dp"
-        android:layout_marginStart="138dp"
-        android:layout_marginTop="264dp"
-        android:layout_marginEnd="136dp"
+        android:layout_marginTop="280dp"
         android:text="Gas Mileage"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:text="All Calculators"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
