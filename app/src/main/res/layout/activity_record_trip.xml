@@ -20,12 +20,12 @@
 
     <TextView
         android:id="@+id/textView10"
-        android:layout_width="111dp"
+        android:layout_width="150dp"
         android:layout_height="20dp"
         android:layout_marginTop="200dp"
-        android:text="Fuel Consumed"
+        android:text="Fuel Consumed (gal)"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.113"
+        app:layout_constraintHorizontal_bias="0.13"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -55,12 +55,12 @@
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="111dp"
+        android:layout_width="150dp"
         android:layout_height="20dp"
         android:layout_marginTop="100dp"
-        android:text="Distance Driven"
+        android:text="Distance Driven (mil)"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.113"
+        app:layout_constraintHorizontal_bias="0.13"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

@@ -93,11 +93,12 @@ public class FuelCostActivity extends AppCompatActivity {
             errorMessage = "Error: Something Went Wrong";
         }
 
+        String resultString = String.format("$%.2f",result);
         Log.d("calculateCost", errorMessage);
-        Log.d("calculateCost", Double.toString(result));
+        Log.d("calculateCost", resultString);
 
         if (result != -1)
-            resultText.setText(Double.toString(result));
+            resultText.setText(resultString);
         else
             resultText.setText(errorMessage);
 

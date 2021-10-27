@@ -73,7 +73,7 @@ public class RecordTripActivity extends AppCompatActivity {
             mileage = recordTrip(unitCost,consumption);
 
             Toast.makeText(getApplicationContext(),"Trip recorded with" +
-                    " average gas mileage of " + mileage + ".",Toast.LENGTH_LONG).show();
+                    " average gas mileage of " + mileage + " mpg.",Toast.LENGTH_LONG).show();
             noExceptions = true;
         } catch (NumberFormatException e) {
             // write to the screen that there is an issue with the input
