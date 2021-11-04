@@ -2,9 +2,11 @@ package com.example.a45mph;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
@@ -20,24 +22,9 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     private EditText modelText;
     private EditText nameText;
     private ImageButton createButton;
+    private Button selectButton;
+    public static VehicleProfile currentProfile;
     private static ArrayList<VehicleProfile> vehicleArray;
-
-    private void loadVehicleProiles()
-    {
-        Scanner s = new Scanner(FILEPATH);
-        // iterate through the file and read the vehicle profiles
-        while (s.hasNextLine())
-        {
-            // set up Scanner with comma delimiter
-            String line = s.nextLine();
-            Scanner lineScanner = new Scanner(line);
-            lineScanner.useDelimiter(",");
-
-            // read out all the attributes of the profile
-            // replace this skeleton implementation with a real version
-            vehicleArray.add(new VehicleProfile("This","That","This and That"));
-        }
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +36,14 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 createVehicleProfile();
+            }
+        });
+
+        selectButton = (Button) findViewById(R.id.profileselectbutton);
+        selectButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                selectVehicleProfile();
             }
         });
 
@@ -66,6 +61,11 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     public static VehicleProfile createVehicleProfile(String make, String model, String name)
     {
         return VehicleProfile.generateProfile(make,model,name);
+    }
+
+    public void selectVehicleProfile()
+    {
+        startActivity(new Intent(this, VehicleSelectionActivity.class));
     }
 
     // Here, we make and select user's vehicle profiles
@@ -114,5 +114,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         // use position to select the correct vehicle profile
 
     }
+
+
 
 }

@@ -1,12 +1,18 @@
 package com.example.a45mph;
 
+import android.os.Build;
 import android.util.Log;
+
+import androidx.annotation.RequiresApi;
 
 import java.io.File;
 import java.io.IOException;
+import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 public class VehicleProfile extends DataLog {
-    private final String FILEPATH = "/data/data/com.example.a45mph/vehicles.csv";
+    private static final String FILEPATH = "/data/data/com.example.a45mph/vehicles.csv";
     private String vehicleID;
     private String vehicleName;
     private String make;
@@ -24,6 +30,39 @@ public class VehicleProfile extends DataLog {
         fueltype = new Fueltype("null");
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ArrayList<VehicleProfile> loadVehicleProiles() throws IOException
+    {
+        ArrayList<VehicleProfile> profiles = new ArrayList<>();
+        Scanner s = new Scanner(new File(FILEPATH));
+        // iterate through the file and read the vehicle profiles
+        try {
+            while (s.hasNextLine())
+            {
+                // set up Scanner with comma delimiter
+                String line = s.nextLine();
+                Scanner lineScanner = new Scanner(line);
+                lineScanner.useDelimiter(",");
+
+                // read out all the attributes of the profile
+                LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
+                String name = lineScanner.next();
+                String id = lineScanner.next();
+                String make = lineScanner.next();
+                String model = lineScanner.next();
+                Fueltype fuel = new Fueltype(lineScanner.next());
+                double gpm = Double.parseDouble(lineScanner.next());
+                profiles.add(new VehicleProfile(make, model, name, id, fuel, gpm, timestamp));
+            }
+
+            return profiles;
+
+        } catch (Exception e) {
+            Log.d("Profile Selection","IOException Thrown");
+            throw new IOException();
+        }
+    }
+
     public VehicleProfile(String make, String model, String name)
     {
         this.make = make;
@@ -32,8 +71,9 @@ public class VehicleProfile extends DataLog {
         setVehicleData(make, model);
     }
 
-    public VehicleProfile(String make, String model, String name, String id, Fueltype fuel, double gCO2)
+    public VehicleProfile(String make, String model, String name, String id, Fueltype fuel, double gCO2, LocalDateTime time)
     {
+        super(time);
         vehicleID = id;
         vehicleName = name;
         this.make = make;
