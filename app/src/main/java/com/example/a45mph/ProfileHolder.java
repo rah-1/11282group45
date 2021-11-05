@@ -4,6 +4,7 @@ import android.view.View;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
 public class ProfileHolder extends RecyclerView.ViewHolder {
@@ -11,6 +12,7 @@ public class ProfileHolder extends RecyclerView.ViewHolder {
     private TextView name;
     private TextView make;
     private TextView model;
+    private ConstraintLayout layout;
 
     public ProfileHolder(@NonNull View itemView) {
         super(itemView);
@@ -18,6 +20,7 @@ public class ProfileHolder extends RecyclerView.ViewHolder {
         name = view.findViewById(R.id.nametextvehiclelist);
         make = view.findViewById(R.id.maketextvehiclelist);
         model = view.findViewById(R.id.modeltextvehiclelist);
+        layout = view.findViewById(R.id.vehiclelistitem);
     }
 
     public void setName(String n)
@@ -34,4 +37,6 @@ public class ProfileHolder extends RecyclerView.ViewHolder {
     {
         model.setText(m);
     }
+
+    public ConstraintLayout getLayout() { return layout; }
 }

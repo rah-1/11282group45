@@ -21,10 +21,10 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
     {
         try {
             profiles = VehicleProfile.loadVehicleProiles();
-            Log.d("Profile Selection", "Selection Successful");
+            Log.d("Profile Selection", "Listing Successful");
         } catch (IOException e) {
             profiles = new ArrayList<VehicleProfile>();
-            Log.d("Profile Selection", "Selection Unsuccessful");
+            Log.d("Profile Selection", "Listing Unsuccessful");
         }
     }
 
@@ -40,6 +40,21 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         profileHolder.setName(profiles.get(position).getName());
         profileHolder.setMake(profiles.get(position).getMake());
         profileHolder.setModel(profiles.get(position).getModel());
+
+        profileHolder.getLayout().setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                selectProfile(profileHolder.getAdapterPosition());
+            }
+        });
+    }
+
+    public static void selectProfile(int position) {
+        Log.d("Test", "Called successfully");
+    }
+
+    public ArrayList<VehicleProfile> getProfiles() {
+        return null;
     }
 
     @Override
