@@ -15,6 +15,7 @@ import java.util.ArrayList;
 
 public class VehicleProfileAdapter extends RecyclerView.Adapter {
     private ArrayList<VehicleProfile> profiles;
+    public static VehicleProfile currentProfile;
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     public VehicleProfileAdapter()
@@ -49,12 +50,12 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         });
     }
 
-    public static void selectProfile(int position) {
-        Log.d("Test", "Called successfully");
+    public void selectProfile(int position) {
+        currentProfile = profiles.get(position);
     }
 
     public ArrayList<VehicleProfile> getProfiles() {
-        return null;
+        return profiles;
     }
 
     @Override

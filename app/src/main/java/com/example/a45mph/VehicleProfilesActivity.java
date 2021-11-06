@@ -23,7 +23,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     private EditText nameText;
     private ImageButton createButton;
     private Button selectButton;
-    public static VehicleProfile currentProfile;
     private static ArrayList<VehicleProfile> vehicleArray;
 
     @Override
