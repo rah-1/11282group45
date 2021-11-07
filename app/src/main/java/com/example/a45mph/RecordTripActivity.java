@@ -55,7 +55,7 @@ public class RecordTripActivity extends AppCompatActivity {
         if (odom <= 0 || con <= 0)
             throw new ArithmeticException("Odometer or Consumption is 0");
 
-        TripDataLog trip = new TripDataLog(odom,con,time);
+        TripDataLog trip = new TripDataLog(odom,con,time,VehicleProfileAdapter.currentProfile);
         trip.transfer();
         return trip.getMileage();
     }

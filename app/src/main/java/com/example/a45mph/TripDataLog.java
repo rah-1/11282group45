@@ -28,8 +28,7 @@ public class TripDataLog extends DataLog {
 
     // defaults should not be necessary, but in the event that a default constructor call is made on accident,
     // we set all attributes to 0.
-    public TripDataLog()
-    {
+    public TripDataLog() {
         odometer = 0;
         consumption = 0;
         mileage = 0;
@@ -40,9 +39,8 @@ public class TripDataLog extends DataLog {
         setAll(odom, con);
     }
 
-    public TripDataLog(double odom, double con, LocalDateTime time)
-    {
-        super(time);
+    public TripDataLog(double odom, double con, LocalDateTime time, VehicleProfile vehicle) {
+        super(time, vehicle);
         setAll(odom,con);
     }
 
@@ -60,9 +58,8 @@ public class TripDataLog extends DataLog {
     }
 
     @Override
-    public void setEntry()
-    {
-        entry = time + "," + consumption + "," + odometer + "," + mileage + "\n";
+    public void setEntry() {
+        entry = time + "," + vehicle.getName() + "," + consumption + "," + odometer + "," + mileage + "\n";
     }
 
 }

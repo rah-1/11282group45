@@ -17,23 +17,33 @@ import java.time.LocalDateTime;
 public abstract class DataLog
 {
     protected LocalDateTime time;
-
+    protected VehicleProfile vehicle;
     protected String entry;
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     public DataLog()
     {
         time = LocalDateTime.now();
+        vehicle = new VehicleProfile();
         entry = "";
     }
 
-    public DataLog(LocalDateTime time)
+    public DataLog(LocalDateTime t)
     {
-        this.time = time;
+        time = t;
+        vehicle = new VehicleProfile();
+        entry = "";
+    }
+
+    public DataLog(LocalDateTime t, VehicleProfile v)
+    {
+        time = t;
+        vehicle = v;
         entry = "";
     }
 
     public LocalDateTime getTime() { return time; }
+    public VehicleProfile getVehicle() { return vehicle; }
 
     public abstract void setEntry();
     public abstract void transfer() throws IOException;

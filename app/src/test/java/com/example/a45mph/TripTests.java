@@ -59,15 +59,17 @@ public class TripTests
     public void testTripLogTiming()
     {
         LocalDateTime thisInstant = LocalDateTime.now();
-        TripDataLog test = new TripDataLog(50, 2.5, thisInstant);
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        TripDataLog test = new TripDataLog(50, 2.5, thisInstant, testCar);
         assert (thisInstant == test.getTime());
     }
 
     @Test
     public void testTripLogTransfer() {
         LocalDateTime thisInstant = LocalDateTime.now();
-        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant);
-        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant);
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant, testCar);
+        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant, testCar);
 
         testTrip1.setEntry();
         testTrip2.setEntry();
@@ -87,8 +89,9 @@ public class TripTests
     @Test
     public void testWritingToFile() {
         LocalDateTime thisInstant = LocalDateTime.now();
-        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant);
-        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant);
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant, testCar);
+        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant, testCar);
 
         testTrip1.setEntry();
         testTrip2.setEntry();

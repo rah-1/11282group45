@@ -32,7 +32,7 @@ public class TripRecordingInstrumentationTests {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
-            assertEquals(RecordTripActivity.recordTrip(20, 4, thisInstant, testCar), 5,0); // that's some pretty bad mileage
+            assertEquals(RecordTripActivity.recordTrip(20, 4, thisInstant, testCar), 5, 0); // that's some pretty bad mileage
 
             Scanner s = new Scanner(new File(FILEPATH));
             assert s.hasNextLine();
