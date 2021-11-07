@@ -24,14 +24,14 @@ public abstract class DataLog
     public DataLog()
     {
         time = LocalDateTime.now();
-        vehicle = new VehicleProfile();
+        vehicle = VehicleProfileAdapter.currentProfile;
         entry = "";
     }
 
     public DataLog(LocalDateTime t)
     {
         time = t;
-        vehicle = new VehicleProfile();
+        vehicle = VehicleProfileAdapter.currentProfile;
         entry = "";
     }
 

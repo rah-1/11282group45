@@ -19,7 +19,7 @@ public class ProfileSelectionInstrumentTests {
     }
 
     @Test
-    public void testAditionToList()
+    public void testAdditionToList()
     {
         try {
             InstrumentationTestHelper.setUpFile(FILEPATH);

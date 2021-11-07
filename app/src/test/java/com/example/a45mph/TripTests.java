@@ -74,12 +74,12 @@ public class TripTests
         testTrip1.setEntry();
         testTrip2.setEntry();
 
-        String testEntry = thisInstant.toString()+","+testTrip1.getConsumption()
-               +","+ testTrip1.getOdometer()+","+testTrip1.getMileage()+"\n";
+        String testEntry = thisInstant.toString()+","+testCar.getName()+","+testTrip1.getConsumption()
+               +","+ testTrip1.getOdometer()+","+testTrip1.getMileage()+ "\n";
 
         assert (Objects.equals(testTrip1.toString(), testEntry));
 
-        testEntry = thisInstant.toString()+","+testTrip2.getConsumption()
+        testEntry = thisInstant.toString()+","+testCar.getName()+","+testTrip2.getConsumption()
                 +","+ testTrip2.getOdometer()+","+testTrip2.getMileage()+"\n";
 
         assert (Objects.equals(testTrip2.toString(), testEntry));
