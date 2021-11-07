@@ -1,8 +1,10 @@
 package com.example.a45mph;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -32,6 +34,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
 
         createButton = (ImageButton) findViewById(R.id.addvehiclebutton);
         createButton.setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View v) {
                 createVehicleProfile();
@@ -68,6 +71,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     }
 
     // Here, we make and select user's vehicle profiles
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void createVehicleProfile()
     {
         String errorMessage = "No Error";
@@ -77,6 +81,8 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             // get input from the fields
             VehicleProfile vp = createVehicleProfile(makeText.getText().toString(),modelText.getText().toString(),nameText.getText().toString());
             vp.transfer();
+            VehicleSelectionActivity.profileAdapter.selectProfile(VehicleSelectionActivity.profileAdapter.addProfile(vp));
+
 
             Log.d("Vehicle Profile", vp.toString());
 

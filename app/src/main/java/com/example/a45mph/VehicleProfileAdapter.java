@@ -10,10 +10,16 @@ import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
 import androidx.recyclerview.widget.RecyclerView;
 
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintStream;
+import java.io.RandomAccessFile;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class VehicleProfileAdapter extends RecyclerView.Adapter {
+    private final String FILEPATH = "/data/data/com.example.a45mph/currentprofile.csv";
     private ArrayList<VehicleProfile> profiles;
     public static VehicleProfile currentProfile;
 
@@ -22,6 +28,7 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
     {
         try {
             profiles = VehicleProfile.loadVehicleProiles();
+            initProfile();
             Log.d("Profile Selection", "Listing Successful");
         } catch (IOException e) {
             profiles = new ArrayList<VehicleProfile>();
@@ -43,6 +50,7 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         profileHolder.setModel(profiles.get(position).getModel());
 
         profileHolder.getLayout().setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View v) {
                 selectProfile(profileHolder.getAdapterPosition());
@@ -50,12 +58,57 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         });
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    private void initProfile() {
+        try {
+            File f = new File(FILEPATH);
+
+            if (!f.exists())
+                throw new IOException("File Did Not Exist");
+
+            Scanner s = new Scanner(f);
+            Scanner lineScanner = new Scanner(s.nextLine());
+            lineScanner.useDelimiter(",");
+
+            currentProfile = VehicleProfile.readProfile(lineScanner);
+            Log.d("Profile Init","Initialized Successfully");
+        } catch (Exception e) {
+            currentProfile = new VehicleProfile();
+            Log.d("Profile Init", e.toString());
+        }
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void selectProfile(int position) {
-        currentProfile = profiles.get(position);
+
+        try {
+            FileWriter fw = new FileWriter(new File(FILEPATH));
+            Scanner s = new Scanner(new File(VehicleProfile.FILEPATH));
+
+            int i = 0;
+            while(i++ < position)
+                s.nextLine();
+
+            String line = s.nextLine();
+
+            fw.write(line);
+            Log.d("Profile Selection", Integer.toString(position));
+            Log.d("Profile Selection", line);
+            fw.close();
+            currentProfile = profiles.get(position);
+        } catch (IOException e) {
+            Log.d("Profile Selection", "IOException Thrown While Selecting");
+            Log.d("Profile Selection", e.toString());
+        }
     }
 
     public ArrayList<VehicleProfile> getProfiles() {
         return profiles;
+    }
+
+    public int addProfile(VehicleProfile vp) {
+        profiles.add(vp);
+        return profiles.size() - 1;
     }
 
     @Override
