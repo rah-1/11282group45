@@ -30,8 +30,9 @@ public class TripInstrumentTests {
     @Test
     public void testTripLogIO() {
         LocalDateTime thisInstant = LocalDateTime.now();
-        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant);
-        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant);
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant, testCar);
+        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant, testCar);
 
         assert InstrumentationTestHelper.setUpFile(FILEPATH);
 
@@ -39,8 +40,7 @@ public class TripInstrumentTests {
             testTrip1.transfer();
             testTrip2.transfer();
 
-            File f = new File(FILEPATH);
-            Scanner s = new Scanner(f);
+            Scanner s = new Scanner(new File(FILEPATH));
 
             assert InstrumentationTestHelper.testTransfer(testTrip1,s);
             assert InstrumentationTestHelper.testTransfer(testTrip2,s);
