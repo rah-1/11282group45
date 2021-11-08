@@ -43,7 +43,7 @@ public class FuelCostInstrumentTests {
             assert (result == 125.00);
             assert FuelCalculators.getFuelExpenditure().isEmpty();
         } catch (Exception e) {
-            assert false;
+            InstrumentationTestHelper.exceptionHandler(e);
         }
 
     }
@@ -62,7 +62,7 @@ public class FuelCostInstrumentTests {
             assert InstrumentationTestHelper.testTransfer(expenditureDataLog,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
-            assert false;
+            InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
@@ -81,9 +81,8 @@ public class FuelCostInstrumentTests {
             assert InstrumentationTestHelper.testTransfer(expenditureDataLog1,s);
             assert InstrumentationTestHelper.testTransfer(expenditureDataLog2,s);
             assert !s.hasNextLine();
-        } catch (Exception e)
-        {
-            assert false;
+        } catch (Exception e) {
+            InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
@@ -118,7 +117,7 @@ public class FuelCostInstrumentTests {
             assert InstrumentationTestHelper.testTransfer(fuelExpenditure2,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
-            assert false;
+            InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 }
