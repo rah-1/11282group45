@@ -109,7 +109,7 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         return profiles.size() - 1;
     }
 
-    public static VehicleProfile searchProfiles(String name)
+    public VehicleProfile searchProfiles(String name)
     {
 
     }

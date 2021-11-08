@@ -27,7 +27,7 @@ public class ProfileAdapterInstrumentationTests {
             VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("Test","Test","Test");
             VehicleSelectionActivity.profileAdapter.addProfile(vp);
-            VehicleProfile result = VehicleProfileAdapter.searchProfiles(vp.getName());
+            VehicleProfile result = VehicleSelectionActivity.profileAdapter.searchProfiles(vp.getName());
 
             vp.setEntry();
             result.setEntry();
@@ -47,7 +47,7 @@ public class ProfileAdapterInstrumentationTests {
             VehicleProfile vp1 = VehicleProfilesActivity.createVehicleProfile("Not It", "Not It", "Not It");
             VehicleSelectionActivity.profileAdapter.addProfile(vp);
             VehicleSelectionActivity.profileAdapter.addProfile(vp1);
-            VehicleProfile result = VehicleProfileAdapter.searchProfiles(vp.getName());
+            VehicleProfile result = VehicleSelectionActivity.profileAdapter.searchProfiles(vp.getName());
 
             vp.setEntry();
             vp1.setEntry();
@@ -66,7 +66,7 @@ public class ProfileAdapterInstrumentationTests {
             VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("Test","Test","Test");
             VehicleSelectionActivity.profileAdapter.addProfile(vp);
-            VehicleProfile result = VehicleProfileAdapter.searchProfiles("Not There");
+            VehicleProfile result = VehicleSelectionActivity.profileAdapter.searchProfiles("Not There");
 
             assertNull(result);
         } catch (Exception e) {
