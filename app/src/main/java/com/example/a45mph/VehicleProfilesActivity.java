@@ -14,6 +14,7 @@ import android.widget.ImageButton;
 import android.widget.Toast;
 
 import java.io.IOException;
+import java.io.InvalidObjectException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -60,6 +61,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         return vehicleArray;
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile createVehicleProfile(String make, String model, String name)
     {
         return VehicleProfile.generateProfile(make,model,name);
@@ -80,6 +82,10 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         try {
             // get input from the fields
             VehicleProfile vp = createVehicleProfile(makeText.getText().toString(),modelText.getText().toString(),nameText.getText().toString());
+
+            if (vp == null)
+                throw new InvalidObjectException("Duplicate Profile Name");
+
             vp.transfer();
             VehicleSelectionActivity.profileAdapter.selectProfile(VehicleSelectionActivity.profileAdapter.addProfile(vp));
 
@@ -93,6 +99,9 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         } catch (ArithmeticException e) {
             // write to the screen somewhere that nonpositive amounts for either field are disallowed
             errorMessage = "Error: Arithmetic Error!";
+        } catch (InvalidObjectException e) {
+            // write to the screen somewhere that duplicate names are disallowed
+            errorMessage = "Error: Duplicate Vehicle Name!";
         } catch (IOException e) {
             // write to the screen somewhere that a file error has occurred
             errorMessage = "Error: File IO Error!";

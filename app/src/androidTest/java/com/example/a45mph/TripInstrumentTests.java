@@ -46,7 +46,7 @@ public class TripInstrumentTests {
             assert InstrumentationTestHelper.testTransfer(testTrip2,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
-            assert false;
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 

@@ -75,7 +75,7 @@ public class TripDataLog extends DataLog {
     public static TripDataLog readLog(Scanner lineScanner)
     {
         LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
-        VehicleProfile vehicleProfile = new VehicleProfile("Implement Profile Search","Place Holder", lineScanner.next());
+        VehicleProfile vehicleProfile = VehicleSelectionActivity.profileAdapter.searchProfiles(lineScanner.next());
         double consumption = Double.parseDouble(lineScanner.next());
         double odometer = Double.parseDouble(lineScanner.next());
 

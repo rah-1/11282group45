@@ -55,7 +55,7 @@ public class ExpenditureDataLog extends DataLog {
     public static ExpenditureDataLog readLog(Scanner lineScanner)
     {
         LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
-        VehicleProfile vehicleProfile = new VehicleProfile("Implement Profile Search","Place Holder", lineScanner.next());
+        VehicleProfile vehicleProfile = VehicleSelectionActivity.profileAdapter.searchProfiles(lineScanner.next());
         double expend = Double.parseDouble(lineScanner.next());
         double amount = Double.parseDouble(lineScanner.next());
 

@@ -7,6 +7,7 @@ import androidx.annotation.RequiresApi;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InvalidObjectException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -103,9 +104,14 @@ public class VehicleProfile extends DataLog {
         fueltype = new Fueltype("null");
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile generateProfile(String make, String model, String name)
     {
-        return new VehicleProfile(make, model, name);
+        if (VehicleSelectionActivity.profileAdapter.searchProfiles(name) == null)
+            return new VehicleProfile(make, model, name);
+        else
+            return null;
+
     }
 
     public void setEntry()

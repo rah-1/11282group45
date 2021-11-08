@@ -128,6 +128,8 @@ public class TripRecordingInstrumentationTests {
     public void testReadLog() {
         LocalDateTime thisInstant = LocalDateTime.now();
         VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        assert InstrumentationTestHelper.setUpAdapter();
+        VehicleSelectionActivity.profileAdapter.addProfile(testCar);
         TripDataLog trip1 = new TripDataLog(60,4,thisInstant, testCar);
         trip1.setEntry();
         Scanner lineScanner = new Scanner(trip1.entry);

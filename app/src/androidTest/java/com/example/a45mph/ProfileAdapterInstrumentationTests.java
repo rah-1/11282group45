@@ -34,7 +34,7 @@ public class ProfileAdapterInstrumentationTests {
 
             assertEquals(vp.entry,result.entry);
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
 
     }
@@ -56,7 +56,7 @@ public class ProfileAdapterInstrumentationTests {
             assertEquals(vp.entry,result.entry);
             assert !Objects.equals(vp1.entry,result.entry);
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
@@ -70,7 +70,7 @@ public class ProfileAdapterInstrumentationTests {
 
             assertNull(result);
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 

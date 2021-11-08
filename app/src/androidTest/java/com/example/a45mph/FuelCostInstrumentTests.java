@@ -43,7 +43,7 @@ public class FuelCostInstrumentTests {
             assert (result == 125.00);
             assert FuelCalculators.getFuelExpenditure().isEmpty();
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
 
     }
@@ -51,7 +51,7 @@ public class FuelCostInstrumentTests {
     @Test
     public void testExpenditureLogging() {
         try {
-            assert InstrumentationTestHelper.setUpFile(FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(FILEPATH);
             ExpenditureDataLog expenditureDataLog = new ExpenditureDataLog(125.00,50,LocalDateTime.now(),new VehicleProfile());
 
             // essentially emulates the transferLogs() function of FuelCalculators class
@@ -62,14 +62,14 @@ public class FuelCostInstrumentTests {
             assert InstrumentationTestHelper.testTransfer(expenditureDataLog,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
     @Test
     public void testLoggingMultipleExpenditures() {
         try {
-            assert InstrumentationTestHelper.setUpFile(FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(FILEPATH);
             ExpenditureDataLog expenditureDataLog1 = new ExpenditureDataLog(125.00,50,LocalDateTime.now(),new VehicleProfile());
             ExpenditureDataLog expenditureDataLog2 = new ExpenditureDataLog(60.00, 30,LocalDateTime.now(),new VehicleProfile());
 
@@ -82,7 +82,7 @@ public class FuelCostInstrumentTests {
             assert InstrumentationTestHelper.testTransfer(expenditureDataLog2,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
@@ -90,7 +90,7 @@ public class FuelCostInstrumentTests {
     public void testCalculationAndLogging() {
         try
         {
-            assert InstrumentationTestHelper.setUpFile(FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(FILEPATH);
             double result1 = FuelCostActivity.calculateCost(2.5,50,false);
             assert (result1 == 125.00);
             double result2 = FuelCostActivity.calculateCost(2.0, 30, false);
@@ -117,7 +117,7 @@ public class FuelCostInstrumentTests {
             assert InstrumentationTestHelper.testTransfer(fuelExpenditure2,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 }

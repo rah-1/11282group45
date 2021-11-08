@@ -36,7 +36,7 @@ public class ExpenditureInstrumentationTests {
             assert !s.hasNextLine();
 
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
 
     }
@@ -59,7 +59,7 @@ public class ExpenditureInstrumentationTests {
             assert !s.hasNextLine();
 
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
@@ -79,7 +79,7 @@ public class ExpenditureInstrumentationTests {
             assertEquals(log.getVehicle().getName(), testCar.getName());
 
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
@@ -88,6 +88,8 @@ public class ExpenditureInstrumentationTests {
     {
         LocalDateTime thisInstant = LocalDateTime.now();
         VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
+        VehicleSelectionActivity.profileAdapter.addProfile(testCar);
         ExpenditureDataLog exp = new ExpenditureDataLog(10.00,2, thisInstant, testCar);
         exp.setEntry();
 
