@@ -14,6 +14,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Objects;
 import java.util.Scanner;
 
 public class VehicleProfileAdapter extends RecyclerView.Adapter {
@@ -111,7 +112,13 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
 
     public VehicleProfile searchProfiles(String name)
     {
+        for (VehicleProfile v : profiles)
+        {
+            if (Objects.equals(v.getName(),name))
+                return v;
+        }
 
+        return null;
     }
 
     @Override
