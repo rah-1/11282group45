@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 
 public class ExpenditureDataLog extends DataLog {
-    private final String FILEPATH = "/data/data/com.example.a45mph/expendLog.csv";
+    public static final String FILEPATH = "/data/data/com.example.a45mph/expendLog.csv";
 
     private double expend;
     private double amtBought;

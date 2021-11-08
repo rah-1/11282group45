@@ -13,7 +13,7 @@ public class TripDataLog extends DataLog {
     private double odometer;
     private double consumption;
     private double mileage;
-    private final String FILEPATH = "/data/data/com.example.a45mph/tripLog.csv";
+    public static final String FILEPATH = "/data/data/com.example.a45mph/tripLog.csv";
 
     private void setAll(double odom, double con)
     {
