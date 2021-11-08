@@ -31,7 +31,8 @@ public class TripRecordingInstrumentationTests {
         try {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
-            assertEquals(RecordTripActivity.recordTrip(20, 4, thisInstant), 5,0); // that's some pretty bad mileage
+            VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+            assertEquals(RecordTripActivity.recordTrip(20, 4, thisInstant, testCar), 5, 0); // that's some pretty bad mileage
 
             Scanner s = new Scanner(new File(FILEPATH));
             assert s.hasNextLine();
@@ -45,11 +46,11 @@ public class TripRecordingInstrumentationTests {
         try {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
-            assertEquals(RecordTripActivity.recordTrip(60, 4, thisInstant), 15,0);
+            VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+            assertEquals(RecordTripActivity.recordTrip(60, 4, thisInstant, testCar), 15,0);
 
             Scanner s = new Scanner(new File(FILEPATH));
-            TripDataLog trip = new TripDataLog(60,4,thisInstant);
-
+            TripDataLog trip = new TripDataLog(60,4,thisInstant, testCar);
             trip.setEntry();
 
             assert InstrumentationTestHelper.testTransfer(trip,s);
@@ -104,12 +105,13 @@ public class TripRecordingInstrumentationTests {
         try {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
-            assertEquals(RecordTripActivity.recordTrip(60, 4, thisInstant), 15,0);
-            assertEquals(RecordTripActivity.recordTrip(120,10,thisInstant), 12, 0);
+            VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+            assertEquals(RecordTripActivity.recordTrip(60, 4, thisInstant, testCar), 15,0);
+            assertEquals(RecordTripActivity.recordTrip(120,10,thisInstant, testCar), 12, 0);
 
             Scanner s = new Scanner(new File(FILEPATH));
-            TripDataLog trip1 = new TripDataLog(60,4,thisInstant);
-            TripDataLog trip2 = new TripDataLog(120, 10, thisInstant);
+            TripDataLog trip1 = new TripDataLog(60,4,thisInstant, testCar);
+            TripDataLog trip2 = new TripDataLog(120, 10, thisInstant, testCar);
 
             trip1.setEntry();
             trip2.setEntry();
@@ -121,4 +123,22 @@ public class TripRecordingInstrumentationTests {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
+
+    @Test
+    public void testReadLog() {
+        LocalDateTime thisInstant = LocalDateTime.now();
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        assert InstrumentationTestHelper.setUpAdapter();
+        VehicleSelectionActivity.profileAdapter.addProfile(testCar);
+        TripDataLog trip1 = new TripDataLog(60,4,thisInstant, testCar);
+        trip1.setEntry();
+        Scanner lineScanner = new Scanner(trip1.entry);
+        lineScanner.useDelimiter(",");
+
+        TripDataLog tester = TripDataLog.readLog(lineScanner);
+        tester.setEntry();
+
+        assertEquals(trip1.entry,tester.entry);
+    }
+
 }

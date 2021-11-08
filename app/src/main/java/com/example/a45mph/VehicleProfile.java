@@ -7,12 +7,13 @@ import androidx.annotation.RequiresApi;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InvalidObjectException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class VehicleProfile extends DataLog {
-    private static final String FILEPATH = "/data/data/com.example.a45mph/vehicles.csv";
+    public static final String FILEPATH = "/data/data/com.example.a45mph/vehicles.csv";
     private String vehicleID;
     private String vehicleName;
     private String make;
@@ -31,6 +32,19 @@ public class VehicleProfile extends DataLog {
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
+    public static VehicleProfile readLog(Scanner lineScanner)
+    {
+        LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
+        String name = lineScanner.next();
+        String id = lineScanner.next();
+        String make = lineScanner.next();
+        String model = lineScanner.next();
+        Fueltype fuel = new Fueltype(lineScanner.next());
+        double gpm = Double.parseDouble(lineScanner.next());
+        return new VehicleProfile(make, model, name, id, fuel, gpm, timestamp);
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<VehicleProfile> loadVehicleProiles() throws IOException
     {
         ArrayList<VehicleProfile> profiles = new ArrayList<>();
@@ -45,14 +59,8 @@ public class VehicleProfile extends DataLog {
                 lineScanner.useDelimiter(",");
 
                 // read out all the attributes of the profile
-                LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
-                String name = lineScanner.next();
-                String id = lineScanner.next();
-                String make = lineScanner.next();
-                String model = lineScanner.next();
-                Fueltype fuel = new Fueltype(lineScanner.next());
-                double gpm = Double.parseDouble(lineScanner.next());
-                profiles.add(new VehicleProfile(make, model, name, id, fuel, gpm, timestamp));
+                VehicleProfile profile = readLog(lineScanner);
+                profiles.add(profile);
             }
 
             return profiles;
@@ -96,9 +104,14 @@ public class VehicleProfile extends DataLog {
         fueltype = new Fueltype("null");
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile generateProfile(String make, String model, String name)
     {
-        return new VehicleProfile(make, model, name);
+        if (VehicleSelectionActivity.profileAdapter.searchProfiles(name) == null)
+            return new VehicleProfile(make, model, name);
+        else
+            return null;
+
     }
 
     public void setEntry()

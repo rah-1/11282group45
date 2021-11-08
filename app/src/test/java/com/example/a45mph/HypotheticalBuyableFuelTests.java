@@ -43,11 +43,9 @@ public class HypotheticalBuyableFuelTests {
             double ensure3 = FuelCalculators.hypotheticalBuyableFuel(-1,-1);
             assert false; // fail the case if you get here
 
-        } catch (ArithmeticException e)
-        {
+        } catch (ArithmeticException e) {
             assert true; // ArithmeticException caught. Pass test
-        } catch (Exception f)
-        {
+        } catch (Exception f) {
             assert false; // fail bc another exception occured
         }
     }

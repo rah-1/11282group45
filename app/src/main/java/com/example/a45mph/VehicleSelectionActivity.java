@@ -13,6 +13,7 @@ import android.view.View;
 
 public class VehicleSelectionActivity extends AppCompatActivity {
     private RecyclerView profileList;
+    public static VehicleProfileAdapter profileAdapter;
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
@@ -23,7 +24,7 @@ public class VehicleSelectionActivity extends AppCompatActivity {
         Log.d("Profile Selection", "Begin View Init");
         profileList = findViewById(R.id.profileselectionview);
         profileList.setLayoutManager(new LinearLayoutManager(this));
-        profileList.setAdapter(new VehicleProfileAdapter());
+        profileList.setAdapter(profileAdapter);
         Log.d("Profile Selection", "Recycler Creation Successful");
 
     }

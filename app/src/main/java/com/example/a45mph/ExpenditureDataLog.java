@@ -1,13 +1,17 @@
 package com.example.a45mph;
 
+import android.os.Build;
 import android.util.Log;
+
+import androidx.annotation.RequiresApi;
 
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.Scanner;
 
 public class ExpenditureDataLog extends DataLog {
-    private final String FILEPATH = "/data/data/com.example.a45mph/expendLog.csv";
+    public static final String FILEPATH = "/data/data/com.example.a45mph/expendLog.csv";
 
     private double expend;
     private double amtBought;
@@ -28,6 +32,12 @@ public class ExpenditureDataLog extends DataLog {
         setAll(ex,amt);
     }
 
+    ExpenditureDataLog(double ex, double amt, LocalDateTime time, VehicleProfile vehicle)
+    {
+        super(time, vehicle);
+        setAll(ex,amt);
+    }
+
     public double getExpenditure() {
         return expend;
     }
@@ -38,7 +48,18 @@ public class ExpenditureDataLog extends DataLog {
 
     @Override
     public void setEntry() {
-        entry = time + "," + expend + "," + amtBought + "\n";
+        entry = time + "," + vehicle.getName() + "," + expend + "," + amtBought + "\n";
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ExpenditureDataLog readLog(Scanner lineScanner)
+    {
+        LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
+        VehicleProfile vehicleProfile = VehicleSelectionActivity.profileAdapter.searchProfiles(lineScanner.next());
+        double expend = Double.parseDouble(lineScanner.next());
+        double amount = Double.parseDouble(lineScanner.next());
+
+        return new ExpenditureDataLog(expend,amount,timestamp,vehicleProfile);
     }
 
     @Override

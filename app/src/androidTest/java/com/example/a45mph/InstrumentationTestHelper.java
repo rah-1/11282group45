@@ -22,6 +22,23 @@ public class InstrumentationTestHelper {
         }
     }
 
+    public static boolean setUpAdapter() {
+        try {
+            VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
+            return true;
+        } catch (Exception e) {
+            return false;
+        }
+    }
+
+    public static boolean setUpTests(String filePath) {
+        boolean result = true;
+        result = result && setUpFile(filePath);
+        result = result && setUpAdapter();
+
+        return result;
+    }
+
     public static boolean testTransfer(DataLog transLog, Scanner s) {
         try {
             String compareString = s.nextLine();
@@ -34,6 +51,7 @@ public class InstrumentationTestHelper {
     // support for old calls that always failed
     public static boolean exceptionHandler(@NonNull Exception e)
     {
+        Log.d("Test Exception",e.toString());
         return exceptionHandler(e,false);
     }
 
