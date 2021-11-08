@@ -58,6 +58,7 @@ public class VehicleInstrumentationTests {
         Scanner lineScanner = new Scanner(vp.entry);
         lineScanner.useDelimiter(",");
         VehicleProfile test = VehicleProfile.readLog(lineScanner);
+        test.setEntry();
 
         assertEquals(vp.entry,test.entry);
     }

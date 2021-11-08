@@ -87,12 +87,14 @@ public class ExpenditureInstrumentationTests {
     public void testReadLog()
     {
         LocalDateTime thisInstant = LocalDateTime.now();
-        VehicleProfile testCar = new VehicleProfile();
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
         ExpenditureDataLog exp = new ExpenditureDataLog(10.00,2, thisInstant, testCar);
         exp.setEntry();
 
         Scanner lineScanner = new Scanner(exp.entry);
+        lineScanner.useDelimiter(",");
         ExpenditureDataLog test = ExpenditureDataLog.readLog(lineScanner);
+        test.setEntry();
 
         assertEquals(exp.entry,test.entry);
     }

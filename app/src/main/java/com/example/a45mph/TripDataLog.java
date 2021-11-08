@@ -2,12 +2,16 @@ package com.example.a45mph;
 
 
 import android.content.Context;
+import android.os.Build;
 import android.util.Log;
+
+import androidx.annotation.RequiresApi;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.Scanner;
 
 public class TripDataLog extends DataLog {
     private double odometer;
@@ -65,6 +69,17 @@ public class TripDataLog extends DataLog {
     @Override
     public void setEntry() {
         entry = time + "," + vehicle.getName() + "," + consumption + "," + odometer + "," + mileage + "\n";
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static TripDataLog readLog(Scanner lineScanner)
+    {
+        LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
+        VehicleProfile vehicleProfile = new VehicleProfile("Implement Profile Search","Place Holder", lineScanner.next());
+        double consumption = Double.parseDouble(lineScanner.next());
+        double odometer = Double.parseDouble(lineScanner.next());
+
+        return new TripDataLog(odometer,consumption,timestamp,vehicleProfile);
     }
 
 }
