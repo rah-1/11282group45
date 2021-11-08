@@ -111,9 +111,9 @@ public class ExpenditureInstrumentationTests {
             ExpenditureDataLog exp = new ExpenditureDataLog(10.00, 2, LocalDateTime.now(),testCar);
             ExpenditureDataLog exp1 = new ExpenditureDataLog(24.00, 12, LocalDateTime.now(),testCar);
             ExpenditureDataLog exp2 = new ExpenditureDataLog(432.42, 1, LocalDateTime.now(), testCar);
-            exp.setEntry();
-            exp1.setEntry();
-            exp2.setEntry();
+            exp.transfer();
+            exp1.transfer();
+            exp2.transfer();
 
             ArrayList<ExpenditureDataLog> list = ExpenditureDataLog.loadExpenditureDataLogs();
 

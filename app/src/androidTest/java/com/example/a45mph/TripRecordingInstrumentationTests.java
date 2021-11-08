@@ -145,16 +145,16 @@ public class TripRecordingInstrumentationTests {
     @Test
     public void testLoadExpenditures() {
         try {
-            assert InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
             VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
             VehicleSelectionActivity.profileAdapter.addProfile(testCar);
 
             TripDataLog trip = new TripDataLog(3,1, LocalDateTime.now(),testCar);
             TripDataLog trip1 = new TripDataLog(3,1, LocalDateTime.now(),testCar);
             TripDataLog trip2 = new TripDataLog(3,1, LocalDateTime.now(),testCar);
-            trip.setEntry();
-            trip1.setEntry();
-            trip2.setEntry();
+            trip.transfer();
+            trip1.transfer();
+            trip2.transfer();
 
             ArrayList<TripDataLog> list = TripDataLog.loadTripDataLogs();
 
