@@ -10,6 +10,7 @@ import org.junit.Test;
 
 import java.io.File;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ExpenditureInstrumentationTests {
@@ -84,8 +85,7 @@ public class ExpenditureInstrumentationTests {
     }
 
     @Test
-    public void testReadLog()
-    {
+    public void testReadLog() {
         LocalDateTime thisInstant = LocalDateTime.now();
         VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
         VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
@@ -101,5 +101,31 @@ public class ExpenditureInstrumentationTests {
         assertEquals(exp.entry,test.entry);
     }
 
+    @Test
+    public void testLoadExpenditures() {
+        try {
+            assert InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
+            VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+            VehicleSelectionActivity.profileAdapter.addProfile(testCar);
+
+            ExpenditureDataLog exp = new ExpenditureDataLog(10.00, 2, LocalDateTime.now(),testCar);
+            ExpenditureDataLog exp1 = new ExpenditureDataLog(24.00, 12, LocalDateTime.now(),testCar);
+            ExpenditureDataLog exp2 = new ExpenditureDataLog(432.42, 1, LocalDateTime.now(), testCar);
+            exp.setEntry();
+            exp1.setEntry();
+            exp2.setEntry();
+
+            ArrayList<ExpenditureDataLog> list = ExpenditureDataLog.loadExpenditureDataLogs();
+
+            for (ExpenditureDataLog e : list)
+                e.setEntry();
+
+            assertEquals(exp.entry,list.get(0).entry);
+            assertEquals(exp1.entry,list.get(1).entry);
+            assertEquals(exp2.entry,list.get(2).entry);
+        } catch (Exception e) {
+            assert InstrumentationTestHelper.exceptionHandler(e);
+        }
+    }
 
 }
