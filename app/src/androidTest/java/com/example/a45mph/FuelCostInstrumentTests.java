@@ -52,7 +52,7 @@ public class FuelCostInstrumentTests {
     public void testExpenditureLogging() {
         try {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
-            ExpenditureDataLog expenditureDataLog = new ExpenditureDataLog(125.00,50,LocalDateTime.now());
+            ExpenditureDataLog expenditureDataLog = new ExpenditureDataLog(125.00,50,LocalDateTime.now(),new VehicleProfile());
 
             // essentially emulates the transferLogs() function of FuelCalculators class
             expenditureDataLog.transfer();
@@ -70,8 +70,8 @@ public class FuelCostInstrumentTests {
     public void testLoggingMultipleExpenditures() {
         try {
             assert InstrumentationTestHelper.setUpFile(FILEPATH);
-            ExpenditureDataLog expenditureDataLog1 = new ExpenditureDataLog(125.00,50,LocalDateTime.now());
-            ExpenditureDataLog expenditureDataLog2 = new ExpenditureDataLog(60.00, 30,LocalDateTime.now());
+            ExpenditureDataLog expenditureDataLog1 = new ExpenditureDataLog(125.00,50,LocalDateTime.now(),new VehicleProfile());
+            ExpenditureDataLog expenditureDataLog2 = new ExpenditureDataLog(60.00, 30,LocalDateTime.now(),new VehicleProfile());
 
             // essentially emulates the transferLogs() function of FuelCalculators class
             expenditureDataLog1.transfer();
@@ -102,9 +102,9 @@ public class FuelCostInstrumentTests {
             // be the same as letting the second call to calculateCost do the transfer.
             ArrayList<ExpenditureDataLog> temp = FuelCalculators.getFuelExpenditure();
             ExpenditureDataLog fuelExpenditure1 = new ExpenditureDataLog(temp.get(0).getExpenditure(),
-                    temp.get(0).getAmountBought(),temp.get(0).getTime());
+                    temp.get(0).getAmountBought(),temp.get(0).getTime(),temp.get(0).getVehicle());
             ExpenditureDataLog fuelExpenditure2 = new ExpenditureDataLog(temp.get(1).getExpenditure(),
-                    temp.get(1).getAmountBought(),temp.get(1).getTime());
+                    temp.get(1).getAmountBought(),temp.get(1).getTime(),temp.get(1).getVehicle());
 
             fuelExpenditure1.setEntry();
             fuelExpenditure2.setEntry();

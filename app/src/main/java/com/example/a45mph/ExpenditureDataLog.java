@@ -22,9 +22,9 @@ public class ExpenditureDataLog extends DataLog {
         setAll(0,0);
     }
 
-    ExpenditureDataLog(double ex, double amt, LocalDateTime time)
+    ExpenditureDataLog(double ex, double amt, LocalDateTime time, VehicleProfile vehicle)
     {
-        super(time);
+        super(time, vehicle);
         setAll(ex,amt);
     }
 
