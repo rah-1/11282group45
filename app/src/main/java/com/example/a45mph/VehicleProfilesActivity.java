@@ -83,7 +83,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             vp.transfer();
             VehicleSelectionActivity.profileAdapter.selectProfile(VehicleSelectionActivity.profileAdapter.addProfile(vp));
 
-
             Log.d("Vehicle Profile", vp.toString());
 
             Toast.makeText(getApplicationContext(),"Vehicle Profile \"" + vp.getName() + "\" created!",Toast.LENGTH_LONG).show();
