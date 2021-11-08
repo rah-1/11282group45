@@ -24,6 +24,7 @@ public class ProfileAdapterInstrumentationTests {
     @Test
     public void testProfileSearchSuccessful() {
         try {
+            VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("Test","Test","Test");
             VehicleSelectionActivity.profileAdapter.addProfile(vp);
             VehicleProfile result = VehicleProfileAdapter.searchProfiles(vp.getName());
@@ -41,6 +42,7 @@ public class ProfileAdapterInstrumentationTests {
     @Test
     public void testProfileSearchMultiple() {
         try {
+            VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("Test","Test","Test");
             VehicleProfile vp1 = VehicleProfilesActivity.createVehicleProfile("Not It", "Not It", "Not It");
             VehicleSelectionActivity.profileAdapter.addProfile(vp);
@@ -61,6 +63,7 @@ public class ProfileAdapterInstrumentationTests {
     @Test
     public void testProfileSearchUnsuccessful() {
         try {
+            VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("Test","Test","Test");
             VehicleSelectionActivity.profileAdapter.addProfile(vp);
             VehicleProfile result = VehicleProfileAdapter.searchProfiles("Not There");
