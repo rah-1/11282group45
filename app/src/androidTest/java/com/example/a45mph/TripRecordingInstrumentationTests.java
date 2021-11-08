@@ -13,6 +13,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class TripRecordingInstrumentationTests {
@@ -139,6 +140,33 @@ public class TripRecordingInstrumentationTests {
         tester.setEntry();
 
         assertEquals(trip1.entry,tester.entry);
+    }
+
+    @Test
+    public void testLoadExpenditures() {
+        try {
+            assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
+            VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+            VehicleSelectionActivity.profileAdapter.addProfile(testCar);
+
+            TripDataLog trip = new TripDataLog(3,1, LocalDateTime.now(),testCar);
+            TripDataLog trip1 = new TripDataLog(3,1, LocalDateTime.now(),testCar);
+            TripDataLog trip2 = new TripDataLog(3,1, LocalDateTime.now(),testCar);
+            trip.transfer();
+            trip1.transfer();
+            trip2.transfer();
+
+            ArrayList<TripDataLog> list = TripDataLog.loadTripDataLogs();
+
+            for (TripDataLog e : list)
+                e.setEntry();
+
+            assertEquals(trip.entry,list.get(0).entry);
+            assertEquals(trip1.entry,list.get(1).entry);
+            assertEquals(trip2.entry,list.get(2).entry);
+        } catch (Exception e) {
+            assert InstrumentationTestHelper.exceptionHandler(e);
+        }
     }
 
 }

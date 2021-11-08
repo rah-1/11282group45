@@ -8,6 +8,7 @@ import androidx.annotation.RequiresApi;
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ExpenditureDataLog extends DataLog {
@@ -60,6 +61,35 @@ public class ExpenditureDataLog extends DataLog {
         double amount = Double.parseDouble(lineScanner.next());
 
         return new ExpenditureDataLog(expend,amount,timestamp,vehicleProfile);
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ArrayList<ExpenditureDataLog> loadExpenditureDataLogs() throws IOException
+    {
+        ArrayList<ExpenditureDataLog> expends = new ArrayList<>();
+        Scanner s = new Scanner(new File(FILEPATH));
+        // iterate through the file and read the vehicle profiles
+        try {
+            while (s.hasNextLine())
+            {
+                // set up Scanner with comma delimiter
+                String line = s.nextLine();
+                Scanner lineScanner = new Scanner(line);
+                lineScanner.useDelimiter(",");
+
+                // read out all the attributes of the profile
+                ExpenditureDataLog trip = readLog(lineScanner);
+                expends.add(trip);
+            }
+
+            return expends;
+
+        } catch (Exception e) {
+            Log.d("Loading Expenditures","IOException Thrown");
+            throw new IOException();
+        }
+
+
     }
 
     @Override
