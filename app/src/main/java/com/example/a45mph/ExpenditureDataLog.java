@@ -22,6 +22,12 @@ public class ExpenditureDataLog extends DataLog {
         setAll(0,0);
     }
 
+    ExpenditureDataLog(double ex, double amt, LocalDateTime time)
+    {
+        super(time);
+        setAll(ex,amt);
+    }
+
     ExpenditureDataLog(double ex, double amt, LocalDateTime time, VehicleProfile vehicle)
     {
         super(time, vehicle);
@@ -38,7 +44,7 @@ public class ExpenditureDataLog extends DataLog {
 
     @Override
     public void setEntry() {
-        entry = time + "," + expend + "," + amtBought + "\n";
+        entry = time + "," + vehicle.getName() + "," + expend + "," + amtBought + "\n";
     }
 
     @Override

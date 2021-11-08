@@ -39,6 +39,11 @@ public class TripDataLog extends DataLog {
         setAll(odom, con);
     }
 
+    public TripDataLog(double odom, double con, LocalDateTime time) {
+        super(time);
+        setAll(odom,con);
+    }
+
     public TripDataLog(double odom, double con, LocalDateTime time, VehicleProfile vehicle) {
         super(time, vehicle);
         setAll(odom,con);
