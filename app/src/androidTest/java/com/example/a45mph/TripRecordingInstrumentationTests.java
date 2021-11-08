@@ -156,9 +156,9 @@ public class TripRecordingInstrumentationTests {
             trip1.setEntry();
             trip2.setEntry();
 
-            ArrayList<ExpenditureDataLog> list = ExpenditureDataLog.loadTripDataLogs();
+            ArrayList<TripDataLog> list = TripDataLog.loadTripDataLogs();
 
-            for (ExpenditureDataLog e : list)
+            for (TripDataLog e : list)
                 e.setEntry();
 
             assertEquals(trip.entry,list.get(0).entry);

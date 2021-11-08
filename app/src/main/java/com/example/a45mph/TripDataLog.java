@@ -11,6 +11,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class TripDataLog extends DataLog {
@@ -80,6 +81,33 @@ public class TripDataLog extends DataLog {
         double odometer = Double.parseDouble(lineScanner.next());
 
         return new TripDataLog(odometer,consumption,timestamp,vehicleProfile);
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ArrayList<TripDataLog> loadTripDataLogs() throws IOException
+    {
+        ArrayList<TripDataLog> trips = new ArrayList<>();
+        Scanner s = new Scanner(new File(FILEPATH));
+        // iterate through the file and read the vehicle profiles
+        try {
+            while (s.hasNextLine())
+            {
+                // set up Scanner with comma delimiter
+                String line = s.nextLine();
+                Scanner lineScanner = new Scanner(line);
+                lineScanner.useDelimiter(",");
+
+                // read out all the attributes of the profile
+                TripDataLog trip = readLog(lineScanner);
+                trips.add(trip);
+            }
+
+            return trips;
+
+        } catch (Exception e) {
+            Log.d("Loading Trips","IOException Thrown");
+            throw new IOException();
+        }
     }
 
 }

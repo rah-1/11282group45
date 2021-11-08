@@ -116,18 +116,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         }
     }
 
-    public static boolean selectVehicleProfile(VehicleProfile vp)
-    {
-        // change out the current vehicle profile, whatever that entails
-        return true;
-    }
-
-    public void selectVehicleProfile(int position)
-    {
-        // use position to select the correct vehicle profile
-
-    }
-
 
 
 }

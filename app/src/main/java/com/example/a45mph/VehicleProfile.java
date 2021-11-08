@@ -66,7 +66,7 @@ public class VehicleProfile extends DataLog {
             return profiles;
 
         } catch (Exception e) {
-            Log.d("Profile Selection","IOException Thrown");
+            Log.d("Loading Vehicles","IOException Thrown");
             throw new IOException();
         }
     }
