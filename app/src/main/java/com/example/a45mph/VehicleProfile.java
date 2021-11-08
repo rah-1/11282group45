@@ -6,7 +6,6 @@ import android.util.Log;
 import androidx.annotation.RequiresApi;
 
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -32,7 +31,7 @@ public class VehicleProfile extends DataLog {
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
-    public static VehicleProfile readProfile(Scanner lineScanner)
+    public static VehicleProfile readLog(Scanner lineScanner)
     {
         LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
         String name = lineScanner.next();
@@ -59,7 +58,7 @@ public class VehicleProfile extends DataLog {
                 lineScanner.useDelimiter(",");
 
                 // read out all the attributes of the profile
-                VehicleProfile profile = readProfile(lineScanner);
+                VehicleProfile profile = readLog(lineScanner);
                 profiles.add(profile);
             }
 

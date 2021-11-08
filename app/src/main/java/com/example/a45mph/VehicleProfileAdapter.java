@@ -13,8 +13,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintStream;
-import java.io.RandomAccessFile;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -70,7 +68,7 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
             Scanner lineScanner = new Scanner(s.nextLine());
             lineScanner.useDelimiter(",");
 
-            currentProfile = VehicleProfile.readProfile(lineScanner);
+            currentProfile = VehicleProfile.readLog(lineScanner);
             Log.d("Profile Init","Initialized Successfully");
         } catch (Exception e) {
             currentProfile = new VehicleProfile();

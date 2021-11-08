@@ -123,4 +123,20 @@ public class TripRecordingInstrumentationTests {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
+
+    @Test
+    public void testReadLog() {
+        LocalDateTime thisInstant = LocalDateTime.now();
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        TripDataLog trip1 = new TripDataLog(60,4,thisInstant, testCar);
+        trip1.setEntry();
+        Scanner lineScanner = new Scanner(trip1.entry);
+        lineScanner.useDelimiter(",");
+
+        TripDataLog tester = TripDataLog.readLog(lineScanner);
+        tester.setEntry();
+
+        assertEquals(trip1.entry,tester.entry);
+    }
+
 }

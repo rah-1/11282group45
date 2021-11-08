@@ -50,6 +50,15 @@ public class VehicleInstrumentationTests {
         }
     }
 
+    @Test
+    public void testReadLog() {
+        VehicleProfile vp = new VehicleProfile("Test","Test","Test");
+        vp.setEntry();
 
+        Scanner lineScanner = new Scanner(vp.entry);
+        lineScanner.useDelimiter(",");
+        VehicleProfile test = VehicleProfile.readLog(lineScanner);
 
+        assertEquals(vp.entry,test.entry);
+    }
 }

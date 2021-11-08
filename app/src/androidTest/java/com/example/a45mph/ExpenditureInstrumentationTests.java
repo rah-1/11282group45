@@ -83,5 +83,19 @@ public class ExpenditureInstrumentationTests {
         }
     }
 
+    @Test
+    public void testReadLog()
+    {
+        LocalDateTime thisInstant = LocalDateTime.now();
+        VehicleProfile testCar = new VehicleProfile();
+        ExpenditureDataLog exp = new ExpenditureDataLog(10.00,2, thisInstant, testCar);
+        exp.setEntry();
+
+        Scanner lineScanner = new Scanner(exp.entry);
+        ExpenditureDataLog test = ExpenditureDataLog.readLog(lineScanner);
+
+        assertEquals(exp.entry,test.entry);
+    }
+
 
 }
