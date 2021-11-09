@@ -17,4 +17,15 @@
         android:text="Environmental Impact Menu"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/personalizedreportsbutton"
+        android:layout_width="181dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="112dp"
+        android:text="Personal Reports"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
