@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.45mph">
         <activity
+            android:name=".ViewPersonalizedReportActivity"
+            android:exported="true" />
+        <activity
             android:name=".PersonalizedReportFeaturesActivity"
             android:exported="true" />
         <activity
