@@ -21,4 +21,13 @@ jobs:
 workflows:
   say-hello-workflow:
     jobs:
-      - say-hello 
+      - say-hello
+  example-workflow:
+    jobs:
+      - gradle/test:
+          app_src_directory: app/src/main 
+          reports_path: app/src/test 
+          test_command: app/src/test/FuelCostTests 
+          test_results_path: app/src/test 
+orbs:
+  gradle: circleci/gradle@2.2.0 
