@@ -77,7 +77,7 @@ public class RecordPresentationInstrumentationTests {
                 e.transfer();
             }
 
-            TripDataLogAdapter adapter = new TripDataLogAdapter();
+            ExpenditureDataLogAdapter adapter = new ExpenditureDataLogAdapter();
             ArrayList<ExpenditureDataLog> tripList = adapter.getExpenditures();
 
             int i = 0;
@@ -92,6 +92,16 @@ public class RecordPresentationInstrumentationTests {
         } catch (ArrayIndexOutOfBoundsException e) {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
+    }
+
+    @Test
+    public void testAddTrip() {
+
+    }
+
+    @Test
+    public void testAddExpend() {
+
     }
 
     @Test
