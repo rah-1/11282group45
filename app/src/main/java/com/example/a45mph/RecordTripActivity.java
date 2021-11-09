@@ -50,16 +50,17 @@ public class RecordTripActivity extends AppCompatActivity {
     }
 
     // overloading this method for testing
-    public static double recordTrip(double odom, double con, LocalDateTime time) throws IOException
+    public static double recordTrip(double odom, double con, LocalDateTime time, VehicleProfile vehicle) throws IOException
     {
         if (odom <= 0 || con <= 0)
             throw new ArithmeticException("Odometer or Consumption is 0");
 
-        TripDataLog trip = new TripDataLog(odom,con,time);
+        TripDataLog trip = new TripDataLog(odom,con,time,vehicle);
         trip.transfer();
         return trip.getMileage();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public double recordTrip()
     {
         String errorMessage = "No Error";
@@ -73,7 +74,7 @@ public class RecordTripActivity extends AppCompatActivity {
             mileage = recordTrip(unitCost,consumption);
 
             Toast.makeText(getApplicationContext(),"Trip recorded with" +
-                    " average gas mileage of " + mileage + ".",Toast.LENGTH_LONG).show();
+                    " average gas mileage of " + mileage + " mpg.",Toast.LENGTH_LONG).show();
             noExceptions = true;
         } catch (NumberFormatException e) {
             // write to the screen that there is an issue with the input
