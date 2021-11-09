@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.45mph">
         <activity
+            android:name=".PersonalizedReportFeaturesActivity"
+            android:exported="true" />
+        <activity
             android:name=".PersonalizedReportsActivity"
             android:exported="true" />
         <activity
@@ -17,9 +20,6 @@
             android:exported="true" />
         <activity
             android:name=".RecordTripActivity"
-            android:exported="true" />
-        <activity
-            android:name=".DrivingReports"
             android:exported="true" />
         <activity
             android:name=".VehicleProfilesActivity"
