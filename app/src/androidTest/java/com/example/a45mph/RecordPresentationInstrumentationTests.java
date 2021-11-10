@@ -216,7 +216,7 @@ public class RecordPresentationInstrumentationTests {
             exp1.transfer();
 
             ExpenditureDataLogAdapter expenditureDataLogAdapter = new ExpenditureDataLogAdapter();
-            ExpenditureDataLog test = expenditureDataLogAdapter.getExpenditure();
+            ExpenditureDataLog test = expenditureDataLogAdapter.getExpenditure(0);
             test.setEntry();
 
             assertEquals(exp1.entry,test.entry);
@@ -224,8 +224,6 @@ public class RecordPresentationInstrumentationTests {
         } catch (IOException e) {
             assert InstrumentationTestHelper.exceptionHandler(e);
         }
-
-
     }
 
 }

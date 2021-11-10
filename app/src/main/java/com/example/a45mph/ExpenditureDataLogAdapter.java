@@ -50,4 +50,9 @@ public class ExpenditureDataLogAdapter extends RecyclerView.Adapter {
     {
         return expenditures;
     }
+
+    public ExpenditureDataLog getExpenditure(int position)
+    {
+        return expenditures.get(position);
+    }
 }

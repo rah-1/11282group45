@@ -52,4 +52,7 @@ public class TripDataLogAdapter extends RecyclerView.Adapter {
     {
         return tripLogs;
     }
+    public TripDataLog getTrip(int position) {
+        return tripLogs.get(position);
+    }
 }
