@@ -4,6 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import android.content.Context;
 
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.test.platform.app.InstrumentationRegistry;
 
 import org.junit.Test;
@@ -25,9 +26,10 @@ public class RecordPresentationInstrumentationTests {
     public void testTripReading() {
 
         try {
-            InstrumentationTestHelper.setUpFile(TripDataLog.FILEPATH);
+            InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
+            VehicleSelectionActivity.profileAdapter.addProfile(testCar);
 
             TripDataLog trip1 = new TripDataLog(10,42, thisInstant, testCar);
             TripDataLog trip2 = new TripDataLog(10, 23, thisInstant, testCar);
@@ -43,6 +45,7 @@ public class RecordPresentationInstrumentationTests {
 
             TripDataLogAdapter adapter = new TripDataLogAdapter();
             ArrayList<TripDataLog> tripList = adapter.getTrips();
+            assert (tripList.size() == 5);
 
             int i = 0;
             for (TripDataLog t : tripList)
@@ -61,9 +64,10 @@ public class RecordPresentationInstrumentationTests {
     @Test
     public void testExpendReading() {
         try {
-            InstrumentationTestHelper.setUpFile(TripDataLog.FILEPATH);
+            InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
+            VehicleSelectionActivity.profileAdapter.addProfile(testCar);
 
             ExpenditureDataLog exp1 = new ExpenditureDataLog(10,42, thisInstant, testCar);
             ExpenditureDataLog exp2 = new ExpenditureDataLog(10, 23, thisInstant, testCar);
@@ -78,10 +82,11 @@ public class RecordPresentationInstrumentationTests {
             }
 
             ExpenditureDataLogAdapter adapter = new ExpenditureDataLogAdapter();
-            ArrayList<ExpenditureDataLog> tripList = adapter.getExpenditures();
+            ArrayList<ExpenditureDataLog> expList = adapter.getExpenditures();
+            assert (expList.size() == 5);
 
             int i = 0;
-            for (ExpenditureDataLog e : tripList)
+            for (ExpenditureDataLog e : expList)
             {
                 e.transfer();
                 assertEquals(e.entry,list[i++].entry);
@@ -97,9 +102,10 @@ public class RecordPresentationInstrumentationTests {
     @Test
     public void testAddingTrip() {
         try {
-            assert InstrumentationTestHelper.setUpFile(TripDataLog.FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
+            VehicleSelectionActivity.profileAdapter.addProfile(testCar);
 
             TripDataLog trip1 = new TripDataLog(10,42, thisInstant, testCar);
             TripDataLog trip2 = new TripDataLog(10, 23, thisInstant, testCar);
@@ -115,10 +121,12 @@ public class RecordPresentationInstrumentationTests {
             for (TripDataLog t : list)
             {
                 RecordTripActivity.recordTrip(t.getOdometer(),t.getConsumption(),t.getTime(),t.getVehicle());
+                t.setEntry();
             }
 
             TripDataLogAdapter tripAdapter1 = new TripDataLogAdapter();
             ArrayList<TripDataLog> list2 = tripAdapter1.getTrips();
+            assert (list2.size() == 5);
 
             assert tripAdapter.getTrips().isEmpty();
 
@@ -139,9 +147,10 @@ public class RecordPresentationInstrumentationTests {
     @Test
     public void testAddingExpenditure() {
         try {
-            assert InstrumentationTestHelper.setUpFile(ExpenditureDataLog.FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
+            VehicleSelectionActivity.profileAdapter.addProfile(testCar);
 
             ExpenditureDataLog exp1 = new ExpenditureDataLog(10,42, thisInstant, testCar);
             ExpenditureDataLog exp2 = new ExpenditureDataLog(10, 23, thisInstant, testCar);
@@ -162,6 +171,7 @@ public class RecordPresentationInstrumentationTests {
             // second adapter represents the list displayed after recording expenditures
             ExpenditureDataLogAdapter expendAdapter1 = new ExpenditureDataLogAdapter();
             ArrayList<ExpenditureDataLog> list2 = expendAdapter1.getExpenditures();
+            assert (list2.size() == 5);
 
             // the list before recording should be empty.
             assert expendAdapter.getExpenditures().isEmpty();
@@ -185,9 +195,10 @@ public class RecordPresentationInstrumentationTests {
     public void testTripQuery() {
 
         try {
-            assert InstrumentationTestHelper.setUpFile(TripDataLog.FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
+            VehicleSelectionActivity.profileAdapter.addProfile(testCar);
 
             TripDataLog trip1 = new TripDataLog(10,42, thisInstant, testCar);
             trip1.transfer();
@@ -208,9 +219,10 @@ public class RecordPresentationInstrumentationTests {
     public void testExpendQuery() {
 
         try {
-            assert InstrumentationTestHelper.setUpFile(ExpenditureDataLog.FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
+            VehicleSelectionActivity.profileAdapter.addProfile(testCar);
 
             ExpenditureDataLog exp1 = new ExpenditureDataLog(10,42, thisInstant, testCar);
             exp1.transfer();
