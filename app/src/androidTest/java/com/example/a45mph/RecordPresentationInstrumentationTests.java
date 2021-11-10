@@ -184,10 +184,47 @@ public class RecordPresentationInstrumentationTests {
     @Test
     public void testTripQuery() {
 
+        try {
+            assert InstrumentationTestHelper.setUpFile(TripDataLog.FILEPATH);
+            LocalDateTime thisInstant = LocalDateTime.now();
+            VehicleProfile testCar = new VehicleProfile();
+
+            TripDataLog trip1 = new TripDataLog(10,42, thisInstant, testCar);
+            trip1.transfer();
+
+            TripDataLogAdapter tripDataLogAdapter = new TripDataLogAdapter();
+            TripDataLog test = tripDataLogAdapter.getTrip(0);
+            test.setEntry();
+
+            assertEquals(trip1.entry,test.entry);
+
+        } catch (IOException e) {
+            assert InstrumentationTestHelper.exceptionHandler(e);
+        }
+
     }
 
     @Test
     public void testExpendQuery() {
+
+        try {
+            assert InstrumentationTestHelper.setUpFile(ExpenditureDataLog.FILEPATH);
+            LocalDateTime thisInstant = LocalDateTime.now();
+            VehicleProfile testCar = new VehicleProfile();
+
+            ExpenditureDataLog exp1 = new ExpenditureDataLog(10,42, thisInstant, testCar);
+            exp1.transfer();
+
+            ExpenditureDataLogAdapter expenditureDataLogAdapter = new ExpenditureDataLogAdapter();
+            ExpenditureDataLog test = expenditureDataLogAdapter.getExpenditure();
+            test.setEntry();
+
+            assertEquals(exp1.entry,test.entry);
+
+        } catch (IOException e) {
+            assert InstrumentationTestHelper.exceptionHandler(e);
+        }
+
 
     }
 
