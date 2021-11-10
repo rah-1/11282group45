@@ -115,7 +115,10 @@ public class RecordPresentationInstrumentationTests {
                 RecordTripActivity.recordTrip(t.getOdometer(),t.getConsumption(),t.getTime(),t.getVehicle());
             }
 
-            ArrayList<TripDataLog> list2 = tripAdapter.getTrips();
+            TripDataLogAdapter tripAdapter1 = new TripDataLogAdapter();
+            ArrayList<TripDataLog> list2 = tripAdapter1.getTrips();
+
+            assert tripAdapter.getTrips().isEmpty();
 
             int i = 0;
             for (TripDataLog t : list2)
@@ -153,7 +156,10 @@ public class RecordPresentationInstrumentationTests {
                 e.transfer();
             }
 
-            ArrayList<ExpenditureDataLog> list2 = expendAdapter.getExpenditures();
+            ExpenditureDataLogAdapter expendAdapter1 = new ExpenditureDataLogAdapter();
+            ArrayList<ExpenditureDataLog> list2 = expendAdapter1.getExpenditures();
+
+            assert expendAdapter.getExpenditures().isEmpty();
 
             int i = 0;
             for (ExpenditureDataLog e : list2)
