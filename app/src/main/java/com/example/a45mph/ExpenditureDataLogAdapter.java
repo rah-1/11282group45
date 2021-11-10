@@ -31,14 +31,25 @@ public class ExpenditureDataLogAdapter extends RecyclerView.Adapter {
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        return new ProfileHolder(((View) LayoutInflater.from(parent.getContext()).inflate(0, parent, false)));
+        return new ExpendHolder(((View) LayoutInflater.from(parent.getContext()).inflate(R.layout.expenditure_list_item, parent, false)));
     }
 
     @Override
     public void onBindViewHolder(@NonNull RecyclerView.ViewHolder holder, int position) {
         ExpendHolder expend = (ExpendHolder) holder;
+        expend.setExpenditure(expenditures.get(position).getExpenditure());
+        expend.setAmountBought(expenditures.get(position).getAmountBought());
+        expend.setTime(expenditures.get(position).getTime());
+        expend.setVehicle(expenditures.get(0).getVehicle());
 
 
+        expend.getLayout().setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.O)
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
     }
 
     @Override

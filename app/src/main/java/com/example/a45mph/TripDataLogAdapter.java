@@ -31,14 +31,24 @@ public class TripDataLogAdapter extends RecyclerView.Adapter {
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        // TODO Make a resource for the items in list
-        return new ProfileHolder(((View) LayoutInflater.from(parent.getContext()).inflate(0, parent, false)));
+        return new TripHolder(((View) LayoutInflater.from(parent.getContext()).inflate(R.layout.trip_list_item, parent, false)));
     }
 
     @Override
     public void onBindViewHolder(@NonNull RecyclerView.ViewHolder holder, int position) {
         TripHolder trip = (TripHolder) holder;
+        trip.setConsumption(tripLogs.get(position).getConsumption());
+        trip.setOdometer(tripLogs.get(position).getOdometer());
+        trip.setTime(tripLogs.get(position).getTime());
+        trip.setVehicle(tripLogs.get(position).getVehicle());
 
+        trip.getLayout().setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.O)
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
 
 
     }

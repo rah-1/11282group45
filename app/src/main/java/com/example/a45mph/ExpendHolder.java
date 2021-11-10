@@ -20,8 +20,11 @@ public class ExpendHolder extends RecyclerView.ViewHolder {
     public ExpendHolder(@NonNull View itemView) {
         super(itemView);
         view = itemView;
-        // TODO make resources for the consumptio, odometer, time and vehicle fields in the trip record list activity
-        layout = view.findViewById(R.id.vehiclelistitem);
+        exp = view.findViewById(R.id.expendituretextexpenditurelist);
+        amt = view.findViewById(R.id.amtboughttextexpenditurelist);
+        time = view.findViewById(R.id.timetextexpenditurelist);
+        vehicle = view.findViewById(R.id.vehicletextexpenditurelist);
+        layout = view.findViewById(R.id.expenditurelistitem);
     }
 
     public void setExpenditure(double e) { exp.setText(Double.toString(e)); }

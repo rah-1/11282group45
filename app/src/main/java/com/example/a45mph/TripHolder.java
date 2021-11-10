@@ -20,8 +20,11 @@ public class TripHolder extends RecyclerView.ViewHolder {
     public TripHolder(@NonNull View itemView) {
         super(itemView);
         view = itemView;
-        // TODO make resources for the consumptio, odometer, time and vehicle fields in the trip record list activity
-        layout = view.findViewById(R.id.vehiclelistitem);
+        odom = view.findViewById(R.id.odomtexttriplist);
+        con = view.findViewById(R.id.contexttriplist);
+        time = view.findViewById(R.id.timetexttriplist);
+        vehicle = view.findViewById(R.id.vehicletexttriplist);
+        layout = view.findViewById(R.id.triplistitem);
     }
 
     public void setOdometer(double o) { odom.setText(Double.toString(o)); }
