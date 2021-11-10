@@ -108,6 +108,8 @@ public class RecordPresentationInstrumentationTests {
             TripDataLog trip5 = new TripDataLog(902, 33, thisInstant, testCar);
             TripDataLog list[] = {trip1,trip2,trip3,trip4,trip5};
 
+            // The description of this two adapter test is similar to the description provided for
+            // the expenditure tests below.
             TripDataLogAdapter tripAdapter = new TripDataLogAdapter();
 
             for (TripDataLog t : list)
@@ -148,6 +150,7 @@ public class RecordPresentationInstrumentationTests {
             ExpenditureDataLog exp5 = new ExpenditureDataLog(902, 33, thisInstant, testCar);
             ExpenditureDataLog list[] = {exp1,exp2,exp3,exp4,exp5};
 
+            // first adapter represents the list displayed before recording the above fuel expenditures
             ExpenditureDataLogAdapter expendAdapter = new ExpenditureDataLogAdapter();
 
             for (ExpenditureDataLog e : list)
@@ -156,11 +159,14 @@ public class RecordPresentationInstrumentationTests {
                 e.transfer();
             }
 
+            // second adapter represents the list displayed after recording expenditures
             ExpenditureDataLogAdapter expendAdapter1 = new ExpenditureDataLogAdapter();
             ArrayList<ExpenditureDataLog> list2 = expendAdapter1.getExpenditures();
 
+            // the list before recording should be empty.
             assert expendAdapter.getExpenditures().isEmpty();
 
+            // the list after has the five records in it.
             int i = 0;
             for (ExpenditureDataLog e : list2)
             {
