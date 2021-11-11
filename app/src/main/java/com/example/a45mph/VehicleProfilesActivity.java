@@ -11,9 +11,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.RadioButton;
 import android.widget.Toast;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InvalidObjectException;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -24,6 +26,13 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     private EditText makeText;
     private EditText modelText;
     private EditText nameText;
+    private EditText year;
+    private RadioButton automatic;
+    private RadioButton manual;
+    private EditText speed;
+    private RadioButton gas;
+    private RadioButton diesel;
+    private RadioButton hybrid;
     private ImageButton createButton;
     private Button selectButton;
     private static ArrayList<VehicleProfile> vehicleArray;
@@ -50,9 +59,16 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             }
         });
 
+        speed = (EditText) findViewById(R.id.speededittextvehicleprofiles);
+        automatic = (RadioButton) findViewById(R.id.automaticbuttonvehicleprofiles);
+        manual = (RadioButton) findViewById(R.id.manualbuttonvehicleprofiles);
+        gas = (RadioButton) findViewById(R.id.gasbuttonvehicleprofiles);
+        diesel = (RadioButton) findViewById(R.id.dieselbuttonvehicleprofiles);
+        hybrid = (RadioButton) findViewById(R.id.hybridbuttonvehicleprofiles);
         makeText = (EditText) findViewById(R.id.vehicleprofilemake);
         modelText = (EditText) findViewById(R.id.vehicleprofilemodel);
         nameText = (EditText) findViewById(R.id.vehicleprofilename);
+
         vehicleArray = new ArrayList<VehicleProfile>();
     }
 
@@ -81,10 +97,27 @@ public class VehicleProfilesActivity extends AppCompatActivity {
 
         try {
             // get input from the fields
-            VehicleProfile vp = createVehicleProfile(makeText.getText().toString(),modelText.getText().toString(),nameText.getText().toString());
+            String make = makeText.getText().toString();
+            String model = modelText.getText().toString();
+            String name = nameText.getText().toString();
+            String year = this.year.getText().toString();
+            boolean auto = automatic.isActivated();
+            boolean man = manual.isActivated();
+            boolean gas = this.gas.isActivated();
+            boolean diesel = this.diesel.isActivated();
+            String speed = this.speed.getText().toString();
+
+            // read data out of the economy file to make a new vehicle
+            Scanner s = new Scanner(getResources().openRawResource(R.raw.fueleconomy));
+            s.nextLine(); // skips first line of the file
+
+            // search through the file for a record that matches with the given one,
+            // create profile in current system, and return result
+            VehicleProfile vp = VehicleProfile.searchProfile(make, model, name, year, gas,
+                    diesel, auto, man, speed, s);
 
             if (vp == null)
-                throw new InvalidObjectException("Duplicate Profile Name");
+                throw new IOException("Duplicate Profile Name");
 
             vp.transfer();
             VehicleSelectionActivity.profileAdapter.selectProfile(VehicleSelectionActivity.profileAdapter.addProfile(vp));
@@ -99,12 +132,9 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         } catch (ArithmeticException e) {
             // write to the screen somewhere that nonpositive amounts for either field are disallowed
             errorMessage = "Error: Arithmetic Error!";
-        } catch (InvalidObjectException e) {
-            // write to the screen somewhere that duplicate names are disallowed
-            errorMessage = "Error: Duplicate Vehicle Name!";
         } catch (IOException e) {
             // write to the screen somewhere that a file error has occurred
-            errorMessage = "Error: File IO Error!";
+            errorMessage = "Error: " + e.getMessage();
         } catch (Exception e) {
             // write to the screen that something unexplained has happened
             errorMessage = "Error: Something Went Wrong";
