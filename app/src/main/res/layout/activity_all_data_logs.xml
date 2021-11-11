@@ -10,8 +10,8 @@
         android:id="@+id/drivingreportsbutton"
         android:layout_width="145dp"
         android:layout_height="57dp"
-        android:layout_marginStart="28dp"
-        android:layout_marginTop="228dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="232dp"
         android:text="Driving Reports"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -20,8 +20,8 @@
         android:id="@+id/personalizedreportsbutton"
         android:layout_width="145dp"
         android:layout_height="57dp"
-        android:layout_marginStart="28dp"
-        android:layout_marginTop="324dp"
+        android:layout_marginStart="248dp"
+        android:layout_marginTop="232dp"
         android:text="Personal Reports"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -30,9 +30,19 @@
         android:id="@+id/triplogsbutton"
         android:layout_width="145dp"
         android:layout_height="57dp"
-        android:layout_marginStart="28dp"
-        android:layout_marginTop="132dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="136dp"
         android:text="Trip Logs"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/fuelexpenditurelogsbutton"
+        android:layout_width="145dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="248dp"
+        android:layout_marginTop="136dp"
+        android:text="Fuel Logs"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
