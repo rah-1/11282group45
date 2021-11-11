@@ -52,8 +52,14 @@ abstract public class FuelCalculators {
     @RequiresApi(api = Build.VERSION_CODES.O)
     public static double fuelCost(double unitPrice, double amtBought)
     {
+        return fuelCost(unitPrice,amtBought,LocalDateTime.now(),VehicleProfileAdapter.currentProfile);
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static double fuelCost(double unitPrice, double amtBought, LocalDateTime time, VehicleProfile vehicle)
+    {
         double result = hypotheticalFuelCost(unitPrice,amtBought);
-        fuelExpenditure.add(new ExpenditureDataLog(result, amtBought, LocalDateTime.now()));
+        fuelExpenditure.add(new ExpenditureDataLog(result, amtBought, time, vehicle));
 
         return result;
     }

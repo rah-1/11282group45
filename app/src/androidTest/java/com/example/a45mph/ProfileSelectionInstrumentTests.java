@@ -19,7 +19,7 @@ public class ProfileSelectionInstrumentTests {
     }
 
     @Test
-    public void testAditionToList()
+    public void testAdditionToList()
     {
         try {
             InstrumentationTestHelper.setUpFile(FILEPATH);
@@ -32,7 +32,7 @@ public class ProfileSelectionInstrumentTests {
             assertEquals(vp.getVehicleID(), adapter.getProfiles().get(0).getVehicleID());
             assertEquals(vp.getTime(),adapter.getProfiles().get(0).getTime());
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
@@ -52,7 +52,7 @@ public class ProfileSelectionInstrumentTests {
             assertEquals(vp.getVehicleID(), curr.getVehicleID());
             assertEquals(vp.getTime(), curr.getTime());
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 }

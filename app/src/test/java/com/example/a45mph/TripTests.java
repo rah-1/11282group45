@@ -59,25 +59,27 @@ public class TripTests
     public void testTripLogTiming()
     {
         LocalDateTime thisInstant = LocalDateTime.now();
-        TripDataLog test = new TripDataLog(50, 2.5, thisInstant);
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        TripDataLog test = new TripDataLog(50, 2.5, thisInstant, testCar);
         assert (thisInstant == test.getTime());
     }
 
     @Test
     public void testTripLogTransfer() {
         LocalDateTime thisInstant = LocalDateTime.now();
-        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant);
-        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant);
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant, testCar);
+        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant, testCar);
 
         testTrip1.setEntry();
         testTrip2.setEntry();
 
-        String testEntry = thisInstant.toString()+","+testTrip1.getConsumption()
-               +","+ testTrip1.getOdometer()+","+testTrip1.getMileage()+"\n";
+        String testEntry = thisInstant.toString()+","+testCar.getName()+","+testTrip1.getConsumption()
+               +","+ testTrip1.getOdometer()+","+testTrip1.getMileage()+ "\n";
 
         assert (Objects.equals(testTrip1.toString(), testEntry));
 
-        testEntry = thisInstant.toString()+","+testTrip2.getConsumption()
+        testEntry = thisInstant.toString()+","+testCar.getName()+","+testTrip2.getConsumption()
                 +","+ testTrip2.getOdometer()+","+testTrip2.getMileage()+"\n";
 
         assert (Objects.equals(testTrip2.toString(), testEntry));
@@ -87,8 +89,9 @@ public class TripTests
     @Test
     public void testWritingToFile() {
         LocalDateTime thisInstant = LocalDateTime.now();
-        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant);
-        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant);
+        VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
+        TripDataLog testTrip1 = new TripDataLog(50, 2.5, thisInstant, testCar);
+        TripDataLog testTrip2 = new TripDataLog(30, 6, thisInstant, testCar);
 
         testTrip1.setEntry();
         testTrip2.setEntry();

@@ -5,13 +5,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.WindowManager;
 import android.widget.Button;
 
 public class AllDataLogsActivity extends AppCompatActivity {
     private Button tripLogsButton;
     private Button drivingReportsButton;
     private Button personalReportsButton;
+    private Button expenditureLogsButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,7 +22,7 @@ public class AllDataLogsActivity extends AppCompatActivity {
         tripLogsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                opentripLogsActivity();
+                openTripLogsActivity();
             }
         });
 
@@ -41,10 +41,18 @@ public class AllDataLogsActivity extends AppCompatActivity {
                 openPersonalizedReportsActivity();
             }
         });
+
+        expenditureLogsButton = (Button) findViewById(R.id.fuelexpenditurelogsbutton);
+        expenditureLogsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openExpenditureLogsActivity();
+            }
+        });
     }
 
-    public void opentripLogsActivity() {
-        Intent intent = new Intent(this, RecordTripActivity.class);
+    public void openTripLogsActivity() {
+        Intent intent = new Intent(this, TripLogActivity.class);
         startActivity(intent);
     }
 
@@ -56,5 +64,9 @@ public class AllDataLogsActivity extends AppCompatActivity {
     public void openPersonalizedReportsActivity() {
         Intent intent = new Intent(this,PersonalizedReportsActivity.class);
         startActivity(intent);
+    }
+
+    public void openExpenditureLogsActivity() {
+        startActivity(new Intent(this,ExpenditureLogActivity.class));
     }
 }

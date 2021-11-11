@@ -24,21 +24,21 @@ public class VehicleInstrumentationTests {
     @Test
     public void testProfileCreation() {
         try {
-            assert InstrumentationTestHelper.setUpFile(FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(FILEPATH);
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("This","That","This and That");
 
             assertEquals(vp.getMake(),"This");
             assertEquals(vp.getModel(), "That");
             assertEquals(vp.getName(),"This and That");
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
     @Test
     public void testProfileStorage() {
         try {
-            assert InstrumentationTestHelper.setUpFile(FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(FILEPATH);
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("This","That","This and That");
 
             Scanner s = new Scanner(new File(FILEPATH));
@@ -46,10 +46,20 @@ public class VehicleInstrumentationTests {
             assert InstrumentationTestHelper.testTransfer(vp,s);
             assert !s.hasNextLine();
         } catch (Exception e) {
-            InstrumentationTestHelper.exceptionHandler(e);
+            assert InstrumentationTestHelper.exceptionHandler(e);
         }
     }
 
+    @Test
+    public void testReadLog() {
+        VehicleProfile vp = new VehicleProfile("Test","Test","Test");
+        vp.setEntry();
 
+        Scanner lineScanner = new Scanner(vp.entry);
+        lineScanner.useDelimiter(",");
+        VehicleProfile test = VehicleProfile.readLog(lineScanner);
+        test.setEntry();
 
+        assertEquals(vp.entry,test.entry);
+    }
 }
