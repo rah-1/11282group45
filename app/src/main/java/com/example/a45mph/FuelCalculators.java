@@ -53,7 +53,7 @@ abstract public class FuelCalculators {
     public static double fuelCost(double unitPrice, double amtBought)
     {
         double result = hypotheticalFuelCost(unitPrice,amtBought);
-        fuelExpenditure.add(new ExpenditureDataLog(result, amtBought, LocalDateTime.now()));
+        fuelExpenditure.add(new ExpenditureDataLog(result, amtBought, LocalDateTime.now(), VehicleProfileAdapter.currentProfile));
 
         return result;
     }

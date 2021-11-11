@@ -1,15 +1,20 @@
 package com.example.a45mph;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
 import java.io.IOException;
+import java.io.InvalidObjectException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -20,24 +25,8 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     private EditText modelText;
     private EditText nameText;
     private ImageButton createButton;
+    private Button selectButton;
     private static ArrayList<VehicleProfile> vehicleArray;
-
-    private void loadVehicleProiles()
-    {
-        Scanner s = new Scanner(FILEPATH);
-        // iterate through the file and read the vehicle profiles
-        while (s.hasNextLine())
-        {
-            // set up Scanner with comma delimiter
-            String line = s.nextLine();
-            Scanner lineScanner = new Scanner(line);
-            lineScanner.useDelimiter(",");
-
-            // read out all the attributes of the profile
-            // replace this skeleton implementation with a real version
-            vehicleArray.add(new VehicleProfile("This","That","This and That"));
-        }
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,9 +35,18 @@ public class VehicleProfilesActivity extends AppCompatActivity {
 
         createButton = (ImageButton) findViewById(R.id.addvehiclebutton);
         createButton.setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View v) {
                 createVehicleProfile();
+            }
+        });
+
+        selectButton = (Button) findViewById(R.id.profileselectbutton);
+        selectButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                selectVehicleProfile();
             }
         });
 
@@ -63,12 +61,19 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         return vehicleArray;
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile createVehicleProfile(String make, String model, String name)
     {
         return VehicleProfile.generateProfile(make,model,name);
     }
 
+    public void selectVehicleProfile()
+    {
+        startActivity(new Intent(this, VehicleSelectionActivity.class));
+    }
+
     // Here, we make and select user's vehicle profiles
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void createVehicleProfile()
     {
         String errorMessage = "No Error";
@@ -77,7 +82,12 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         try {
             // get input from the fields
             VehicleProfile vp = createVehicleProfile(makeText.getText().toString(),modelText.getText().toString(),nameText.getText().toString());
+
+            if (vp == null)
+                throw new InvalidObjectException("Duplicate Profile Name");
+
             vp.transfer();
+            VehicleSelectionActivity.profileAdapter.selectProfile(VehicleSelectionActivity.profileAdapter.addProfile(vp));
 
             Log.d("Vehicle Profile", vp.toString());
 
@@ -89,6 +99,9 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         } catch (ArithmeticException e) {
             // write to the screen somewhere that nonpositive amounts for either field are disallowed
             errorMessage = "Error: Arithmetic Error!";
+        } catch (InvalidObjectException e) {
+            // write to the screen somewhere that duplicate names are disallowed
+            errorMessage = "Error: Duplicate Vehicle Name!";
         } catch (IOException e) {
             // write to the screen somewhere that a file error has occurred
             errorMessage = "Error: File IO Error!";
@@ -103,16 +116,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         }
     }
 
-    public static boolean selectVehicleProfile(VehicleProfile vp)
-    {
-        // change out the current vehicle profile, whatever that entails
-        return true;
-    }
 
-    public void selectVehicleProfile(int position)
-    {
-        // use position to select the correct vehicle profile
-
-    }
 
 }

@@ -2,18 +2,23 @@ package com.example.a45mph;
 
 
 import android.content.Context;
+import android.os.Build;
 import android.util.Log;
+
+import androidx.annotation.RequiresApi;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 public class TripDataLog extends DataLog {
     private double odometer;
     private double consumption;
     private double mileage;
-    private final String FILEPATH = "/data/data/com.example.a45mph/tripLog.csv";
+    public static final String FILEPATH = "/data/data/com.example.a45mph/tripLog.csv";
 
     private void setAll(double odom, double con)
     {
@@ -28,8 +33,7 @@ public class TripDataLog extends DataLog {
 
     // defaults should not be necessary, but in the event that a default constructor call is made on accident,
     // we set all attributes to 0.
-    public TripDataLog()
-    {
+    public TripDataLog() {
         odometer = 0;
         consumption = 0;
         mileage = 0;
@@ -40,9 +44,13 @@ public class TripDataLog extends DataLog {
         setAll(odom, con);
     }
 
-    public TripDataLog(double odom, double con, LocalDateTime time)
-    {
+    public TripDataLog(double odom, double con, LocalDateTime time) {
         super(time);
+        setAll(odom,con);
+    }
+
+    public TripDataLog(double odom, double con, LocalDateTime time, VehicleProfile vehicle) {
+        super(time, vehicle);
         setAll(odom,con);
     }
 
@@ -60,9 +68,46 @@ public class TripDataLog extends DataLog {
     }
 
     @Override
-    public void setEntry()
+    public void setEntry() {
+        entry = time + "," + vehicle.getName() + "," + consumption + "," + odometer + "," + mileage + "\n";
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static TripDataLog readLog(Scanner lineScanner)
     {
-        entry = time + "," + consumption + "," + odometer + "," + mileage + "\n";
+        LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
+        VehicleProfile vehicleProfile = VehicleSelectionActivity.profileAdapter.searchProfiles(lineScanner.next());
+        double consumption = Double.parseDouble(lineScanner.next());
+        double odometer = Double.parseDouble(lineScanner.next());
+
+        return new TripDataLog(odometer,consumption,timestamp,vehicleProfile);
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ArrayList<TripDataLog> loadTripDataLogs() throws IOException
+    {
+        ArrayList<TripDataLog> trips = new ArrayList<>();
+        Scanner s = new Scanner(new File(FILEPATH));
+        // iterate through the file and read the vehicle profiles
+        try {
+            while (s.hasNextLine())
+            {
+                // set up Scanner with comma delimiter
+                String line = s.nextLine();
+                Scanner lineScanner = new Scanner(line);
+                lineScanner.useDelimiter(",");
+
+                // read out all the attributes of the profile
+                TripDataLog trip = readLog(lineScanner);
+                trips.add(trip);
+            }
+
+            return trips;
+
+        } catch (Exception e) {
+            Log.d("Loading Trips","IOException Thrown");
+            throw new IOException();
+        }
     }
 
 }
