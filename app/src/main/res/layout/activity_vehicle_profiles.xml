@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/fuelgroupvehicleprofile"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:scrollbarSize="2dp">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/fuelgroupvehicleprofile"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
     tools:context=".VehicleProfilesActivity">
 
     <TextView
@@ -123,6 +127,7 @@
         android:layout_width="337dp"
         android:layout_height="43dp"
         android:layout_marginTop="332dp"
+        android:checkedButton="@id/gasbuttonvehicleprofiles"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.54"
@@ -141,12 +146,6 @@
             android:layout_height="match_parent"
             android:text="Gas" />
 
-        <RadioButton
-            android:id="@+id/hybridbuttonvehicleprofiles"
-            android:layout_width="87dp"
-            android:layout_height="43dp"
-            android:text="Hybrid" />
-
     </RadioGroup>
 
     <TextView
@@ -163,11 +162,13 @@
     <RadioGroup
         android:layout_width="336dp"
         android:layout_height="43dp"
+        android:layout_marginTop="400dp"
+        android:checkedButton="@id/automaticbuttonvehicleprofiles"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.546"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="402dp" >
+        app:layout_constraintTop_toTopOf="parent">
 
         <RadioButton
             android:id="@+id/automaticbuttonvehicleprofiles"
@@ -178,10 +179,10 @@
 
         <RadioButton
             android:id="@+id/manualbuttonvehicleprofiles"
-            android:layout_width="140dp"
-            android:layout_height="43dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="Manual" />
+            android:text="Manual/Standard" />
 
     </RadioGroup>
 
@@ -200,11 +201,11 @@
         android:id="@+id/textView29"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="456dp"
-        android:text="Number of Speeds/Gears (Between 3 and 8. Manuals Only)"
+        android:layout_marginTop="452dp"
+        android:text="Number of Speeds/Gears (Between 3 and 8), if Manual Transmission"
         android:textSize="10sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.261"
+        app:layout_constraintHorizontal_bias="0.363"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -221,4 +222,28 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:text="Year"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.67"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/yearedittextvehicleprofiles"
+        android:layout_width="146dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="264dp"
+        android:ems="10"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.973"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

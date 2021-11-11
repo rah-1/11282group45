@@ -32,7 +32,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     private EditText speed;
     private RadioButton gas;
     private RadioButton diesel;
-    private RadioButton hybrid;
     private ImageButton createButton;
     private Button selectButton;
     private static ArrayList<VehicleProfile> vehicleArray;
@@ -62,9 +61,9 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         speed = (EditText) findViewById(R.id.speededittextvehicleprofiles);
         automatic = (RadioButton) findViewById(R.id.automaticbuttonvehicleprofiles);
         manual = (RadioButton) findViewById(R.id.manualbuttonvehicleprofiles);
+        year = (EditText) findViewById(R.id.yearedittextvehicleprofiles);
         gas = (RadioButton) findViewById(R.id.gasbuttonvehicleprofiles);
         diesel = (RadioButton) findViewById(R.id.dieselbuttonvehicleprofiles);
-        hybrid = (RadioButton) findViewById(R.id.hybridbuttonvehicleprofiles);
         makeText = (EditText) findViewById(R.id.vehicleprofilemake);
         modelText = (EditText) findViewById(R.id.vehicleprofilemodel);
         nameText = (EditText) findViewById(R.id.vehicleprofilename);
@@ -101,10 +100,10 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             String model = modelText.getText().toString();
             String name = nameText.getText().toString();
             String year = this.year.getText().toString();
-            boolean auto = automatic.isActivated();
-            boolean man = manual.isActivated();
-            boolean gas = this.gas.isActivated();
-            boolean diesel = this.diesel.isActivated();
+            boolean auto = automatic.isChecked();
+            boolean man = manual.isChecked();
+            boolean gas = this.gas.isChecked();
+            boolean diesel = this.diesel.isChecked();
             String speed = this.speed.getText().toString();
 
             // read data out of the economy file to make a new vehicle
