@@ -116,5 +116,4 @@ public class VehicleProfile extends DataLog {
 
         transfer(vehicleFile);
     }
-
 }

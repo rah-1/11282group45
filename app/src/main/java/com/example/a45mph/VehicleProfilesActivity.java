@@ -11,7 +11,11 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -73,6 +77,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         String errorMessage = "No Error";
         boolean noExceptions = false;
 
+
         try {
             // get input from the fields
             VehicleProfile vp = createVehicleProfile(makeText.getText().toString(),modelText.getText().toString(),nameText.getText().toString());
@@ -112,6 +117,36 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     {
         // use position to select the correct vehicle profile
 
+    }
+
+    public Double getCO2Data(String make, String model, String name, String year, String transmission){
+        // create reader for the vehicles.csv file
+        InputStream input = getResources().openRawResource(R.raw.vehicles);
+        BufferedReader reader = new BufferedReader(new InputStreamReader(input, Charset.forName("UTF-8")));
+
+        String line;
+        Double CO2 = -1.0;
+
+        try{
+            // read each line looking for a matching vehicle
+            while((line = reader.readLine()) != null){
+                String[] entries = line.split(",");
+                String tempMake = entries[46];
+                String tempModel = entries[47];
+                String tempYear = entries[63];
+                String tempTransmission = entries[57];
+
+
+                if(tempMake == make && tempModel == model && tempYear == year && tempTransmission == transmission){
+                    CO2 = Double.parseDouble(entries[14]);
+                    return CO2;
+                }
+            }
+        }
+        catch(IOException e){
+
+        }
+        return CO2;
     }
 
 
