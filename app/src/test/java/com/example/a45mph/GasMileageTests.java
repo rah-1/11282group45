@@ -6,7 +6,7 @@ public class GasMileageTests {
     @Test
     public void executeGasMileage(){
         assert(30 / 2 == FuelCalculators.gasMileage( 30,2));
-        assert(240 / 40 == FuelCalculators.gasMileage(220,40));
+        assert(220.0 / 40.0 == FuelCalculators.gasMileage(220,40));
         assert(25 / 5 == FuelCalculators.gasMileage(25, 5));
     }
 
@@ -25,6 +25,7 @@ public class GasMileageTests {
         catch (ArithmeticException e){
             assert true;
         }
+
         try{
             double badInput = FuelCalculators.gasMileage(0,5);
             assert false;
@@ -32,6 +33,7 @@ public class GasMileageTests {
         catch (ArithmeticException e){
             assert true;
         }
+
         try{
             double badInput = FuelCalculators.gasMileage(0,0);
             assert false;
@@ -50,6 +52,7 @@ public class GasMileageTests {
         catch (ArithmeticException e){
             assert true;
         }
+
         try{
             double badInput = FuelCalculators.gasMileage(9, -7);
             assert false;
@@ -57,6 +60,7 @@ public class GasMileageTests {
         catch (ArithmeticException e){
             assert true;
         }
+
         try{
             double badInput = FuelCalculators.gasMileage(-9, -7);
             assert false;

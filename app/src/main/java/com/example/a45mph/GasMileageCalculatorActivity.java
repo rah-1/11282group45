@@ -43,8 +43,7 @@ public class GasMileageCalculatorActivity extends AppCompatActivity {
 
     // devise methods of calculating gas mileage
     public static double calculateMileage(double distance, double amtUsed){
-        double result = FuelCalculators.gasMileage(distance, amtUsed);
-        return result;
+        return FuelCalculators.gasMileage(distance, amtUsed);
     }
 
     public double calculateMileage(){
