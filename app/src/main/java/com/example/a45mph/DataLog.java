@@ -13,6 +13,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.Scanner;
 
 public abstract class DataLog
 {
@@ -40,6 +41,24 @@ public abstract class DataLog
         time = t;
         vehicle = v;
         entry = "";
+    }
+
+    public static Scanner makeLineScanner(Scanner s)
+    {
+        String line = s.nextLine();
+        Scanner lineScanner = new Scanner(line);
+        lineScanner.useDelimiter(",");
+
+        return lineScanner;
+    }
+
+    public static void skipLines(Scanner lineScanner, int lines) throws IOException
+    {
+        if (lines < 0)
+            throw new IOException();
+
+        for (int i = 0; i < lines; i++)
+            lineScanner.next();
     }
 
     public LocalDateTime getTime() { return time; }

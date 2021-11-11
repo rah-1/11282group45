@@ -72,13 +72,9 @@ public class ExpenditureDataLog extends DataLog {
         try {
             while (s.hasNextLine())
             {
-                // set up Scanner with comma delimiter
-                String line = s.nextLine();
-                Scanner lineScanner = new Scanner(line);
-                lineScanner.useDelimiter(",");
-
+                // set up Scanner with comma delimiter and
                 // read out all the attributes of the profile
-                ExpenditureDataLog trip = readLog(lineScanner);
+                ExpenditureDataLog trip = readLog(makeLineScanner(s));
                 expends.add(trip);
             }
 
@@ -86,7 +82,7 @@ public class ExpenditureDataLog extends DataLog {
 
         } catch (Exception e) {
             Log.d("Loading Expenditures","IOException Thrown");
-            throw new IOException();
+            throw new IOException("Error Loading Expenditures");
         }
 
 

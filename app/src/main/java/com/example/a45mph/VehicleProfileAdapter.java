@@ -101,6 +101,8 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         }
     }
 
+
+
     public ArrayList<VehicleProfile> getProfiles() {
         return profiles;
     }

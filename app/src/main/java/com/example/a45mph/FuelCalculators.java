@@ -64,6 +64,14 @@ abstract public class FuelCalculators {
         return result;
     }
 
+    public static double gasMileage(double distance, double amtUsed) {
+        if(amtUsed <= 0 || distance <= 0){
+            throw new ArithmeticException();
+        }
+
+        return Math.round(distance / amtUsed * 100) / 100.00;
+    }
+
 
 
 }

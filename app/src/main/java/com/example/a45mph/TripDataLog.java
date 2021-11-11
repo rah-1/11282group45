@@ -92,13 +92,9 @@ public class TripDataLog extends DataLog {
         try {
             while (s.hasNextLine())
             {
-                // set up Scanner with comma delimiter
-                String line = s.nextLine();
-                Scanner lineScanner = new Scanner(line);
-                lineScanner.useDelimiter(",");
-
+                // set up Scanner with comma delimiter and
                 // read out all the attributes of the profile
-                TripDataLog trip = readLog(lineScanner);
+                TripDataLog trip = readLog(makeLineScanner(s));
                 trips.add(trip);
             }
 
@@ -106,7 +102,7 @@ public class TripDataLog extends DataLog {
 
         } catch (Exception e) {
             Log.d("Loading Trips","IOException Thrown");
-            throw new IOException();
+            throw new IOException("Error Reading Trips");
         }
     }
 
