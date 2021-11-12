@@ -82,7 +82,7 @@ public class VehicleProfile extends DataLog {
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile searchProfile(String make, String model, String name, String year, boolean gas,
-                                               boolean diesel, boolean auto, boolean man, String speed, Scanner s) throws IOException
+                                               boolean diesel, boolean elec, boolean auto, boolean man, String speed, Scanner s) throws IOException
     {
         // search for vehicle profile according to the passed params. Construct same and continue
         // with the process of making the profile by passing the result to caller
@@ -135,6 +135,16 @@ public class VehicleProfile extends DataLog {
                 if (Objects.equals(fuel1, "Diesel")) {
                     GramsCO2 = CO2;
                 } else if (Objects.equals(fuel2, "Diesel")) {
+                    GramsCO2 = ACO2;
+                }
+
+            } else if (elec) {
+                if (!(Objects.equals(fuel1, "Electricity") || Objects.equals(fuel2, "Electricity")))
+                    continue;
+
+                if (Objects.equals(fuel1, "Electricity")) {
+                    GramsCO2 = CO2;
+                } else if (Objects.equals(fuel2, "Electricity")) {
                     GramsCO2 = ACO2;
                 }
 
