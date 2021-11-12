@@ -21,11 +21,12 @@ public class EmissionsCalculatorsInstrumentationTests {
     }
 
     @Test
-    public void testGetTripEmissions1() {
+    public void testGetTripEmissions() {
         try {
             assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
             VehicleProfile vp = new VehicleProfile("Dodge","Charger","Mom's Car",2014,"1000",
                     new Fueltype("Regular"),444, LocalDateTime.now());
+            VehicleSelectionActivity.profileAdapter.addProfile(vp);
 
             TripDataLog trip1 = new TripDataLog(100,5,LocalDateTime.now(),vp);
             TripDataLog trip2 = new TripDataLog(152, 15, LocalDateTime.now(),vp);
@@ -40,38 +41,34 @@ public class EmissionsCalculatorsInstrumentationTests {
 
     @Test
     public void testGetTotalTripEmissions(){
-        try {
-            assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
-            VehicleProfile vp = new VehicleProfile("Dodge","Charger","Mom's Car",
-                    2014,"1000",new Fueltype("Regular"),202,LocalDateTime.now());
-            VehicleProfile vp1 = new VehicleProfile("Dodge","Ram F150", "Dad's Truck",
-                    2007,"1001",new Fueltype("Regular"), 577,LocalDateTime.now());
+        assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
+        VehicleProfile vp = new VehicleProfile("Dodge","Charger","Mom's Car",
+                2014,"1000",new Fueltype("Regular"),202,LocalDateTime.now());
+        VehicleProfile vp1 = new VehicleProfile("Dodge","Ram F150", "Dad's Truck",
+                2007,"1001",new Fueltype("Regular"), 577,LocalDateTime.now());
 
-            TripDataLog trip1 = new TripDataLog(100,5,LocalDateTime.now(),vp);
-            TripDataLog trip2 = new TripDataLog(152, 15, LocalDateTime.now(),vp);
-            TripDataLog trip3 = new TripDataLog(394,13, LocalDateTime.now(), vp1);
-            TripDataLog trip4 = new TripDataLog(495, 14, LocalDateTime.now(), vp1);
-            trip1.setEntry();
-            trip2.setEntry();
-            trip3.setEntry();
-            trip4.setEntry();
+        VehicleSelectionActivity.profileAdapter.addProfile(vp);
+        VehicleSelectionActivity.profileAdapter.addProfile(vp1);
 
-            Scanner testScanner = new Scanner(trip1.entry +
-                    "\n" + trip2.entry + "\n" + trip3.entry + "\n" + trip4.entry + "\n");
+        TripDataLog trip1 = new TripDataLog(100,5,LocalDateTime.now(),vp);
+        TripDataLog trip2 = new TripDataLog(152, 15, LocalDateTime.now(),vp);
+        TripDataLog trip3 = new TripDataLog(394,13, LocalDateTime.now(), vp1);
+        TripDataLog trip4 = new TripDataLog(495, 14, LocalDateTime.now(), vp1);
+        trip1.setEntry();
+        trip2.setEntry();
+        trip3.setEntry();
+        trip4.setEntry();
 
-            assertEquals(EmissionsCalculator.getTotalEmissions(testScanner,vp),(202*100)+(202*152));
-            assertEquals(EmissionsCalculator.getTotalEmissions(testScanner,vp1), (577*394)+(577*495));
-
-
-        } catch (Exception e) {
-            assert InstrumentationTestHelper.exceptionHandler(e);
-        }
+        assertEquals(EmissionsCalculator.getTotalEmissions(new Scanner(trip1.entry + trip2.entry + trip3.entry + trip4.entry),vp),(202*100)+(202*152),0);
+        assertEquals(EmissionsCalculator.getTotalEmissions(new Scanner(trip1.entry + trip2.entry + trip3.entry + trip4.entry),vp1), (577*394)+(577*495),0);
     }
 
     @Test
     public void testGetAverageEmissions() {
         VehicleProfile vp = new VehicleProfile("Dodge","Ram F150", "Dad's Truck",
                 2007,"1001",new Fueltype("Regular"), 577,LocalDateTime.now());
+
+        VehicleSelectionActivity.profileAdapter.addProfile(vp);
 
         TripDataLog trip1 = new TripDataLog(152, 15, LocalDateTime.now(),vp);
         TripDataLog trip2 = new TripDataLog(394,13, LocalDateTime.now(), vp);
@@ -80,9 +77,8 @@ public class EmissionsCalculatorsInstrumentationTests {
         trip2.setEntry();
         trip3.setEntry();
 
-        Scanner testScanner = new Scanner(trip1.entry +
-                "\n" + trip2.entry + "\n" + trip3.entry + "\n");
+        Scanner testScanner = new Scanner(trip1.entry + trip2.entry + trip3.entry);
 
-        assertEquals(EmissionsCalculator.getAverageEmissions(testScanner,vp),(152+394+495)*577/3.0);
+        assertEquals(EmissionsCalculator.getAverageEmissions(testScanner,vp),(152+394+495)*577/3.0, 0);
     }
 }

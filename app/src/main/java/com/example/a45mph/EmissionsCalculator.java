@@ -23,7 +23,7 @@ public abstract class EmissionsCalculator {
         while (s.hasNextLine())
         {
             TripDataLog trip = TripDataLog.readLog(DataLog.makeLineScanner(s));
-            if (Objects.equals(vp.getName(),trip.getVehicle().getName()));
+            if (Objects.equals(vp.getName(),trip.getVehicle().getName()))
                 sum += getTripEmissions(trip);
         }
 
@@ -39,7 +39,7 @@ public abstract class EmissionsCalculator {
         while (s.hasNextLine())
         {
             TripDataLog trip = TripDataLog.readLog(DataLog.makeLineScanner(s));
-            if (Objects.equals(vp.getName(),trip.getVehicle().getName()));
+            if (Objects.equals(vp.getName(),trip.getVehicle().getName()))
             {
                 sum += getTripEmissions(trip);
                 i++;
