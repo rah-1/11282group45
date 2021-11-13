@@ -1,9 +1,11 @@
 package com.example.a45mph;
 
 import android.os.Build;
+import android.widget.ArrayAdapter;
 
 import androidx.annotation.RequiresApi;
 
+import java.util.ArrayList;
 import java.util.Objects;
 import java.util.Scanner;
 
@@ -47,5 +49,14 @@ public abstract class EmissionsCalculator {
         }
 
         return sum / i;
+    }
+
+    public static ArrayList<EmissionDataLog> getAllEmissions(Scanner s) {
+        ArrayList<EmissionDataLog> emit = new ArrayList<>();
+
+
+
+
+        return emit;
     }
 }

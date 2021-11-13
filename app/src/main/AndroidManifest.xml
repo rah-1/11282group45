@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.45mph">
         <activity
-            android:name=".EconomyReaderActivity"
-            android:exported="true" />
-        <activity
             android:name=".VehicleSelectionActivity"
             android:exported="true" />
         <activity
