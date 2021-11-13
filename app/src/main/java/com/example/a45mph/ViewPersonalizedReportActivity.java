@@ -31,7 +31,5 @@ public class ViewPersonalizedReportActivity extends AppCompatActivity {
         enviroImpact.setText(PersonalizedReportsAdapter.currentReport.getEnviroImpactAsString());
 
     }
-    //TODO reassign TextView objects with proper values for the selected report
-    // someTextView.setText(PR.get(attribute) + " units")
 
 }
