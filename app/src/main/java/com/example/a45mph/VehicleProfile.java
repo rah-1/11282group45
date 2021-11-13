@@ -94,6 +94,7 @@ public class VehicleProfile extends DataLog {
     public String getMake() { return make; }
     public String getModel() { return model; }
     public String getVehicleID() { return vehicleID; }
+    public double getGPM() { return gramsPerMileCO2; }
 
     private void setVehicleData(String make, String model)
     {

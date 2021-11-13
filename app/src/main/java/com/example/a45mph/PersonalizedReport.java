@@ -1,27 +1,15 @@
 package com.example.a45mph;
 
 public class PersonalizedReport {
-    private boolean reportsOn;
-    private boolean enableTotalFuelConsumption;
-    private boolean enableTotalFuelCost;
-    private boolean enableAverageGasMileage;
-    private boolean enableEnvironmentalImpact;
-
-    private String timePeriod;
     private int performanceRating;
     private double totalFuelConsumption;
     private double totalFuelCost;
     private double averageGasMileage;
     private double environmentalImpact;
+    private String reportStartDate;
+    private String reportEndDate;
 
     public PersonalizedReport() {
-        reportsOn = false;
-        enableTotalFuelConsumption = true;
-        enableTotalFuelCost = true;
-        enableAverageGasMileage = true;
-        enableEnvironmentalImpact = true;
-
-        timePeriod = "Monthly";
         performanceRating = 1;
         totalFuelConsumption = 0.0;
         totalFuelCost = 0.0;
@@ -29,17 +17,21 @@ public class PersonalizedReport {
         environmentalImpact = 0.0;
     }
 
-    public boolean isReportsOn () {return reportsOn;}
-    public boolean isTotalFuelConsumption () {return enableTotalFuelConsumption;}
-    public boolean isTotalFuelCost () {return enableTotalFuelCost;}
-    public boolean isAverageGasMileage () {return enableAverageGasMileage;}
-    public boolean isEnvironmentalImpact () {return enableEnvironmentalImpact;}
-
-    public String getTimePeriod() {return timePeriod;}
     public int getPerformanceRating() {return performanceRating;}
     public double getTotalFuelConsumption() {return totalFuelConsumption;}
     public double getTotalFuelCost() {return totalFuelCost;}
     public double getAverageGasMileage() {return averageGasMileage;}
     public double getEnvironmentalImpact() {return environmentalImpact;}
+    public String getReportStartDate() {return reportStartDate;}
+    public String getReportEndDate() {return reportEndDate;}
+    public String getRatingAsString() {return Integer.toString(performanceRating)+"/5 stars";}
+
+    public void setPerformanceRating(int PR) {performanceRating=PR;}
+    public void setTotalFuelConsumption(double TFC) {totalFuelConsumption=TFC;}
+    public void setTotalFuelCost(double TFC) {totalFuelCost=TFC;}
+    public void setAverageGasMileage(double AGM) {averageGasMileage=AGM;}
+    public void setEnvironmentalImpact(double EI) {environmentalImpact=EI;}
+    public void setReportStartDate(String date) {reportStartDate=date;}
+    public void setReportEndDate(String date) {reportEndDate=date;}
 
 }
