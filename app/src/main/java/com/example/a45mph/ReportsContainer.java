@@ -38,16 +38,14 @@ public class ReportsContainer {
     public String getTimePeriod() {return timePeriod;}
 
     @RequiresApi(api = Build.VERSION_CODES.O)
-    public void setReports(boolean RO, boolean ETFCn, boolean ETFCo, boolean EAGM, boolean EEI, String TP) throws IOException {
-        reportsOn = RO;
-        enableTotalFuelConsumption = ETFCn;
-        enableTotalFuelCost = ETFCo;
-        enableAverageGasMileage = EAGM;
-        enableEnvironmentalImpact = EEI;
-        timePeriod = TP;
+    public void setReportsOn(boolean b) throws IOException {reportsOn=b; recalculateReports();}
+    public void setEnableTotalFuelConsumption(boolean b) {enableTotalFuelConsumption=b;}
+    public void setEnableTotalFuelCost(boolean b) {enableTotalFuelCost=b;}
+    public void setEnableAverageGasMileage(boolean b) {enableAverageGasMileage=b;}
+    public void setEnableEnvironmentalImpact(boolean b) {enableEnvironmentalImpact=b;}
 
-        recalculateReports();
-    }
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public void setTimePeriod(String TP) throws IOException {timePeriod = TP; recalculateReports();}
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     public void recalculateReports() throws IOException {
