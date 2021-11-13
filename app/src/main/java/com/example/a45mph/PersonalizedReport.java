@@ -25,6 +25,10 @@ public class PersonalizedReport {
     public String getReportStartDate() {return reportStartDate;}
     public String getReportEndDate() {return reportEndDate;}
     public String getRatingAsString() {return Integer.toString(performanceRating)+"/5 stars";}
+    public String getConsumptionAsString() {return Double.toString(totalFuelConsumption)+"gal";}
+    public String getCostAsString() {return "$" + Double.toString(totalFuelCost);}
+    public String getAverageMileageAsString() {return Double.toString(averageGasMileage)+"mpg";}
+    public String getEnviroImpactAsString() {return Double.toString(averageGasMileage)+"g of CO2";}
 
     public void setPerformanceRating(int PR) {performanceRating=PR;}
     public void setTotalFuelConsumption(double TFC) {totalFuelConsumption=TFC;}

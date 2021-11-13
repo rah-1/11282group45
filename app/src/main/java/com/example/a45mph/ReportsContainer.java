@@ -106,7 +106,7 @@ public class ReportsContainer {
             double environmentalImpact = totalGPM * odometer / (double) count;
             PersonalizedReport p = new PersonalizedReport();
             double ratingRaw = 2.5*(avgMileage/25.0-environmentalImpact/odometer);
-            if (ratingRaw < 0) {ratingRaw=0;}
+            if (ratingRaw < 1) {ratingRaw=1;}
             if (ratingRaw > 5) {ratingRaw=5;}
             int ratingTrue = (int) ratingRaw;
             p.setPerformanceRating(ratingTrue);

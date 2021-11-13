@@ -22,6 +22,13 @@ public class ViewPersonalizedReportActivity extends AppCompatActivity {
         avgMileage = (TextView) findViewById(R.id.averagegasmileagetextview);
         enviroImpact = (TextView) findViewById(R.id.environmentalimpacttextview);
 
+        startDate.setText(PersonalizedReportsAdapter.currentReport.getReportStartDate());
+        endDate.setText(PersonalizedReportsAdapter.currentReport.getReportEndDate());
+        perfRating.setText(PersonalizedReportsAdapter.currentReport.getRatingAsString());
+        TFConsumption.setText(PersonalizedReportsAdapter.currentReport.getConsumptionAsString());
+        TFCost.setText(PersonalizedReportsAdapter.currentReport.getCostAsString());
+        avgMileage.setText(PersonalizedReportsAdapter.currentReport.getAverageMileageAsString());
+        enviroImpact.setText(PersonalizedReportsAdapter.currentReport.getEnviroImpactAsString());
 
     }
     //TODO reassign TextView objects with proper values for the selected report
