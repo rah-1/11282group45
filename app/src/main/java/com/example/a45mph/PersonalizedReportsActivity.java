@@ -2,6 +2,8 @@ package com.example.a45mph;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Build;
@@ -23,6 +25,7 @@ public class PersonalizedReportsActivity extends AppCompatActivity implements Ad
     private Button customizeFeaturesButton;
     private Switch enablePersonalizedReportsSwitch;
     private Spinner timePeriodDropdown;
+    private RecyclerView reportsRecycler;
     private static final String[] timePeriodOptions = {"Daily", "Weekly", "Monthly", "Annually"};
 
     @Override
@@ -55,6 +58,13 @@ public class PersonalizedReportsActivity extends AppCompatActivity implements Ad
 
     });
 
+    reportsRecycler = (RecyclerView) findViewById(R.id.reportselectionview);
+
+    PersonalizedReportsAdapter reportsAdapter = new PersonalizedReportsAdapter(this);
+    reportsRecycler.setAdapter(reportsAdapter);
+    reportsRecycler.setLayoutManager(new LinearLayoutManager(this));
+
+
     customizeFeaturesButton = (Button) findViewById(R.id.reportfeaturesbutton);
     customizeFeaturesButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -62,7 +72,11 @@ public class PersonalizedReportsActivity extends AppCompatActivity implements Ad
                 personalizedReportsFeaturesActivity();
             }
         });
+
+
     }
+
+
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     @Override

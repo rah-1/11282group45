@@ -8,10 +8,11 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/reportselectionview"
-        android:layout_width="338dp"
-        android:layout_height="450dp"
-        android:layout_marginStart="36dp"
+        android:layout_width="416dp"
+        android:layout_height="483dp"
         android:layout_marginTop="250dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -32,6 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="36dp"
         android:layout_marginTop="98dp"
+        android:minHeight="48dp"
         android:text="Enable Personalized Reports\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -49,12 +51,13 @@
     <Spinner
         android:id="@+id/timeperioddropdown"
         android:layout_width="142dp"
-        android:layout_height="26dp"
+        android:layout_height="32dp"
         android:layout_marginStart="36dp"
         android:layout_marginTop="179dp"
         android:spinnerMode="dropdown"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
 
     <TextView
         android:id="@+id/textView30"
