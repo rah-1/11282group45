@@ -92,7 +92,8 @@ public class EmissionsCalculatorsInstrumentationTests {
     public void testGetAllEmissions() {
 
         try {
-            assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
+            useAppContext();
+            assert InstrumentationTestHelper.setUpTests(appContext.getFileStreamPath("tripLog.csv").toString());
 
             LocalDateTime instant1 = LocalDateTime.now();
             LocalDateTime instant2 = LocalDateTime.now();
@@ -101,6 +102,10 @@ public class EmissionsCalculatorsInstrumentationTests {
                     2007, "1001", new Fueltype("Regular"), 577, instant1);
             VehicleProfile vp1 = new VehicleProfile("Volkswagen", "Beetle", "Dream Car",
                     1968, "1", new Fueltype("Diesel"), 201, instant2);
+            VehicleSelectionActivity.profileAdapter.addProfile(vp);
+            VehicleSelectionActivity.profileAdapter.addProfile(vp1);
+            vp.transfer();
+            vp1.transfer();
 
             TripDataLog trip1 = new TripDataLog(100,5,instant1,vp);
             TripDataLog trip2 = new TripDataLog(152, 15, instant1,vp1);
@@ -113,8 +118,8 @@ public class EmissionsCalculatorsInstrumentationTests {
                 t.transfer();
             }
 
-            useAppContext();
-            ArrayList<EmissionDataLog> emits = EmissionsCalculator.getAllEmissions(new Scanner(appContext.getFileStreamPath("tripLog.csv")));
+            ArrayList<EmissionDataLog> emits = EmissionsCalculator.getAllEmissions(
+                    appContext.getFileStreamPath(TripDataLog.FILE));
 
             EmissionDataLog[] emitTests = {
                     new EmissionDataLog(trip1.getOdometer()*trip1.getVehicle().getCO2(),trip1.getTime(),trip1.getVehicle()),
@@ -125,7 +130,9 @@ public class EmissionsCalculatorsInstrumentationTests {
             int i = 0;
             for (EmissionDataLog e : emits)
             {
-                assertEquals(e.getVehicle().getName(),emitTests[i++].getVehicle().getName());
+                assertEquals(e.getVehicle().getName(),emitTests[i].getVehicle().getName());
+                assertEquals(e.getTime(),emitTests[i].getTime());
+                assertEquals(e.getgCO2(),emitTests[i++].getgCO2(), 0);
             }
 
         } catch (IOException e) {

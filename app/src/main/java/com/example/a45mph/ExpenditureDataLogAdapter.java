@@ -40,7 +40,7 @@ public class ExpenditureDataLogAdapter extends RecyclerView.Adapter {
         expend.setExpenditure(expenditures.get(position).getExpenditure());
         expend.setAmountBought(expenditures.get(position).getAmountBought());
         expend.setTime(expenditures.get(position).getTime());
-        expend.setVehicle(expenditures.get(0).getVehicle());
+        expend.setVehicle(expenditures.get(position).getVehicle());
 
 
         expend.getLayout().setOnClickListener(new View.OnClickListener() {

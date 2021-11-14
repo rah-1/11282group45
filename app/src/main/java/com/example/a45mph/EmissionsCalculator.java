@@ -5,6 +5,8 @@ import android.widget.ArrayAdapter;
 
 import androidx.annotation.RequiresApi;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Objects;
 import java.util.Scanner;
@@ -48,14 +50,21 @@ public abstract class EmissionsCalculator {
             }
         }
 
+        if (sum == 0 || i == 0)
+            return 0;
+
         return sum / i;
     }
 
-    public static ArrayList<EmissionDataLog> getAllEmissions(Scanner s) {
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ArrayList<EmissionDataLog> getAllEmissions(File file) throws IOException {
         ArrayList<EmissionDataLog> emit = new ArrayList<>();
 
-
-
+        ArrayList<TripDataLog> trips = TripDataLog.loadTripDataLogs(file);
+        for (TripDataLog t : trips)
+        {
+            emit.add(new EmissionDataLog(getTripEmissions(t),t.getTime(),t.getVehicle()));
+        }
 
         return emit;
     }

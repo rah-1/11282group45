@@ -10,6 +10,7 @@ import java.time.LocalDateTime;
 
 public class EmissionDataLog extends DataLog {
     double gCO2;
+    public final String FILE = "emissions.csv";
 
     private void setAll(double gCO2){
         this.gCO2 = gCO2;

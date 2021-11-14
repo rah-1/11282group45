@@ -15,7 +15,8 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class VehicleProfile extends DataLog {
-    public static final String FILEPATH = "/data/data/com.example.a45mph/vehicles.csv";
+    public static final String FILEPATH = "/data/data/com.example.a45mph/files/vehicles.csv";
+    public static final String FILE = "vehicles.csv";
     private String vehicleID;
     private String vehicleName;
     private String make;
