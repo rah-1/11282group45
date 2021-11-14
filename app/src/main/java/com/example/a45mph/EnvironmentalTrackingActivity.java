@@ -16,7 +16,6 @@ public class EnvironmentalTrackingActivity extends AppCompatActivity {
     private RecyclerView emissionList;
     private TextView avg;
     private TextView total;
-    private Button selectProfile;
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     @Override

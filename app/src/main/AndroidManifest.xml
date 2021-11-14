@@ -22,9 +22,6 @@
             android:name=".RecordTripActivity"
             android:exported="true" />
         <activity
-            android:name=".DrivingReportsActivity"
-            android:exported="true" />
-        <activity
             android:name=".VehicleProfilesActivity"
             android:exported="true" />
         <activity

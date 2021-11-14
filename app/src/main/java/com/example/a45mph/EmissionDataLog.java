@@ -5,11 +5,13 @@ import android.provider.ContactsContract;
 
 import androidx.annotation.RequiresApi;
 
+import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
 
 public class EmissionDataLog extends DataLog {
     double gCO2;
+    public final String FILEPATH = "data/data/com.example.a45mph/files/emissions.csv";
     public final String FILE = "emissions.csv";
 
     private void setAll(double gCO2){
@@ -43,6 +45,6 @@ public class EmissionDataLog extends DataLog {
 
     @Override
     public void transfer() throws IOException {
-        // implement to save emissions data later.
+        transfer(new File(FILEPATH));
     }
 }

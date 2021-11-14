@@ -1,14 +1,12 @@
 package com.example.a45mph;
 
 
-import android.content.Context;
 import android.os.Build;
 import android.util.Log;
 
 import androidx.annotation.RequiresApi;
 
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;

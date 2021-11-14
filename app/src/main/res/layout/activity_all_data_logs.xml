@@ -7,26 +7,6 @@
     tools:context=".AllDataLogsActivity">
 
     <Button
-        android:id="@+id/drivingreportsbutton"
-        android:layout_width="145dp"
-        android:layout_height="57dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="232dp"
-        android:text="Driving Reports"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/personalizedreportsbutton"
-        android:layout_width="145dp"
-        android:layout_height="57dp"
-        android:layout_marginStart="248dp"
-        android:layout_marginTop="232dp"
-        android:text="Personal Reports"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
         android:id="@+id/triplogsbutton"
         android:layout_width="145dp"
         android:layout_height="57dp"
