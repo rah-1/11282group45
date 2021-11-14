@@ -62,20 +62,20 @@ public abstract class DataLog
             lineScanner.next();
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static String getDateAsString(LocalDateTime ldt) {
         DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("MM-dd-yyyy");
         return ldt.format(dateFormatter);
     }
-    @RequiresApi(api = Build.VERSION_CODES.O)
+
     public static String getTimeAsString(LocalDateTime ldt) {
         String timePattern = "hh:mm:ss a";
         return ldt.format(DateTimeFormatter.ofPattern(timePattern));
     }
-    @RequiresApi(api = Build.VERSION_CODES.O)
+
     public static String getDateAndTime(LocalDateTime ldt) {
         return getDateAsString(ldt) + " " + getTimeAsString(ldt);
     }
+
     public LocalDateTime getTime() { return time; }
     public VehicleProfile getVehicle() { return vehicle; }
 
