@@ -90,9 +90,10 @@ public class ExpenditureDataLog extends DataLog {
     public void transfer() throws IOException {
         File expendLogFile = new File(FILEPATH);
         setEntry();
-        Log.d("File Man", expendLogFile.getAbsoluteFile().toString());
-        Log.d("File Man", entry);
+        Log.d("Expenditure Man", expendLogFile.getAbsoluteFile().toString());
+        Log.d("Expenditure Man", entry);
 
         transfer(expendLogFile);
     }
+
 }

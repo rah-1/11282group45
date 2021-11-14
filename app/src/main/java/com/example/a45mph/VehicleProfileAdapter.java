@@ -19,7 +19,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class VehicleProfileAdapter extends RecyclerView.Adapter {
-    public static final String FILEPATH = "/data/data/com.example.a45mph/currentprofile.csv";
+    public static final String FILEPATH = "/data/data/com.example.a45mph/files/currentprofile.csv";
     private ArrayList<VehicleProfile> profiles;
     public static VehicleProfile currentProfile;
 

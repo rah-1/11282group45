@@ -97,21 +97,41 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             String make = makeText.getText().toString();
             String model = modelText.getText().toString();
             String name = nameText.getText().toString();
-            String year = this.year.getText().toString();
+            String speed = this.speed.getText().toString();
+            String yearString = this.year.getText().toString();
+            String concat = make+model+name+speed+yearString;
+
+            if (concat.contains(","))
+            {
+                throw new IOException("Do not use commas!");
+            }
+
             boolean auto = automatic.isChecked();
             boolean man = manual.isChecked();
             boolean gas = this.gas.isChecked();
             boolean diesel = this.diesel.isChecked();
             boolean electricity = this.electricity.isChecked();
-            String speed = this.speed.getText().toString();
+
+            int parsedYear = 0;
+
+            try {
+                parsedYear = Integer.parseInt(yearString);
+            } catch (NumberFormatException e)
+            {
+                throw new IOException("Year Not Formatted Correctly");
+            }
+
+            Scanner s = parseYear(parsedYear);
 
             // read data out of the economy file to make a new vehicle
-            Scanner s = new Scanner(getResources().openRawResource(R.raw.fueleconomy));
+            if (s == null)
+                throw new IOException("Select a year after 1984 and before 2023!");
+
             s.nextLine(); // skips first line of the file
 
             // search through the file for a record that matches with the given one,
             // create profile in current system, and return result
-            VehicleProfile vp = VehicleProfile.searchProfile(make, model, name, year, gas,
+            VehicleProfile vp = VehicleProfile.searchProfile(make, model, name, yearString, gas,
                     diesel, electricity, auto, man, speed, s);
 
             if (vp == null)
@@ -143,4 +163,131 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(),errorMessage,Toast.LENGTH_LONG).show();
         }
     }
+
+    private Scanner parseYear(int parsedYear)
+    {
+        Scanner s;
+        switch (parsedYear) {
+            case 1985:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1985));
+                break;
+            case 1986:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1986));
+                break;
+            case 1987:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1987));
+                break;
+            case 1988:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1988));
+                break;
+            case 1989:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1989));
+                break;
+            case 1990:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1990));
+                break;
+            case 1991:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1991));
+                break;
+            case 1992:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1992));
+                break;
+            case 1993:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1993));
+                break;
+            case 1994:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1994));
+                break;
+            case 1995:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1995));
+                break;
+            case 1996:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1996));
+                break;
+            case 1997:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1997));
+                break;
+            case 1998:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1998));
+                break;
+            case 1999:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy1999));
+                break;
+            case 2000:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2000));
+                break;
+            case 2001:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2001));
+                break;
+            case 2002:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2002));
+                break;
+            case 2003:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2003));
+                break;
+            case 2004:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2004));
+                break;
+            case 2005:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2005));
+                break;
+            case 2006:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2006));
+                break;
+            case 2007:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2007));
+                break;
+            case 2008:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2008));
+                break;
+            case 2009:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2009));
+                break;
+            case 2010:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2010));
+                break;
+            case 2011:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2011));
+                break;
+            case 2012:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2012));
+                break;
+            case 2013:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2013));
+                break;
+            case 2014:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2014));
+                break;
+            case 2015:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2015));
+                break;
+            case 2016:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2016));
+                break;
+            case 2017:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2017));
+                break;
+            case 2018:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2018));
+                break;
+            case 2019:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2019));
+                break;
+            case 2020:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2020));
+                break;
+            case 2021:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2021));
+                break;
+            case 2022:
+                s = new Scanner(getResources().openRawResource(R.raw.fueleconomy2022));
+                break;
+            default:
+                s = null;
+                break;
+        }
+
+        return s;
+    }
+
 }

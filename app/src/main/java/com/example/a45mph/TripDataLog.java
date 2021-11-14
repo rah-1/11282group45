@@ -59,9 +59,8 @@ public class TripDataLog extends DataLog {
   
     public void transfer() throws IOException {
         File tripLogFile = new File(FILEPATH);
-        setEntry();
-        Log.d("File Man", tripLogFile.getAbsoluteFile().toString());
-        Log.d("File Man", entry);
+        Log.d("Trip Data Log Man", tripLogFile.getAbsoluteFile().toString());
+        Log.d("Trip Data Log Man", entry);
 
         transfer(tripLogFile);
     }

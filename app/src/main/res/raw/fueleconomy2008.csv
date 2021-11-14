@@ -1,0 +1,1188 @@
+barrels08,barrelsA08,city08,cityA08,co2TailpipeAGpm,co2TailpipeGpm,comb08,combA08,fuelCost08,fuelCostA08,fuelType,fuelType1,highway08,highwayA08,id,make,model,mpgData,trany,year,trans_dscr,atvType,fuelType2,phevCity,phevHwy,phevComb
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,29,0,23992,Audi,TT Roadster,N,Automatic (S6),2008,3MODE,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,23993,Audi,TT Roadster quattro,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,23994,Audi,TT Roadster quattro,N,Automatic (S6),2008,3MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,23995,Jaguar,XK,N,Automatic 6-spd,2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,23996,Jaguar,XK Convertible,N,Automatic 6-spd,2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,23997,Jaguar,XKR,N,Automatic 6-spd,2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,23998,Jaguar,XKR Convertible,N,Automatic 6-spd,2008,3MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,23999,Mitsubishi,Eclipse Spyder,N,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24000,Mitsubishi,Eclipse Spyder,N,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24001,Mitsubishi,Eclipse Spyder,Y,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24002,Mitsubishi,Eclipse Spyder,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,31,0,24003,Audi,TT Coupe,Y,Automatic (S6),2008,3MODE,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24004,Audi,TT Coupe quattro,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24005,Audi,TT Coupe quattro,N,Automatic (S6),2008,3MODE,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,24006,Chrysler,Sebring Convertible,Y,Automatic 4-spd,2008,CMODE,,,0,0,0
+15.69571429,4.994,18,13,419.6666667,423.1904762,21,15,2250,2400,Gasoline or E85,Regular Gasoline,26,19,24007,Chrysler,Sebring Convertible,Y,Automatic 4-spd,2008,,FFV,E85,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,26,0,24008,Chrysler,Sebring Convertible,Y,Automatic 6-spd,2008,CMODE,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24009,Mitsubishi,Eclipse,N,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24010,Mitsubishi,Eclipse,N,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24011,Mitsubishi,Eclipse,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24012,Mitsubishi,Eclipse,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24013,Scion,tC,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,24014,Scion,tC,N,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,30,0,24015,Volkswagen,Eos,Y,Automatic (S6),2008,3MODE,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24016,Jaguar,X-Type,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24017,Mercedes-Benz,CL63 AMG,N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24018,Mitsubishi,Lancer,Y,Automatic (variable gear ratios),2008,VMODE VLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24019,Mitsubishi,Lancer,Y,Manual 5-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,24020,Subaru,Legacy AWD,N,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24021,Subaru,Legacy AWD,Y,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24022,Subaru,Legacy AWD,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24023,Subaru,Legacy AWD,Y,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24024,Subaru,Legacy AWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,29,0,24027,Volkswagen,GTI,Y,Automatic (S6),2008,3MODE,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,29,0,24028,Volkswagen,Jetta,Y,Automatic (S6),2008,3MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,24029,BMW,528i,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,24030,BMW,528i,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24031,BMW,528xi,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24032,BMW,528xi,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24033,BMW,535i,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24034,BMW,535xi,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24035,BMW,550i,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24036,BMW,550i,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24037,BMW,M5,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24038,BMW,M5,Y,Automatic (S7),2008,6MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24039,Buick,Lacrosse/Allure,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,24040,Chrysler,Sebring,Y,Automatic 4-spd,2008,CMODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,26,0,24041,Chrysler,Sebring,N,Automatic 6-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,24042,Chrysler,Sebring AWD,N,Automatic 6-spd,2008,CMODE,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,24043,Dodge,Avenger,Y,Automatic 4-spd,2008,CMODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,26,0,24044,Dodge,Avenger,Y,Automatic 6-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,24045,Dodge,Avenger AWD,N,Automatic 6-spd,2008,CMODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24046,Jaguar,S-Type 3.0 Litre,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24047,Jaguar,S-Type 4.2 Litre,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,24048,Jaguar,S-Type R,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24049,Jaguar,X-Type Sport Brake,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,22,0,24050,Lexus,LS 600h L,Y,Automatic (S8),2008,VMODE VLKUP,Hybrid,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,28,0,24051,Pontiac,Grand Prix,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24052,Pontiac,Grand Prix,Y,Automatic (S4),2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24053,Chevrolet,Impala,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24054,Ford,Taurus AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24055,Ford,Taurus FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,24056,Hyundai,Sonata,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24057,Hyundai,Sonata,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24058,Hyundai,Sonata,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24059,Jaguar,Super V8,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24060,Jaguar,Vdp Lwb,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24061,Jaguar,XJ8,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24062,Jaguar,XJ8L,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24063,Jaguar,XJR,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24064,Mercury,Sable AWD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24065,Mercury,Sable FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24066,Mercedes-Benz,S63 AMG,N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,29,0,24067,Audi,A3,Y,Automatic (S6),2008,3MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24068,Audi,A3 quattro,N,Automatic (S6),2008,3MODE,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,24073,Scion,xB,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,24074,Scion,xB,Y,Automatic (S4),2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24075,BMW,535xi Sport Wagon,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24076,Ford,Ranger Pickup 2WD,N,Manual 5-spd,2008,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24077,Nissan,Titan 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24078,Nissan,Titan 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,24080,Chevrolet,Uplander FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24081,Buick,Enclave FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24082,Chevrolet,Equinox FWD,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24083,Ford,Escape FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,24084,Ford,Escape FWD,Y,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24085,Ford,Escape FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+10.3003125,0,34,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,30,0,24086,Ford,Escape Hybrid FWD,Y,Automatic (variable gear ratios),2008,VLKUP,Hybrid,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24087,GMC,Acadia FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24088,Infiniti,QX56 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,23,0,24089,Lexus,RX 350 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,23,0,24090,Lexus,RX 350 2WD,N,Automatic (S5),2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24091,Mazda,Tribute FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,24092,Mazda,Tribute FWD,Y,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24093,Mazda,Tribute FWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+10.3003125,0,34,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,30,0,24094,Mazda,Tribute Hybrid 2WD,Y,Automatic (variable gear ratios),2008,VLKUP,Hybrid,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24095,Mercury,Mariner FWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24096,Mercury,Mariner FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+10.3003125,0,34,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,30,0,24097,Mercury,Mariner Hybrid FWD,Y,Automatic (variable gear ratios),2008,VLKUP,Hybrid,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,24098,Nissan,Armada 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,24099,Nissan,Pathfinder 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,24100,Nissan,Pathfinder 2WD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24101,Pontiac,Torrent FWD,N,Automatic (S6),2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24102,Saturn,Outlook FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24103,Saturn,Vue FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,24104,Saturn,Vue FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24105,Saturn,Vue FWD,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24108,Audi,Q7,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,24109,Audi,Q7,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24110,Buick,Enclave AWD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,24111,Ford,Escape 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24112,Ford,Escape 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.77178571,0,29,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,27,0,24113,Ford,Escape Hybrid 4WD,Y,Automatic (variable gear ratios),2008,VLKUP,Hybrid,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24114,GMC,Acadia AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,24115,Infiniti,QX56 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,24116,Land Rover,LR2,Y,Automatic (S6),2008,6MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24118,Land Rover,LR3,Y,Automatic (S6),2008,6MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,24119,Land Rover,Range Rover,N,Automatic (S6),2008,6MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,24120,Land Rover,Range Rover,N,Automatic (S6),2008,6MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,24121,Land Rover,Range Rover Sport,Y,Automatic (S6),2008,6MODE CLKUP,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24122,Land Rover,Range Rover Sport,N,Automatic (S6),2008,6MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,24123,Lexus,RX 350 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,24124,Lexus,RX 350 4WD,N,Automatic (S5),2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,24125,Mazda,Tribute 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24126,Mazda,Tribute 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.77178571,0,29,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,27,0,24127,Mazda,Tribute Hybrid 4WD,N,Automatic (variable gear ratios),2008,VLKUP,Hybrid,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,24128,Mercury,Mariner 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24129,Mercury,Mariner 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.77178571,0,29,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,27,0,24130,Mercury,Mariner Hybrid 4WD,Y,Automatic (variable gear ratios),2008,VLKUP,Hybrid,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24131,Nissan,Armada 4WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24132,Nissan,Pathfinder 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24133,Nissan,Pathfinder 4WD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24134,Porsche,Cayenne,Y,Automatic 6-spd,2008,2MODE,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24135,Porsche,Cayenne,N,Manual 6-spd,2008,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24136,Porsche,Cayenne S,Y,Automatic 6-spd,2008,2MODE,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,24137,Porsche,Cayenne Turbo,N,Automatic 6-spd,2008,2MODE,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24138,Saturn,Outlook AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,24139,Saturn,Vue AWD,Y,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24140,Saturn,Vue AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24141,Saturn,Vue AWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,23,0,24142,Subaru,Forester AWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24143,Subaru,Forester AWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24144,Subaru,Forester AWD,N,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24145,Subaru,Forester AWD,Y,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24146,Subaru,Outback Wagon AWD,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24147,Subaru,Outback Wagon AWD,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24148,Subaru,Outback Wagon AWD,Y,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24149,Subaru,Outback Wagon AWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24150,Subaru,Outback Wagon AWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,24151,Subaru,Tribeca AWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24154,Volkswagen,Touareg,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,24155,Volkswagen,Touareg,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,24156,Volkswagen,Touareg,N,Automatic (S6),2008,3MODE CLKUP,Diesel,,0,0,0
+14.98227273,4.681875,19,13,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,27,20,24157,Chrysler,Sebring,Y,Automatic 4-spd,2008,,FFV,E85,0,0,0
+14.98227273,4.681875,19,13,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,27,20,24158,Dodge,Avenger,Y,Automatic 4-spd,2008,,FFV,E85,0,0,0
+18.31166667,5.762307692,15,11,484.2307692,493.7222222,18,13,2650,2750,Gasoline or E85,Regular Gasoline,23,16,24159,Ford,Crown Victoria FFV,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+18.31166667,5.762307692,15,11,484.2307692,493.7222222,18,13,2650,2750,Gasoline or E85,Regular Gasoline,23,16,24160,Mercury,Grand Marquis FFV,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,13,24161,Nissan,Titan 2WD,Y,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,24162,Nissan,Titan 4WD,Y,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+17.34789474,5.350714286,16,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,24164,Chevrolet,Uplander FWD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,18,13,24165,Nissan,Armada 2WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,13,24166,Nissan,Armada 4WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,24167,Audi,R8,N,Manual 6-spd,2008,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24168,Audi,R8,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+32.961,0,8,0,0,888.7,10,0,5800,0,Premium,Premium Gasoline,14,0,24169,Bugatti,Veyron,N,Automatic (S6),2008,3MODE,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24170,Cadillac,XLR-V,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,24171,Cadillac,XLR,N,Automatic (S6),2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,26,0,24172,Chevrolet,Corvette,Y,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,25,0,24173,Chevrolet,Corvette,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,24174,Chevrolet,Corvette,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24175,Chrysler,Crossfire Coupe,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24176,Chrysler,Crossfire Coupe,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24177,Chrysler,Crossfire Roadster,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24178,Chrysler,Crossfire Roadster,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,10,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24179,Lamborghini,Gallardo Coupe,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24180,Lamborghini,Gallardo Coupe,N,Automatic (S6),2008,2MODE,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,15,0,24181,Lamborghini,Gallardo Spyder,N,Manual 6-spd,2008,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,24182,Lamborghini,Gallardo Spyder,N,Automatic (S6),2008,2MODE,,,0,0,0
+32.961,0,8,0,0,888.7,10,0,5800,0,Premium,Premium Gasoline,13,0,24183,Lamborghini,Murcielago,N,Manual 6-spd,2008,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,14,0,24184,Lamborghini,Murcielago,N,Automatic (S6),2008,,,,0,0,0
+32.961,0,8,0,0,888.7,10,0,5800,0,Premium,Premium Gasoline,13,0,24185,Lamborghini,Murcielago Roadster,N,Manual 6-spd,2008,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,14,0,24186,Lamborghini,Murcielago Roadster,N,Automatic (S6),2008,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,27,0,24187,Mazda,MX-5,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,24188,Mazda,MX-5,Y,Manual 6-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,27,0,24189,Mazda,MX-5,Y,Automatic (S6),2008,DC/FW,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,24190,Mercedes-Benz,SL55 AMG,N,Automatic (S5),2008,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24191,Mercedes-Benz,SL550,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24192,Mercedes-Benz,SL600,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24193,Mercedes-Benz,SL65 AMG,N,Automatic (S5),2008,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24194,Mercedes-Benz,SLK280,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24195,Mercedes-Benz,SLK280,N,Manual 6-spd,2008,EMS,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24196,Mercedes-Benz,SLK350,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24197,Mercedes-Benz,SLK350,N,Manual 6-spd,2008,EMS,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24198,Mercedes-Benz,SLK55 AMG,N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24199,Pontiac,Solstice,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24200,Pontiac,Solstice,Y,Manual 5-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,24201,Pontiac,Solstice,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24202,Pontiac,Solstice,Y,Manual 5-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24203,Porsche,Boxster,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,24204,Porsche,Boxster,N,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24205,Porsche,Boxster,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24206,Porsche,Boxster S,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24207,Porsche,Boxster S,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24208,Porsche,Cayman,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,24209,Porsche,Cayman,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24210,Porsche,Cayman,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24211,Porsche,Cayman S,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24212,Porsche,Cayman S,Y,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24213,Porsche,911 GT3,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24214,Porsche,911 GT3 RS,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24215,Saturn,SKY,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24216,Saturn,SKY,N,Manual 5-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,24217,Saturn,SKY,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24218,Saturn,SKY,N,Manual 5-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24219,Porsche,911 Turbo,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24220,Porsche,911 Turbo,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24221,Porsche,911 Turbo Cabriolet,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,24222,Porsche,911 Turbo Cabriolet,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24223,Porsche,Carrera 2 Cabriolet,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24224,Porsche,Carrera 2 Cabriolet,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24225,Porsche,Carrera 2 Coupe,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24226,Porsche,Carrera 2 Coupe,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24227,Porsche,Carrera 2 S Cabriolet,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24228,Porsche,Carrera 2 S Cabriolet,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24229,Porsche,Carrera 2 S Coupe,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24230,Porsche,Carrera 2 S Coupe,Y,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24231,Porsche,Carrera 4 Cabriolet,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24232,Porsche,Carrera 4 Cabriolet,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24233,Porsche,Carrera 4 Coupe,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24234,Porsche,Carrera 4 Coupe,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24235,Porsche,Carrera 4 S Cabriolet,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24236,Porsche,Carrera 4 S Cabriolet,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24237,Porsche,Carrera 4 S Coupe,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24238,Porsche,Carrera 4 S Coupe,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24239,Porsche,Carrera 4 S Targa,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24240,Porsche,Carrera 4 S Targa,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24241,Porsche,Carrera 4 Targa,N,Automatic 5-spd,2008,2MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24242,Porsche,Carrera 4 Targa,N,Manual 6-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24243,Volkswagen,New Beetle Convertible,N,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24244,Volkswagen,New Beetle Convertible,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,30,0,24245,Audi,A4 Cabriolet,Y,Automatic (variable gear ratios),2008,3MODE,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24246,Audi,A4 Cabriolet quattro,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24247,Audi,A4 Cabriolet quattro,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24248,Audi,S4 Cabriolet,N,Manual 6-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24249,Audi,S4 Cabriolet,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,24250,Chevrolet,Aveo 5,Y,Automatic 4-spd,2008,EMS,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,24251,Chevrolet,Aveo 5,Y,Manual 5-spd,2008,EMS,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,24252,Chevrolet,Cobalt,Y,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24253,Ford,Mustang,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24254,Ford,Mustang,Y,Manual 5-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24255,Ford,Mustang,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24256,Ford,Mustang,Y,Manual 5-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24257,Ford,Mustang,Y,Manual 6-spd,2008,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24258,Mazda,RX-8,Y,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24259,Mazda,RX-8,N,Automatic (S6),2008,DC/FW,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24260,Mercedes-Benz,CLK350 (Cabriolet),N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24261,Mercedes-Benz,CLK350,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,24262,Mercedes-Benz,CLK63 AMG,N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24263,Mercedes-Benz,CLK63 AMG (Cabriolet),N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,24264,Pontiac,G5/Pursuit,N,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,24265,Roush Performance,Stage 3 Mustang,N,Manual 5-spd,2008,EMS,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,32,0,24266,Scion,xD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,24267,Scion,xD,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,24268,Volkswagen,Eos,Y,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,24269,Volkswagen,Eos,N,Automatic (S6),2008,3MODE,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24270,Volkswagen,New Beetle,N,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,24271,Volkswagen,New Beetle,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,24272,Volvo,C70 Convertible,Y,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24273,Volvo,C70 Convertible,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24274,Acura,TSX,Y,Manual 6-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24275,Acura,TSX,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,30,0,24276,Audi,A4,Y,Automatic (variable gear ratios),2008,3MODE,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,31,0,24277,Audi,A4,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,24278,Audi,A4,N,Automatic (variable gear ratios),2008,3MODE,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24279,Audi,A4 quattro,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24280,Audi,A4 quattro,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,15,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24281,Audi,A4 quattro,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24282,Audi,A4 quattro,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,24283,Audi,RS4,N,Manual 6-spd,2008,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,24284,Audi,S4,N,Manual 6-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24285,Audi,S4,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,15,0,24286,Bentley,Azure,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,24287,Chevrolet,Aveo,Y,Automatic 4-spd,2008,EMS,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,24288,Chevrolet,Aveo,Y,Manual 5-spd,2008,EMS,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,24289,Chrysler,PT Cruiser Convertible,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,24290,Chrysler,PT Cruiser Convertible,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,25,0,24291,Chrysler,PT Cruiser Convertible,N,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,24292,Chrysler,PT Cruiser Convertible,N,Manual 5-spd,2008,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,24293,Mazda,3,Y,Manual 5-spd,2008,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,24294,Mazda,3,Y,Automatic (S4),2008,DC/FW,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,24295,Mazda,3,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24296,Mazda,3,Y,Automatic (S5),2008,DC/FW,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,24297,Mercedes-Benz,CL550,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24298,Mercedes-Benz,CL600,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24299,Mercedes-Benz,CL65 AMG,Y,Automatic (S5),2008,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24300,Mercedes-Benz,CLS550,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24301,Mercedes-Benz,CLS63 AMG,N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,24302,Pontiac,G6,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,24303,Pontiac,G6,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24304,Pontiac,G6,Y,Automatic (S4),2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24305,Pontiac,G6,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24306,Pontiac,G6,N,Automatic (S4),2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24307,Subaru,Impreza AWD,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24308,Subaru,Impreza AWD,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,25,0,24309,Subaru,Impreza AWD,Y,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24310,Subaru,Impreza AWD,Y,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24311,Subaru,Legacy AWD,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24312,Suzuki,Forenza,Y,Automatic 4-spd,2008,EMS,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24313,Suzuki,Forenza,Y,Manual 5-spd,2008,EMS,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24314,Suzuki,Reno,N,Automatic 4-spd,2008,EMS,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24315,Suzuki,Reno,N,Manual 5-spd,2008,EMS,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24316,Toyota,Camry Solara,N,Manual 5-spd,2008,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24317,Toyota,Camry Solara,N,Automatic (S5),2008,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,24318,Toyota,Camry Solara,N,Automatic (S5),2008,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24319,Toyota,Camry Solara Convertible,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,24320,Toyota,Corolla,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,37,0,24321,Toyota,Corolla,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,24322,Volkswagen,GTI,Y,Manual 6-spd,2008,,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,24323,Volkswagen,Jetta,Y,Manual 6-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24324,Volkswagen,Jetta,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24325,Volkswagen,Jetta,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,23,0,24326,Volkswagen,R32,Y,Automatic (S6),2008,3MODE,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24327,Volkswagen,Rabbit,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24328,Volkswagen,Rabbit,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24329,Volvo,C30 FWD,N,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24330,Volvo,C30 FWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24331,Volvo,C30 FWD,Y,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24332,Volvo,C30 FWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24333,Volvo,S40 AWD,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24334,Volvo,S40 AWD,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24335,Volvo,S40 FWD,N,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24336,Volvo,S40 FWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24337,Volvo,S40 FWD,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24338,Volvo,S40 FWD,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,17,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24339,Volvo,S60 AWD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24340,Volvo,S60 AWD,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24341,Volvo,S60 FWD,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24342,Volvo,S60 FWD,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24343,Volvo,S60 FWD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24344,Volvo,S60 FWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24345,Acura,RL,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24346,Acura,TL,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,24347,Acura,TL,Y,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24348,Acura,TL,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,24349,Audi,A6,N,Automatic (variable gear ratios),2008,3MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24350,Audi,A6 quattro,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24351,Audi,A6 quattro,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24352,Audi,A8,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,24353,Audi,S6,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24354,Audi,S8,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,15,0,24355,Bentley,Arnage,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,24356,Buick,Lacrosse/Allure,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,17,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,28,0,24357,Buick,Lacrosse/Allure,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24358,Cadillac,CTS,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,24359,Cadillac,CTS AWD,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24360,Cadillac,STS,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24361,Cadillac,STS-V,N,Automatic (S6),2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,24362,Cadillac,STS,N,Automatic (S6),2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24363,Cadillac,STS AWD,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24364,Cadillac,STS AWD,N,Automatic (S6),2008,CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24365,Chevrolet,Classic,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24366,Chevrolet,Classic,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,24367,Chevrolet,Malibu,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,24368,Chevrolet,Malibu,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24369,Chevrolet,Malibu,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,24370,Chevrolet,Malibu Hybrid,Y,Automatic 4-spd,2008,CLKUP,Hybrid,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24371,Ford,Fusion,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,24372,Ford,Fusion,Y,Manual 5-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24373,Ford,Fusion,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,24374,Ford,Fusion AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,24375,Kia,Spectra,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,24376,Kia,Spectra,Y,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24377,Mercury,Milan,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,24378,Mercury,Milan,N,Manual 5-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24379,Mercury,Milan,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,24380,Mercury,Milan AWD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24381,Lincoln,MKZ AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24382,Lincoln,MKZ FWD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24383,Mazda,6,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,24384,Mazda,6,Y,Automatic (S5),2008,DC/FW,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,24385,Mazda,6,N,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,24386,Mazda,6,N,Automatic (S6),2008,DC/FW,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24387,Mazda,Speed 3,Y,Manual 6-spd,2008,,,,0,0,0
+14.69942308,0,23,0,0,391.5384615,26,0,1950,0,Diesel,Diesel,32,0,24388,Mercedes-Benz,E320 Bluetec,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,Diesel,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24389,Mercedes-Benz,E350,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24390,Mercedes-Benz,E350 4matic,Y,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,24391,Mercedes-Benz,E550,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,24392,Mercedes-Benz,E550 4matic,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24393,Mercedes-Benz,E63 AMG,N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,24394,Nissan,Versa,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,24395,Nissan,Versa,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,31,0,24396,Nissan,Versa,Y,Manual 6-spd,2008,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,24397,Saturn,Aura,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,24398,Saturn,Aura,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24399,Saturn,Aura,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,24400,Saturn,Aura Hybrid,Y,Automatic 4-spd,2008,CLKUP,Hybrid,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24401,Toyota,Camry,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24402,Toyota,Camry,N,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24403,Toyota,Camry,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+9.694411765,0,33,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,34,0,24404,Toyota,Camry Hybrid,Y,Automatic (variable gear ratios),2008,VMODE VLKUP,Hybrid,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,24405,Volkswagen,Passat,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24406,Volkswagen,Passat,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24407,Volkswagen,Passat,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24408,Volkswagen,Passat 4motion,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24409,Volvo,S80 AWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24410,Volvo,S80 AWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24411,Volvo,S80 AWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24412,Volvo,S80 FWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24413,Audi,A8 L,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,15,0,24414,Bentley,Arnage RL,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,25,0,24415,Buick,Lucerne,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24416,Buick,Lucerne,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24417,Buick,Lucerne,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24418,Cadillac,DTS,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24419,Cadillac,DTS,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24420,Cadillac,Funeral Coach / Hearse,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24421,Cadillac,Limousine,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,24422,Chevrolet,Impala,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24423,Mercedes-Benz,S550,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24424,Mercedes-Benz,S550 4matic,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24425,Mercedes-Benz,S600,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24426,Mercedes-Benz,S65 AMG,N,Automatic (S5),2008,EMS 2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24427,Toyota,Avalon,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,24428,Audi,A3,Y,Manual 6-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24429,Audi,A4 Avant quattro,Y,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24430,Audi,A4 Avant quattro,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,15,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24431,Audi,A4 Avant quattro,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24432,Audi,A4 Avant quattro,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,24433,Audi,S4 Avant,N,Manual 6-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24434,Audi,S4 Avant,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,24435,Pontiac,Vibe,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,24436,Pontiac,Vibe,Y,Manual 5-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24437,Subaru,Impreza Wagon/Outback SPT AWD,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24438,Subaru,Impreza Wagon/Outback SPT AWD,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,25,0,24439,Subaru,Impreza Wagon/Outback SPT AWD,N,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24440,Subaru,Impreza Wagon/Outback SPT AWD,Y,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24441,Suzuki,Forenza Wagon,N,Automatic 4-spd,2008,EMS,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24442,Suzuki,Forenza Wagon,N,Manual 5-spd,2008,EMS,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,24443,Toyota,Matrix,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,24444,Toyota,Matrix,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24445,Volkswagen,Jetta SportWagen,N,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,24446,Volkswagen,Jetta SportWagen,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24447,Volvo,V50 AWD,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24448,Volvo,V50 AWD,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24449,Volvo,V50 FWD,N,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24450,Volvo,V50 FWD,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24451,Volvo,V50 FWD,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24452,Volvo,V50 FWD,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24453,Audi,A6 Avant quattro,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,24454,Mercedes-Benz,E350 4matic (wagon),N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24455,Mercedes-Benz,E63 AMG (wagon),N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,24456,Volkswagen,Passat Wagon,N,Manual 6-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24457,Volkswagen,Passat Wagon,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24459,Volkswagen,Passat Wagon 4motion,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24460,Chevrolet,Colorado 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24461,Chevrolet,Colorado 2WD,N,Manual 5-spd,2008,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24462,Chevrolet,Colorado 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24463,Chevrolet,Colorado Crew Cab 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24464,Chevrolet,Colorado Crew Cab 2WD,N,Manual 5-spd,2008,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24465,Chevrolet,Colorado Crew Cab 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,24466,Ford,Ranger Pickup 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,24467,Ford,Ranger Pickup 2WD,Y,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24468,Ford,Ranger Pickup 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24469,Ford,Ranger Pickup 2WD,N,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24470,Ford,Ranger Pickup 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24471,GMC,Canyon 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24472,GMC,Canyon 2WD,N,Manual 5-spd,2008,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24473,GMC,Canyon 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24474,GMC,Canyon Cab Chassis Inc 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24475,GMC,Canyon Crew Cab 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24476,GMC,Canyon Crew Cab 2WD,N,Manual 5-spd,2008,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24477,GMC,Canyon Crew Cab 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24478,Isuzu,i-290 Extended Cab 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24479,Isuzu,i-290 Extended Cab 2WD,Y,Manual 5-spd,2008,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24480,Isuzu,i-370 Crew Cab 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24481,Isuzu,i-370 Extended Cab 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,24482,Mazda,B2300 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,24483,Mazda,B2300 2WD,Y,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24484,Mazda,B3000 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,24485,Mazda,B3000 2WD,N,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24486,Mazda,B4000 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,24487,Toyota,Tacoma 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,24488,Toyota,Tacoma 2WD,Y,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24489,Chevrolet,Colorado 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24490,Chevrolet,Colorado 4WD,Y,Manual 5-spd,2008,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,24491,Chevrolet,Colorado 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24492,Chevrolet,Colorado Cab Chassis inc 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24493,Chevrolet,Colorado Cab Chassis inc 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24494,Chevrolet,Colorado Crew Cab 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24495,Ford,Ranger Pickup 4WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24496,Ford,Ranger Pickup 4WD,N,Manual 5-spd,2008,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,24497,Ford,Ranger Pickup 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24498,Ford,Ranger Pickup 4WD,N,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24499,GMC,Canyon 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24500,GMC,Canyon 4WD,N,Manual 5-spd,2008,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,24501,GMC,Canyon 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24502,GMC,Canyon Cab Chassis Inc 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24503,GMC,Canyon Crew Cab 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24504,Isuzu,i-370 Crew Cab 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,24505,Mazda,B4000 4WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24506,Mazda,B4000 4WD,Y,Manual 5-spd,2008,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,24507,Toyota,Tacoma 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,24508,Toyota,Tacoma 4WD,Y,Manual 6-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24509,Chevrolet,Silverado C15 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24510,Chevrolet,Silverado C15 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24511,Chevrolet,Silverado C15 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24512,Chevrolet,Silverado C15 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24513,Dodge,Dakota Pickup 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,24514,Dodge,Dakota Pickup 2WD,N,Manual 6-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24515,Dodge,Ram 1500 Pickup 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,24516,Dodge,Ram 1500 Pickup 2WD,Y,Manual 6-spd,2008,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24517,Dodge,Ram 1500 Pickup 2WD,Y,Manual 6-spd,2008,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24518,Dodge,Ram 1500 Pickup 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24519,Ford,Explorer Sport Trac 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24520,Ford,Explorer Sport Trac 2WD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24521,GMC,Sierra C15 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24522,GMC,Sierra C15 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24523,GMC,Sierra C15 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24524,GMC,Sierra C15 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24525,GMC,Sierra C15 2WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24526,Mitsubishi,Raider Pickup 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,24527,Mitsubishi,Raider Pickup 2WD,N,Manual 6-spd,2008,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24528,Chevrolet,Silverado K15 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,24529,Chevrolet,Silverado K15 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24530,Chevrolet,Silverado K15 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24531,Chevrolet,Silverado K15 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24532,Dodge,Dakota Pickup 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24533,Dodge,Dakota Pickup 4WD,N,Manual 6-spd,2008,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24534,Dodge,Ram 1500 Pickup 4WD,Y,Manual 6-spd,2008,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24535,Dodge,Ram 1500 Pickup 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24536,Ford,Explorer Sport Trac 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24537,Ford,Explorer Sport Trac 4WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24538,GMC,Sierra K15 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,24539,GMC,Sierra K15 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24540,GMC,Sierra K15 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24541,GMC,Sierra K15 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24542,GMC,Sierra K15 AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24543,Honda,Ridgeline Truck 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24544,Mitsubishi,Raider Pickup 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24545,Chevrolet,Van 15/25 2WD Conversion,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24546,Chevrolet,Van 1500/2500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24547,Chevrolet,Van 1500/2500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24548,Chevrolet,Van 1500 AWD Conversion,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,24549,Chevrolet,Van 1500/2500 AWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24550,GMC,Savana 15/25 2WD Conversion (cargo),N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24551,GMC,Savana 1500/2500 2WD (cargo),N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24552,GMC,Savana 1500/2500 2WD (cargo),N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24553,GMC,Savana 1500  AWD Conversion (cargo),N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,24554,GMC,Savana 1500/2500 AWD (cargo),N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24555,Chevrolet,Express 1500/2500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24556,Chevrolet,Express 1500 AWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24557,GMC,Savana 1500/2500 2WD (Passenger),N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24558,GMC,Savana 1500 AWD (Passenger),N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,24559,Buick,Terraza FWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24560,Chrysler,Town and Country/Voyager/Grand Voy. 2WD,Y,Automatic 6-spd,2008,CMODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24561,Chrysler,Town and Country/Voyager/Grand Voy. 2WD,Y,Automatic 6-spd,2008,CMODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24562,Dodge,Caravan/Grand Caravan 2WD,Y,Automatic 6-spd,2008,CMODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24563,Dodge,Caravan/Grand Caravan 2WD,Y,Automatic 6-spd,2008,CMODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,24564,Cadillac,Escalade 2WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,24565,Cadillac,SRX 2WD,N,Automatic (S5),2008,CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24566,Cadillac,SRX 2WD,N,Automatic (S6),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24567,Chevrolet,Avalanche 1500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24568,Chevrolet,Avalanche 1500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24569,Chevrolet,Suburban 1500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24570,Chevrolet,Suburban 1500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24571,Chevrolet,Tahoe 1500 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24572,Chevrolet,Tahoe 1500 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24573,Chevrolet,Equinox FWD,Y,Automatic 5-spd,2008,3MODE CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,24574,Chevrolet,HHR FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,24575,Chevrolet,HHR FWD,Y,Manual 5-spd,2008,SIL,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,24576,Chevrolet,HHR FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,24577,Chevrolet,HHR FWD,Y,Manual 5-spd,2008,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,24578,Chevrolet,HHR Panel FWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,24579,Chevrolet,HHR Panel FWD,N,Manual 5-spd,2008,SIL,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,24580,Chevrolet,HHR Panel FWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,24581,Chevrolet,HHR Panel FWD,N,Manual 5-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24582,Chevrolet,TrailBlazer 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24583,Chevrolet,TrailBlazer 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,16,0,24584,Chevrolet,TrailBlazer 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24585,Chrysler,Aspen 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24586,Chrysler,Pacifica FWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,23,0,24587,Chrysler,Pacifica FWD,Y,Automatic 6-spd,2008,CMODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,24588,Chrysler,PT Cruiser,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,24589,Chrysler,PT Cruiser,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,25,0,24590,Chrysler,PT Cruiser,N,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,24591,Chrysler,PT Cruiser,N,Manual 5-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24592,Dodge,Durango 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24593,Dodge,Durango 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24594,Dodge,Nitro 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24595,Dodge,Nitro 2WD,N,Manual 6-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,24596,Dodge,Nitro 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,24597,Ford,Expedition 2WD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24598,Ford,Explorer 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24599,Ford,Explorer 2WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24600,Ford,Taurus X FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24601,GMC,Yukon 1500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24602,GMC,Yukon 1500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24603,GMC,Yukon XL 1500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24604,GMC,Yukon XL 1500 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24605,GMC,Envoy 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24606,GMC,Envoy 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,24607,Honda,Element 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,24608,Honda,Element 2WD,N,Manual 5-spd,2008,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24609,Honda,Pilot 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24610,Infiniti,FX35 RWD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24611,Isuzu,Ascender 5-passenger 2WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24612,Jeep,Commander 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.10925,0,18,0,0,509,20,0,2550,0,Diesel,Diesel,23,0,24613,Jeep,Grand Cherokee 2WD,Y,Automatic 5-spd,2008,CLKUP,Diesel,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24614,Jeep,Grand Cherokee 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24615,Jeep,Liberty 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24616,Jeep,Liberty 2WD,N,Manual 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24617,Jeep,Wrangler 2WD,N,Automatic 4-spd,2008,CMODE,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,24618,Jeep,Wrangler 2WD,N,Manual 6-spd,2008,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,24619,Lincoln,Navigator 2WD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24620,Mazda,CX-7 2WD,Y,Automatic (S6),2008,DC/FW,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24621,Mazda,CX-9 2WD,Y,Automatic (S6),2008,DC/FW,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,24622,Mercedes-Benz,R350,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24623,Mercury,Mountaineer 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24624,Mercury,Mountaineer 2WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24625,Pontiac,Torrent FWD,N,Automatic 5-spd,2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24626,Suzuki,XL7 FWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,24627,Toyota,4Runner 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,20,0,24628,Toyota,FJ Cruiser 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24629,Toyota,Highlander 2WD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24630,Volvo,XC90 FWD,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24631,Cadillac,Escalade AWD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,24632,Cadillac,SRX AWD,N,Automatic (S5),2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,24633,Cadillac,SRX AWD,N,Automatic (S6),2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24634,Chevrolet,Equinox AWD,Y,Automatic 5-spd,2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24635,Chevrolet,Equinox AWD,N,Automatic (S6),2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24636,Chevrolet,Avalanche 1500 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24637,Chevrolet,Suburban 1500 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24638,Chevrolet,TrailBlazer 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24639,Chevrolet,TrailBlazer 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,24640,Chevrolet,TrailBlazer AWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24641,Chrysler,Aspen 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,24642,Chrysler,Pacifica AWD,N,Automatic 6-spd,2008,CMODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24643,Dodge,Durango 4WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,24644,Dodge,Nitro 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24645,Dodge,Nitro 4WD,Y,Manual 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24646,Dodge,Nitro 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24647,Ford,Explorer 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24648,Ford,Explorer 4WD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24649,Ford,Taurus X AWD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24650,GMC,Envoy 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24651,GMC,Envoy 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24652,GMC,Yukon Denali 1500 AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24653,GMC,Yukon XL 1500 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,24654,Honda,Element 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,24655,Honda,Element 4WD,N,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24656,Honda,Pilot 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24657,Hummer,H3 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24658,Hummer,H3 4WD,N,Manual 5-spd,2008,SIL,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24659,Hummer,H3 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,24660,Infiniti,FX35 AWD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,24661,Infiniti,FX45 AWD,N,Automatic (S5),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24662,Isuzu,Ascender 5-passenger 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24663,Jeep,Commander 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.115,0,17,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,24664,Jeep,Grand Cherokee 4WD,Y,Automatic 5-spd,2008,CLKUP,Diesel,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24665,Jeep,Grand Cherokee 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,14,0,24666,Jeep,Grand Cherokee 4WD,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,24667,Jeep,Liberty 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24668,Jeep,Liberty 4WD,Y,Manual 6-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,24669,Jeep,Wrangler 4WD,Y,Automatic 4-spd,2008,CMODE,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24670,Jeep,Wrangler 4WD,Y,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24671,Mazda,CX-7 4WD,Y,Automatic (S6),2008,DC/FW,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,24672,Mazda,CX-9 4WD,Y,Automatic (S6),2008,DC/FW,,,0,0,0
+19.10925,0,18,0,0,509,20,0,2550,0,Diesel,Diesel,24,0,24673,Mercedes-Benz,GL320 CDI 4matic,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,Diesel,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,24674,Mercedes-Benz,GL450 4matic,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+18.19928571,0,18,0,0,484.7619048,21,0,2400,0,Diesel,Diesel,24,0,24675,Mercedes-Benz,ML320 CDI 4matic,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,Diesel,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,24676,Mercedes-Benz,ML350 4matic,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,24677,Mercedes-Benz,ML550 4matic,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,14,0,24678,Mercedes-Benz,ML63 AMG,N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+18.19928571,0,18,0,0,484.7619048,21,0,2400,0,Diesel,Diesel,24,0,24679,Mercedes-Benz,R320 CDI 4matic,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,Diesel,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,24680,Mercedes-Benz,R350 4matic,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24681,Mercury,Mountaineer 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24682,Mercury,Mountaineer 4WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24683,Pontiac,Torrent AWD,N,Automatic 5-spd,2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24684,Pontiac,Torrent AWD,N,Automatic (S6),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24685,Saab,9-7X AWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24686,Saab,9-7X AWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,24687,Saab,9-7X AWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24688,Suzuki,XL7 AWD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24689,Toyota,4Runner 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,24690,Toyota,FJ Cruiser 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,18,0,24691,Toyota,FJ Cruiser 4WD,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,24692,Toyota,Highlander 4WD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,24693,Volvo,XC70 AWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24694,Volvo,XC90 AWD,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24695,Volvo,XC90 AWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+14.98227273,4.681875,18,14,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,29,21,24696,Chevrolet,Impala,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+15.69571429,4.681875,18,13,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,28,20,24697,Chevrolet,Impala,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,20,15,24698,Chevrolet,Silverado C15 2WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,20,15,24699,GMC,Sierra C15 2WD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,24700,Chevrolet,Silverado K15 4WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,24701,GMC,Sierra K15 4WD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,24702,Chevrolet,Express 1500/2500 2WD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,24703,Chevrolet,Express 1500 AWD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,24704,GMC,Savana 1500/2500 2WD (Passenger),N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,24705,GMC,Savana 1500 AWD (Passenger),N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,15,24706,Chevrolet,Avalanche 1500 2WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,15,24707,Chevrolet,Suburban 1500 2WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,15,24708,Chevrolet,Tahoe 1500 2WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,15,24709,GMC,Yukon 1500 2WD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,15,24710,GMC,Yukon XL 1500 2WD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,24711,Chevrolet,Avalanche 1500 4WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,24712,Chevrolet,Suburban 1500 4WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,24713,Chevrolet,Tahoe 1500 4WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,24714,GMC,Yukon 1500 4WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,24715,GMC,Yukon XL 1500 4WD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,18,12,24716,Jeep,Commander 4WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,12,24717,Jeep,Grand Cherokee 4WD,Y,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,24718,Chevrolet,Van 15/25 2WD Conversion,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,6.81,14,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,24719,Chevrolet,Van 1500/2500 2WD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,24720,Chevrolet,Van 1500 AWD Conversion,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,17,12,24721,Chevrolet,Van 1500/2500 AWD,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,24722,GMC,Savana 15/25 2WD Conversion (cargo),N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,6.81,14,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,24723,GMC,Savana 1500/2500 2WD (cargo),N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,24724,GMC,Savana 1500  AWD Conversion (cargo),N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,17,12,24725,GMC,Savana 1500/2500 AWD (cargo),N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,13,24726,Jeep,Commander 2WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,13,24727,Jeep,Grand Cherokee 2WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,24728,Suzuki,SX4 Sedan,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,24729,Suzuki,SX4 Sedan,Y,Manual 5-spd,2008,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,24730,Suzuki,SX4,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,24731,Suzuki,SX4,N,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,24732,Suzuki,SX4 AWD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24733,Suzuki,SX4 AWD,Y,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24734,Suzuki,Grand Vitara,N,Automatic 5-spd,2008,2MODE 2LKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24735,Suzuki,Grand Vitara,N,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,24736,Suzuki,Grand Vitara AWD,Y,Automatic 5-spd,2008,2MODE 2LKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,24737,Suzuki,Grand Vitara AWD,N,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,24739,Mercedes-Benz,CLK550,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,24740,Mercedes-Benz,CLK550 (Cabriolet),N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24742,Aston Martin,V8 Vantage,N,Manual 6-spd,2008,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,24743,Aston Martin,V8 Vantage,N,Automatic (S6),2008,4MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,24744,BMW,Z4 3.0i,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24745,BMW,Z4 3.0i,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,24746,BMW,Z4 3.0si,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24747,BMW,Z4 3.0si,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,24748,BMW,Z4 Coupe,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24749,BMW,Z4 Coupe,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24750,BMW,Z4 M Coupe,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24751,BMW,Z4 M Roadster,N,Manual 6-spd,2008,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,22,0,24752,Dodge,Viper Convertible,N,Manual 6-spd,2008,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,22,0,24753,Dodge,Viper Coupe,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,24754,Ferrari,F430,N,Automatic 6-spd,2008,SIL 3MODE,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,24755,Ferrari,F430,N,Manual 6-spd,2008,SIL,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,15,0,24756,Ferrari,599 GTB Fiorano,N,Automatic 6-spd,2008,3MODE,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,15,0,24757,Ferrari,599 GTB Fiorano,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24758,Honda,S2000,Y,Manual 6-spd,2008,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,24759,Lotus,Elise/Exige,N,Manual 6-spd,2008,EMS,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24760,Lotus,Elise/Exige,N,Manual 6-spd,2008,EMS,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24761,Nissan,350z,Y,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24762,Nissan,350z,N,Automatic (S5),2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24763,Nissan,350z Roadster,Y,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24764,Nissan,350z Roadster,N,Automatic (S5),2008,CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,24765,Aston Martin,DB9 Coupe,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,18,0,24766,Aston Martin,DB9 Coupe,N,Automatic (S6),2008,CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,24767,Aston Martin,DB9 Volante,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24768,Aston Martin,DB9 Volante,N,Automatic (S6),2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24769,Lexus,SC 430,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,24770,MINI,Cooper Convertible,N,Automatic (variable gear ratios),2008,3MODE VLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,24771,MINI,Cooper Convertible,N,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,24772,MINI,Cooper S Convertible,N,Manual 6-spd,2008,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,24773,MINI,Cooper S Convertible,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,24774,Audi,RS4 Cabriolet,N,Manual 6-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24775,Audi,S5,N,Manual 6-spd,2008,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,17,0,24776,Bentley,Continental GTC,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,24777,BMW,328ci,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24778,BMW,328ci,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,27,0,24779,BMW,328ci Convertible,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,24780,BMW,328ci Convertible,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24781,BMW,328cxi,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24782,BMW,328cxi,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24783,BMW,335ci,Y,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24784,BMW,335ci,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24785,BMW,335ci Convertible,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24786,BMW,335ci Convertible,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24787,BMW,335cxi,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24788,BMW,335cxi,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24789,BMW,650ci,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24790,BMW,650ci,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24791,BMW,650ci Convertible,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24792,BMW,650ci Convertible,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24793,BMW,M6,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24794,BMW,M6,N,Automatic (S7),2008,6MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24795,BMW,M6 Convertible,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24796,BMW,M6 Convertible,N,Automatic (S7),2008,6MODE CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,24797,Nissan,Altima Coupe,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,24798,Nissan,Altima Coupe,Y,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,24799,Nissan,Altima Coupe,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24800,Nissan,Altima Coupe,Y,Manual 6-spd,2008,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,24801,Pontiac,G5/Pursuit,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,24802,Pontiac,G5/Pursuit,Y,Manual 5-spd,2008,SIL,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,24803,Pontiac,G5/Pursuit,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24804,Saab,9-3 Convertible,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,26,0,24805,Saab,9-3 Convertible,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,24806,Saab,9-3 Convertible,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+10.63258065,0,29,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,35,0,24807,Toyota,Yaris,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,36,0,24808,Toyota,Yaris,Y,Manual 5-spd,2008,,,,0,0,0
+25.35461538,0,10,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,24809,Bentley,Continental GT,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,24810,BMW,328i,Y,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,24811,BMW,328i,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24812,BMW,328xi,Y,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24813,BMW,328xi,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24814,BMW,335i,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24815,BMW,335i,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24816,BMW,335xi,Y,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24817,BMW,335xi,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,24818,Dodge,Caliber,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,24819,Dodge,Caliber,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,25,0,24820,Dodge,Caliber,Y,Automatic (variable gear ratios),2008,CMODE VLKUP,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,24821,Dodge,Caliber,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,24822,Dodge,Caliber AWD,Y,Automatic (variable gear ratios),2008,CMODE VLKUP,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,24823,Ford,Focus,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,35,0,24824,Ford,Focus,Y,Manual 5-spd,2008,SIL,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,24825,Honda,Accord Coupe,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24826,Honda,Accord Coupe,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,24827,Honda,Accord Coupe,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,24828,Honda,Accord Coupe,Y,Manual 6-spd,2008,,,,0,0,0
+7.847857143,0,40,0,0,211.5952381,42,0,1150,0,Regular,Regular Gasoline,45,0,24829,Honda,Civic Hybrid,Y,Automatic (variable gear ratios),2008,EMS,Hybrid,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,24830,Hyundai,Accent,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,32,0,24831,Hyundai,Accent,Y,Manual 5-spd,2008,,,,0,0,0
+11.36586207,0,25,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,24832,Kia,Rio,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,32,0,24833,Kia,Rio,Y,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,22,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,25,0,24834,Lexus,GS 450h,Y,Automatic (S6),2008,VMODE VLKUP,Hybrid,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,24835,Mercedes-Benz,C300,N,Manual 6-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24836,Mercedes-Benz,C350,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24837,Rolls-Royce,Phantom Drophead Coupe,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,24838,Saab,9-3 Sport Sedan,Y,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,26,0,24839,Saab,9-3 Sport Sedan,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,24840,Saab,9-3 Sport Sedan,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,17,0,24841,Bentley,Continental Flying Spur,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24842,BMW,535i,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,24843,BMW,535xi,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,25,0,24844,Cadillac,CTS,N,Manual 6-spd,2008,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,25,0,24845,Cadillac,CTS,N,Manual 6-spd,2008,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24846,Cadillac,CTS,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24847,Cadillac,CTS AWD,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24848,Chrysler,Sebring,N,Automatic 4-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,24849,Dodge,Avenger,N,Automatic 4-spd,2008,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,16,0,24850,Ferrari,612 Scaglietti,N,Automatic 6-spd,2008,3MODE,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,15,0,24851,Ferrari,612 Scaglietti,N,Manual 6-spd,2008,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,24852,Hyundai,Elantra,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,24853,Hyundai,Elantra,Y,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24854,Infiniti,G35,Y,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24855,Infiniti,G35,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24856,Infiniti,G35x,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24857,Kia,Optima,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24858,Kia,Optima,Y,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,24859,Kia,Optima,N,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24860,Lexus,ES 350,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24861,Lexus,GS 350,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24862,Lexus,GS 350 AWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,24863,Lexus,GS 460,N,Automatic (S8),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24864,Lexus,LS 460,Y,Automatic (S8),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24865,Lexus,LS 460 L,N,Automatic (S8),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,24866,Mitsubishi,Galant,Y,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24867,Mitsubishi,Galant,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,24868,Nissan,Altima,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,24869,Nissan,Altima,Y,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,24870,Nissan,Altima,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,24871,Nissan,Altima,N,Manual 6-spd,2008,,,,0,0,0
+9.694411765,0,35,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,33,0,24872,Nissan,Altima Hybrid,Y,Automatic (variable gear ratios),2008,EMS,Hybrid,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,24873,Nissan,Maxima,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,24874,Nissan,Sentra,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,24875,Nissan,Sentra,N,Manual 6-spd,2008,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,24876,Nissan,Sentra,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,24877,Nissan,Sentra,Y,Manual 6-spd,2008,,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24878,Rolls-Royce,Phantom,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24879,Rolls-Royce,Phantom EWB,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,24880,Saab,9-5 Sedan,Y,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24881,Saab,9-5 Sedan,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+7.165434783,0,48,0,0,193.1956522,46,0,1050,0,Regular,Regular Gasoline,45,0,24882,Toyota,Prius,Y,Automatic (variable gear ratios),2008,VMODE VLKUP,Hybrid,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,24883,BMW Alpina,B7,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,24884,Audi,A8 L,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24885,BMW,750i,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24886,BMW,750li,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,24887,BMW,760li,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24888,Chrysler,300 AWD,Y,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24889,Chrysler,300 AWD,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24890,Chrysler,300/SRT-8,N,Automatic 4-spd,2008,CMODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24891,Chrysler,300/SRT-8,N,Automatic 4-spd,2008,CMODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24892,Chrysler,300/SRT-8,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24893,Chrysler,300/SRT-8,Y,Automatic 5-spd,2008,CMODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24894,Dodge,Charger,Y,Automatic 4-spd,2008,CMODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24895,Dodge,Charger,Y,Automatic 4-spd,2008,CMODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24896,Dodge,Charger,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24897,Dodge,Charger,Y,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24898,Dodge,Charger AWD,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24899,Dodge,Charger AWD,Y,Automatic 5-spd,2008,CMODE,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,31,0,24900,Honda,Accord,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,24901,Honda,Accord,Y,Manual 5-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,24902,Honda,Accord,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24903,Hyundai,Azera,N,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,24904,Hyundai,Azera,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,24905,Infiniti,M35,N,Automatic (S5),2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,24906,Infiniti,M35x,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,24907,Infiniti,M45,N,Automatic (S5),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,24908,Infiniti,M45x,N,Automatic (S5),2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24909,Kia,Amanti,N,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24910,Lincoln,Town Car,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,24911,Maserati,Quattroporte,N,Automatic 6-spd,2008,SIL 3MODE CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,24912,Maybach,57,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,24913,Maybach,57S,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,24914,Maybach,62,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,24915,Maybach,62S,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,27,0,24916,BMW,328i Sport Wagon,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,24917,BMW,328i Sport Wagon,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24918,BMW,328xi Sport Wagon,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,24919,BMW,328xi Sport Wagon,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,34,0,24920,Honda,Fit,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,34,0,24921,Honda,Fit,Y,Manual 5-spd,2008,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,24922,Honda,Fit,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,24923,Saab,9-3 SportCombi,N,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,26,0,24924,Saab,9-3 SportCombi,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,24925,Saab,9-3 SportCombi,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,24926,BMW,535xi Sport Wagon,N,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,24927,Kia,Rondo,N,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24928,Kia,Rondo,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,24929,Saab,9-5 SportCombi,N,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,24930,Saab,9-5 SportCombi,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24931,Volvo,V70 FWD,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24932,Nissan,Frontier 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,24933,Nissan,Frontier 2WD,Y,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24934,Nissan,Frontier 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24935,Nissan,Frontier 2WD,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,24936,Toyota,Tacoma 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,24937,Toyota,Tacoma 2WD,Y,Manual 5-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24938,Nissan,Frontier 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,24939,Nissan,Frontier 4WD,Y,Manual 6-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,24940,Toyota,Tacoma 4WD,Y,Manual 5-spd,2008,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24941,Dodge,Dakota Pickup 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,24942,Dodge,Ram 1500 Pickup 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24943,Ford,F150 Pickup 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,24944,Ford,F150 Pickup 2WD,Y,Manual 5-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24945,Ford,F150 Pickup 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24946,Ford,F150 Pickup 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24947,Ford,F150 STX SE 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,24948,Lincoln,Mark LT,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24949,Mitsubishi,Raider Pickup 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,24950,Roush Performance,Stage 3 F150 Regular Cab 2WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,24951,Roush Performance,Stage 3 F150 Super Cab 2WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,24952,Roush Performance,Stage 3 F150 Super Crew 2WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,24953,Toyota,Tundra 2WD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,24954,Toyota,Tundra 2WD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,24955,Toyota,Tundra 2WD,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24956,Dodge,Dakota Pickup 4WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,24957,Dodge,Ram 1500 Pickup 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24958,Ford,F150 Pickup 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24959,Ford,F150 Pickup 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24960,Lincoln,Mark LT 4WD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24961,Mitsubishi,Raider Pickup 4WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,24962,Roush Performance,Stage 3 F150 Regular Cab 4WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,24963,Roush Performance,Stage 3 F150 Super Cab 4WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,24964,Roush Performance,Stage 3 F150 Super Crew 4WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,24965,Toyota,Tundra 4WD,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,24966,Toyota,Tundra 4WD,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24967,Chrysler,Town and Country/Voyager/Grand Voy. 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24968,Dodge,Caravan/Grand Caravan 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24969,Hyundai,Entourage,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24970,Kia,Sedona,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,24971,Nissan,Quest,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,24972,Toyota,Sienna 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,24973,Toyota,Sienna 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24974,Chrysler,Aspen 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,24975,Dodge,Durango 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,24976,Dodge,Magnum,N,Automatic 4-spd,2008,CMODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24977,Dodge,Magnum,Y,Automatic 4-spd,2008,CMODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24978,Dodge,Magnum,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24979,Dodge,Magnum,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,24980,Ford,Edge FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,24981,Honda,CR-V 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24982,Hyundai,Santa Fe 2WD,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24983,Hyundai,Santa Fe 2WD,N,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24984,Hyundai,Santa Fe 2WD,Y,Automatic 5-spd,2008,CMODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,24985,Hyundai,Tucson 2WD,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,24986,Hyundai,Tucson 2WD,N,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,24987,Hyundai,Tucson 2WD,N,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,24988,Hyundai,Veracruz 2WD,Y,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,24989,Jeep,Commander 2WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,24990,Jeep,Compass 2WD,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,24991,Jeep,Compass 2WD,N,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,24992,Jeep,Grand Cherokee 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,24993,Jeep,Patriot 2WD,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,24994,Jeep,Patriot 2WD,Y,Manual 5-spd,2008,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,24995,Kia,Sorento 2WD,N,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,24996,Kia,Sorento 2WD,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,24997,Kia,Sportage 2WD,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,24998,Kia,Sportage 2WD,Y,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,24999,Kia,Sportage 2WD,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+13.1844,0,27,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,24,0,25000,Lexus,RX 400h 2WD,Y,Automatic (variable gear ratios),2008,VMODE VLKUP,Hybrid,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,25001,Lincoln,MKX FWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,25002,Mitsubishi,Endeavor 2WD,N,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,25003,Mitsubishi,Outlander 2WD,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,25004,Nissan,Rogue FWD,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,25005,Nissan,Xterra 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,25006,Nissan,Xterra 2WD,Y,Manual 6-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,25007,Toyota,4Runner 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,25008,Toyota,RAV4 2WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,25009,Toyota,RAV4 2WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,25010,Toyota,Sequoia 2WD,N,Automatic (S5),2008,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,25011,Toyota,Sequoia 2WD,N,Automatic (S6),2008,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,25012,Acura,MDX 4WD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,25013,Acura,RDX 4WD,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,25014,BMW,X3 3.0si,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,25015,BMW,X3 3.0si,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,25016,BMW,X5 3.0si,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,25017,BMW,X5 4.8i,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,25018,Chrysler,Aspen 4WD,N,Automatic 5-spd,2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,25019,Dodge,Durango 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,25020,Dodge,Magnum AWD,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,25021,Dodge,Magnum AWD,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,25022,Ford,Edge AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,25023,Honda,CR-V 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,25024,Hyundai,Santa Fe 4WD,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,25025,Hyundai,Santa Fe 4WD,N,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,25026,Hyundai,Santa Fe 4WD,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,25027,Hyundai,Tucson 4WD,N,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,25028,Hyundai,Tucson 4WD,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,25029,Hyundai,Veracruz 4WD,N,Automatic 6-spd,2008,2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,25030,Jeep,Commander 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,25031,Jeep,Compass 4WD,Y,Automatic (variable gear ratios),2008,CMODE VLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,25032,Jeep,Compass 4WD,N,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,25033,Jeep,Grand Cherokee 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,25034,Jeep,Patriot 4WD,Y,Automatic (variable gear ratios),2008,CMODE VLKUP,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,25035,Jeep,Patriot 4WD,Y,Automatic (variable gear ratios),2008,CMODE VLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,25036,Jeep,Patriot 4WD,Y,Manual 5-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,25037,Kia,Sorento 4WD,N,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,25038,Kia,Sorento 4WD,N,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,25039,Kia,Sportage 4WD,Y,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,25040,Kia,Sportage 4WD,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,25041,Lexus,GX 470,Y,Automatic 5-spd,2008,2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,25042,Lexus,LX 570,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+13.1844,0,26,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,24,0,25043,Lexus,RX 400h 4WD,Y,Automatic (variable gear ratios),2008,VMODE VLKUP,Hybrid,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,25044,Lincoln,MKX AWD,Y,Automatic 6-spd,2008,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25045,Mercedes-Benz,G500,N,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,13,0,25046,Mercedes-Benz,G55 AMG,N,Automatic 5-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,25047,Mercedes-Benz,GL550 4matic,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,19,0,25048,Mitsubishi,Endeavor AWD,Y,Automatic (S4),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,25049,Mitsubishi,Outlander 4WD,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,25050,Nissan,Rogue AWD,Y,Automatic (variable gear ratios),2008,VMODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,25051,Nissan,Xterra 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,25052,Nissan,Xterra 4WD,N,Manual 6-spd,2008,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,25053,Toyota,4Runner 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+12.67730769,0,27,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,25,0,25054,Toyota,Highlander Hybrid 4WD,Y,Automatic (variable gear ratios),2008,VMODE VLKUP,Hybrid,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,25055,Toyota,Land Cruiser Wagon 4WD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,25056,Toyota,RAV4 4WD,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,25057,Toyota,RAV4 4WD,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,25058,Toyota,Sequoia 4WD,N,Automatic (S5),2008,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,25059,Toyota,Sequoia 4WD,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+18.31166667,5.762307692,15,11,484.2307692,493.7222222,18,13,2650,2750,Gasoline or E85,Regular Gasoline,23,16,25060,Lincoln,Town Car,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,12,25061,Dodge,Dakota Pickup 2WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,13,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,18,12,25062,Dodge,Ram 1500 Pickup 2WD,Y,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,25063,Dodge,Ram 1500 Pickup 2WD,N,Manual 6-spd,2008,,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,25064,Ford,F150 Pickup 2WD FFV,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,6.2425,14,10,524.5833333,592.4666667,15,12,3200,3000,Gasoline or E85,Regular Gasoline,19,14,25065,Ford,F150 STX SE 2WD FFV,N,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,12,25066,Mitsubishi,Raider Pickup 2WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,12,25067,Dodge,Dakota Pickup 4WD,Y,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,13,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,17,12,25068,Dodge,Ram 1500 Pickup 4WD,Y,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,25069,Dodge,Ram 1500 Pickup 4WD,N,Manual 6-spd,2008,,FFV,E85,0,0,0
+21.974,7.491,13,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,17,12,25070,Ford,F150 Pickup 4WD FFV,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,12,25071,Mitsubishi,Raider Pickup 4WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+17.34789474,5.762307692,17,11,484.2307692,467.7368421,19,13,2500,2750,Gasoline or E85,Regular Gasoline,24,17,25072,Chrysler,Town and Country/Voyager/Grand Voy. 2WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+17.34789474,5.762307692,17,11,484.2307692,467.7368421,19,13,2500,2750,Gasoline or E85,Regular Gasoline,24,17,25073,Dodge,Caravan/Grand Caravan 2WD,Y,Automatic 4-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,12,25074,Chrysler,Aspen 2WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,14,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,19,12,25075,Dodge,Durango 2WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,13,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,17,12,25076,Chrysler,Aspen 4WD,N,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+21.974,7.491,13,9,629.5,592.4666667,15,10,3200,3600,Gasoline or E85,Regular Gasoline,17,12,25077,Dodge,Durango 4WD,Y,Automatic 5-spd,2008,CLKUP,FFV,E85,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,25078,Chevrolet,Cobalt,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,25079,Chevrolet,Cobalt,Y,Manual 5-spd,2008,SIL,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,25080,Chevrolet,Cobalt,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,25081,Chrysler,Sebring Convertible,N,Automatic 4-spd,2008,,,,0,0,0
+11.36586207,0,25,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,36,0,25082,Honda,Civic,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+0.066428571,0,24,0,0,251.0714286,28,0,1150,0,CNG,Natural Gas,36,0,25083,Honda,Civic CNG,Y,Automatic 5-spd,2008,CLKUP,CNG,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,34,0,25084,Honda,Civic,Y,Manual 5-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,25085,Honda,Civic,Y,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,25086,Hyundai,Tiburon,Y,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,25087,Hyundai,Tiburon,N,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,25088,Hyundai,Tiburon,N,Automatic 4-spd,2008,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,25089,Hyundai,Tiburon,N,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,25090,Hyundai,Tiburon,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,25091,Infiniti,G37 Coupe,Y,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,25092,Infiniti,G37 Coupe,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,25093,Lexus,IS 250,Y,Manual 6-spd,2008,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,25094,Lexus,IS 250,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,25095,Lexus,IS 250 AWD,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,25096,Lexus,IS 350,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,25097,Maserati,GranTurismo,N,Automatic 6-spd,2008,3MODE CLKUP FW,,,0,0,0
+15.69571429,4.994,18,13,419.6666667,423.1904762,21,15,2750,2400,Premium or E85,Premium Gasoline,25,19,25098,Mercedes-Benz,C300,Y,Automatic 7-spd,2008,EMS 2MODE CLKU,FFV,E85,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,14,0,25099,Lamborghini,Murcielago Reventon,N,Automatic (S6),2008,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,25100,Mercedes-Benz,SLR,N,Automatic (S5),2008,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,25101,Porsche,911 GT2,N,Manual 6-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,25102,Shelby,Mustang GT,Y,Manual 5-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,25103,Roush Performance,Stage 3 Mustang,N,Automatic 5-spd,2008,EMS,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,25104,Saab,9-3 Convertible,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,25105,Saleen Performance,S281 Family,N,Manual 6-spd,2008,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,25106,Saleen Performance,S281 Family,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,25107,Mercedes-Benz,C300 4matic,Y,Automatic 7-spd,2008,EMS 2MODE CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,25108,Saab,9-3 Sport Sedan,Y,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,25109,Dodge,Challenger,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,25110,Chrysler,300/SRT-8,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,25111,Dodge,Charger,Y,Automatic 5-spd,2008,CMODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,25112,Pontiac,G8,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,25113,Saab,9-3 SportCombi,N,Automatic (S5),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,25114,Subaru,Impreza Wagon/Outback SPT AWD,Y,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25115,Saleen Performance,F150 Supercharged,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,25116,Honda,Odyssey,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,25117,Honda,Odyssey,Y,Automatic 5-spd,2008,CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,25118,Mazda,5,Y,Manual 5-spd,2008,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,25119,Mazda,5,Y,Automatic (S5),2008,DC/FW,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,25120,Cadillac,Escalade ESV 2WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,25121,Chevrolet,Tahoe 1500 2WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,21,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,25122,Chevrolet,Tahoe Hybrid 2WD,Y,Automatic (variable gear ratios),2008,CLKUP,Hybrid,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,25123,Chevrolet,HHR FWD,N,Automatic 4-spd,2008,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,25124,Chevrolet,HHR FWD,Y,Manual 5-spd,2008,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,25125,Dodge,Magnum,N,Automatic 5-spd,2008,CMODE,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,25126,GMC,Yukon 1500 2WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+15.69571429,0,21,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,25127,GMC,Yukon 1500 Hybrid 2WD,N,Automatic (variable gear ratios),2008,CLKUP,Hybrid,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,25128,GMC,Yukon XL 1500 2WD,N,Automatic 6-spd,2008,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,25129,Mitsubishi,Outlander 2WD,N,Automatic (variable gear ratios),2008,VMODE VLKUP,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,32,0,25130,Saturn,Vue Hybrid,Y,Automatic 4-spd,2008,CLKUP,Hybrid,,0,0,0
+16.4805,0,20,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,20,0,25131,Chevrolet,Tahoe Hybrid 4WD,N,Automatic (variable gear ratios),2008,CLKUP,Hybrid,,0,0,0
+16.4805,0,20,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,20,0,25132,GMC,Yukon 1500 Hybrid 4WD,Y,Automatic (variable gear ratios),2008,CLKUP,Hybrid,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,25133,Mitsubishi,Outlander 4WD,Y,Automatic (variable gear ratios),2008,VMODE VLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,25134,Porsche,Cayenne GTS,N,Automatic 6-spd,2008,2MODE,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,25135,Porsche,Cayenne GTS,N,Manual 6-spd,2008,,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1800,0,Premium,Premium Gasoline,37,0,25136,MINI,Cooper,Y,Manual 6-spd,2008,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,34,0,25137,MINI,Cooper,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,34,0,25138,MINI,Cooper S,Y,Manual 6-spd,2008,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,32,0,25139,MINI,Cooper S,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,16,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,27,0,25140,Audi,A5 quattro,Y,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,25142,Audi,A5 quattro,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1800,0,Premium,Premium Gasoline,37,0,25144,MINI,Clubman,Y,Manual 6-spd,2008,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,34,0,25145,MINI,Clubman,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,34,0,25146,MINI,Clubman S,Y,Manual 6-spd,2008,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,32,0,25147,MINI,Clubman S,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,25,0,25148,Jeep,Compass 2WD,Y,Automatic (variable gear ratios),2008,CMODE VLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,25,0,25149,Jeep,Patriot 2WD,Y,Automatic (variable gear ratios),2008,CMODE VLKUP,,,0,0,0
+9.155833333,0,33,0,0,246.8611111,36,0,1600,0,Premium,Premium Gasoline,41,0,25150,smart,fortwo convertible,Y,Automatic (S5),2008,SIL 2MODE CLKUP,,,0,0,0
+9.155833333,0,33,0,0,246.8611111,36,0,1600,0,Premium,Premium Gasoline,41,0,25151,smart,fortwo coupe,Y,Automatic (S5),2008,SIL 2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,25152,Audi,S5,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,25153,BMW,128i,Y,Manual 6-spd,2008,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,25154,BMW,128i,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,25155,BMW,128i Convertible,N,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,25156,BMW,128i Convertible,Y,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,25157,BMW,135i,Y,Manual 6-spd,2008,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,25158,BMW,135i,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,25159,BMW,135i Convertible,N,Manual 6-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,25160,BMW,135i Convertible,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,25161,BMW,M3 Coupe,N,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,25162,Lexus,IS F,Y,Automatic (S8),2008,2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,25163,BMW,M3,Y,Manual 6-spd,2008,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,25164,Mitsubishi,Lancer Evolution,Y,Manual 5-spd,2008,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,25165,Mitsubishi,Lancer Evolution,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,25166,Saturn,Astra 2DR Hatchback,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,25167,Saturn,Astra 2DR Hatchback,Y,Manual 5-spd,2008,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,25168,Saturn,Astra 4DR Hatchback,Y,Automatic 4-spd,2008,CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,25169,Saturn,Astra 4DR Hatchback,Y,Manual 5-spd,2008,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,25170,Pontiac,G8,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,25171,Infiniti,EX35,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,25172,Infiniti,EX35,Y,Automatic (S5),2008,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25173,Tecstar LP,Foose F150 Regular Cab 2WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25174,Tecstar LP,Foose F150 Super Cab 2WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25175,Tecstar LP,Foose F150 Super Crew 2WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25176,Tecstar LP,Foose F150 Regular Cab 4WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25177,Tecstar LP,Foose F150 Super Cab 4WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25178,Tecstar LP,Foose F150 Super Crew 4WD,N,Automatic 4-spd,2008,EMS CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,25181,BMW,M3 Convertible,N,Automatic (S7),2008,6MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,25182,BMW,M3 Convertible,Y,Manual 6-spd,2008,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,25183,BMW,M3 Coupe,N,Automatic (S7),2008,6MODE CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,25184,Chevrolet,Cobalt,Y,Manual 5-spd,2008,,,,0,0,0
+11.36586207,0,25,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,36,0,25185,Chevrolet,Cobalt XFE,Y,Manual 5-spd,2008,SIL,,,0,0,0
+11.36586207,0,25,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,25186,Pontiac,G5 XFE,N,Manual 5-spd,2008,SIL,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,25187,BMW,M3,N,Automatic (S7),2008,6MODE CLKUP,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,25189,Mercedes-Benz,C63 AMG,N,Automatic (S7),2008,EMS 2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,25190,Saab,9-3 Aero Sedan AWD,N,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,25191,Saab,9-3 Aero Sedan AWD,N,Manual 6-spd,2008,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,32,0,25192,Chevrolet,Malibu,Y,Automatic (S6),2008,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,25193,Saab,9-3 Aero SportCombi AWD,Y,Automatic (S6),2008,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,25194,Saab,9-3 Aero SportCombi AWD,N,Manual 6-spd,2008,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,25195,Saleen Performance,S331 Family,N,Automatic 4-spd,2008,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,25196,BMW,X6 xDrive35i,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,25197,BMW,X6 xDrive50i,N,Automatic (S6),2008,3MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,29576,Dodge,Caliber,Y,Manual 6-spd,2008,,,,0,0,0
+0.204,0,102,0,0,0,98,0,650,0,Electricity,Electricity,94,0,30978,MINI,MiniE,N,Automatic (A1),2008,,EV,,0,0,0

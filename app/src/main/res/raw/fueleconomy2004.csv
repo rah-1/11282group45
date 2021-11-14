@@ -1,0 +1,1123 @@
+barrels08,barrelsA08,city08,cityA08,co2TailpipeAGpm,co2TailpipeGpm,comb08,combA08,fuelCost08,fuelCostA08,fuelType,fuelType1,highway08,highwayA08,id,make,model,mpgData,trany,year,trans_dscr,atvType,fuelType2,phevCity,phevHwy,phevComb
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19332,Acura,NSX,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19333,Acura,NSX,N,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19334,Audi,TT Roadster,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19335,Audi,TT Roadster quattro,N,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19336,Audi,TT Roadster quattro,N,Automatic (S6),2004,3MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19337,BMW,Z4 Roadster,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19338,BMW,Z4 Roadster,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19339,BMW,Z4 Roadster,N,Automatic (S6),2004,4MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19340,BMW,Z4 Roadster,Y,Manual 6-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19341,BMW,Z4 Roadster,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19342,BMW,Z4 Roadster,N,Automatic (S6),2004,4MODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19343,Cadillac,XLR,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19344,Chevrolet,Corvette,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19345,Chevrolet,Corvette,Y,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19346,Chrysler,Crossfire,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19347,Chrysler,Crossfire,Y,Manual 6-spd,2004,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,19,0,19348,Dodge,Viper Convertible,N,Manual 6-spd,2004,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,15,0,19349,Ferrari,360 Modena/Spider/Challenge,N,Manual 6-spd,2004,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,15,0,19350,Ferrari,360 Modena/Spider/Challenge,N,Automatic (S6),2004,2MODE,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,15,0,19351,Ferrari,360 Modena/Spider/Challenge,N,Automatic (S6),2004,3MODE,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,15,0,19352,Ferrari,575 M Maranello,N,Manual 6-spd,2004,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,16,0,19353,Ferrari,575 M Maranello,N,Automatic (S6),2004,3MODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,19354,Ford,Thunderbird,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19355,Ford,Thunderbird,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+7.012978723,0,45,0,0,189.0851064,47,0,1000,0,Regular,Regular Gasoline,49,0,19356,Honda,Insight,Y,Automatic (variable gear ratios),2004,EMS,Hybrid,,0,0,0
+6.338653846,0,48,0,0,170.9038462,52,0,900,0,Regular,Regular Gasoline,58,0,19357,Honda,Insight,Y,Manual 5-spd,2004,SIL EMS,Hybrid,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,23,0,19358,Honda,S2000,Y,Manual 6-spd,2004,,,,0,0,0
+32.961,0,8,0,0,888.7,10,0,5800,0,Premium,Premium Gasoline,14,0,19359,Lamborghini,L-140/141 Gallardo,N,Manual 6-spd,2004,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,16,0,19360,Lamborghini,L-140/141 Gallardo,N,Automatic (S6),2004,,,,0,0,0
+32.961,0,8,0,0,888.7,10,0,5800,0,Premium,Premium Gasoline,12,0,19361,Lamborghini,L-147/148 Murcielago,N,Manual 6-spd,2004,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,14,0,19362,Lamborghini,L-147/148 Murcielago,N,Automatic (S6),2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,19363,Lotus,Esprit V8,N,Manual 5-spd,2004,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,15,0,19364,Maserati,Spider Cambiocorsa/Spider GT,N,Manual 6-spd,2004,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,19365,Maserati,Spider Cambiocorsa/Spider GT,N,Automatic (S6),2004,3MODE,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,19366,Mazda,MX-5 Miata,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,26,0,19367,Mazda,MX-5 Miata,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,19368,Mazda,MX-5 Miata,Y,Manual 6-spd,2004,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19369,Mazda,MX-5 Miata,Y,Manual 6-spd,2004,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19370,Mercedes-Benz,SL500,Y,Automatic 7-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,19371,Mercedes-Benz,SL55 AMG,N,Automatic (S5),2004,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,19372,Mercedes-Benz,SL600,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,19373,Mercedes-Benz,SLK230,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19374,Mercedes-Benz,SLK230,N,Manual 6-spd,2004,EMS,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19375,Mercedes-Benz,SLK32 AMG,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19376,Mercedes-Benz,SLK320,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19377,Mercedes-Benz,SLK320,N,Manual 6-spd,2004,EMS,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19378,Nissan,350z,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19379,Nissan,350z,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19380,Nissan,350z Roadster,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19381,Nissan,350z Roadster,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19382,Porsche,Boxster,Y,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19383,Porsche,Boxster,Y,Automatic (S5),2004,2MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19384,Porsche,Boxster S,N,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,19385,Porsche,Boxster S,N,Automatic (S5),2004,2MODE,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,19386,Porsche,Carrera 2 911 GT3,N,Manual 6-spd,2004,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,15,0,19387,Porsche,Carrera GT,N,Manual 6-spd,2004,2MODE,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,22,0,19388,Porsche,Turbo 2 911 Gt2,N,Manual 6-spd,2004,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,19389,Toyota,MR2,N,Manual 5-spd,2004,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,19390,Toyota,MR2,N,Manual 6-spd,2004,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,18,0,19391,Aston Martin,V12 Vanquish,Y,Automatic (S6),2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19392,Audi,TT Coupe,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19393,Audi,TT Coupe quattro,N,Manual 6-spd,2004,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,24,0,19394,Audi,TT Coupe quattro,Y,Automatic (S6),2004,3MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19395,BMW,325ci Convertible,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19396,BMW,325ci Convertible,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19397,BMW,325ci Convertible,Y,Automatic (S6),2004,4MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19398,BMW,330ci Convertible,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19399,BMW,330ci Convertible,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19400,BMW,330ci Convertible,N,Automatic (S6),2004,4MODE,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19401,BMW,M3 Convertible,Y,Manual 6-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19402,BMW,M3 Convertible,Y,Automatic (S6),2004,6MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19403,Jaguar,XK8 Convertible,N,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19404,Jaguar,XKR Convertible,N,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19405,Lexus,SC 430,Y,Automatic 5-spd,2004,2MODE CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,29,0,19406,MINI,Cooper,Y,Automatic (variable gear ratios),2004,2MODE,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,33,0,19407,MINI,Cooper,Y,Manual 5-spd,2004,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,19408,MINI,Cooper S,Y,Manual 6-spd,2004,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,19409,Mitsubishi,Eclipse Spyder,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19410,Mitsubishi,Eclipse Spyder,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19411,Mitsubishi,Eclipse Spyder,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19412,Mitsubishi,Eclipse Spyder,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19413,Mitsubishi,Eclipse Spyder,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19414,Mitsubishi,Eclipse Spyder,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19415,Porsche,Carrera 2 Cabriolet,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19416,Porsche,Carrera 2 Cabriolet,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19417,Porsche,Carrera 2 Cabriolet Kit,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19418,Porsche,Carrera 2 Coupe,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19419,Porsche,Carrera 2 Coupe,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19420,Porsche,Carrera 2 Coupe Kit,N,Manual 6-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19421,Porsche,Carrera 4 Cabriolet,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19422,Porsche,Carrera 4 Cabriolet,N,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19423,Porsche,Carrera 4 Cabriolet Kit,N,Manual 6-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19424,Porsche,Carrera 4 S Cabriolet,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19425,Porsche,Carrera 4 S Cabriolet,N,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19426,Porsche,Carrera 4 S Cabriolet Kit,N,Manual 6-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19427,Porsche,Carrera 4 S Coupe,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19428,Porsche,Carrera 4 S Coupe,N,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19429,Porsche,Carrera 4 S Kit,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19430,Porsche,Targa,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19431,Porsche,Targa,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19432,Porsche,Targa Kit,N,Manual 6-spd,2004,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19433,Porsche,Turbo 4 911,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19434,Porsche,Turbo 4 911,N,Manual 6-spd,2004,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,19435,Porsche,Turbo 4 911 Cab,Y,Automatic 5-spd,2004,2MODE,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,19436,Porsche,Turbo 4 911 Cab,N,Manual 6-spd,2004,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,19437,Porsche,Turbo 4 911 Cab Kit,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,19438,Porsche,Turbo 4 911 Cab Kit,N,Manual 6-spd,2004,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19439,Porsche,Turbo 4 911 Kit,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19440,Porsche,Turbo 4 911 Kit,N,Manual 6-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,19441,Volkswagen,New Beetle Convertible,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,19442,Volkswagen,New Beetle Convertible,Y,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19443,Volkswagen,New Beetle Convertible,N,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,19444,Volkswagen,New Beetle Convertible,Y,Automatic (S6),2004,2MODE CLKUP,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,19445,Acura,RSX,Y,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,19446,Acura,RSX,Y,Manual 6-spd,2004,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19447,Acura,RSX,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,19448,Audi,A4 Cabriolet,N,Automatic (variable gear ratios),2004,3MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19449,Audi,A4 Cabriolet,N,Automatic (variable gear ratios),2004,3MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19450,Audi,A4 Cabriolet quattro,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19451,Audi,S4 Cabriolet,N,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,19452,Audi,S4 Cabriolet,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19453,BMW,325ci,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19454,BMW,325ci,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19455,BMW,325ci,N,Automatic (S6),2004,4MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19456,BMW,330ci,Y,Manual 6-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19457,BMW,330ci,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19458,BMW,330ci,N,Automatic (S6),2004,4MODE,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19459,BMW,645ci,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19460,BMW,645ci,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,19461,BMW,645ci,N,Automatic (S6),2004,4MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,19462,BMW,645ci Convertible,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19463,BMW,645ci Convertible,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,19464,BMW,645ci Convertible,N,Automatic (S6),2004,4MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,19465,BMW,M3,N,Manual 6-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19466,BMW,M3,Y,Automatic (S6),2004,6MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19467,Ford,Mustang,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19468,Ford,Mustang,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19469,Ford,Mustang,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19470,Ford,Mustang,Y,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,19471,Ford,Mustang,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,19472,Ford,Mustang,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19473,Ford,Mustang,Y,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19474,Ford,Mustang,Y,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,19475,Ford,Mustang,Y,Manual 6-spd,2004,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19476,Hyundai,Tiburon,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,19477,Hyundai,Tiburon,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19478,Hyundai,Tiburon,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19479,Hyundai,Tiburon,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,19480,Hyundai,Tiburon,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19481,Jaguar,XK8,N,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19482,Jaguar,XKR,N,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,15,0,19483,Maserati,Coupe Cambiocorsa/Coupe GT,N,Manual 6-spd,2004,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,19484,Maserati,Coupe Cambiocorsa/Coupe GT,N,Automatic (S6),2004,3MODE,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19485,Mazda,RX-8,Y,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19486,Mazda,RX-8,Y,Automatic (S4),2004,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19487,Mercedes-Benz,CLK320,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19488,Mercedes-Benz,CLK320 (Cabriolet),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19489,Mercedes-Benz,CLK500,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19490,Mercedes-Benz,CLK500 (Cabriolet),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19491,Mercedes-Benz,CLK55 AMG,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19492,Mercedes-Benz,CLK55 AMG (Cabriolet),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19493,Mitsubishi,Eclipse,N,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,19494,Mitsubishi,Eclipse,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19495,Mitsubishi,Eclipse,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19496,Mitsubishi,Eclipse,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19497,Mitsubishi,Eclipse,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19498,Mitsubishi,Eclipse,Y,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19499,Mitsubishi,Eclipse,Y,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19500,Roush Performance,Stage 3 Mustang,N,Manual 5-spd,2004,EMS,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19501,Saab,9-3 Convertible,N,Manual 5-spd,2004,SIL,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19502,Saab,9-3 Convertible,Y,Manual 6-spd,2004,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19503,Saab,9-3 Convertible,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19504,Subaru,Impreza AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19505,Subaru,Impreza AWD,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,19506,Subaru,Impreza AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19507,Subaru,Impreza AWD,Y,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19508,Subaru,Impreza AWD,Y,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19509,Toyota,Camry Solara Convertible,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,19510,Toyota,Celica,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,19511,Toyota,Celica,Y,Manual 5-spd,2004,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,19512,Toyota,Celica,N,Manual 6-spd,2004,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,19513,Toyota,Celica,N,Automatic (S4),2004,CLKUP,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,34,0,19514,Scion,xA,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,34,0,19515,Scion,xA,Y,Manual 5-spd,2004,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,27,0,19516,Volkswagen,New Beetle,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,19517,Volkswagen,New Beetle,Y,Manual 5-spd,2004,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,19518,Volkswagen,New Beetle,N,Manual 6-spd,2004,,,,0,0,0
+10.61625,0,32,0,0,282.7777778,36,0,1400,0,Diesel,Diesel,42,0,19519,Volkswagen,New Beetle,Y,Manual 5-spd,2004,,Diesel,,0,0,0
+11.58136364,0,30,0,0,308.4848485,33,0,1550,0,Diesel,Diesel,38,0,19520,Volkswagen,New Beetle,Y,Automatic (S6),2004,3MODE,Diesel,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19521,Volkswagen,New Beetle,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19522,Volkswagen,New Beetle,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19523,Volkswagen,R32,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19524,Volvo,C70 Convertible,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19525,Volvo,C70 Convertible,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,19526,Volvo,C70 Convertible,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19527,Acura,TSX,Y,Manual 6-spd,2004,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,19528,Acura,TSX,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,27,0,19529,Audi,A4,N,Automatic (variable gear ratios),2004,3MODE,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,19530,Audi,A4,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19531,Audi,A4,N,Automatic (variable gear ratios),2004,3MODE,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19532,Audi,A4 quattro,Y,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19533,Audi,A4 quattro,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19534,Audi,A4 quattro,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19535,Audi,A4 quattro,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19536,Audi,S4,Y,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19537,Audi,S4,Y,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,19538,Bentley,Continental GT,N,Automatic (S6),2004,3MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19539,BMW,325i,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19540,BMW,325i,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19541,BMW,325i,N,Automatic (S6),2004,4MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19542,BMW,325xi,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19543,BMW,325xi,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19544,BMW,330i,Y,Manual 6-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19545,BMW,330i,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19546,BMW,330i,N,Automatic (S6),2004,4MODE,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19547,BMW,330xi,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19548,BMW,330xi,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,19549,Chevrolet,Aveo,Y,Automatic 4-spd,2004,EMS,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,19550,Chevrolet,Aveo,Y,Manual 5-spd,2004,EMS,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19551,Chevrolet,Cavalier,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,19552,Chevrolet,Cavalier,Y,Manual 5-spd,2004,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,19553,Chevrolet,Optra,N,Automatic 4-spd,2004,EMS,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19554,Chevrolet,Optra,N,Manual 5-spd,2004,EMS,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19555,Chrysler,Sebring,N,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19556,Chrysler,Sebring,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19557,Chrysler,Sebring,Y,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19558,Chrysler,Sebring,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19559,Chrysler,Sebring,Y,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19560,Chrysler,Sebring Convertible,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19561,Chrysler,Sebring Convertible,N,Manual 5-spd,2004,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,19562,Daewoo,Kalos,N,Automatic 4-spd,2004,EMS,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,19563,Daewoo,Kalos,N,Manual 5-spd,2004,EMS,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,19564,Daewoo,Lacetti,N,Automatic 4-spd,2004,EMS,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19565,Daewoo,Lacetti,N,Manual 5-spd,2004,EMS,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,19566,Dodge,Neon/SRT-4/SX 2.0,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,32,0,19567,Dodge,Neon/SRT-4/SX 2.0,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19568,Dodge,Neon/SRT-4/SX 2.0,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19569,Dodge,Stratus,Y,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19570,Dodge,Stratus,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19571,Dodge,Stratus,Y,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19572,Dodge,Stratus,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19573,Dodge,Stratus,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,19574,Ford,Focus,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19575,Ford,Focus,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,19576,Ford,Focus,Y,Manual 5-spd,2004,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,19577,Ford,Focus,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19578,Ford,Focus,Y,Manual 6-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19579,Ford,Focus,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,19580,Ford,Focus,Y,Manual 5-spd,2004,,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,36,0,19581,Honda,Civic,Y,Automatic (variable gear ratios),2004,,,,0,0,0
+11.36586207,0,25,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,34,0,19582,Honda,Civic,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,19583,Honda,Civic,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,34,0,19584,Honda,Civic,Y,Manual 5-spd,2004,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,34,0,19585,Honda,Civic,Y,Manual 5-spd,2004,,,,0,0,0
+9.694411765,0,31,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,39,0,19586,Honda,Civic,Y,Manual 5-spd,2004,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,19587,Honda,Civic,Y,Manual 5-spd,2004,,,,0,0,0
+8.24025,0,39,0,0,222.175,40,0,1200,0,Regular,Regular Gasoline,43,0,19588,Honda,Civic Hybrid,Y,Automatic (variable gear ratios),2004,EMS,Hybrid,,0,0,0
+8.039268293,0,39,0,0,216.7560976,41,0,1150,0,Regular,Regular Gasoline,42,0,19589,Honda,Civic Hybrid,Y,Automatic (variable gear ratios),2004,EMS,Hybrid,,0,0,0
+8.24025,0,37,0,0,222.175,40,0,1200,0,Regular,Regular Gasoline,45,0,19590,Honda,Civic Hybrid,Y,Manual 5-spd,2004,SIL EMS,Hybrid,,0,0,0
+8.039268293,0,38,0,0,216.7560976,41,0,1150,0,Regular,Regular Gasoline,45,0,19591,Honda,Civic Hybrid,Y,Manual 5-spd,2004,SIL EMS,Hybrid,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,19592,Hyundai,Accent/Brio,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,19593,Hyundai,Accent/Brio,Y,Manual 5-spd,2004,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,19594,Hyundai,Accent/Brio,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,19595,Hyundai,Accent/Brio,Y,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19596,Hyundai,Elantra,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,19597,Hyundai,Elantra,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19598,Infiniti,G35,Y,Manual 6-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19599,Infiniti,G35,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,19600,Infiniti,G35,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,19601,Infiniti,G35,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19602,Infiniti,G35,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19603,Infiniti,M45,N,Automatic (S5),2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19604,Jaguar,X-Type,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19605,Jaguar,X-Type,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,19606,Kia,Rio,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19607,Kia,Rio,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,19608,Kia,Rio,Y,Manual 5-spd,2004,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,19609,Kia,Rio,N,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19610,Kia,Spectra 1.8L,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19611,Kia,Spectra 1.8L,Y,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19612,Lexus,IS 300,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19613,Lexus,IS 300,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,19614,Mazda,3,Y,Manual 5-spd,2004,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,19615,Mazda,3,Y,Automatic (S4),2004,DC/FW,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,19616,Mazda,3,Y,Automatic (S4),2004,DC/FW,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,19617,Mazda,3,Y,Manual 5-spd,2004,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,19618,Mazda,3,Y,Automatic (S4),2004,DC/FW,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19619,Mercedes-Benz,C240,N,Manual 6-spd,2004,EMS,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19620,Mercedes-Benz,C320 4matic Sedan,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,19621,Mercedes-Benz,C230 Kompressor,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,27,0,19622,Mercedes-Benz,C230 Kompressor,Y,Manual 6-spd,2004,EMS,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,19623,Mercedes-Benz,C230 Kompressor Sports Coupe,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,27,0,19624,Mercedes-Benz,C230 Kompressor Sports Coupe,Y,Manual 6-spd,2004,EMS,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,19625,Mercedes-Benz,C240,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19626,Mercedes-Benz,C240 4matic,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,19627,Mercedes-Benz,C32 AMG,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19628,Mercedes-Benz,C320,N,Manual 6-spd,2004,EMS,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19629,Mercedes-Benz,C320 Sports Coupe,N,Manual 6-spd,2004,EMS,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,19630,Mercedes-Benz,CL500,N,Automatic 7-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,19631,Mercedes-Benz,CL55 AMG,Y,Automatic (S5),2004,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,19632,Mercedes-Benz,CL600,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19633,Mitsubishi,Lancer,Y,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,19634,Mitsubishi,Lancer,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,19635,Mitsubishi,Lancer,Y,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,19636,Mitsubishi,Lancer,Y,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19637,Mitsubishi,Lancer Evolution,Y,Manual 5-spd,2004,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,19638,Nissan,Sentra,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,19639,Nissan,Sentra,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,19640,Nissan,Sentra,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,19641,Nissan,Sentra,Y,Manual 6-spd,2004,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19642,Oldsmobile,Alero,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,19643,Oldsmobile,Alero,N,Manual 5-spd,2004,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19644,Oldsmobile,Alero,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19645,Pontiac,Grand Am,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,19646,Pontiac,Grand Am,N,Manual 5-spd,2004,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19647,Pontiac,Grand Am,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,19648,Pontiac,GTO,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,26,0,19649,Pontiac,GTO,Y,Manual 6-spd,2004,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19650,Pontiac,Sunfire,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,19651,Pontiac,Sunfire,N,Manual 5-spd,2004,SIL,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,19652,Saab,9-3 Sport Sedan,Y,Manual 5-spd,2004,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19653,Saab,9-3 Sport Sedan,Y,Manual 5-spd,2004,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19654,Saab,9-3 Sport Sedan,N,Manual 6-spd,2004,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19655,Saab,9-3 Sport Sedan,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19656,Saab,9-3 Sport Sedan,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,26,0,19657,Saturn,Ion,Y,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19658,Saturn,Ion,Y,Automatic (variable gear ratios),2004,CLKUP,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,19659,Saturn,Ion,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,19660,Saturn,Ion,Y,Manual 5-spd,2004,SIL,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19661,Subaru,Legacy/Outback AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19662,Subaru,Legacy/Outback AWD,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19663,Subaru,Legacy/Outback AWD,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19664,Subaru,Legacy/Outback AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19665,Suzuki,Aerio,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19666,Suzuki,Aerio,Y,Manual 5-spd,2004,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,19667,Suzuki,Aerio AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,19668,Suzuki,Forenza,Y,Automatic 4-spd,2004,EMS,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19669,Suzuki,Forenza,Y,Manual 5-spd,2004,EMS,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,19670,Suzuki,Swift,N,Automatic 4-spd,2004,EMS,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,19671,Suzuki,Swift,N,Manual 5-spd,2004,EMS,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19672,Toyota,Camry Solara,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,19673,Toyota,Camry Solara,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19674,Toyota,Camry Solara,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,34,0,19675,Toyota,Corolla,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,36,0,19676,Toyota,Corolla,Y,Manual 5-spd,2004,,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,36,0,19677,Toyota,Echo,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+9.988181818,0,30,0,0,269.3030303,33,0,1450,0,Regular,Regular Gasoline,38,0,19678,Toyota,Echo,Y,Manual 5-spd,2004,,,,0,0,0
+10.61625,0,32,0,0,282.7777778,36,0,1400,0,Diesel,Diesel,42,0,19679,Volkswagen,Golf,Y,Manual 5-spd,2004,,Diesel,,0,0,0
+11.94328125,0,28,0,0,318.125,32,0,1600,0,Diesel,Diesel,39,0,19680,Volkswagen,Golf,Y,Automatic (S5),2004,3MODE CLKUP,Diesel,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19681,Volkswagen,Golf,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19682,Volkswagen,Golf,Y,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,19683,Volkswagen,GTI,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19684,Volkswagen,GTI,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19685,Volkswagen,GTI,Y,Manual 6-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,19686,Volkswagen,Jetta,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19687,Volkswagen,Jetta,Y,Manual 6-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19688,Volkswagen,Jetta,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+10.61625,0,32,0,0,282.7777778,36,0,1400,0,Diesel,Diesel,42,0,19689,Volkswagen,Jetta,Y,Manual 5-spd,2004,,Diesel,,0,0,0
+11.94328125,0,28,0,0,318.125,32,0,1600,0,Diesel,Diesel,39,0,19690,Volkswagen,Jetta,Y,Automatic (S5),2004,3MODE CLKUP,Diesel,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19691,Volkswagen,Jetta,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19692,Volkswagen,Jetta,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19693,Volkswagen,Jetta,Y,Manual 6-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19694,Volkswagen,Passat 4motion,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19695,Volkswagen,Passat 4motion,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19696,Volkswagen,Passat 4motion,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19697,Volkswagen,Passat 4motion,N,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19698,Volkswagen,Passat 4motion,N,Automatic (S5),2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19699,Volvo,S40 FWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19700,Volvo,S40 FWD,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,19701,Volvo,S40 FWD,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19702,Volvo,S60 AWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19703,Volvo,S60 FWD,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19704,Volvo,S60 FWD,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19705,Volvo,S60 FWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19706,Volvo,S60 FWD,N,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19707,Volvo,S60 FWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19708,Volvo,S60 R AWD,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19709,Volvo,S60 R AWD,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19710,Acura,3.5RL,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,19711,Acura,TL,Y,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19712,Acura,TL,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19713,Audi,A6,N,Automatic (variable gear ratios),2004,3MODE,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19714,Audi,A6 quattro,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19715,Audi,A6 quattro,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19716,Audi,A6 quattro,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19717,Audi,A6 quattro,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,13,0,19718,Bentley,Arnage,N,Automatic 4-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19719,BMW,525i,N,Manual 6-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19720,BMW,525i,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19721,BMW,530i,Y,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19722,BMW,530i,N,Automatic (S6),2004,4MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19723,BMW,530i,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19724,BMW,545i,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19725,BMW,545i,Y,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,19726,BMW,545i,Y,Automatic (S6),2004,4MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19727,Buick,Century,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,28,0,19728,Buick,Regal,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,16,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19729,Buick,Regal,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19730,Cadillac,CTS,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19731,Cadillac,CTS,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,25,0,19732,Cadillac,CTS,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,23,0,19733,Cadillac,CTS-V,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,19734,Cadillac,Seville,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,19735,Cadillac,Seville,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19736,Chevrolet,Epica,N,Automatic 4-spd,2004,EMS,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19737,Chevrolet,Classic,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19738,Chevrolet,Malibu,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,19739,Chevrolet,Malibu,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,19740,Chevrolet,Monte Carlo,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,28,0,19741,Chevrolet,Monte Carlo,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,16,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19742,Chevrolet,Monte Carlo,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19743,Chrysler,Sebring 4 Door,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19744,Daewoo,Magnus,N,Automatic 4-spd,2004,EMS,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19745,Dodge,Stratus 4 Door,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19746,Dodge,Stratus 4 Door,N,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,31,0,19747,Honda,Accord,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,19748,Honda,Accord,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19749,Honda,Accord,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19750,Honda,Accord,Y,Manual 6-spd,2004,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,19751,Hyundai,Elantra Hatchback,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,19752,Hyundai,Sonata,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,19753,Hyundai,Sonata,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19754,Hyundai,Sonata,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19755,Hyundai,Sonata,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,19756,Hyundai,XG350,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19757,Infiniti,I35,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19758,Infiniti,Q45,N,Automatic (S5),2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19759,Jaguar,S-Type 3.0 Litre,N,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19760,Jaguar,S-Type 3.0 Litre,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,19761,Jaguar,S-Type 4.2 Litre,N,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19762,Jaguar,S-Type R,N,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19763,Kia,Spectra 2.0L,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,19764,Kia,Spectra 2.0L,N,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19765,Kia,Optima,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,19766,Kia,Optima,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19767,Kia,Optima,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19768,Kia,Optima,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19769,Lexus,ES 330,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19770,Lexus,GS 300/GS 430,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19771,Lexus,GS 300/GS 430,N,Automatic 5-spd,2004,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19772,Lincoln,LS,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,19773,Lincoln,LS,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,19774,Lincoln,LS,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19775,Lincoln,LS,N,Automatic (S5),2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19776,Mercury,Sable,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19777,Mercury,Sable,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19778,Mazda,6,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,19779,Mazda,6,Y,Automatic (S4),2004,DC/FW,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19780,Mazda,6,Y,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,19781,Mazda,6,Y,Automatic (S5),2004,DC/FW,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19782,Mercedes-Benz,E320,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,19783,Mercedes-Benz,E320 4matic,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,19784,Mercedes-Benz,E500,N,Automatic 7-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,19785,Mercedes-Benz,E500 4matic,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,19786,Mercedes-Benz,E55 AMG,N,Automatic (S5),2004,EMS 2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19787,Mitsubishi,Diamante Sedan,N,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19788,Mitsubishi,Diamante Sedan,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,19789,Mitsubishi,Galant,Y,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,19790,Mitsubishi,Galant,Y,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,19791,Nissan,Altima,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,19792,Nissan,Altima,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19793,Nissan,Altima,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,19794,Nissan,Altima,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19795,Nissan,Maxima,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19796,Nissan,Maxima,Y,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19797,Nissan,Maxima,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,28,0,19798,Pontiac,Grand Prix,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,19799,Pontiac,Grand Prix,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,16,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19800,Pontiac,Grand Prix,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,19801,Rolls-Royce,Phantom,N,Automatic (S6),2004,2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19802,Saab,5-Sep,N,Manual 5-spd,2004,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19803,Saab,5-Sep,Y,Manual 5-spd,2004,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,19804,Saab,5-Sep,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19805,Saab,5-Sep,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19806,Saturn,L300,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19807,Saturn,L300,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19808,Suzuki,Verona,Y,Automatic 4-spd,2004,EMS,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,19809,Toyota,Camry,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,19810,Toyota,Camry,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19811,Toyota,Camry,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19812,Toyota,Camry,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+7.165434783,0,48,0,0,193.1956522,46,0,1050,0,Regular,Regular Gasoline,45,0,19813,Toyota,Prius,Y,Automatic (variable gear ratios),2004,,Hybrid,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,19814,Volkswagen,Passat,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19815,Volkswagen,Passat,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19816,Volkswagen,Passat,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19817,Volkswagen,Passat,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19818,Volvo,S80 AWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19819,Volvo,S80/S80 Premier,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19820,Volvo,S80/S80 Premier,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19821,Volvo,S80/S80 Premier,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19822,Audi,A8 L,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,5300,0,Premium,Premium Gasoline,13,0,19823,Bentley,Arnage LWB,N,Automatic 4-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19824,BMW,745i,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19825,BMW,745li,Y,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,19826,BMW,760li,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19827,Buick,LeSabre,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19828,Buick,Park Avenue,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,16,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19829,Buick,Park Avenue,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,19830,Cadillac,Armored Deville,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,19831,Cadillac,DeVille,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,19832,Cadillac,DeVille,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,19833,Cadillac,Funeral Coach / Hearse,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,19834,Cadillac,Limousine,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,19835,Chevrolet,Impala,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,28,0,19836,Chevrolet,Impala,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,16,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19837,Chevrolet,Impala,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,19838,Chevrolet,Malibu Maxx,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,25,0,19839,Chrysler,300 M,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19840,Chrysler,Concorde/LHS,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19841,Chrysler,Concorde/LHS,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19842,Dodge,Intrepid,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19843,Dodge,Intrepid,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,25,0,19844,Dodge,Intrepid,N,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19845,Ford,Crown Victoria,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,19846,Ford,Taurus,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19847,Ford,Taurus,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,19848,Jaguar,Vdp 4.2 Litre,Y,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,19849,Jaguar,XJ8 4.2 Litre,Y,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19850,Jaguar,XJR 4.2 Litre,Y,Automatic 6-spd,2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19851,Kia,Amanti,Y,Automatic 5-spd,2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19852,Lexus,LS 430,Y,Automatic (S6),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19853,Mercury,Grand Marquis,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19854,Mercury,Marauder,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19855,Lincoln,Town Car,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,19856,Maybach,57,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,19857,Maybach,62,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19858,Mercedes-Benz,S430,N,Automatic 7-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,19859,Mercedes-Benz,S430 4matic,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,19860,Mercedes-Benz,S500,N,Automatic 7-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19861,Mercedes-Benz,S500 4matic,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,19862,Mercedes-Benz,S55 AMG,N,Automatic (S5),2004,EMS 2MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,19863,Mercedes-Benz,S600,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,19864,Pontiac,Bonneville,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,16,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19865,Pontiac,Bonneville,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,19866,Pontiac,Bonneville,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19867,Toyota,Avalon,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,19868,Volkswagen,Phaeton,Y,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,19869,Volkswagen,Phaeton,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19870,Audi,A4 Avant quattro,Y,Manual 6-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19871,Audi,A4 Avant quattro,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19872,Audi,A4 Avant quattro,N,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19873,Audi,A4 Avant quattro,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19874,Audi,S4 Avant,Y,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19875,Audi,S4 Avant,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,19876,BMW,325i Sport Wagon,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19877,BMW,325i Sport Wagon,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19878,BMW,325i Sport Wagon,N,Automatic (S6),2004,4MODE,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19879,BMW,325xi Sport Wagon,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19880,BMW,325xi Sport Wagon,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19881,Mercedes-Benz,C240 (Wagon),N,Manual 6-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19882,Mercedes-Benz,C240 (Wagon),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19883,Mercedes-Benz,C240 4matic (Wagon),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19884,Mercedes-Benz,C320 4matic (Wagon),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,19885,Mitsubishi,Lancer Sportback,Y,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,19886,Pontiac,Vibe,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,19887,Pontiac,Vibe AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,19888,Pontiac,Vibe,Y,Manual 5-spd,2004,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,29,0,19889,Pontiac,Vibe,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19890,Subaru,Impreza Wagon/Outback SPT AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19891,Subaru,Impreza Wagon/Outback SPT AWD,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,19892,Subaru,Impreza Wagon/Outback SPT AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19893,Subaru,Impreza Wagon/Outback SPT AWD,Y,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19894,Suzuki,Aerio SX,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19895,Suzuki,Aerio SX,Y,Manual 5-spd,2004,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,19896,Suzuki,Aerio SX AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,19897,Toyota,Matrix,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,19898,Toyota,Matrix AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,19899,Toyota,Matrix,Y,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,19900,Toyota,Matrix,Y,Manual 6-spd,2004,,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,31,0,19901,Scion,xB,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,32,0,19902,Scion,xB,Y,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,19903,Volkswagen,Jetta Wagon,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19904,Volkswagen,Jetta Wagon,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+10.91957143,0,31,0,0,290.8571429,35,0,1450,0,Diesel,Diesel,42,0,19905,Volkswagen,Jetta Wagon,Y,Manual 5-spd,2004,,Diesel,,0,0,0
+11.94328125,0,28,0,0,318.125,32,0,1600,0,Diesel,Diesel,39,0,19906,Volkswagen,Jetta Wagon,Y,Automatic (S5),2004,3MODE CLKUP,Diesel,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,19907,Volkswagen,Jetta Wagon,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19908,Volkswagen,Jetta Wagon,N,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19909,Volvo,V40,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19910,Audi,A6 Avant quattro,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19911,Ford,Focus Station Wagon,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,19912,Ford,Focus Station Wagon,Y,Manual 5-spd,2004,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,19913,Ford,Focus Station Wagon,N,Manual 5-spd,2004,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,19914,Ford,Focus Station Wagon,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,19915,Ford,Focus Station Wagon,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19916,Ford,Taurus Wagon,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,19917,Ford,Taurus Wagon,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19918,Mercury,Sable Wagon,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,19919,Mercury,Sable Wagon,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19920,Mazda,6 Sport Wagon,Y,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,19921,Mazda,6 Sport Wagon,Y,Automatic (S5),2004,DC/FW,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19922,Mercedes-Benz,E320 (Wagon),Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19923,Mercedes-Benz,E320 4matic (Wagon),Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,19924,Mercedes-Benz,E500 (Wagon),N,Automatic 7-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,19925,Mercedes-Benz,E500 4matic (Wagon),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19926,Saab,9-5 Wagon,N,Manual 5-spd,2004,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19927,Saab,9-5 Wagon,N,Manual 5-spd,2004,SIL,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,19928,Saab,9-5 Wagon,N,Manual 5-spd,2004,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,19929,Saab,9-5 Wagon,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19930,Saab,9-5 Wagon,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,19931,Saab,9-5 Wagon,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,19932,Saturn,LW300,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,19933,Saturn,LW300,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19934,Subaru,Legacy/Outback Wagon AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,19935,Subaru,Legacy/Outback Wagon AWD,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19936,Subaru,Legacy/Outback Wagon AWD,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19937,Subaru,Legacy/Outback Wagon AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,19938,Volkswagen,Passat Wagon,Y,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19939,Volkswagen,Passat Wagon,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,19940,Volkswagen,Passat Wagon,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19941,Volkswagen,Passat Wagon,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19942,Volkswagen,Passat Wagon 4motion,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19943,Volkswagen,Passat Wagon 4motion,N,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,19944,Volkswagen,Passat Wagon 4motion,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,19945,Volkswagen,Passat Wagon 4motion,N,Manual 6-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,19946,Volkswagen,Passat Wagon 4motion,N,Automatic (S5),2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,19947,Volvo,V70 AWD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,19948,Volvo,V70 FWD,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19949,Volvo,V70 FWD,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,19950,Volvo,V70 FWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,19951,Volvo,V70 FWD,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,19952,Volvo,V70 FWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19953,Volvo,V70 R AWD,Y,Manual 6-spd,2004,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,19954,Volvo,V70 R AWD,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,19955,Chevrolet,SSR Pickup 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,19956,Chevrolet,Silverado 15 Hybrid 2WD,N,Automatic 4-spd,2004,CLKUP,Hybrid,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19957,Chevrolet,Silverado 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19958,Chevrolet,Silverado 1500 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19959,Chevrolet,Silverado 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19960,Chevrolet,Silverado 1500 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,19961,Chevrolet,Silverado 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,19962,Chevrolet,Silverado 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19963,Chevrolet,Colorado 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,19964,Chevrolet,Colorado 2WD,Y,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,19965,Chevrolet,Colorado 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,19966,Chevrolet,Colorado 2WD,Y,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19967,Chevrolet,Colorado Crew Cab 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,19968,Chevrolet,Colorado Crew Cab 2WD,Y,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,19969,Chevrolet,Colorado Crew Cab 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,19970,Dodge,Dakota Pickup 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,19971,Dodge,Dakota Pickup 2WD,N,Manual 5-spd,2004,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,19972,Dodge,Dakota Pickup 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,19973,Dodge,Dakota Pickup 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19974,Dodge,Ram 1500 Pickup 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19975,Dodge,Ram 1500 Pickup 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,19976,Dodge,Ram 1500 Pickup 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,19977,Dodge,Ram 1500 Pickup 2WD,N,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,19978,Dodge,Ram 1500 Pickup 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+32.961,0,9,0,0,888.7,10,0,5800,0,Premium,Premium Gasoline,14,0,19979,Dodge,Ram 1500 Pickup 2WD,Y,Manual 6-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,19980,Ford,F150 Pickup 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19981,Ford,F150 Pickup 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,19982,Ford,F150 Pickup 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,19983,Ford,F150 Pickup 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,19984,Ford,F150 Pickup 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,19985,Ford,Ranger Pickup 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,19986,Ford,Ranger Pickup 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,19987,Ford,Ranger Pickup 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,19988,Ford,Ranger Pickup 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,19989,Ford,Ranger Pickup 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,19990,Ford,Ranger Pickup 2WD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,19991,Ford,Ranger Pickup 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,19992,GMC,Sierra 15 Hybrid 2WD,N,Automatic 4-spd,2004,CLKUP,Hybrid,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19993,GMC,Sierra 1500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19994,GMC,Sierra 1500 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19995,GMC,Sierra 1500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,19996,GMC,Sierra 1500 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,19997,GMC,Sierra 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,19998,GMC,Sierra 1500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,19999,GMC,Canyon 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,20000,GMC,Canyon 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20001,GMC,Canyon 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,20002,GMC,Canyon 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,20003,GMC,Canyon Crew Cab 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20004,GMC,Canyon Crew Cab 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20005,GMC,Canyon Crew Cab 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,20006,Mazda,B2300 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,20007,Mazda,B2300 2WD,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20008,Mazda,B3000,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20009,Mazda,B3000,N,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20010,Mazda,B4000 2WD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20011,Mazda,B4000 2WD,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20012,Nissan,Frontier 2WD,Y,Automatic 4-spd,2004,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,20013,Nissan,Frontier 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,20014,Nissan,Frontier V6 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20015,Nissan,Frontier V6 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,17,0,20016,Nissan,Frontier V6 2WD,N,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20017,Nissan,Frontier V6 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20018,Nissan,Titan 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,20019,Toyota,Tacoma 2WD,N,Automatic 4-spd,2004,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,20020,Toyota,Tacoma 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20021,Toyota,Tacoma 2WD,N,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20022,Toyota,Tacoma 2WD,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20023,Toyota,Tacoma 2WD,N,Manual 5-spd,2004,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20024,Toyota,Tundra 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20025,Toyota,Tundra 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20026,Toyota,Tundra 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20027,Chevrolet,Colorado 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20028,Chevrolet,Colorado 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20029,Chevrolet,Colorado 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20030,Chevrolet,Colorado 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20031,Chevrolet,Colorado Crew Cab 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20032,Chevrolet,Colorado Crew Cab 4WD,Y,Manual 5-spd,2004,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20033,Chevrolet,Colorado Crew Cab 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,20034,Chevrolet,Silverado 15 Hybrid 4WD,N,Automatic 4-spd,2004,CLKUP,Hybrid,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20035,Chevrolet,Silverado 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20036,Chevrolet,Silverado 1500 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20037,Chevrolet,Silverado 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20038,Chevrolet,Silverado 1500 4WD,Y,Manual 5-spd,2004,SIL,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20039,Chevrolet,Silverado 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,20040,Chevrolet,Silverado 1500 AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20041,Chevrolet,S10 Pickup 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20042,Dodge,Dakota Pickup 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20043,Dodge,Dakota Pickup 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20044,Dodge,Dakota Pickup 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20045,Dodge,Dakota Pickup 4WD,N,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20046,Dodge,Ram 1500 Pickup 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20047,Dodge,Ram 1500 Pickup 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20048,Dodge,Ram 1500 Pickup 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20049,Ford,F150 Pickup 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20050,Ford,F150 Pickup 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20051,Ford,F150 Pickup 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,20052,Ford,F150 Pickup 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20053,Ford,F150 Pickup 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20054,Ford,Ranger Pickup 4WD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20055,Ford,Ranger Pickup 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20056,Ford,Ranger Pickup 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20057,Ford,Ranger Pickup 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20058,GMC,Canyon 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20059,GMC,Canyon 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20060,GMC,Canyon 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20061,GMC,Canyon 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20062,GMC,Canyon Crew Cab 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20063,GMC,Canyon Crew Cab 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20064,GMC,Canyon Crew Cab 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,20065,GMC,Sierra 15 Hybrid 4WD,N,Automatic 4-spd,2004,CLKUP,Hybrid,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20066,GMC,Sierra 1500 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20067,GMC,Sierra 1500 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20068,GMC,Sierra 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20069,GMC,Sierra 1500 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20070,GMC,Sierra 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20071,GMC,Sierra 1500 AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20072,Mazda,B4000 4WD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20073,Mazda,B4000 4WD,N,Manual 5-spd,2004,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,17,0,20074,Nissan,Frontier V6 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20075,Nissan,Frontier V6 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,17,0,20076,Nissan,Frontier V6 4WD,N,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20077,Nissan,Frontier V6 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20078,Nissan,Titan 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,19,0,20079,Toyota,Tacoma 4WD,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20080,Toyota,Tacoma 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20081,Toyota,Tacoma 4WD,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20082,Toyota,Tacoma 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20083,Toyota,Tundra 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20084,Toyota,Tundra 4WD,N,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20085,Toyota,Tundra 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20086,Chevrolet,Astro 2WD (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20087,Chevrolet,Astro 2WD (cargo) Conversion,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20088,Chevrolet,Astro AWD (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20089,Chevrolet,Astro AWD (cargo) Conversion,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20090,Chevrolet,Van 15/25 2WD Conversion,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20091,Chevrolet,Van 15/25 2WD Conversion,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20092,Chevrolet,Van 1500/2500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20093,Chevrolet,Van 1500/2500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20094,Chevrolet,Van 1500 AWD Conversion,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20095,Chevrolet,Van 1500/2500 AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20096,Ford,E150 Econoline 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20097,Ford,E150 Econoline 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20098,Ford,E250 Econoline 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20099,GMC,Savana 15/25 2WD Conversion (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20100,GMC,Savana 15/25 2WD Conversion (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20101,GMC,Savana 1500/2500 2WD (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20102,GMC,Savana 1500/2500 2WD (cargo),Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20103,GMC,Savana 15/25 AWD Conversion (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20104,GMC,Savana 1500/2500 AWD (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20105,GMC,Safari 2WD (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20106,GMC,Safari 2WD Conversion (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20107,GMC,Safari AWD (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20108,GMC,Safari AWD Conversion (cargo),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20109,Chevrolet,Astro 2WD (passenger),Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20110,Chevrolet,Astro AWD (passenger),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20111,Chevrolet,Express 1500/2500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20112,Chevrolet,Express 1500/2500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20113,Chevrolet,Express 1500 AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20114,Ford,E150 Club Wagon,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20115,Ford,E150 Club Wagon,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20116,GMC,Savana 1500/2500 2WD (Passenger),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20117,GMC,Savana 1500/2500 2WD (Passenger),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20118,GMC,Savana 1500 AWD (Passenger),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20119,GMC,Safari 2WD (Passenger),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20120,GMC,Safari AWD (Passenger),N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20121,Chevrolet,Venture FWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20122,Chrysler,Town and Country/Voyager/Grand Voy. 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,20123,Chrysler,Town and Country/Voyager/Grand Voy. 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,20124,Chrysler,Town and Country/Voyager/Grand Voy. 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20125,Dodge,Caravan/Grand Caravan 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,20126,Dodge,Caravan/Grand Caravan 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,20127,Dodge,Caravan/Grand Caravan 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20128,Ford,Freestar Cargo Van FWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20129,Ford,Freestar Wagon FWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20130,Ford,Freestar Wagon FWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,20131,Honda,Odyssey,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,21,0,20132,Kia,Sedona,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,20133,Mazda,MPV,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20134,Mercury,Monterey Wagon FWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,20135,Nissan,Quest,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,20136,Nissan,Quest,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20137,Oldsmobile,Silhouette 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20138,Pontiac,Montana FWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,20139,Toyota,Sienna 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20140,Chevrolet,Venture AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20141,Chrysler,Town and Country/Voyager/Grand Voy. AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20142,Dodge,Caravan/Grand Caravan AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20143,Oldsmobile,Silhouette AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20144,Pontiac,Montana AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20145,Toyota,Sienna 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20146,Buick,Rainier 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20147,Buick,Rainier 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20148,Buick,Rendezvous FWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20149,Cadillac,Escalade 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,20150,Cadillac,SRX 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,20151,Cadillac,SRX 2WD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20152,Chevrolet,Blazer 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20153,Chevrolet,Blazer 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20154,Chevrolet,Avalanche 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20155,Chevrolet,Suburban 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20156,Chevrolet,Tahoe 1500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20157,Chevrolet,Tahoe 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20158,Chevrolet,Tracker 2WD Hardtop,N,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20159,Chevrolet,Tracker LT 2WD,Y,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20160,Chevrolet,TrailBlazer 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20161,Chevrolet,TrailBlazer Ext 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20162,Chevrolet,TrailBlazer Ext 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20163,Chrysler,Pacifica 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,20164,Chrysler,PT Cruiser,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,20165,Chrysler,PT Cruiser,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,20166,Chrysler,PT Cruiser,N,Manual 5-spd,2004,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,20167,Chrysler,PT Cruiser,Y,Manual 5-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20168,Dodge,Durango 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20169,Dodge,Durango 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20170,Dodge,Durango 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,20171,Ford,Escape 2WD,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,20172,Ford,Escape 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20173,Ford,Expedition 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20174,Ford,Expedition 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20175,Ford,Explorer 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20176,GMC,Yukon 1500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20177,GMC,Yukon 1500 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20178,GMC,Yukon XL 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20179,GMC,Envoy 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20180,GMC,Envoy XL 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20181,GMC,Envoy XL 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20182,GMC,Jimmy 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,20183,Honda,CR-V 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,20184,Honda,Element 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,20185,Honda,Element 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,20186,Hyundai,Santa Fe 2WD,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,20187,Hyundai,Santa Fe 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20188,Hyundai,Santa Fe 2WD,Y,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20189,Hyundai,Santa Fe 2WD,Y,Automatic 5-spd,2004,CMODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,20190,Infiniti,FX35 RWD,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,20191,Infiniti,QX56 2WD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20192,Isuzu,Ascender 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20193,Isuzu,Ascender 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20194,Isuzu,Ascender 5-passenger 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20195,Isuzu,Axiom 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20196,Isuzu,Rodeo 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20197,Isuzu,Rodeo 2WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20198,Isuzu,Rodeo 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20199,Jeep,Grand Cherokee 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20200,Jeep,Grand Cherokee 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20201,Jeep,Liberty/Cherokee 2WD,N,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20202,Jeep,Liberty/Cherokee 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20203,Jeep,Liberty/Cherokee 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20204,Kia,Sorento 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20205,Kia,Sorento 2WD,N,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20206,Lexus,RX 330 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20207,Lexus,RX 330 2WD,N,Automatic (S5),2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,20208,Lincoln,Aviator 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,20209,Lincoln,Navigator 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,20210,Mazda,Tribute 2WD,N,Manual 5-spd,2004,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,20211,Mazda,Tribute 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20212,Mercury,Mountaineer 2WD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,20213,Mitsubishi,Endeavor,Y,Automatic (S4),2004,CMODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20214,Mitsubishi,Montero Sport 2WD,N,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20215,Mitsubishi,Nativa 2WD(Puerto Rico Only),N,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,20216,Mitsubishi,Outlander 2WD,Y,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,20217,Nissan,Murano 2WD,Y,Automatic (variable gear ratios),2004,VMODE CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20218,Nissan,Pathfinder 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,20219,Nissan,Pathfinder Armada 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,20220,Nissan,Xterra 2WD,N,Manual 5-spd,2004,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,20221,Nissan,Xterra V6 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20222,Nissan,Xterra V6 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20223,Nissan,Xterra V6 2WD,N,Manual 5-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20224,Oldsmobile,Bravada 2WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,20225,Pontiac,Aztek FWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,20226,Saturn,Vue FWD,Y,Automatic (variable gear ratios),2004,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,20227,Saturn,Vue FWD,Y,Manual 5-spd,2004,SIL,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,20228,Saturn,Vue FWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20229,Suzuki,Grand Vitara,N,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20230,Suzuki,Grand Vitara,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20231,Suzuki,Grand Vitara XL7,Y,Automatic 5-spd,2004,2MODE 2LKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20232,Suzuki,Grand Vitara XL7,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20233,Suzuki,Vitara 4 Door,N,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,20234,Suzuki,Vitara 4 Door,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20235,Toyota,4Runner 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20236,Toyota,4Runner 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,20237,Toyota,Highlander 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,20238,Toyota,Highlander 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,20239,Toyota,RAV4 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,20240,Toyota,RAV4 2WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20241,Toyota,Sequoia 2WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,20242,Volvo,XC90 FWD,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,20243,Acura,MDX 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,20244,Audi,Allroad quattro,N,Manual 6-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,20245,Audi,Allroad quattro,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,20246,Audi,Allroad quattro,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,20247,BMW,X3,N,Manual 6-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,20248,BMW,X3,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,20249,BMW,X3,N,Manual 6-spd,2004,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,20250,BMW,X3,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,20251,BMW,X5,N,Manual 6-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,20252,BMW,X5,Y,Automatic (S5),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,20253,BMW,X5,Y,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20254,Buick,Rainier AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20255,Buick,Rainier AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20256,Buick,Rendezvous AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,20257,Buick,Rendezvous AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20258,Cadillac,Escalade AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20259,Cadillac,Escalade ESV AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20260,Cadillac,Escalade Ext AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,20261,Cadillac,SRX AWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,20262,Cadillac,SRX AWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20263,Chevrolet,Blazer 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20264,Chevrolet,Blazer 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20265,Chevrolet,Avalanche 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20266,Chevrolet,Suburban 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20267,Chevrolet,Suburban 1500 AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20268,Chevrolet,Tahoe 1500 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20269,Chevrolet,Tahoe 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20270,Chevrolet,Tahoe 1500 AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20271,Chevrolet,Tracker 4WD Hardtop,Y,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20272,Chevrolet,Tracker LT 4WD,N,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20273,Chevrolet,Tracker ZR2 4WD,Y,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20274,Chevrolet,TrailBlazer 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20275,Chevrolet,TrailBlazer Ext 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20276,Chevrolet,TrailBlazer Ext 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20277,Chrysler,Pacifica AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20278,Dodge,Durango 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20279,Dodge,Durango 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20280,Ford,Escape 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20281,Ford,Expedition 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20282,Ford,Expedition 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20283,Ford,Explorer 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20284,GMC,Envoy 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20285,GMC,Envoy XL 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20286,GMC,Envoy XL 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20287,GMC,Jimmy 4WD,Y,Manual 5-spd,2004,SIL,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20288,GMC,Yukon 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20289,GMC,Yukon 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20290,GMC,Yukon 1500 AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20291,GMC,Yukon 1500 AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20292,GMC,Yukon XL 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20293,GMC,Yukon XL 1500 AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20294,GMC,Yukon XL 1500 AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,20295,Honda,CR-V 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,20296,Honda,CR-V 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,20297,Honda,Element 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,20298,Honda,Element 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20299,Honda,Pilot 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20300,Hyundai,Santa Fe 4WD,N,Automatic 4-spd,2004,2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20301,Hyundai,Santa Fe 4WD,Y,Automatic 5-spd,2004,2MODE CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20302,Infiniti,FX35 AWD,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,20303,Infiniti,FX45 AWD,Y,Automatic (S5),2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20304,Infiniti,QX56 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20305,Isuzu,Ascender 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20306,Isuzu,Ascender 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20307,Isuzu,Ascender 5-passenger 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20308,Isuzu,Axiom 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,20309,Isuzu,Rodeo 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20310,Isuzu,Rodeo 4WD,N,Manual 5-spd,2004,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20311,Isuzu,Rodeo 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20312,Jeep,Grand Cherokee 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,20313,Jeep,Grand Cherokee 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20314,Jeep,Liberty/Cherokee 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20315,Jeep,Liberty/Cherokee 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,20316,Jeep,Liberty/Cherokee 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20317,Jeep,Wrangler/TJ 4WD,N,Automatic 4-spd,2004,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20318,Jeep,Wrangler/TJ 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20319,Jeep,Wrangler/TJ 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,20320,Jeep,Wrangler/TJ 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20321,Kia,Sorento 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20322,Kia,Sorento 4WD,N,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20323,Land Rover,Freelander,Y,Automatic 5-spd,2004,2MODE CLKUP,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,14,0,20324,Land Rover,Discovery Series II,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,15,0,20325,Land Rover,Range Rover,Y,Automatic 5-spd,2004,EMS 3MODE CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20326,Lexus,GX 470,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20327,Lexus,LX 470,N,Automatic 5-spd,2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20328,Lexus,RX 330 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20329,Lexus,RX 330 4WD,N,Automatic (S5),2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,20330,Lincoln,Aviator 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,20331,Mazda,Tribute 4WD,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20332,Mazda,Tribute 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,13,0,20333,Mercedes-Benz,G500,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,14,0,20334,Mercedes-Benz,G55 AMG,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,17,0,20335,Mercedes-Benz,ML350,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,16,0,20336,Mercedes-Benz,ML500,Y,Automatic 5-spd,2004,EMS 2MODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20337,Mercury,Mountaineer 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,20338,Mitsubishi,Endeavor,Y,Automatic (S4),2004,CMODE CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,20339,Mitsubishi,Montero,N,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20340,Mitsubishi,Montero Sport 4WD,N,Automatic 4-spd,2004,CMODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,20341,Mitsubishi,Outlander 4WD,Y,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,20342,Nissan,Murano AWD,Y,Automatic (variable gear ratios),2004,VMODE CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20343,Nissan,Pathfinder 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,20344,Nissan,Pathfinder Armada 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,17,0,20345,Nissan,Xterra V6 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20346,Nissan,Xterra V6 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20347,Nissan,Xterra V6 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20348,Oldsmobile,Bravada AWD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,20349,Pontiac,Aztek AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,20350,Porsche,Cayenne,Y,Automatic 5-spd,2004,2MODE,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,20351,Porsche,Cayenne S,Y,Automatic 5-spd,2004,2MODE,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,20352,Porsche,Cayenne Turbo,N,Automatic 5-spd,2004,2MODE,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,20353,Saturn,Vue AWD,N,Automatic (variable gear ratios),2004,CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,20354,Saturn,Vue AWD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,20355,Subaru,Baja AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,20356,Subaru,Baja AWD,N,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,20357,Subaru,Baja AWD,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,20358,Subaru,Baja AWD,N,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,21,0,20359,Subaru,Forester AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,20360,Subaru,Forester AWD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,20361,Subaru,Forester AWD,Y,Manual 5-spd,2004,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,20362,Subaru,Forester AWD,Y,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20363,Suzuki,Grand Vitara 4WD,N,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20364,Suzuki,Grand Vitara 4WD,N,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20365,Suzuki,Grand Vitara XL7 4WD,Y,Automatic 5-spd,2004,2MODE 2LKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,20366,Suzuki,Grand Vitara XL7 4WD,N,Manual 5-spd,2004,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20367,Suzuki,Vitara 4 Door 4WD,N,Automatic 4-spd,2004,2MODE 2LKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,20368,Suzuki,Vitara 4 Door 4WD,N,Manual 5-spd,2004,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,20369,Toyota,4Runner 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,20370,Toyota,4Runner 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,20371,Toyota,Highlander 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,20372,Toyota,Highlander 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,20373,Toyota,Land Cruiser Wagon 4WD,Y,Automatic 5-spd,2004,2MODE CLKUP,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,20374,Toyota,RAV4 4WD,Y,Automatic 4-spd,2004,CLKUP,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,20375,Toyota,RAV4 4WD,Y,Manual 5-spd,2004,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,20376,Toyota,Sequoia 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,20377,Volkswagen,Touareg,Y,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,20378,Volkswagen,Touareg,Y,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+21.2325,0,15,0,0,565.5555556,18,0,2800,0,Diesel,Diesel,22,0,20379,Volkswagen,Touareg,Y,Automatic (S6),2004,3MODE CLKUP,Diesel,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,20380,Volvo,XC70 AWD,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,20381,Volvo,XC90 AWD,Y,Automatic (S5),2004,2MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,20382,Volvo,XC90 AWD,Y,Automatic (S4),2004,2MODE CLKUP,,,0,0,0
+0.143076923,0,11,0,0,540.7692308,13,0,2550,0,CNG,Natural Gas,15,0,20383,Ford,F150 CNG,Y,Automatic 4-spd,2004,CLKUP,CNG,,0,0,0
+27.4675,0.155,11,10,585.8333333,740.5833333,12,12,4000,2750,Gasoline or natural gas,Regular Gasoline,14,14,20384,Ford,F150 Dual-fuel 2WD (CNG),N,Automatic 4-spd,2004,CLKUP,Bifuel (CNG),Natural Gas,0,0,0
+27.4675,0.169090909,11,10,639.0909091,740.5833333,12,11,4000,3000,Gasoline or natural gas,Regular Gasoline,14,13,20385,Ford,F150 Dual-fuel 4WD (CNG),N,Automatic 4-spd,2004,CLKUP,Bifuel (CNG),Natural Gas,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,20386,Chevrolet,Silverado 1500 4WD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,20387,Chevrolet,Silverado 1500 2WD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,20388,GMC,Sierra 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,20389,GMC,Sierra 1500 4WD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20390,Chevrolet,Avalanche 1500 2WD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20391,Chevrolet,Suburban 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,17,13,20392,Chevrolet,Tahoe 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,17,13,20393,GMC,Yukon 1500 2WD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20394,GMC,Yukon XL 1500 2WD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20395,Chevrolet,Avalanche 1500 4WD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20396,Chevrolet,Avalanche 1500 AWD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20397,Chevrolet,Suburban 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20398,Chevrolet,Suburban 1500 AWD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20399,Chevrolet,Tahoe 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20400,Chevrolet,Tahoe 1500 AWD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20401,GMC,Yukon 1500 4WD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20402,GMC,Yukon 1500 AWD,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20403,GMC,Yukon XL 1500 4WD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,20404,GMC,Yukon XL 1500 AWD,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+13.73375,0.080869565,21,20,305.6521739,370.2916667,24,23,2000,1450,Gasoline or natural gas,Regular Gasoline,29,29,20405,Chevrolet,Cavalier Dual-fuel,Y,Automatic 4-spd,2004,,Bifuel (CNG),Natural Gas,0,0,0
+0.066428571,0,26,0,0,251.0714286,28,0,1150,0,CNG,Natural Gas,31,0,20406,Honda,Civic CNG,Y,Automatic (variable gear ratios),2004,,CNG,,0,0,0
+0.186,0,9,0,0,703,10,0,3300,0,CNG,Natural Gas,11,0,20407,Chevrolet,Silverado 2500 HD 2WD CNG,Y,Automatic 4-spd,2004,2MODE,CNG,,0,0,0
+15.69571429,4.681875,19,14,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,26,19,20408,Chrysler,Sebring Convertible,Y,Automatic 4-spd,2004,2MODE CLKUP,FFV,E85,0,0,0
+15.69571429,4.681875,19,14,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,25,19,20409,Chrysler,Sebring Convertible,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+15.69571429,4.681875,19,14,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,25,19,20410,Chrysler,Sebring 4 Door,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+15.69571429,4.681875,19,14,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,25,19,20411,Dodge,Stratus 4 Door,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+15.69571429,4.681875,19,14,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,26,19,20412,Chrysler,Sebring 4 Door,N,Automatic 4-spd,2004,2MODE CLKUP,FFV,E85,0,0,0
+15.69571429,4.681875,19,14,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,26,19,20413,Dodge,Stratus 4 Door,N,Automatic 4-spd,2004,2MODE CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,14,20414,Ford,Explorer Sport Trac 2WD FFV,Y,Automatic 5-spd,2004,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,20415,Ford,Explorer Sport Trac 4WD FFV,Y,Automatic 5-spd,2004,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,20416,Ford,Explorer 4WD FFV,Y,Automatic 5-spd,2004,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,14,20417,Ford,Explorer 2WD FFV,Y,Automatic 5-spd,2004,CLKUP,FFV,E85,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,14,20418,Mercury,Mountaineer 2WD FFV,N,Automatic 5-spd,2004,CLKUP,FFV,E85,0,0,0
+16.4805,5.350714286,17,13,449.6428571,444.35,20,14,2900,2550,Premium or E85,Premium Gasoline,23,17,20419,Mercedes-Benz,C240 FFV,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,FFV,E85,0,0,0
+16.4805,4.994,18,13,419.6666667,444.35,20,15,2900,2400,Premium or E85,Premium Gasoline,24,18,20420,Mercedes-Benz,C320 FFV,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,FFV,E85,0,0,0
+16.4805,4.994,18,13,419.6666667,444.35,20,15,2900,2400,Premium or E85,Premium Gasoline,24,18,20421,Mercedes-Benz,C320 Sports Coupe FFV,N,Automatic 5-spd,2004,EMS 2MODE CLKUP,FFV,E85,0,0,0
+16.4805,5.350714286,17,13,449.6428571,444.35,20,14,2900,2550,Premium or E85,Premium Gasoline,23,17,20422,Mercedes-Benz,C240 FFV (Wagon),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,FFV,E85,0,0,0
+16.4805,4.994,18,13,419.6666667,444.35,20,15,2900,2400,Premium or E85,Premium Gasoline,24,18,20423,Mercedes-Benz,C320 FFV (Wagon),N,Automatic 5-spd,2004,EMS 2MODE CLKUP,FFV,E85,0,0,0
+21.974,8.157272727,13,10,525.5454545,592.4666667,15,11,3200,3650,Gasoline or propane,Regular Gasoline,18,14,20424,Ford,F150 Dual-fuel 2WD (LPG),N,Automatic 4-spd,2004,,Bifuel (LPG),Propane,0,0,0
+21.974,8.157272727,13,10,525.5454545,592.4666667,15,11,3200,3650,Gasoline or propane,Regular Gasoline,18,14,20425,Ford,F150 Dual-fuel 4WD (LPG),N,Automatic 4-spd,2004,,Bifuel (LPG),Propane,0,0,0
+27.4675,0.155,11,11,585.8333333,740.5833333,12,12,4000,2750,Gasoline or natural gas,Regular Gasoline,15,15,20426,Chevrolet,Express Cargo (Bi-fuel),N,Automatic 4-spd,2004,CLKUP,Bifuel (CNG),Natural Gas,0,0,0
+27.4675,0.155,11,11,585.8333333,740.5833333,12,12,4000,2750,Gasoline or natural gas,Regular Gasoline,15,15,20427,Chevrolet,Express Passenger (Bi-fuel),Y,Automatic 4-spd,2004,CLKUP,Bifuel (CNG),Natural Gas,0,0,0
+27.4675,0.155,11,11,585.8333333,740.5833333,12,12,4000,2750,Gasoline or natural gas,Regular Gasoline,15,15,20428,GMC,Savana (cargo) (Bi-fuel),N,Automatic 4-spd,2004,CLKUP,Bifuel (CNG),Natural Gas,0,0,0
+27.4675,0.155,11,11,585.8333333,740.5833333,12,12,4000,2750,Gasoline or natural gas,Regular Gasoline,15,15,20429,GMC,Savana Passenger (Bi-fuel),N,Automatic 4-spd,2004,CLKUP,Bifuel (CNG),Natural Gas,0,0,0
+0.155,0,11,0,0,585.8333333,12,0,2750,0,CNG,Natural Gas,15,0,20430,Chevrolet,Express Cargo (dedicated CNG),N,Automatic 4-spd,2004,CLKUP,CNG,,0,0,0
+0.155,0,11,0,0,585.8333333,12,0,2750,0,CNG,Natural Gas,15,0,20431,Chevrolet,Express Passenger (dedicated CNG),N,Automatic 4-spd,2004,CLKUP,CNG,,0,0,0
+0.155,0,11,0,0,585.8333333,12,0,2750,0,CNG,Natural Gas,15,0,20432,GMC,Savana Cargo (dedicated CNG),N,Automatic 4-spd,2004,CLKUP,CNG,,0,0,0
+0.155,0,11,0,0,585.8333333,12,0,2750,0,CNG,Natural Gas,15,0,20433,GMC,Savana Passenger (dedicated CNG),N,Automatic 4-spd,2004,CLKUP,CNG,,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,20434,Mercury,Mountaineer 4WD FFV,Y,Automatic 5-spd,2004,CLKUP,FFV,E85,0,0,0
+0.132857143,0,12,0,0,502.1428571,14,0,2350,0,CNG,Natural Gas,17,0,20435,Ford,Crown Victoria CNG,Y,Automatic 4-spd,2004,CLKUP,CNG,,0,0,0
+16.4805,4.994,17,13,419.6666667,444.35,20,15,2400,2400,Gasoline or E85,Regular Gasoline,25,19,20436,Mercury,Sable,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+17.34789474,4.994,17,13,419.6666667,467.7368421,19,15,2500,2400,Gasoline or E85,Regular Gasoline,24,18,20437,Mercury,Sable Wagon,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+16.4805,4.994,17,13,419.6666667,444.35,20,15,2400,2400,Gasoline or E85,Regular Gasoline,25,19,20438,Ford,Taurus,Y,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+17.34789474,4.994,17,13,419.6666667,467.7368421,19,15,2500,2400,Gasoline or E85,Regular Gasoline,24,18,20439,Ford,Taurus Wagon,N,Automatic 4-spd,2004,CLKUP,FFV,E85,0,0,0
+27.4675,8.323333333,11,8,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,14,11,20440,Dodge,Ram 1500 Pickup 2WD,N,Automatic 5-spd,2004,CLKUP,FFV,E85,0,0,0
+27.4675,8.323333333,11,8,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,14,11,20441,Dodge,Ram 1500 Pickup 4WD,N,Automatic 5-spd,2004,CLKUP,FFV,E85,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,20442,BMW,525i,N,Automatic (S6),2004,4MODE,,,0,0,0
+14.155,0,23,0,0,377.037037,27,0,1900,0,Diesel,Diesel,34,0,20443,Volkswagen,Passat,Y,Automatic (S5),2004,3MODE CLKUP,Diesel,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,20444,BMW,760i,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+14.155,0,23,0,0,377.037037,27,0,1900,0,Diesel,Diesel,34,0,20445,Volkswagen,Passat Wagon,Y,Automatic (S5),2004,3MODE CLKUP,Diesel,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20446,Ford,Explorer 2WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20447,Mercury,Mountaineer 2WD,N,Automatic 5-spd,2004,CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,20448,BMW,X5 4.8IS,N,Automatic (S6),2004,3MODE CLKUP,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,20449,Ford,Explorer 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,20450,Mercury,Mountaineer 4WD,Y,Automatic 5-spd,2004,CLKUP,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,29231,Chevrolet,Impala Police,N,Automatic 4-spd,2004,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,29232,Ford,Crown Victoria Police,Y,Automatic 4-spd,2004,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,29608,GMC,Sonoma 4WD,N,Automatic 4-spd,2004,CLKUP,,,0,0,0

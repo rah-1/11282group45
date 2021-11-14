@@ -22,7 +22,6 @@ public abstract class DataLog
     protected VehicleProfile vehicle;
     protected String entry;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public DataLog()
     {
         time = LocalDateTime.now();
@@ -90,18 +89,21 @@ public abstract class DataLog
             }
 
             Log.d("File Man", "File created successfully");
-
-            FileWriter fw = new FileWriter(Logfile);
-            fw.write(entry);
-            fw.close();
+            writeEntry(Logfile,false);
         }
         else
         {
             Log.d("File Man","File exists");
-            FileWriter fw = new FileWriter(Logfile, true);
-            fw.write(entry);
-            fw.close();
+            writeEntry(Logfile,true);
         }
+    }
+
+    private void writeEntry(File logFile, boolean append) throws IOException
+    {
+        FileWriter fw = new FileWriter(logFile, append);
+        setEntry();
+        fw.write(entry);
+        fw.close();
     }
 
     @Override

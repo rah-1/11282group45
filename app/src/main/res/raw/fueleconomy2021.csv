@@ -1,0 +1,1260 @@
+barrels08,barrelsA08,city08,cityA08,co2TailpipeAGpm,co2TailpipeGpm,comb08,combA08,fuelCost08,fuelCostA08,fuelType,fuelType1,highway08,highwayA08,id,make,model,mpgData,trany,year,trans_dscr,atvType,fuelType2,phevCity,phevHwy,phevComb
+10.63258065,0,29,0,0,285,31,0,1550,0,Regular,Regular Gasoline,34,0,42428,Kia,Seltos FWD,N,Automatic (AV-S8),2021,,,,0,0,0
+12.20777778,0,25,0,0,331,27,0,1750,0,Regular,Regular Gasoline,30,0,42429,Kia,Seltos AWD,Y,Automatic (AM-S7),2021,,,,0,0,0
+11.36586207,0,27,0,0,314,29,0,1650,0,Regular,Regular Gasoline,31,0,42430,Kia,Seltos AWD,Y,Automatic (AV-S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,27,0,42482,Jaguar,F-Type S Coupe,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,27,0,42483,Jaguar,F-Type S Convertible,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,18,0,0,426,21,0,2750,0,Premium,Premium Gasoline,26,0,42484,Jaguar,F-Type S AWD Coupe,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,18,0,0,426,21,0,2750,0,Premium,Premium Gasoline,26,0,42485,Jaguar,F-Type S AWD Convertible,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,481,18,0,3250,0,Premium,Premium Gasoline,24,0,42486,Jaguar,F-Type R AWD Coupe,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,481,18,0,3250,0,Premium,Premium Gasoline,24,0,42487,Jaguar,F-Type R AWD Convertible,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,461,19,0,2500,0,Regular,Regular Gasoline,23,0,42488,Volkswagen,Atlas,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,485,18,0,2650,0,Regular,Regular Gasoline,22,0,42489,Volkswagen,Atlas 4motion,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2550,0,Premium,Premium Gasoline,27,0,42493,Genesis,G70 AWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,357,25,0,2350,0,Premium,Premium Gasoline,30,0,42494,Genesis,G70 RWD,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,18,0,0,410,22,0,2650,0,Premium,Premium Gasoline,28,0,42495,Genesis,G70 RWD,N,Manual 6-spd,2021,,,,0,0,0
+10.987,0,28,0,0,302,30,0,1600,0,Regular,Regular Gasoline,33,0,42496,Kia,Soul,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.63258065,0,29,0,0,287,31,0,1550,0,Regular,Regular Gasoline,35,0,42497,Kia,Soul Eco dynamics,N,Automatic (variable gear ratios),2021,,,,0,0,0
+12.20777778,0,25,0,0,332,27,0,1750,0,Regular,Regular Gasoline,31,0,42498,Kia,Soul,N,Manual 6-spd,2021,,,,0,0,0
+11.36586207,0,27,0,0,309,29,0,1650,0,Regular,Regular Gasoline,32,0,42499,Kia,Soul,N,Automatic (AM-S7),2021,,,,0,0,0
+14.98227273,0,21,0,0,400,22,0,2150,0,Regular,Regular Gasoline,24,0,42500,Volkswagen,Atlas,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,26,0,0,314,28,0,1700,0,Regular,Regular Gasoline,30,0,42509,Chevrolet,Trailblazer AWD,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,457,20,0,2900,0,Premium,Premium Gasoline,25,0,42515,Genesis,G70 AWD,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,17,0,0,447,20,0,2900,0,Premium,Premium Gasoline,26,0,42516,Genesis,G70 RWD,N,Automatic (S8),2021,,,,0,0,0
+11.36586207,0,28,0,0,302,29,0,1650,0,Regular,Regular Gasoline,31,0,42521,Buick,Encore GX FWD,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.63258065,0,29,0,0,288,31,0,1550,0,Regular,Regular Gasoline,33,0,42522,Chevrolet,Trailblazer FWD,Y,Automatic (variable gear ratios),2021,,,,0,0,0
+11.36586207,0,28,0,0,302,29,0,1650,0,Regular,Regular Gasoline,31,0,42523,Chevrolet,Trailblazer FWD,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.63258065,0,28,0,0,280,31,0,1900,0,Premium,Premium Gasoline,37,0,42526,MINI,Cooper Convertible,N,Automatic (AM-S7),2021,,,,0,0,0
+11.36586207,0,26,0,0,307,29,0,2000,0,Premium,Premium Gasoline,34,0,42527,MINI,Cooper S Convertible,N,Automatic (AM-S7),2021,,,,0,0,0
+12.67730769,0,23,0,0,336,26,0,2250,0,Premium,Premium Gasoline,32,0,42528,MINI,Cooper S Convertible,N,Manual 6-spd,2021,,,,0,0,0
+11.77178571,0,25,0,0,313,28,0,2100,0,Premium,Premium Gasoline,33,0,42529,MINI,John Cooper Works Convertible,N,Automatic (S8),2021,,,,0,0,0
+10.63258065,0,28,0,0,280,31,0,1900,0,Premium,Premium Gasoline,37,0,42530,MINI,Cooper Hardtop 2 door,N,Automatic (AM-S7),2021,,,,0,0,0
+10.63258065,0,28,0,0,280,31,0,1900,0,Premium,Premium Gasoline,37,0,42531,MINI,Cooper Hardtop 4 door,N,Automatic (AM-S7),2021,,,,0,0,0
+12.20777778,0,23,0,0,329,27,0,2150,0,Premium,Premium Gasoline,33,0,42532,MINI,Cooper S Hardtop 2 door,N,Manual 6-spd,2021,,,,0,0,0
+12.20777778,0,23,0,0,329,27,0,2150,0,Premium,Premium Gasoline,33,0,42533,MINI,Cooper S Hardtop 4 door,N,Manual 6-spd,2021,,,,0,0,0
+11.36586207,0,26,0,0,305,29,0,2000,0,Premium,Premium Gasoline,34,0,42534,MINI,John Cooper Works Hardtop,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,23,0,0,329,27,0,2150,0,Premium,Premium Gasoline,33,0,42535,MINI,John Cooper Works Hardtop,N,Manual 6-spd,2021,,,,0,0,0
+12.67730769,0,24,0,0,334,26,0,2250,0,Premium,Premium Gasoline,30,0,42536,MINI,John Cooper Works GP,N,Automatic (S8),2021,,,,0,0,0
+6.866875,0,51,0,0,184,48,0,1000,0,Regular,Regular Gasoline,45,0,42537,Honda,Insight Touring,Y,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+10.987,0,27,0,0,299,30,0,1600,0,Regular,Regular Gasoline,34,0,42538,Hyundai,Veloster,N,Automatic (S6),2021,,,,0,0,0
+11.77178571,0,25,0,0,317,28,0,1700,0,Regular,Regular Gasoline,33,0,42539,Hyundai,Veloster,N,Manual 6-spd,2021,,,,0,0,0
+10.987,0,28,0,0,296,30,0,1600,0,Regular,Regular Gasoline,34,0,42540,Hyundai,Veloster,N,Automatic (AM-S7),2021,,,,0,0,0
+11.36586207,0,26,0,0,308,29,0,1650,0,Regular,Regular Gasoline,33,0,42541,Hyundai,Veloster,N,Manual 6-spd,2021,,,,0,0,0
+6.338653846,0,55,0,0,170,52,0,900,0,Regular,Regular Gasoline,49,0,42542,Honda,Insight,Y,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+17.34789474,0,17,0,0,456,19,0,3050,0,Premium,Premium Gasoline,24,0,42543,BMW,750i xDrive,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,456,19,0,3050,0,Premium,Premium Gasoline,24,0,42544,BMW,Alpina B7,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,413,22,0,2150,0,Regular,Regular Gasoline,25,0,42545,Chevrolet,Colorado 2WD,Y,Automatic 6-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,424,21,0,2250,0,Regular,Regular Gasoline,25,0,42546,Chevrolet,Colorado 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,413,22,0,2150,0,Regular,Regular Gasoline,25,0,42547,GMC,Canyon 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,424,21,0,2250,0,Regular,Regular Gasoline,25,0,42548,GMC,Canyon 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,431,21,0,2250,0,Regular,Regular Gasoline,24,0,42549,Chevrolet,Colorado 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+17.34789474,0,17,0,0,465,19,0,2500,0,Regular,Regular Gasoline,24,0,42550,Chevrolet,Colorado 4WD,Y,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,16,0,0,510,17,0,2800,0,Regular,Regular Gasoline,18,0,42551,Chevrolet,Colorado ZR2 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,431,21,0,2250,0,Regular,Regular Gasoline,24,0,42552,GMC,Canyon 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,494,18,0,2650,0,Regular,Regular Gasoline,22,0,42553,GMC,Canyon 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,436,21,0,2250,0,Regular,Regular Gasoline,24,0,42554,Kia,Sedona,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,412,22,0,2150,0,Regular,Regular Gasoline,24,0,42555,Volkswagen,Atlas 4motion,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,351,25,0,2350,0,Premium,Premium Gasoline,30,0,42564,Toyota,GR Supra,N,Automatic (S8),2021,,,,0,0,0
+10.987,0,26,0,0,299,30,0,1950,0,Premium,Premium Gasoline,35,0,42565,MINI,Cooper S Hardtop 2 door,N,Automatic (AM-S7),2021,,,,0,0,0
+10.987,0,26,0,0,299,30,0,1950,0,Premium,Premium Gasoline,35,0,42566,MINI,Cooper S Hardtop 4 door,N,Automatic (AM-S7),2021,,,,0,0,0
+14.33086957,0,21,0,0,386,23,0,2050,0,Regular,Regular Gasoline,27,0,42567,Subaru,Ascent,N,Automatic (AV-S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,401,22,0,2150,0,Regular,Regular Gasoline,26,0,42568,Subaru,Ascent Limited/Touring,N,Automatic (AV-S8),2021,,,,0,0,0
+6.027354971,4.3948,25,72,0,160,28,75,2100,0,Premium and Electricity,Premium Gasoline,33,80,42569,BMW,330e,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,37,46,40
+7.28126295,4.919552239,22,64,0,192,25,67,2350,0,Premium and Electricity,Premium Gasoline,30,71,42570,BMW,330e xDrive,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,32,41,35
+20.600625,0,13,0,0,570,16,0,3650,0,Premium,Premium Gasoline,20,0,42574,BMW,M760i xDrive,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,388,23,0,2050,0,Regular,Regular Gasoline,27,0,42575,Honda,Pilot FWD,Y,Automatic (S9),2021,,,,0,0,0
+14.98227273,0,19,0,0,406,22,0,2150,0,Regular,Regular Gasoline,26,0,42576,Honda,Pilot AWD,N,Automatic (S9),2021,,,,0,0,0
+9.988181818,0,30,0,0,267,33,0,1450,0,Regular,Regular Gasoline,38,0,42582,Toyota,Corolla,Y,Automatic (variable gear ratios),2021,,,,0,0,0
+9.988181818,0,29,0,0,271,33,0,1450,0,Regular,Regular Gasoline,39,0,42583,Toyota,Corolla,N,Manual 6-spd,2021,,,,0,0,0
+10.3003125,0,29,0,0,274,32,0,1500,0,Regular,Regular Gasoline,37,0,42584,Toyota,Corolla XLE,N,Automatic (variable gear ratios),2021,,,,0,0,0
+6.338653846,0,53,0,0,170,52,0,900,0,Regular,Regular Gasoline,52,0,42585,Toyota,Corolla Hybrid,Y,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+9.694411765,0,31,0,0,257,34,0,1400,0,Regular,Regular Gasoline,40,0,42587,Toyota,Corolla,N,Automatic (AV-S10),2021,,,,0,0,0
+10.3003125,0,29,0,0,277,32,0,1500,0,Regular,Regular Gasoline,36,0,42588,Toyota,Corolla,N,Manual 6-spd,2021,,,,0,0,0
+9.694411765,0,31,0,0,265,34,0,1400,0,Regular,Regular Gasoline,38,0,42589,Toyota,Corolla XSE,N,Automatic (AV-S10),2021,,,,0,0,0
+11.36586207,0,26,0,0,303,29,0,2000,0,Premium,Premium Gasoline,34,0,42591,Lexus,LC 500h,N,Automatic (AV-S10),2021,,Hybrid,,0,0,0
+17.34789474,0,16,0,0,473,19,0,3050,0,Premium,Premium Gasoline,25,0,42592,Lexus,LC 500,N,Automatic (S10),2021,,,,0,0,0
+10.987,0,28,0,0,303,30,0,1600,0,Regular,Regular Gasoline,32,0,42593,Hyundai,Kona FWD,N,Automatic (AM7),2021,,,,0,0,0
+10.987,0,27,0,0,300,30,0,1600,0,Regular,Regular Gasoline,33,0,42594,Hyundai,Kona FWD,N,Automatic (S6),2021,,,,0,0,0
+14.33086957,0,20,0,0,392,23,0,2050,0,Regular,Regular Gasoline,28,0,42595,Kia,Sportage FWD,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,23,0,0,349,26,0,1850,0,Regular,Regular Gasoline,30,0,42596,Kia,Sportage FWD,N,Automatic (S6),2021,,,,0,0,0
+20.600625,0,14,0,0,546,16,0,3650,0,Premium,Premium Gasoline,19,0,42597,BMW,X3 M,N,Automatic (S8),2021,,,,0,0,0
+20.600625,0,14,0,0,546,16,0,3650,0,Premium,Premium Gasoline,19,0,42598,BMW,X3 M Competition,N,Automatic (S8),2021,,,,0,0,0
+20.600625,0,14,0,0,546,16,0,3650,0,Premium,Premium Gasoline,19,0,42599,BMW,X4 M,N,Automatic (S8),2021,,,,0,0,0
+20.600625,0,14,0,0,546,16,0,3650,0,Premium,Premium Gasoline,19,0,42600,BMW,X4 M Competition,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,26,0,0,324,27,0,1750,0,Regular,Regular Gasoline,29,0,42601,Hyundai,Kona AWD,N,Automatic (AM7),2021,,,,0,0,0
+12.20777778,0,25,0,0,326,27,0,1750,0,Regular,Regular Gasoline,30,0,42602,Hyundai,Kona AWD,Y,Automatic (S6),2021,,,,0,0,0
+15.69571429,0,19,0,0,421,21,0,2250,0,Regular,Regular Gasoline,24,0,42603,Kia,Sportage AWD,N,Automatic (S6),2021,,,,0,0,0
+14.33086957,0,21,0,0,390,23,0,2050,0,Regular,Regular Gasoline,25,0,42604,Kia,Sportage AWD,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,22,0,0,355,25,0,1900,0,Regular,Regular Gasoline,29,0,42605,Subaru,Crosstrek AWD,Y,Manual 6-spd,2021,,,,0,0,0
+10.987,0,28,0,0,297,30,0,1600,0,Regular,Regular Gasoline,33,0,42606,Subaru,Crosstrek AWD,Y,Automatic (AV-S8),2021,,,,0,0,0
+11.36586207,0,27,0,0,302,29,0,1650,0,Regular,Regular Gasoline,34,0,42607,Subaru,Crosstrek AWD,Y,Automatic (AV-S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,413,22,0,2150,0,Regular,Regular Gasoline,24,0,42608,Volkswagen,Atlas Cross Sport 4motion,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2150,0,Regular,Regular Gasoline,26,0,42609,Hyundai,Palisade FWD,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,19,0,0,426,21,0,2250,0,Regular,Regular Gasoline,24,0,42610,Hyundai,Palisade AWD,Y,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,18,0,0,410,22,0,2650,0,Premium,Premium Gasoline,28,0,42614,Audi,S7,N,Automatic (S8),2021,,Hybrid,,0,0,0
+14.98227273,0,18,0,0,410,22,0,2650,0,Premium,Premium Gasoline,28,0,42615,Audi,S6,N,Automatic (S8),2021,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,530,17,0,3400,0,Premium,Premium Gasoline,20,0,42616,Cadillac,Escalade 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,3400,0,Premium,Premium Gasoline,20,0,42617,Chevrolet,Tahoe 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,3400,0,Premium,Premium Gasoline,20,0,42618,Chevrolet,Suburban 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,492,18,0,2650,0,Regular,Regular Gasoline,20,0,42619,Chevrolet,Tahoe 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,492,18,0,2650,0,Regular,Regular Gasoline,20,0,42620,Chevrolet,Suburban 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,3400,0,Premium,Premium Gasoline,20,0,42621,GMC,Yukon 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,539,16,0,3650,0,Premium,Premium Gasoline,20,0,42622,GMC,Yukon XL 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,492,18,0,2650,0,Regular,Regular Gasoline,20,0,42623,GMC,Yukon 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,492,18,0,2650,0,Regular,Regular Gasoline,20,0,42624,GMC,Yukon XL 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,558,16,0,3650,0,Premium,Premium Gasoline,19,0,42625,Cadillac,Escalade 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,558,16,0,3650,0,Premium,Premium Gasoline,19,0,42626,Chevrolet,Tahoe 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,558,16,0,3650,0,Premium,Premium Gasoline,19,0,42627,Chevrolet,Suburban 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,496,18,0,2650,0,Regular,Regular Gasoline,20,0,42628,Chevrolet,Tahoe 4WD,Y,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,515,17,0,2800,0,Regular,Regular Gasoline,19,0,42629,Chevrolet,Suburban 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,558,16,0,3650,0,Premium,Premium Gasoline,19,0,42630,GMC,Yukon XL 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,558,16,0,3650,0,Premium,Premium Gasoline,19,0,42631,GMC,Yukon 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,515,17,0,2800,0,Regular,Regular Gasoline,19,0,42632,GMC,Yukon XL 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,496,18,0,2650,0,Regular,Regular Gasoline,20,0,42633,GMC,Yukon 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+0.186,0,115,0,0,0,108,0,600,0,Electricity,Electricity,100,0,42634,MINI,Cooper SE Hardtop 2 door,N,Automatic (A1),2021,,EV,,0,0,0
+10.3003125,0,29,0,0,277,32,0,1500,0,Regular,Regular Gasoline,38,0,42635,Kia,K5,N,Automatic (S8),2021,,,,0,0,0
+10.63258065,0,27,0,0,291,31,0,1550,0,Regular,Regular Gasoline,37,0,42636,Kia,K5,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,25,0,0,329,27,0,1750,0,Regular,Regular Gasoline,30,0,42637,Buick,Encore FWD,Y,Automatic (S6),2021,,,,0,0,0
+11.77178571,0,26,0,0,316,28,0,1700,0,Regular,Regular Gasoline,31,0,42638,Chevrolet,Trax FWD,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,24,0,0,344,26,0,1850,0,Regular,Regular Gasoline,29,0,42639,Buick,Encore AWD,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,24,0,0,344,26,0,1850,0,Regular,Regular Gasoline,29,0,42640,Chevrolet,Trax AWD,N,Automatic (S6),2021,,,,0,0,0
+18.31166667,0,16,0,0,491,18,0,3250,0,Premium,Premium Gasoline,21,0,42641,Land Rover,Range Rover,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,491,18,0,3250,0,Premium,Premium Gasoline,21,0,42642,Land Rover,Range Rover LWB,N,Automatic (S8),2021,,,,0,0,0
+20.600625,0,14,0,0,569,16,0,3650,0,Premium,Premium Gasoline,19,0,42643,Land Rover,Range Rover SVA,N,Automatic (S8),2021,,,,0,0,0
+21.974,0,13,0,0,587,15,0,3900,0,Premium,Premium Gasoline,19,0,42644,Land Rover,Range Rover LWB SVA,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,472,19,0,3050,0,Premium,Premium Gasoline,22,0,42645,Land Rover,Range Rover Sport,N,Automatic (S8),2021,,,,0,0,0
+20.600625,0,15,0,0,540,16,0,3650,0,Premium,Premium Gasoline,20,0,42646,Land Rover,Range Rover Sport SVR,N,Automatic (S8),2021,,,,0,0,0
+9.329505861,5.885892857,19,52,0,245,22,56,2650,0,Premium and Electricity,Premium Gasoline,26,61,42647,BMW,745e xDrive,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,25,34,28
+9.988181818,0,29,0,0,273,33,0,1450,0,Regular,Regular Gasoline,38,0,42656,Chevrolet,Spark,N,Manual 5-spd,2021,,,,0,0,0
+10.3003125,0,29,0,0,278,32,0,1500,0,Regular,Regular Gasoline,37,0,42657,Chevrolet,Spark ACTIV,N,Manual 5-spd,2021,,,,0,0,0
+9.988181818,0,30,0,0,266,33,0,1450,0,Regular,Regular Gasoline,37,0,42658,Chevrolet,Spark ACTIV,N,Automatic (variable gear ratios),2021,,,,0,0,0
+9.988181818,0,30,0,0,266,33,0,1450,0,Regular,Regular Gasoline,38,0,42659,Chevrolet,Spark,N,Automatic (variable gear ratios),2021,,,,0,0,0
+9.155833333,0,33,0,0,248,36,0,1300,0,Regular,Regular Gasoline,41,0,42660,Hyundai,Accent,Y,Automatic (AV-S1),2021,,,,0,0,0
+9.988181818,0,29,0,0,273,33,0,1450,0,Regular,Regular Gasoline,39,0,42661,Hyundai,Accent,N,Manual 6-spd,2021,,,,0,0,0
+10.63258065,0,30,0,0,287,31,0,1550,0,Regular,Regular Gasoline,33,0,42662,Hyundai,Venue,N,Automatic (AV-S1),2021,,,,0,0,0
+13.1844,0,23,0,0,361,25,0,1900,0,Regular,Regular Gasoline,28,0,42663,Hyundai,Tucson FWD,N,Automatic (S6),2021,,,,0,0,0
+14.33086957,0,20,0,0,395,23,0,2050,0,Regular,Regular Gasoline,26,0,42664,Kia,Telluride FWD,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,18,0,0,441,20,0,2900,0,Premium,Premium Gasoline,24,0,42665,Audi,SQ5,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,22,0,0,385,23,0,2050,0,Regular,Regular Gasoline,25,0,42666,Hyundai,Tucson AWD,N,Automatic (S6),2021,,,,0,0,0
+14.33086957,0,21,0,0,387,23,0,2050,0,Regular,Regular Gasoline,26,0,42667,Hyundai,Tucson AWD,N,Automatic (S6),2021,,,,0,0,0
+15.69571429,0,19,0,0,428,21,0,2250,0,Regular,Regular Gasoline,24,0,42668,Kia,Telluride AWD,Y,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,23,0,0,322,27,0,2150,0,Premium,Premium Gasoline,34,0,42675,Volvo,S60 FWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,21,0,0,352,25,0,2350,0,Premium,Premium Gasoline,32,0,42676,Volvo,S60 AWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,21,0,0,356,25,0,2350,0,Premium,Premium Gasoline,32,0,42677,Volvo,S90 AWD,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,23,0,0,322,27,0,2150,0,Premium,Premium Gasoline,34,0,42678,Volvo,V60 FWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,354,25,0,2350,0,Premium,Premium Gasoline,31,0,42679,Volvo,V60 CC AWD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,22,0,0,339,26,0,2250,0,Premium,Premium Gasoline,33,0,42680,Volvo,V90 FWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,21,0,0,356,25,0,2350,0,Premium,Premium Gasoline,32,0,42681,Volvo,V90 AWD,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,20,0,0,373,24,0,2400,0,Premium,Premium Gasoline,30,0,42682,Volvo,V90 CC AWD,N,Automatic (S8),2021,,,,0,0,0
+10.63258065,0,30,0,0,288,31,0,1550,0,Regular,Regular Gasoline,32,0,42683,Buick,Encore GX FWD,N,Automatic (variable gear ratios),2021,,,,0,0,0
+13.1844,0,22,0,0,359,25,0,2350,0,Premium,Premium Gasoline,29,0,42684,Volvo,XC60 FWD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,340,26,0,1850,0,Regular,Regular Gasoline,32,0,42685,Volvo,XC40 FWD,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,26,0,0,330,28,0,1700,0,Regular,Regular Gasoline,29,0,42686,Buick,Encore GX AWD,N,Automatic 9-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,375,24,0,2400,0,Premium,Premium Gasoline,28,0,42687,Volvo,XC60 AWD,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2550,0,Premium,Premium Gasoline,27,0,42688,Volvo,XC60 AWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,359,25,0,2350,0,Premium,Premium Gasoline,30,0,42689,Volvo,XC40 AWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,21,0,0,361,25,0,2350,0,Premium,Premium Gasoline,30,0,42690,Volvo,XC90 FWD,N,Automatic (S8),2021,,,,0,0,0
+15.924375,0,22,0,0,412,24,0,2100,0,Diesel,Diesel,28,0,42691,Land Rover,Range Rover,N,Automatic (S8),2021,,Diesel,,0,0,0
+15.924375,0,22,0,0,412,24,0,2100,0,Diesel,Diesel,28,0,42692,Land Rover,Range Rover Sport,N,Automatic (S8),2021,,Diesel,,0,0,0
+17.34789474,0,18,0,0,458,19,0,3050,0,Premium,Premium Gasoline,22,0,42693,Mercedes-Benz,AMG GLE53 4matic Plus,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+16.4805,0,18,0,0,440,20,0,2900,0,Premium,Premium Gasoline,23,0,42694,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,394,22,0,2650,0,Premium,Premium Gasoline,28,0,42695,Volvo,XC90 AWD,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,380,23,0,2550,0,Premium,Premium Gasoline,28,0,42696,Volvo,XC90 AWD,N,Automatic (S8),2021,,,,0,0,0
+10.987,0,26,0,0,292,30,0,1950,0,Premium,Premium Gasoline,37,0,42718,MINI,Cooper Convertible,N,Manual 6-spd,2021,,,,0,0,0
+10.987,0,26,0,0,292,30,0,1950,0,Premium,Premium Gasoline,37,0,42719,MINI,Cooper Hardtop 2 door,N,Manual 6-spd,2021,,,,0,0,0
+10.987,0,26,0,0,292,30,0,1950,0,Premium,Premium Gasoline,37,0,42720,MINI,Cooper Hardtop 4 door,N,Manual 6-spd,2021,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,1850,0,Regular,Regular Gasoline,31,0,42721,Subaru,Impreza 4-Door,N,Manual 5-spd,2021,,,,0,0,0
+10.3003125,0,28,0,0,281,32,0,1500,0,Regular,Regular Gasoline,36,0,42722,Subaru,Impreza 4-Door,Y,Automatic (AV-S7),2021,,,,0,0,0
+10.987,0,27,0,0,291,30,0,1600,0,Regular,Regular Gasoline,36,0,42723,Subaru,Impreza Sport 4-Door,N,Automatic (AV-S7),2021,,,,0,0,0
+12.67730769,0,24,0,0,335,26,0,1850,0,Regular,Regular Gasoline,31,0,42724,Subaru,Impreza 5-Door,N,Manual 5-spd,2021,,,,0,0,0
+10.63258065,0,28,0,0,284,31,0,1550,0,Regular,Regular Gasoline,36,0,42725,Subaru,Impreza 5-Door,N,Automatic (AV-S7),2021,,,,0,0,0
+13.1844,0,22,0,0,351,25,0,1900,0,Regular,Regular Gasoline,30,0,42726,Subaru,Impreza Sport 5-Door,N,Manual 5-spd,2021,,,,0,0,0
+10.987,0,27,0,0,292,30,0,1600,0,Regular,Regular Gasoline,35,0,42727,Subaru,Impreza Sport 5-Door,N,Automatic (AV-S7),2021,,,,0,0,0
+11.77178571,0,25,0,0,314,28,0,2100,0,Premium,Premium Gasoline,34,0,42728,Mercedes-Benz,GLA250,N,Automatic (AM8),2021,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,2250,0,Premium,Premium Gasoline,31,0,42729,Mercedes-Benz,GLB250,N,Automatic (AM8),2021,,,,0,0,0
+12.20777778,0,24,0,0,327,27,0,2150,0,Premium,Premium Gasoline,33,0,42730,Mercedes-Benz,GLA250 4matic,N,Automatic (AM8),2021,,,,0,0,0
+10.63258065,0,28,0,0,284,31,0,1550,0,Regular,Regular Gasoline,37,0,42745,Toyota,Corolla Hatchback,N,Manual 6-spd,2021,,,,0,0,0
+9.417428571,0,32,0,0,251,35,0,1350,0,Regular,Regular Gasoline,41,0,42746,Toyota,Corolla Hatchback,N,Automatic (AM-S10),2021,,,,0,0,0
+9.988181818,0,30,0,0,266,33,0,1450,0,Regular,Regular Gasoline,38,0,42747,Toyota,Corolla Hatchback XSE,N,Automatic (AM-S10),2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2550,0,Premium,Premium Gasoline,27,0,42748,BMW,740i xDrive,N,Automatic (S8),2021,,,,0,0,0
+17.37204545,0,19,0,0,455,22,0,2300,0,Diesel,Diesel,28,0,42749,Chevrolet,Colorado 4WD,N,Automatic 6-spd,2021,,Diesel,,0,0,0
+20.115,0,18,0,0,525,19,0,2700,0,Diesel,Diesel,22,0,42750,Chevrolet,Colorado ZR2 4WD,N,Automatic 6-spd,2021,,Diesel,,0,0,0
+17.37204545,0,19,0,0,455,22,0,2300,0,Diesel,Diesel,28,0,42751,GMC,Canyon 4WD,N,Automatic 6-spd,2021,,Diesel,,0,0,0
+20.600625,0,14,0,0,554,16,0,3650,0,Premium,Premium Gasoline,20,0,42752,Infiniti,QX80 2WD,N,Automatic (S7),2021,,,,0,0,0
+21.974,0,13,0,0,594,15,0,3900,0,Premium,Premium Gasoline,19,0,42753,Infiniti,QX80 4WD,N,Automatic (S7),2021,,,,0,0,0
+21.974,0,13,0,0,593,15,0,3900,0,Premium,Premium Gasoline,19,0,42754,Infiniti,QX80 4WD,N,Automatic (S7),2021,,,,0,0,0
+20.600625,0,13,0,0,567,16,0,3650,0,Premium,Premium Gasoline,20,0,42757,Audi,R8,N,Automatic (AM-S7),2021,,,,0,0,0
+20.600625,0,13,0,0,567,16,0,3650,0,Premium,Premium Gasoline,20,0,42758,Audi,R8 Spyder,N,Automatic (AM-S7),2021,,,,0,0,0
+25.35461538,0,12,0,0,661,13,0,4500,0,Premium,Premium Gasoline,16,0,42761,Ferrari,812 Superfast,N,Automatic (AM7),2021,,,,0,0,0
+20.600625,0,15,0,0,541,16,0,3650,0,Premium,Premium Gasoline,19,0,42762,Ferrari,F8 Tributo,N,Automatic (AM7),2021,,,,0,0,0
+20.600625,0,15,0,0,552,16,0,3650,0,Premium,Premium Gasoline,18,0,42763,Ferrari,F8 Spider,N,Automatic (AM7),2021,,,,0,0,0
+25.35461538,0,12,0,0,665,13,0,4500,0,Premium,Premium Gasoline,15,0,42764,Ferrari,812 GTS,N,Automatic (AM7),2021,,,,0,0,0
+21.974,0,13,0,0,597,15,0,3900,0,Premium,Premium Gasoline,18,0,42765,Lamborghini,Huracan,N,Automatic (AM-S7),2021,,,,0,0,0
+21.974,0,13,0,0,597,15,0,3900,0,Premium,Premium Gasoline,18,0,42766,Lamborghini,Huracan Spyder,N,Automatic (AM-S7),2021,,,,0,0,0
+21.974,0,13,0,0,596,15,0,3900,0,Premium,Premium Gasoline,18,0,42767,Lamborghini,Huracan 2WD,N,Automatic (AM-S7),2021,,,,0,0,0
+21.974,0,13,0,0,596,15,0,3900,0,Premium,Premium Gasoline,18,0,42768,Lamborghini,Huracan Spyder 2WD,N,Automatic (AM-S7),2021,,,,0,0,0
+17.34789474,0,16,0,0,468,19,0,3050,0,Premium,Premium Gasoline,26,0,42769,Bentley,Continental GT Convertible,N,Automatic (AM-S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,485,18,0,3250,0,Premium,Premium Gasoline,22,0,42770,Ferrari,Portofino,N,Automatic (AM7),2021,,,,0,0,0
+17.34789474,0,16,0,0,471,19,0,3050,0,Premium,Premium Gasoline,23,0,42771,Ferrari,Portofino M,N,Automatic (AM8),2021,,,,0,0,0
+16.4805,0,18,0,0,432,20,0,2900,0,Premium,Premium Gasoline,25,0,42772,Audi,RS 5,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,472,19,0,3050,0,Premium,Premium Gasoline,22,0,42773,Ferrari,Roma,N,Automatic (AM8),2021,,,,0,0,0
+13.73375,0,22,0,0,364,24,0,2400,0,Premium,Premium Gasoline,29,0,42774,Audi,A6 quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+13.73375,0,22,0,0,364,24,0,2400,0,Premium,Premium Gasoline,29,0,42775,Audi,A7 quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+15.69571429,0,18,0,0,428,21,0,2750,0,Premium,Premium Gasoline,25,0,42776,Audi,RS 5 Sportback,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,368,24,0,2400,0,Premium,Premium Gasoline,29,0,42777,Kia,Stinger AWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,365,25,0,2350,0,Premium,Premium Gasoline,29,0,42778,Kia,Stinger RWD,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,17,0,0,449,20,0,2900,0,Premium,Premium Gasoline,25,0,42779,Kia,Stinger AWD,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,17,0,0,446,20,0,2900,0,Premium,Premium Gasoline,25,0,42780,Kia,Stinger RWD,N,Automatic (S8),2021,,,,0,0,0
+10.987,0,27,0,0,296,30,0,1600,0,Regular,Regular Gasoline,35,0,42781,Kia,Forte,N,Automatic (AM-S7),2021,,,,0,0,0
+11.77178571,0,25,0,0,326,28,0,1700,0,Regular,Regular Gasoline,32,0,42782,Kia,Forte,N,Manual 6-spd,2021,,,,0,0,0
+9.417428571,0,31,0,0,256,35,0,1350,0,Regular,Regular Gasoline,41,0,42783,Kia,Forte FE,N,Automatic (variable gear ratios),2021,,,,0,0,0
+9.988181818,0,29,0,0,270,33,0,1450,0,Regular,Regular Gasoline,40,0,42784,Kia,Forte,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.63258065,0,27,0,0,290,31,0,1550,0,Regular,Regular Gasoline,37,0,42785,Kia,Forte,N,Manual 6-spd,2021,,,,0,0,0
+15.69571429,0,17,0,0,430,21,0,2750,0,Premium,Premium Gasoline,26,0,42786,Audi,A8 L,N,Automatic (S8),2021,,Hybrid,,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,29,0,42787,BMW,740i,N,Automatic (S8),2021,,,,0,0,0
+7.012978723,0,45,0,0,189,47,0,1000,0,Regular,Regular Gasoline,51,0,42788,Hyundai,Sonata Hybrid,Y,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+6.338653846,0,50,0,0,172,52,0,900,0,Regular,Regular Gasoline,54,0,42789,Hyundai,Sonata Hybrid Blue,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+10.987,0,27,0,0,293,30,0,1600,0,Regular,Regular Gasoline,37,0,42790,Hyundai,Sonata,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,398,22,0,2650,0,Premium,Premium Gasoline,26,0,42791,Audi,A6 Allroad,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+11.36586207,0,26,0,0,309,29,0,1650,0,Regular,Regular Gasoline,33,0,42792,Subaru,Forester AWD,Y,Automatic (AV-S7),2021,,,,0,0,0
+2.836799213,3.506489362,40,105,0,72,38,94,1250,0,Regular Gas and Electricity,Regular Gasoline,36,84,42793,Toyota,RAV4 Prime 4WD,Y,Automatic (AV-S6),2021,,Plug-in Hybrid,Electricity,72,58,65
+18.31166667,0,15,0,0,489,18,0,3250,0,Premium,Premium Gasoline,25,0,42795,Lexus,LC 500 Convertible,N,Automatic (S10),2021,,,,0,0,0
+10.63258065,0,27,0,0,293,31,0,1550,0,Regular,Regular Gasoline,37,0,42796,Hyundai,Sonata,N,Automatic (S8),2021,,,,0,0,0
+10.3003125,0,28,0,0,282,32,0,1500,0,Regular,Regular Gasoline,38,0,42797,Hyundai,Sonata,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,22,0,0,370,24,0,2400,0,Premium,Premium Gasoline,28,0,42798,Acura,RDX FWD,N,Automatic (S10),2021,,,,0,0,0
+13.73375,0,22,0,0,375,24,0,2400,0,Premium,Premium Gasoline,27,0,42799,Acura,RDX FWD A-SPEC,N,Automatic (S10),2021,,,,0,0,0
+12.67730769,0,23,0,0,349,26,0,2250,0,Premium,Premium Gasoline,29,0,42800,Infiniti,QX50,N,Automatic (AV-S8),2021,,,,0,0,0
+14.33086957,0,21,0,0,385,23,0,2550,0,Premium,Premium Gasoline,27,0,42801,Acura,RDX AWD,N,Automatic (S10),2021,,,,0,0,0
+14.33086957,0,21,0,0,387,23,0,2550,0,Premium,Premium Gasoline,26,0,42802,Acura,RDX AWD A-SPEC,N,Automatic (S10),2021,,,,0,0,0
+13.1844,0,22,0,0,367,25,0,2350,0,Premium,Premium Gasoline,28,0,42803,Infiniti,QX50 AWD,N,Automatic (AV-S8),2021,,,,0,0,0
+7.143137067,5.992909091,26,58,0,197,27,55,2150,0,Premium and Electricity,Premium Gasoline,28,53,42804,Volvo,XC90 AWD PHEV,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,34,35,34
+6.722617868,6.5922,19,47,0,178,20,50,2900,0,Premium and Electricity,Premium Gasoline,22,54,42807,BMW,X5 xDrive45e,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,30,34,32
+6.338653846,0,54,0,0,170,52,0,900,0,Regular,Regular Gasoline,50,0,42808,Toyota,Prius,N,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+6.726734694,0,51,0,0,179,49,0,950,0,Regular,Regular Gasoline,47,0,42809,Toyota,Prius AWD,Y,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+5.885892857,0,58,0,0,158,56,0,850,0,Regular,Regular Gasoline,53,0,42810,Toyota,Prius Eco,N,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+16.61673913,0,20,0,0,435,23,0,2200,0,Diesel,Diesel,30,0,42811,Chevrolet,Colorado 2WD,N,Automatic 6-spd,2021,,Diesel,,0,0,0
+16.61673913,0,20,0,0,435,23,0,2200,0,Diesel,Diesel,30,0,42812,GMC,Canyon 2WD,N,Automatic 6-spd,2021,,Diesel,,0,0,0
+16.4805,0,18,0,0,453,20,0,2400,0,Regular,Regular Gasoline,23,0,42813,Volkswagen,Atlas Cross Sport,N,Automatic (S8),2021,,,,0,0,0
+2.957863087,2.478270677,55,145,0,78,54,133,900,0,Regular Gas and Electricity,Regular Gasoline,53,121,42814,Toyota,Prius Prime,Y,Automatic (variable gear ratios),2021,,Plug-in Hybrid,Electricity,83,72,78
+13.73375,0,21,0,0,366,24,0,2400,0,Premium,Premium Gasoline,30,0,42817,BMW,230i xDrive Coupe,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,23,0,0,332,27,0,2150,0,Premium,Premium Gasoline,33,0,42818,BMW,228i xDrive Gran Coupe,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,335,26,0,2250,0,Premium,Premium Gasoline,32,0,42819,BMW,M235i xDrive Gran Coupe,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,632,14,0,4150,0,Premium,Premium Gasoline,18,0,42820,Rolls-Royce,Dawn,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,632,14,0,4150,0,Premium,Premium Gasoline,18,0,42821,Rolls-Royce,Dawn Black Badge,N,Automatic (S8),2021,,,,0,0,0
+10.3003125,0,29,0,0,273,32,0,1500,0,Regular,Regular Gasoline,36,0,42822,Chevrolet,Malibu,N,Automatic (variable gear ratios),2021,,,,0,0,0
+11.36586207,0,26,0,0,306,29,0,2000,0,Premium,Premium Gasoline,33,0,42823,MINI,Cooper Countryman,N,Automatic (AM-S7),2021,,,,0,0,0
+12.20777778,0,23,0,0,330,27,0,2150,0,Premium,Premium Gasoline,32,0,42824,MINI,Cooper Countryman All4,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,22,0,0,343,26,0,2250,0,Premium,Premium Gasoline,32,0,42825,MINI,Cooper S Clubman,N,Manual 6-spd,2021,,,,0,0,0
+11.77178571,0,24,0,0,321,28,0,2100,0,Premium,Premium Gasoline,33,0,42826,MINI,Cooper S Countryman,N,Automatic (AM-S7),2021,,,,0,0,0
+12.67730769,0,23,0,0,341,26,0,2250,0,Premium,Premium Gasoline,31,0,42827,MINI,Cooper S Countryman All4,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,333,26,0,2250,0,Premium,Premium Gasoline,32,0,42828,MINI,Cooper S Clubman All4,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,339,26,0,2250,0,Premium,Premium Gasoline,31,0,42829,MINI,John Cooper Works Clubman All4,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,2250,0,Premium,Premium Gasoline,30,0,42830,MINI,JCW Countryman All4,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,624,14,0,4150,0,Premium,Premium Gasoline,18,0,42831,Rolls-Royce,Wraith,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,624,14,0,4150,0,Premium,Premium Gasoline,18,0,42832,Rolls-Royce,Wraith Black Badge,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,24,0,0,314,28,0,1700,0,Regular,Regular Gasoline,36,0,42833,Volkswagen,Passat,N,Automatic (S6),2021,,,,0,0,0
+16.4805,0,17,0,0,460,20,0,2900,0,Premium,Premium Gasoline,24,0,42834,Genesis,G90 AWD,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,3050,0,Premium,Premium Gasoline,24,0,42835,Genesis,G90 RWD,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,488,18,0,3250,0,Premium,Premium Gasoline,23,0,42836,Genesis,G90 AWD,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,16,0,0,481,19,0,3050,0,Premium,Premium Gasoline,24,0,42837,Genesis,G90 RWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,30,0,42838,Genesis,G80 AWD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,345,26,0,2250,0,Premium,Premium Gasoline,32,0,42839,Genesis,G80 RWD,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,18,0,0,422,21,0,2750,0,Premium,Premium Gasoline,26,0,42840,Genesis,G80 AWD,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,410,22,0,2650,0,Premium,Premium Gasoline,27,0,42841,Genesis,G80 RWD,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,615,14,0,4150,0,Premium,Premium Gasoline,20,0,42842,Rolls-Royce,Phantom,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,615,14,0,4150,0,Premium,Premium Gasoline,20,0,42843,Rolls-Royce,Phantom EWB,N,Automatic (S8),2021,,,,0,0,0
+10.987,0,27,0,0,295,30,0,1600,0,Regular,Regular Gasoline,35,0,42844,Subaru,Legacy AWD,N,Automatic (AV-S8),2021,,,,0,0,0
+12.20777778,0,24,0,0,330,27,0,1750,0,Regular,Regular Gasoline,32,0,42845,Subaru,Legacy AWD,N,Automatic (AV-S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,618,14,0,4150,0,Premium,Premium Gasoline,20,0,42846,Rolls-Royce,Cullinan,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,618,14,0,4150,0,Premium,Premium Gasoline,20,0,42847,Rolls-Royce,Cullinan Black Badge,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,394,22,0,2150,0,Regular,Regular Gasoline,28,0,42848,Honda,Odyssey,N,Automatic (S10),2021,,,,0,0,0
+12.20777778,0,25,0,0,332,27,0,2150,0,Premium,Premium Gasoline,29,0,42849,BMW,X3 sDrive30i,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,350,25,0,1900,0,Regular,Regular Gasoline,31,0,42850,Jeep,Compass FWD,Y,Automatic 6-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,359,25,0,2350,0,Premium,Premium Gasoline,28,0,42851,Lexus,NX 300,N,Automatic (S6),2021,,,,0,0,0
+11.77178571,0,25,0,0,313,28,0,1700,0,Regular,Regular Gasoline,33,0,42852,Mazda,CX-30 2WD,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,22,0,0,358,25,0,1900,0,Regular,Regular Gasoline,30,0,42853,Jeep,Compass 4WD,N,Automatic 9-spd,2021,,,,0,0,0
+10.63258065,0,33,0,0,285,31,0,1550,0,Regular,Regular Gasoline,30,0,42854,Lexus,NX 300h AWD,N,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+13.73375,0,22,0,0,361,24,0,2400,0,Premium,Premium Gasoline,28,0,42855,Lexus,NX 300 AWD,N,Automatic (S6),2021,,,,0,0,0
+13.73375,0,22,0,0,374,24,0,2400,0,Premium,Premium Gasoline,27,0,42856,Lexus,NX 300 AWD F Sport,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,24,0,0,334,26,0,1850,0,Regular,Regular Gasoline,31,0,42857,Mazda,CX-30 4WD,Y,Automatic (S6),2021,,,,0,0,0
+11.36586207,0,26,0,0,308,29,0,1650,0,Regular,Regular Gasoline,33,0,42858,Subaru,Outback AWD,N,Automatic (AV-S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,1850,0,Regular,Regular Gasoline,30,0,42859,Subaru,Outback AWD,Y,Automatic (AV-S8),2021,,,,0,0,0
+14.33086957,0,21,0,0,383,23,0,2550,0,Premium,Premium Gasoline,26,0,42860,BMW,X5 sDrive40i,N,Automatic (S8),2021,,Hybrid,,0,0,0
+14.33086957,0,21,0,0,383,23,0,2550,0,Premium,Premium Gasoline,26,0,42861,BMW,X6 sDrive40i,N,Automatic (S8),2021,,Hybrid,,0,0,0
+14.33086957,0,21,0,0,389,23,0,2550,0,Premium,Premium Gasoline,25,0,42862,BMW,X5 xDrive40i,N,Automatic (S8),2021,,Hybrid,,0,0,0
+18.31166667,0,16,0,0,488,18,0,3250,0,Premium,Premium Gasoline,22,0,42863,BMW,X5 M50i,N,Automatic (S8),2021,,,,0,0,0
+21.974,0,13,0,0,586,15,0,3900,0,Premium,Premium Gasoline,18,0,42864,BMW,X5 M,N,Automatic (S8),2021,,,,0,0,0
+21.974,0,13,0,0,586,15,0,3900,0,Premium,Premium Gasoline,18,0,42865,BMW,X5 M Competition,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,21,0,0,389,23,0,2550,0,Premium,Premium Gasoline,25,0,42866,BMW,X6 xDrive40i,N,Automatic (S8),2021,,Hybrid,,0,0,0
+18.31166667,0,16,0,0,488,18,0,3250,0,Premium,Premium Gasoline,22,0,42867,BMW,X6 M50i,N,Automatic (S8),2021,,,,0,0,0
+21.974,0,13,0,0,586,15,0,3900,0,Premium,Premium Gasoline,18,0,42868,BMW,X6 M,N,Automatic (S8),2021,,,,0,0,0
+21.974,0,13,0,0,586,15,0,3900,0,Premium,Premium Gasoline,18,0,42869,BMW,X6 M Competition,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,19,0,0,412,21,0,2750,0,Premium,Premium Gasoline,24,0,42870,BMW,X7 xDrive40i,Y,Automatic (S8),2021,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,514,17,0,3400,0,Premium,Premium Gasoline,21,0,42871,BMW,X7 M50i,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,514,17,0,3400,0,Premium,Premium Gasoline,21,0,42872,BMW,Alpina XB7,N,Automatic (S8),2021,,,,0,0,0
+20.600625,0,15,0,0,540,16,0,3650,0,Premium,Premium Gasoline,19,0,42873,Mercedes-Benz,AMG GLE63 S 4matic Plus,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+13.1844,0,21,0,0,356,25,0,2350,0,Premium,Premium Gasoline,32,0,42874,BMW,230i Coupe,N,Manual 6-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,366,24,0,2400,0,Premium,Premium Gasoline,30,0,42875,BMW,M240i Coupe,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,19,0,0,410,21,0,2750,0,Premium,Premium Gasoline,27,0,42876,BMW,M240i Coupe,N,Manual 6-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,366,24,0,2400,0,Premium,Premium Gasoline,30,0,42877,BMW,M240i xDrive Coupe,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,366,24,0,2400,0,Premium,Premium Gasoline,30,0,42878,BMW,M240i Convertible,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,19,0,0,410,21,0,2750,0,Premium,Premium Gasoline,27,0,42879,BMW,M240i Convertible,N,Manual 6-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,366,24,0,2400,0,Premium,Premium Gasoline,30,0,42880,BMW,M240i xDrive Convertible,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,18,0,0,440,20,0,2900,0,Premium,Premium Gasoline,24,0,42881,BMW,M2 Competition Coupe,N,Manual 6-spd,2021,,,,0,0,0
+14.98227273,0,18,0,0,404,22,0,2150,0,Regular,Regular Gasoline,29,0,42882,Chevrolet,Camaro,N,Automatic (S10),2021,,,,0,0,0
+16.4805,0,16,0,0,453,20,0,2400,0,Regular,Regular Gasoline,26,0,42883,Chevrolet,Camaro,N,Manual 6-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,564,16,0,3650,0,Premium,Premium Gasoline,20,0,42884,Chevrolet,Camaro,N,Manual 6-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,571,16,0,3650,0,Premium,Premium Gasoline,21,0,42885,Chevrolet,Camaro,N,Automatic (S10),2021,,,,0,0,0
+16.4805,0,16,0,0,452,20,0,2900,0,Premium,Premium Gasoline,26,0,42886,Chevrolet,Camaro,N,Automatic (S10),2021,,,,0,0,0
+17.34789474,0,16,0,0,477,19,0,3050,0,Premium,Premium Gasoline,24,0,42887,Chevrolet,Camaro,N,Manual 6-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,397,22,0,2650,0,Premium,Premium Gasoline,29,0,42888,Chevrolet,Camaro,N,Manual 6-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,358,25,0,2350,0,Premium,Premium Gasoline,30,0,42889,Chevrolet,Camaro,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,313,28,0,2100,0,Premium,Premium Gasoline,33,0,42890,BMW,530i,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,17,0,0,439,20,0,2900,0,Premium,Premium Gasoline,25,0,42891,BMW,M550i xDrive,N,Automatic (S8),2021,,,,0,0,0
+11.36586207,0,25,0,0,304,29,0,2000,0,Premium,Premium Gasoline,35,0,42892,MINI,Cooper S Clubman,N,Automatic (AM-S7),2021,,,,0,0,0
+12.67730769,0,23,0,0,342,26,0,2250,0,Premium,Premium Gasoline,31,0,42893,BMW,X1 xDrive28i,Y,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,24,0,0,327,27,0,2150,0,Premium,Premium Gasoline,33,0,42894,BMW,X1 sDrive28i,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,24,0,0,336,26,0,2250,0,Premium,Premium Gasoline,30,0,42895,Cadillac,XT4 FWD,N,Automatic (S9),2021,,,,0,0,0
+14.33086957,0,21,0,0,386,23,0,2550,0,Premium,Premium Gasoline,27,0,42896,Cadillac,XT6 FWD,N,Automatic (S9),2021,,,,0,0,0
+14.33086957,0,21,0,0,382,23,0,2050,0,Regular,Regular Gasoline,27,0,42897,Chevrolet,Blazer FWD,N,Automatic (S9),2021,,,,0,0,0
+13.1844,0,22,0,0,349,25,0,1900,0,Regular,Regular Gasoline,29,0,42898,Chevrolet,Blazer FWD,N,Automatic 9-spd,2021,,,,0,0,0
+13.1844,0,23,0,0,351,25,0,2350,0,Premium,Premium Gasoline,29,0,42899,BMW,X3 xDrive30i,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,21,0,0,379,23,0,2550,0,Premium,Premium Gasoline,27,0,42900,BMW,X3 M40i,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,23,0,0,351,25,0,2350,0,Premium,Premium Gasoline,29,0,42901,BMW,X4 xDrive30i,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,21,0,0,379,23,0,2550,0,Premium,Premium Gasoline,27,0,42902,BMW,X4 M40i,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,21,0,0,386,23,0,2550,0,Premium,Premium Gasoline,27,0,42903,Cadillac,XT5 AWD,N,Automatic (S9),2021,,,,0,0,0
+14.33086957,0,21,0,0,386,23,0,2550,0,Premium,Premium Gasoline,26,0,42904,Cadillac,XT6 AWD,N,Automatic (S9),2021,,,,0,0,0
+13.73375,0,22,0,0,362,24,0,2000,0,Regular,Regular Gasoline,27,0,42905,Chevrolet,Blazer AWD,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,20,0,0,416,21,0,2250,0,Regular,Regular Gasoline,24,0,42906,Jeep,Wrangler 2dr 4WD,N,Automatic 8-spd,2021,,Hybrid,,0,0,0
+14.33086957,0,22,0,0,388,23,0,2050,0,Regular,Regular Gasoline,24,0,42907,Jeep,Wrangler 2dr 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,421,21,0,2250,0,Regular,Regular Gasoline,24,0,42908,Jeep,Wrangler 4dr 4WD,N,Automatic 8-spd,2021,,Hybrid,,0,0,0
+14.98227273,0,21,0,0,404,22,0,2150,0,Regular,Regular Gasoline,24,0,42909,Jeep,Wrangler 4dr 4WD,Y,Automatic 8-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,446,20,0,2400,0,Regular,Regular Gasoline,25,0,42910,Jeep,Wrangler 2dr 4WD,N,Manual 6-spd,2021,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,2500,0,Regular,Regular Gasoline,23,0,42911,Jeep,Wrangler 4dr 4WD,N,Manual 6-spd,2021,,,,0,0,0
+8.451538462,0,40,0,0,227,39,0,1200,0,Regular,Regular Gasoline,37,0,42912,Toyota,Venza AWD,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+14.33086957,0,21,0,0,382,23,0,2050,0,Regular,Regular Gasoline,27,0,42913,GMC,Acadia FWD,N,Automatic 9-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,349,25,0,1900,0,Regular,Regular Gasoline,29,0,42914,GMC,Acadia FWD,N,Automatic 9-spd,2021,,,,0,0,0
+13.73375,0,22,0,0,362,24,0,2000,0,Regular,Regular Gasoline,27,0,42915,GMC,Acadia AWD,N,Automatic 9-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,355,25,0,2350,0,Premium,Premium Gasoline,30,0,42917,BMW,Z4 M40i,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,23,0,0,333,27,0,2150,0,Premium,Premium Gasoline,33,0,42918,BMW,230i Convertible,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,16,0,0,472,19,0,3050,0,Premium,Premium Gasoline,23,0,42919,BMW,M2 Competition Coupe,N,Automatic (AM-S7),2021,,,,0,0,0
+13.1844,0,23,0,0,347,25,0,2350,0,Premium,Premium Gasoline,30,0,42920,BMW,840i Coupe,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2550,0,Premium,Premium Gasoline,27,0,42921,BMW,840i xDrive Coupe,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2550,0,Premium,Premium Gasoline,27,0,42922,BMW,840i xDrive Convertible,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,21,0,42923,BMW,M8 Competition Convertible,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,482,18,0,3250,0,Premium,Premium Gasoline,22,0,42924,Nissan,GT-R,N,Automatic (AM-S6),2021,,,,0,0,0
+12.67730769,0,23,0,0,333,26,0,2250,0,Premium,Premium Gasoline,32,0,42925,BMW,M340i,N,Automatic (S8),2021,,Hybrid,,0,0,0
+13.1844,0,22,0,0,346,25,0,2350,0,Premium,Premium Gasoline,31,0,42926,BMW,M340i xDrive,N,Automatic (S8),2021,,Hybrid,,0,0,0
+14.98227273,0,20,0,0,400,22,0,2650,0,Premium,Premium Gasoline,27,0,42927,Hyundai,Veloster N,N,Automatic (AM-S8),2021,,,,0,0,0
+13.1844,0,22,0,0,363,25,0,2350,0,Premium,Premium Gasoline,28,0,42928,Hyundai,Veloster N,N,Manual 6-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,29,0,42929,Mercedes-Benz,AMG CLA35 4matic,N,Automatic (AM7),2021,,,,0,0,0
+12.20777778,0,24,0,0,324,27,0,2150,0,Premium,Premium Gasoline,33,0,42930,Mercedes-Benz,CLA250 4matic,N,Automatic (AM7),2021,,,,0,0,0
+11.36586207,0,25,0,0,306,29,0,2000,0,Premium,Premium Gasoline,35,0,42931,Mercedes-Benz,CLA250,N,Automatic (AM7),2021,,,,0,0,0
+12.20777778,0,24,0,0,331,27,0,2150,0,Premium,Premium Gasoline,31,0,42932,BMW,X2 xDrive28i,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,339,26,0,2250,0,Premium,Premium Gasoline,30,0,42933,BMW,X2 M35i,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,23,0,0,330,27,0,2150,0,Premium,Premium Gasoline,32,0,42934,BMW,530i xDrive,N,Automatic (S8),2021,,Hybrid,,0,0,0
+12.67730769,0,23,0,0,337,26,0,2250,0,Premium,Premium Gasoline,31,0,42935,BMW,540i xDrive,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,21,0,42936,BMW,M5,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,21,0,42937,BMW,M5 Competition,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2550,0,Premium,Premium Gasoline,27,0,42938,BMW,840i xDrive Gran Coupe,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,21,0,42939,BMW,M8 Gran Coupe,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,21,0,42940,BMW,M8 Competition Gran Coupe,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,22,0,0,342,26,0,1850,0,Regular,Regular Gasoline,33,0,42941,Chevrolet,Malibu,N,Automatic 9-spd,2021,,,,0,0,0
+12.67730769,0,22,0,0,341,26,0,1850,0,Regular,Regular Gasoline,32,0,42942,Toyota,Avalon XLE,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,352,25,0,1900,0,Regular,Regular Gasoline,31,0,42943,Toyota,Avalon,Y,Automatic (S8),2021,,,,0,0,0
+7.665348837,0,43,0,0,203,43,0,1100,0,Regular,Regular Gasoline,43,0,42944,Toyota,Avalon Hybrid,N,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+7.491136364,0,43,0,0,201,44,0,1100,0,Regular,Regular Gasoline,44,0,42945,Toyota,Avalon Hybrid XLE,N,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+11.77178571,0,25,0,0,315,28,0,1700,0,Regular,Regular Gasoline,34,0,42946,Toyota,Avalon AWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,21,0,0,361,25,0,1900,0,Regular,Regular Gasoline,30,0,42947,Toyota,Avalon TRD,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,623,14,0,4150,0,Premium,Premium Gasoline,19,0,42948,Rolls-Royce,Ghost,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,623,14,0,4150,0,Premium,Premium Gasoline,19,0,42949,Rolls-Royce,Ghost EWB,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,503,18,0,3250,0,Premium,Premium Gasoline,21,0,42950,Nissan,Titan 2WD,N,Automatic (S9),2021,,,,0,0,0
+17.34789474,0,17,0,0,466,19,0,2500,0,Regular,Regular Gasoline,22,0,42951,Jeep,Gladiator 4WD,Y,Automatic 8-spd,2021,,,,0,0,0
+18.31166667,0,15,0,0,515,18,0,3250,0,Premium,Premium Gasoline,21,0,42952,Nissan,Titan 4WD,N,Automatic (S9),2021,,,,0,0,0
+19.38882353,0,15,0,0,518,17,0,3400,0,Premium,Premium Gasoline,20,0,42953,Nissan,Titan 4WD PRO-4X,N,Automatic (S9),2021,,,,0,0,0
+15.69571429,0,19,0,0,418,21,0,2250,0,Regular,Regular Gasoline,26,0,42954,Cadillac,XT5 FWD,N,Automatic (S9),2021,,,,0,0,0
+15.69571429,0,19,0,0,418,21,0,2250,0,Regular,Regular Gasoline,26,0,42955,Cadillac,XT6 FWD,N,Automatic (S9),2021,,,,0,0,0
+13.73375,0,22,0,0,370,24,0,2400,0,Premium,Premium Gasoline,29,0,42956,Cadillac,XT5 FWD,N,Automatic (S9),2021,,,,0,0,0
+14.98227273,0,20,0,0,404,22,0,2150,0,Regular,Regular Gasoline,27,0,42957,Chevrolet,Blazer FWD,N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2150,0,Regular,Regular Gasoline,26,0,42958,Lexus,RX 350 L,N,Automatic (S8),2021,,,,0,0,0
+10.987,0,27,0,0,296,30,0,1600,0,Regular,Regular Gasoline,35,0,42959,Toyota,RAV4,Y,Automatic (S8),2021,,,,0,0,0
+10.987,0,28,0,0,290,30,0,1600,0,Regular,Regular Gasoline,35,0,42960,Toyota,RAV4,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,18,0,0,424,21,0,2250,0,Regular,Regular Gasoline,26,0,42961,Cadillac,XT5 AWD,N,Automatic (S9),2021,,,,0,0,0
+15.69571429,0,18,0,0,433,21,0,2250,0,Regular,Regular Gasoline,25,0,42962,Cadillac,XT6 AWD,N,Automatic (S9),2021,,,,0,0,0
+13.73375,0,22,0,0,369,24,0,2400,0,Premium,Premium Gasoline,29,0,42963,Cadillac,XT4 AWD,N,Automatic (S9),2021,,,,0,0,0
+15.69571429,0,19,0,0,413,21,0,2250,0,Regular,Regular Gasoline,26,0,42964,Chevrolet,Blazer AWD,N,Automatic 9-spd,2021,,,,0,0,0
+15.2874,0,22,0,0,411,25,0,2050,0,Diesel,Diesel,29,0,42965,Jeep,Wrangler 4dr EcoDiesel 4WD,N,Automatic 8-spd,2021,,Diesel,,0,0,0
+16.61673913,0,21,0,0,442,23,0,2200,0,Diesel,Diesel,26,0,42966,Jeep,Wrangler Rubic 4dr EcoDiesel 4WD,Y,Automatic 8-spd,2021,,Diesel,,0,0,0
+15.69571429,0,18,0,0,432,21,0,2250,0,Regular,Regular Gasoline,25,0,42967,Lexus,RX 350 L AWD,N,Automatic (S8),2021,,,,0,0,0
+11.36586207,0,27,0,0,301,29,0,1650,0,Regular,Regular Gasoline,33,0,42968,Toyota,RAV4 AWD,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,316,28,0,1700,0,Regular,Regular Gasoline,33,0,42969,Toyota,RAV4 AWD,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,323,28,0,1700,0,Regular,Regular Gasoline,32,0,42970,Toyota,RAV4 AWD TRD OFFROAD,N,Automatic (S8),2021,,,,0,0,0
+10.987,0,27,0,0,296,30,0,1600,0,Regular,Regular Gasoline,34,0,42971,Toyota,RAV4 AWD LE,Y,Automatic (S8),2021,,,,0,0,0
+8.24025,0,41,0,0,223,40,0,1200,0,Regular,Regular Gasoline,38,0,42972,Toyota,RAV4 Hybrid  AWD,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,402,22,0,2150,0,Regular,Regular Gasoline,27,0,42973,GMC,Acadia FWD,N,Automatic 9-spd,2021,,,,0,0,0
+19.38882353,0,16,0,0,503,17,0,2800,0,Regular,Regular Gasoline,19,0,42974,Toyota,4Runner 2WD,N,Automatic (S5),2021,,,,0,0,0
+18.31166667,0,15,0,0,497,18,0,3250,0,Premium,Premium Gasoline,24,0,42975,Bentley,Bentayga,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,19,0,0,413,21,0,2250,0,Regular,Regular Gasoline,26,0,42976,GMC,Acadia AWD,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,433,21,0,2750,0,Premium,Premium Gasoline,24,0,42977,Land Rover,Range Rover Sport MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+20.600625,0,15,0,0,542,16,0,3650,0,Premium,Premium Gasoline,19,0,42978,Lexus,GX 460,N,Automatic (S6),2021,,,,0,0,0
+11.36586207,0,29,0,0,305,29,0,2000,0,Premium,Premium Gasoline,28,0,42979,Lexus,RX 450h L AWD,N,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+20.600625,0,14,0,0,559,16,0,3650,0,Premium,Premium Gasoline,18,0,42980,Mercedes-Benz,AMG GLS63 4matic Plus,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+19.38882353,0,16,0,0,515,17,0,2800,0,Regular,Regular Gasoline,19,0,42981,Toyota,4Runner 4WD,N,Automatic (S5),2021,,,,0,0,0
+19.38882353,0,16,0,0,515,17,0,2800,0,Regular,Regular Gasoline,19,0,42982,Toyota,4Runner 4WD,N,Automatic (S5),2021,,,,0,0,0
+2.259325763,2.996454545,44,117,0,57,42,110,1150,0,Regular Gas and Electricity,Regular Gasoline,40,102,42983,Honda,Clarity Plug-in Hybrid,N,Automatic (variable gear ratios),2021,,Plug-in Hybrid,Electricity,82,70,76
+6.020593751,5.4935,28,58,0,163,30,60,1950,0,Premium and Electricity,Premium Gasoline,31,64,42984,Volvo,S90 AWD PHEV,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,38,42,40
+5.728244419,4.776956522,28,70,0,155,30,69,1950,0,Premium and Electricity,Premium Gasoline,33,68,42985,Volvo,V60 AWD PHEV,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,40,44,42
+16.4805,0,18,0,0,435,20,0,2900,0,Premium,Premium Gasoline,24,0,42987,Aston Martin,Vantage V8,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,321,28,0,2100,0,Premium,Premium Gasoline,32,0,42988,BMW,Z4 sDrive30i,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,321,28,0,2100,0,Premium,Premium Gasoline,32,0,42989,Toyota,GR Supra,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,14,0,0,522,17,0,3400,0,Premium,Premium Gasoline,22,0,42990,Aston Martin,DBS,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,15,0,0,497,18,0,3250,0,Premium,Premium Gasoline,22,0,42991,Aston Martin,DB11 V12,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,18,0,0,431,20,0,2900,0,Premium,Premium Gasoline,24,0,42992,Aston Martin,DB11 V8,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,380,23,0,2550,0,Premium,Premium Gasoline,28,0,42993,Audi,S5,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,393,22,0,2650,0,Premium,Premium Gasoline,26,0,42994,Audi,S5 Cabriolet,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,321,28,0,2100,0,Premium,Premium Gasoline,32,0,42995,BMW,230i Coupe,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,29,0,42996,BMW,840i Convertible,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,380,23,0,2550,0,Premium,Premium Gasoline,28,0,42997,Audi,S4,N,Automatic (S8),2021,,,,0,0,0
+11.36586207,0,27,0,0,305,29,0,1650,0,Regular,Regular Gasoline,31,0,42998,Toyota,C-HR,N,Automatic (AV-S7),2021,,,,0,0,0
+14.33086957,0,20,0,0,380,23,0,2550,0,Premium,Premium Gasoline,28,0,42999,Audi,S5 Sportback,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,507,17,0,3400,0,Premium,Premium Gasoline,22,0,43000,Audi,RS 7,N,Automatic (S8),2021,,Hybrid,,0,0,0
+12.20777778,0,25,0,0,322,27,0,2150,0,Premium,Premium Gasoline,32,0,43001,BMW,540i,N,Automatic (S8),2021,,Hybrid,,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,29,0,43002,BMW,840i Gran Coupe,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,15,0,0,495,18,0,3250,0,Premium,Premium Gasoline,23,0,43003,Audi,A8 L,N,Automatic (S8),2021,,Hybrid,,0,0,0
+20.600625,0,13,0,0,545,16,0,3650,0,Premium,Premium Gasoline,22,0,43004,Audi,S8,N,Automatic (S8),2021,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,514,17,0,3400,0,Premium,Premium Gasoline,22,0,43005,Audi,RS 6 Avant,N,Automatic (S8),2021,,Hybrid,,0,0,0
+14.98227273,0,20,0,0,407,22,0,2150,0,Regular,Regular Gasoline,25,0,43006,Ram,1500 2WD,N,Automatic 8-spd,2021,,Hybrid,,0,0,0
+14.69942308,0,22,0,0,390,26,0,1950,0,Diesel,Diesel,32,0,43007,Ram,1500 2WD,N,Automatic 8-spd,2021,,Diesel,,0,0,0
+17.34789474,0,17,0,0,467,19,0,2850,0,Midgrade,Midgrade Gasoline,23,0,43008,Ram,1500 2WD,N,Automatic 8-spd,2021,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,514,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,43009,Ram,1500 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+21.974,0,13,0,0,601,15,0,3200,0,Regular,Regular Gasoline,17,0,43010,Toyota,Tundra 2WD,N,Automatic (S6),2021,,,,0,0,0
+17.34789474,0,16,0,0,476,19,0,2500,0,Regular,Regular Gasoline,23,0,43011,Jeep,Gladiator 4WD,N,Manual 6-spd,2021,,,,0,0,0
+15.924375,0,22,0,0,423,24,0,2100,0,Diesel,Diesel,28,0,43012,Jeep,Gladiator EcoDiesel 4WD,N,Automatic 8-spd,2021,,Diesel,,0,0,0
+15.924375,0,21,0,0,436,24,0,2100,0,Diesel,Diesel,27,0,43013,Jeep,Gladiator Rubicon EcoDiesel 4WD,N,Automatic 8-spd,2021,,Diesel,,0,0,0
+15.69571429,0,19,0,0,417,21,0,2250,0,Regular,Regular Gasoline,24,0,43014,Ram,1500 4WD,N,Automatic 8-spd,2021,,Hybrid,,0,0,0
+15.924375,0,21,0,0,418,24,0,2100,0,Diesel,Diesel,29,0,43015,Ram,1500 4WD,N,Automatic 8-spd,2021,,Diesel,,0,0,0
+17.34789474,0,17,0,0,472,19,0,2850,0,Midgrade,Midgrade Gasoline,22,0,43016,Ram,1500 4WD,Y,Automatic 8-spd,2021,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,523,17,0,3200,0,Midgrade,Midgrade Gasoline,21,0,43017,Ram,1500 4WD,Y,Automatic 8-spd,2021,,,,0,0,0
+23.54357143,0,13,0,0,635,14,0,3400,0,Regular,Regular Gasoline,17,0,43018,Toyota,Tundra 4WD,Y,Automatic (S6),2021,,,,0,0,0
+13.1844,0,23,0,0,353,25,0,1900,0,Regular,Regular Gasoline,29,0,43019,Volkswagen,Tiguan,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,384,23,0,2050,0,Regular,Regular Gasoline,28,0,43020,Audi,Q3 S-line quattro,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,403,22,0,2650,0,Premium,Premium Gasoline,26,0,43021,Mercedes-Benz,GLE350,N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,409,22,0,2650,0,Premium,Premium Gasoline,26,0,43022,Mercedes-Benz,GLE350 4matic,N,Automatic 9-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2000,0,Regular,Regular Gasoline,27,0,43023,Volkswagen,Tiguan 4motion,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,19,0,0,425,21,0,2750,0,Premium,Premium Gasoline,23,0,43024,Audi,Q7,N,Automatic (S8),2021,,,,0,0,0
+21.974,0,13,0,0,579,15,0,3900,0,Premium,Premium Gasoline,19,0,43025,Audi,RS Q8,N,Automatic (S8),2021,,Hybrid,,0,0,0
+16.4805,0,18,0,0,453,20,0,2900,0,Premium,Premium Gasoline,23,0,43026,Audi,Q7,N,Automatic (S8),2021,,Hybrid,,0,0,0
+16.4805,0,18,0,0,453,20,0,2900,0,Premium,Premium Gasoline,23,0,43027,Audi,Q8,N,Automatic (S8),2021,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,522,17,0,3400,0,Premium,Premium Gasoline,21,0,43028,Audi,SQ7,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,522,17,0,3400,0,Premium,Premium Gasoline,21,0,43029,Audi,SQ8,Y,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,617,14,0,4150,0,Premium,Premium Gasoline,17,0,43030,Lamborghini,Urus,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,12,0,0,636,14,0,4150,0,Premium,Premium Gasoline,16,0,43031,Lexus,LX 570,N,Automatic (S8),2021,,,,0,0,0
+23.54357143,0,13,0,0,618,14,0,3400,0,Regular,Regular Gasoline,17,0,43032,Toyota,Land Cruiser Wagon 4WD,N,Automatic (S8),2021,,,,0,0,0
+7.906767338,6.219056604,21,49,0,213,23,53,2550,0,Premium and Electricity,Premium Gasoline,26,60,43033,Audi,A8 L,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,27,36,31
+11.36586207,0,26,0,0,304,29,0,2000,0,Premium,Premium Gasoline,34,0,43034,BMW,430i Coupe,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,24,0,0,325,27,0,2150,0,Premium,Premium Gasoline,33,0,43035,BMW,430i xDrive Coupe,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,316,28,0,2100,0,Premium,Premium Gasoline,34,0,43036,Mercedes-Benz,A220 4matic,N,Automatic (AM7),2021,,,,0,0,0
+11.36586207,0,25,0,0,309,29,0,2000,0,Premium,Premium Gasoline,36,0,43037,Mercedes-Benz,A220,N,Automatic (AM7),2021,,,,0,0,0
+10.987,0,26,0,0,298,30,0,1950,0,Premium,Premium Gasoline,36,0,43038,BMW,330i,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,313,28,0,2100,0,Premium,Premium Gasoline,34,0,43039,BMW,330i xDrive,N,Automatic (S8),2021,,,,0,0,0
+10.63258065,0,29,0,0,289,31,0,1550,0,Regular,Regular Gasoline,34,0,43040,Mazda,CX-3 2WD,N,Automatic (S6),2021,,,,0,0,0
+11.36586207,0,27,0,0,303,29,0,1650,0,Regular,Regular Gasoline,32,0,43041,Mazda,CX-3 4WD,N,Automatic (S6),2021,,,,0,0,0
+10.63258065,0,28,0,0,287,31,0,1550,0,Regular,Regular Gasoline,36,0,43042,Mazda,3 4-Door 2WD,N,Automatic (S6),2021,,,,0,0,0
+10.987,0,26,0,0,299,30,0,1600,0,Regular,Regular Gasoline,35,0,43043,Mazda,3 4-Door 2WD,N,Automatic (S6),2021,,,,0,0,0
+11.77178571,0,25,0,0,320,28,0,1700,0,Regular,Regular Gasoline,33,0,43044,Mazda,3 4-Door 4WD,N,Automatic (S6),2021,,,,0,0,0
+12.20777778,0,24,0,0,330,27,0,2150,0,Premium,Premium Gasoline,32,0,43045,BMW,X2 sDrive28i,N,Automatic (S8),2021,,,,0,0,0
+9.417428571,0,31,0,0,257,35,0,1350,0,Regular,Regular Gasoline,41,0,43046,Hyundai,Elantra,N,Automatic (AV-S1),2021,,,,0,0,0
+8.908378378,0,33,0,0,244,37,0,1300,0,Regular,Regular Gasoline,43,0,43047,Hyundai,Elantra,N,Automatic (AV-S1),2021,,,,0,0,0
+14.33086957,0,20,0,0,388,23,0,2550,0,Premium,Premium Gasoline,29,0,43048,Infiniti,Q50,N,Automatic (S7),2021,,,,0,0,0
+14.98227273,0,19,0,0,403,22,0,2650,0,Premium,Premium Gasoline,27,0,43049,Infiniti,Q50 AWD,N,Automatic (S7),2021,,,,0,0,0
+14.98227273,0,20,0,0,403,22,0,2650,0,Premium,Premium Gasoline,26,0,43050,Infiniti,Q50 Red Sport,N,Automatic (S7),2021,,,,0,0,0
+14.98227273,0,19,0,0,411,22,0,2650,0,Premium,Premium Gasoline,26,0,43051,Infiniti,Q50 Red Sport  AWD,N,Automatic (S7),2021,,,,0,0,0
+12.20777778,0,24,0,0,323,27,0,1750,0,Regular,Regular Gasoline,33,0,43052,Mazda,3 5-Door 2WD,N,Manual 6-spd,2021,,,,0,0,0
+11.36586207,0,26,0,0,304,29,0,1650,0,Regular,Regular Gasoline,34,0,43053,Mazda,3 5-Door 2WD,N,Automatic (S6),2021,,,,0,0,0
+12.20777778,0,25,0,0,326,27,0,1750,0,Regular,Regular Gasoline,31,0,43054,Mazda,3 5-Door 4WD,N,Automatic (S6),2021,,,,0,0,0
+10.3003125,0,29,0,0,274,32,0,1800,0,Premium,Premium Gasoline,37,0,43055,Honda,Civic 5Dr,N,Manual 6-spd,2021,,,,0,0,0
+9.694411765,0,31,0,0,259,34,0,1400,0,Regular,Regular Gasoline,40,0,43056,Honda,Civic 5Dr,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.3003125,0,29,0,0,279,32,0,1800,0,Premium,Premium Gasoline,35,0,43057,Honda,Civic 5Dr,N,Automatic (AV-S7),2021,,,,0,0,0
+11.36586207,0,26,0,0,312,29,0,1650,0,Regular,Regular Gasoline,34,0,43058,Kia,K5 AWD,Y,Automatic (S8),2021,,,,0,0,0
+13.1844,0,23,0,0,353,25,0,2350,0,Premium,Premium Gasoline,29,0,43059,Mercedes-Benz,AMG GLA35 4matic,N,Automatic (AM8),2021,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2000,0,Regular,Regular Gasoline,28,0,43060,Ram,Promaster City,N,Automatic 9-spd,2021,,,,0,0,0
+14.33086957,0,21,0,0,394,23,0,2550,0,Premium,Premium Gasoline,25,0,43061,Genesis,GV80 RWD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,345,26,0,1850,0,Regular,Regular Gasoline,31,0,43062,Jeep,Cherokee FWD,N,Automatic 9-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,352,25,0,1900,0,Regular,Regular Gasoline,31,0,43063,Jeep,Cherokee FWD,N,Automatic 9-spd,2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2050,0,Regular,Regular Gasoline,29,0,43064,Jeep,Cherokee FWD,N,Automatic 9-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,369,24,0,2000,0,Regular,Regular Gasoline,29,0,43065,Jeep,Cherokee 4WD,N,Automatic 9-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,370,24,0,2000,0,Regular,Regular Gasoline,29,0,43066,Jeep,Cherokee 4WD,N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,400,22,0,2150,0,Regular,Regular Gasoline,27,0,43067,Jeep,Cherokee 4WD,N,Automatic 9-spd,2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2050,0,Regular,Regular Gasoline,27,0,43068,Jeep,Cherokee 4WD Active Drive II,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,416,21,0,2250,0,Regular,Regular Gasoline,26,0,43069,Jeep,Cherokee 4WD Active Drive II,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,432,21,0,2250,0,Regular,Regular Gasoline,24,0,43070,Jeep,Cherokee Trailhawk 4WD,N,Automatic 9-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,511,17,0,3400,0,Premium,Premium Gasoline,20,0,43071,Land Rover,Range Rover Velar,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,21,0,0,401,22,0,2650,0,Premium,Premium Gasoline,25,0,43072,Genesis,GV80 AWD,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,18,0,0,448,20,0,2900,0,Premium,Premium Gasoline,23,0,43073,Genesis,GV80 AWD,N,Automatic (S8),2021,,,,0,0,0
+9.694411765,0,30,0,0,264,34,0,1400,0,Regular,Regular Gasoline,39,0,43074,Mazda,2,N,Manual 6-spd,2021,,,,0,0,0
+9.417428571,0,32,0,0,253,35,0,1350,0,Regular,Regular Gasoline,40,0,43075,Mazda,2,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,22,0,0,346,26,0,1850,0,Regular,Regular Gasoline,32,0,43076,Lexus,ES 350,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,352,25,0,1900,0,Regular,Regular Gasoline,31,0,43077,Lexus,ES 350 F Sport,N,Automatic (S8),2021,,,,0,0,0
+7.491136364,0,43,0,0,202,44,0,1100,0,Regular,Regular Gasoline,44,0,43078,Lexus,ES 300h,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+11.77178571,0,25,0,0,315,28,0,1700,0,Regular,Regular Gasoline,34,0,43079,Lexus,ES 250 AWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,349,25,0,2350,0,Premium,Premium Gasoline,31,0,43080,Mercedes-Benz,E350,N,Automatic 9-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,355,25,0,2350,0,Premium,Premium Gasoline,30,0,43081,Mercedes-Benz,E350 4matic,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,431,21,0,2250,0,Regular,Regular Gasoline,24,0,43082,Toyota,Tacoma 2WD,N,Automatic (S6),2021,,,,0,0,0
+15.69571429,0,20,0,0,423,21,0,2250,0,Regular,Regular Gasoline,23,0,43083,Toyota,Tacoma 2WD,N,Automatic (S6),2021,,,,0,0,0
+16.4805,0,18,0,0,448,20,0,2400,0,Regular,Regular Gasoline,22,0,43084,Toyota,Tacoma 4WD,N,Automatic (S6),2021,,,,0,0,0
+18.31166667,0,17,0,0,481,18,0,2650,0,Regular,Regular Gasoline,21,0,43085,Toyota,Tacoma 4WD,N,Manual 6-spd,2021,,,,0,0,0
+18.31166667,0,17,0,0,483,18,0,2650,0,Regular,Regular Gasoline,20,0,43086,Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,N,Manual 6-spd,2021,,,,0,0,0
+16.4805,0,19,0,0,441,20,0,2400,0,Regular,Regular Gasoline,22,0,43087,Toyota,Tacoma 4WD,N,Automatic (S6),2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,43088,Chevrolet,Silverado 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+20.600625,6.2425,15,11,512,547,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,15,43089,Chevrolet,Silverado 2WD,N,Automatic 6-spd,2021,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,460,19,0,2500,0,Regular,Regular Gasoline,23,0,43090,Chevrolet,Silverado 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+14.155,0,23,0,0,383,27,0,1900,0,Diesel,Diesel,33,0,43091,Chevrolet,Silverado 2WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,43092,GMC,Sierra 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+20.600625,6.2425,15,11,512,547,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,15,43093,GMC,Sierra 2WD,N,Automatic 6-spd,2021,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,466,19,0,2500,0,Regular,Regular Gasoline,23,0,43094,GMC,Sierra 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+14.69942308,0,23,0,0,392,26,0,1950,0,Diesel,Diesel,30,0,43095,GMC,Sierra 2WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+18.31166667,0,16,0,0,493,18,0,3250,0,Premium,Premium Gasoline,21,0,43096,Chevrolet,Silverado 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,560,16,0,3000,0,Regular,Regular Gasoline,18,0,43097,Chevrolet,Silverado 4WD TrailBoss,N,Automatic 6-spd,2021,,,,0,0,0
+20.600625,6.2425,14,11,542,563,16,12,3000,3000,Gasoline or E85,Regular Gasoline,18,13,43098,Chevrolet,Silverado 4WD,N,Automatic 6-spd,2021,,FFV,E85,0,0,0
+18.31166667,0,16,0,0,482,18,0,2650,0,Regular,Regular Gasoline,22,0,43099,Chevrolet,Silverado 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.924375,0,22,0,0,430,24,0,2100,0,Diesel,Diesel,26,0,43100,Chevrolet,Silverado 4WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+17.34789474,0,16,0,0,481,19,0,2500,0,Regular,Regular Gasoline,22,0,43101,Chevrolet,Silverado 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,494,18,0,2650,0,Regular,Regular Gasoline,21,0,43102,Chevrolet,Silverado 4WD TrailBoss,Y,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,560,16,0,3000,0,Regular,Regular Gasoline,18,0,43103,Chevrolet,Silverado 4WD TrailBoss,N,Automatic 6-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,530,17,0,2800,0,Regular,Regular Gasoline,20,0,43104,Chevrolet,Silverado 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+19.38882353,0,16,0,0,510,17,0,3400,0,Premium,Premium Gasoline,20,0,43105,GMC,Sierra 4WD,Y,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,522,17,0,3400,0,Premium,Premium Gasoline,19,0,43106,GMC,Sierra 4WD AT4,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,526,17,0,2800,0,Regular,Regular Gasoline,20,0,43107,GMC,Sierra 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+20.600625,6.2425,14,11,539,561,16,12,3000,3000,Gasoline or E85,Regular Gasoline,18,13,43108,GMC,Sierra 4WD,N,Automatic 6-spd,2021,,FFV,E85,0,0,0
+15.924375,0,22,0,0,430,24,0,2100,0,Diesel,Diesel,26,0,43109,GMC,Sierra 4WD,Y,Automatic 10-spd,2021,,Diesel,,0,0,0
+15.924375,0,22,0,0,430,24,0,2100,0,Diesel,Diesel,26,0,43110,GMC,Sierra 4WD AT4,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+17.34789474,0,16,0,0,479,19,0,2500,0,Regular,Regular Gasoline,22,0,43111,GMC,Sierra 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,494,18,0,2650,0,Regular,Regular Gasoline,21,0,43112,GMC,Sierra 4WD AT4,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,504,18,0,2650,0,Regular,Regular Gasoline,21,0,43113,GMC,Sierra 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,484,18,0,2650,0,Regular,Regular Gasoline,21,0,43114,GMC,Sierra 4WD AT4,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,530,17,0,2800,0,Regular,Regular Gasoline,20,0,43115,GMC,Sierra 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+21.974,0,14,0,0,593,15,0,3200,0,Regular,Regular Gasoline,17,0,43116,Chevrolet,Silverado Cab Chassis 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,19,0,43117,Chevrolet,Silverado Cab Chassis 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+21.974,0,14,0,0,592,15,0,3200,0,Regular,Regular Gasoline,16,0,43118,Chevrolet,Silverado Cab Chassis 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+21.974,0,14,0,0,593,15,0,3200,0,Regular,Regular Gasoline,17,0,43119,GMC,Sierra Cab Chassis 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+21.974,0,14,0,0,592,15,0,3200,0,Regular,Regular Gasoline,16,0,43120,GMC,Sierra Cab Chassis 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+12.20777778,0,24,0,0,329,27,0,1750,0,Regular,Regular Gasoline,32,0,43121,Jeep,Renegade 2WD,N,Automatic 9-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,357,25,0,1900,0,Regular,Regular Gasoline,30,0,43122,Jeep,Renegade 2WD,N,Automatic 9-spd,2021,,,,0,0,0
+8.908378378,0,39,0,0,242,37,0,1300,0,Regular,Regular Gasoline,35,0,43123,Kia,Sorento Hybrid,Y,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2050,0,Regular,Regular Gasoline,27,0,43124,Lexus,RX 350,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,322,28,0,1700,0,Regular,Regular Gasoline,31,0,43125,Mazda,CX-5 2WD,Y,Automatic (S6),2021,,,,0,0,0
+13.1844,0,23,0,0,355,25,0,1900,0,Regular,Regular Gasoline,28,0,43126,Mazda,CX-5 2WD,N,Automatic (S6),2021,,,,0,0,0
+13.73375,0,22,0,0,363,24,0,2000,0,Regular,Regular Gasoline,28,0,43127,Mazda,CX-9 2WD,N,Automatic (S6),2021,,,,0,0,0
+14.33086957,0,20,0,0,389,23,0,2050,0,Regular,Regular Gasoline,28,0,43128,Toyota,Highlander,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,372,24,0,2000,0,Regular,Regular Gasoline,29,0,43129,Toyota,Highlander,N,Automatic (S8),2021,,,,0,0,0
+9.155833333,0,36,0,0,245,36,0,1300,0,Regular,Regular Gasoline,35,0,43130,Toyota,Highlander Hybrid,N,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+13.73375,0,21,0,0,371,24,0,2000,0,Regular,Regular Gasoline,29,0,43131,Jeep,Renegade 4WD,N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,405,22,0,2150,0,Regular,Regular Gasoline,26,0,43132,Lexus,RX 350 AWD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,24,0,0,335,26,0,1850,0,Regular,Regular Gasoline,30,0,43133,Mazda,CX-5 4WD,N,Automatic (S6),2021,,,,0,0,0
+13.73375,0,22,0,0,370,24,0,2000,0,Regular,Regular Gasoline,27,0,43134,Mazda,CX-5 4WD,Y,Automatic (S6),2021,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2050,0,Regular,Regular Gasoline,26,0,43135,Mazda,CX-9 4WD,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,23,0,0,347,26,0,2250,0,Premium,Premium Gasoline,30,0,43136,Mercedes-Benz,GLB250 4matic,N,Automatic (AM8),2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2050,0,Regular,Regular Gasoline,27,0,43137,Toyota,Highlander AWD,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,462,19,0,3050,0,Premium,Premium Gasoline,22,0,43138,Land Rover,Defender 110 MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+17.34789474,0,17,0,0,462,19,0,3050,0,Premium,Premium Gasoline,22,0,43139,Land Rover,Defender 90 MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+10.987,0,31,0,0,297,30,0,1950,0,Premium,Premium Gasoline,28,0,43140,Lexus,RX 450h AWD,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+9.417428571,0,35,0,0,254,35,0,1350,0,Regular,Regular Gasoline,35,0,43141,Toyota,Highlander Hybrid AWD,N,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+9.417428571,0,35,0,0,251,35,0,1350,0,Regular,Regular Gasoline,34,0,43142,Toyota,Highlander Hybrid AWD LTD/PLAT,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+6.535427664,4.515205479,29,74,0,175,29,73,2000,0,Premium and Electricity,Premium Gasoline,30,72,43143,MINI,Cooper SE Countryman All4,N,Automatic (S6),2021,,Plug-in Hybrid,Electricity,39,39,39
+3.453472142,5.682931034,22,55,0,93,26,58,2250,0,Premium and Electricity,Premium Gasoline,31,61,43144,Polestar,1,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,41,51,45
+7.086391328,5.782631579,26,56,0,196,27,57,2150,0,Premium and Electricity,Premium Gasoline,28,57,43145,Volvo,XC60 AWD PHEV,Y,Automatic (S8),2021,,Plug-in Hybrid,Electricity,33,36,34
+13.1844,0,22,0,0,346,25,0,2350,0,Premium,Premium Gasoline,31,0,43146,BMW,M440i xDrive Coupe,N,Automatic (S8),2021,,Hybrid,,0,0,0
+17.34789474,0,17,0,0,453,19,0,3050,0,Premium,Premium Gasoline,24,0,43147,BMW,M850i xDrive Convertible,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,29,0,43148,Mercedes-Benz,AMG A35 4matic,N,Automatic (AM7),2021,,,,0,0,0
+13.1844,0,21,0,0,356,25,0,2350,0,Premium,Premium Gasoline,31,0,43149,Cadillac,CT4,N,Automatic (S10),2021,,,,0,0,0
+14.33086957,0,20,0,0,384,23,0,2550,0,Premium,Premium Gasoline,29,0,43150,Cadillac,CT4 V,N,Automatic (S10),2021,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2400,0,Premium,Premium Gasoline,29,0,43151,Cadillac,CT4 AWD,N,Automatic (S10),2021,,,,0,0,0
+14.33086957,0,20,0,0,385,23,0,2550,0,Premium,Premium Gasoline,28,0,43152,Cadillac,CT4 V AWD,N,Automatic (S10),2021,,,,0,0,0
+10.987,0,26,0,0,303,30,0,1600,0,Regular,Regular Gasoline,35,0,43153,Mazda,3 4-Door 2WD,N,Automatic (S6),2021,,,,0,0,0
+11.77178571,0,25,0,0,313,28,0,1700,0,Regular,Regular Gasoline,33,0,43154,Mazda,3 4-Door 4WD,N,Automatic (S6),2021,,,,0,0,0
+17.34789474,0,17,0,0,453,19,0,3050,0,Premium,Premium Gasoline,24,0,43155,BMW,M850i xDrive Gran Coupe,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,22,0,0,364,24,0,2400,0,Premium,Premium Gasoline,28,0,43156,Mercedes-Benz,E450 4matic All-Terrain (wagon),N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+11.77178571,0,27,0,0,318,28,0,1700,0,Regular,Regular Gasoline,29,0,43157,Ford,EcoSport FWD,N,Automatic (S6),2021,,,,0,0,0
+14.98227273,0,20,0,0,407,22,0,2150,0,Regular,Regular Gasoline,25,0,43158,Honda,Passport FWD,N,Automatic (S9),2021,,,,0,0,0
+11.77178571,0,25,0,0,319,28,0,1700,0,Regular,Regular Gasoline,33,0,43159,Mazda,CX-30 2WD,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,23,0,0,355,25,0,1900,0,Regular,Regular Gasoline,29,0,43160,Ford,EcoSport AWD,Y,Automatic (S6),2021,,,,0,0,0
+15.69571429,0,19,0,0,427,21,0,2250,0,Regular,Regular Gasoline,24,0,43161,Honda,Passport AWD,N,Automatic (S9),2021,,,,0,0,0
+13.73375,0,22,0,0,372,24,0,2000,0,Regular,Regular Gasoline,27,0,43162,Jeep,Renegade Trailhawk 4WD,N,Automatic 9-spd,2021,,,,0,0,0
+12.67730769,0,24,0,0,341,26,0,1850,0,Regular,Regular Gasoline,31,0,43163,Mazda,CX-30 4WD,N,Automatic (S6),2021,,,,0,0,0
+15.69571429,0,19,0,0,414,21,0,2250,0,Regular,Regular Gasoline,26,0,43164,Dodge,Durango RWD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,414,21,0,2250,0,Regular,Regular Gasoline,26,0,43165,Jeep,Grand Cherokee 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,427,21,0,2250,0,Regular,Regular Gasoline,25,0,43166,Dodge,Durango AWD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,427,21,0,2250,0,Regular,Regular Gasoline,25,0,43167,Jeep,Grand Cherokee 4WD,Y,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,14,0,0,533,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,43168,Jeep,Grand Cherokee 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+14.33086957,0,21,0,0,393,23,0,2550,0,Premium,Premium Gasoline,26,0,43169,Mercedes-Benz,GLE450 4matic,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+15.69571429,0,20,0,0,414,21,0,2750,0,Premium,Premium Gasoline,24,0,43170,Mercedes-Benz,GLS450 4matic,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+21.974,0,12,0,0,601,15,0,3900,0,Premium,Premium Gasoline,19,0,43172,Bentley,Continental GT Convertible,N,Automatic (AM-S8),2021,,,,0,0,0
+21.974,0,12,0,0,586,15,0,3900,0,Premium,Premium Gasoline,20,0,43173,Bentley,Continental GT,N,Automatic (AM-S8),2021,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,2250,0,Premium,Premium Gasoline,33,0,43174,Volvo,S60 AWD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,341,26,0,2250,0,Premium,Premium Gasoline,31,0,43175,Audi,A6 quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+21.974,0,12,0,0,601,15,0,3900,0,Premium,Premium Gasoline,19,0,43176,Bentley,Flying Spur,N,Automatic (AM-S8),2021,,,,0,0,0
+20.600625,0,13,0,0,560,16,0,3650,0,Premium,Premium Gasoline,20,0,43177,Maserati,Ghibli Trofeo,N,Automatic 8-spd,2021,,,,0,0,0
+17.34789474,0,16,0,0,472,19,0,3050,0,Premium,Premium Gasoline,24,0,43178,Maserati,Ghibli SQ4,N,Automatic 8-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,446,20,0,2900,0,Premium,Premium Gasoline,25,0,43179,Maserati,Ghibli,N,Automatic 8-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,446,20,0,2900,0,Premium,Premium Gasoline,25,0,43180,Maserati,Ghibli S,N,Automatic 8-spd,2021,,,,0,0,0
+12.67730769,0,23,0,0,349,26,0,2250,0,Premium,Premium Gasoline,30,0,43181,Mercedes-Benz,E450 4matic,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+20.600625,0,13,0,0,560,16,0,3650,0,Premium,Premium Gasoline,20,0,43182,Maserati,Quattroporte Trofeo,N,Automatic 8-spd,2021,,,,0,0,0
+17.34789474,0,16,0,0,472,19,0,3050,0,Premium,Premium Gasoline,24,0,43183,Maserati,Quattroporte SQ4,N,Automatic 8-spd,2021,,,,0,0,0
+17.34789474,0,16,0,0,468,19,0,3050,0,Premium,Premium Gasoline,24,0,43184,Maserati,Quattroporte S,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,16,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,43185,Chevrolet,Silverado 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+15.69571429,0,20,0,0,423,21,0,2250,0,Regular,Regular Gasoline,23,0,43186,Chevrolet,Silverado 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,20,0,0,421,21,0,2250,0,Regular,Regular Gasoline,23,0,43187,Chevrolet,Silverado 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,16,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,43188,GMC,Sierra 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+15.69571429,0,20,0,0,421,21,0,2250,0,Regular,Regular Gasoline,23,0,43189,GMC,Sierra 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,20,0,0,422,21,0,2250,0,Regular,Regular Gasoline,23,0,43190,GMC,Sierra 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,522,17,0,3400,0,Premium,Premium Gasoline,19,0,43191,Chevrolet,Silverado 4WD TrailBoss,Y,Automatic 10-spd,2021,,,,0,0,0
+16.4805,0,19,0,0,442,20,0,2400,0,Regular,Regular Gasoline,22,0,43192,Chevrolet,Silverado 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,533,17,0,3400,0,Premium,Premium Gasoline,19,0,43193,Chevrolet,Silverado 4WD TrailBoss,N,Automatic 10-spd,2021,,,,0,0,0
+16.4805,0,19,0,0,443,20,0,2400,0,Regular,Regular Gasoline,22,0,43194,Chevrolet,Silverado 4WD,Y,Automatic 8-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,543,16,0,3000,0,Regular,Regular Gasoline,18,0,43195,GMC,Sierra 4WD AT4,N,Automatic 6-spd,2021,,,,0,0,0
+17.34789474,0,18,0,0,464,19,0,2500,0,Regular,Regular Gasoline,21,0,43196,GMC,Sierra 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+21.974,0,14,0,0,590,15,0,3200,0,Regular,Regular Gasoline,18,0,43197,Chevrolet,Silverado Cab Chassis 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+21.974,0,14,0,0,590,15,0,3200,0,Regular,Regular Gasoline,18,0,43198,GMC,Sierra Cab Chassis 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,19,0,43199,GMC,Sierra Cab Chassis 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+11.77178571,0,26,0,0,318,28,0,1700,0,Regular,Regular Gasoline,31,0,43200,Chevrolet,Equinox FWD,N,Automatic 6-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,352,25,0,1900,0,Regular,Regular Gasoline,29,0,43201,Buick,Envision AWD,N,Automatic (S9),2021,,,,0,0,0
+15.69571429,0,18,0,0,420,21,0,2250,0,Regular,Regular Gasoline,26,0,43202,Buick,Enclave FWD,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,420,21,0,2250,0,Regular,Regular Gasoline,27,0,43203,Chevrolet,Traverse FWD,N,Automatic 9-spd,2021,,,,0,0,0
+21.974,0,13,0,0,608,15,0,3200,0,Regular,Regular Gasoline,17,0,43204,Toyota,Sequoia 2WD,N,Automatic (S6),2021,,,,0,0,0
+16.4805,0,17,0,0,440,20,0,2400,0,Regular,Regular Gasoline,25,0,43205,Buick,Enclave AWD,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,439,20,0,2400,0,Regular,Regular Gasoline,25,0,43206,Chevrolet,Traverse AWD,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,449,20,0,2900,0,Premium,Premium Gasoline,23,0,43207,Land Rover,Range Rover MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+18.31166667,0,16,0,0,495,18,0,3250,0,Premium,Premium Gasoline,22,0,43208,Maserati,Levante S,N,Automatic 8-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,495,18,0,3250,0,Premium,Premium Gasoline,22,0,43209,Maserati,Levante,N,Automatic 8-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,562,16,0,3650,0,Premium,Premium Gasoline,20,0,43210,Maserati,Levante GTS,N,Automatic 8-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,562,16,0,3650,0,Premium,Premium Gasoline,20,0,43211,Maserati,Levante Trofeo,N,Automatic 8-spd,2021,,,,0,0,0
+23.54357143,0,13,0,0,618,14,0,3400,0,Regular,Regular Gasoline,17,0,43212,Toyota,Sequoia 4WD,N,Automatic (S6),2021,,,,0,0,0
+5.221418933,4.847205882,26,64,0,139,29,68,2000,0,Premium and Electricity,Premium Gasoline,34,74,43213,Audi,A7 quattro,N,Automatic (AM-S7),2021,,Plug-in Hybrid,Electricity,39,48,43
+7.67428527,5.885892857,22,54,0,209,23,56,2050,0,Regular Gas and Electricity,Regular Gasoline,25,58,43214,Lincoln,Aviator PHEV AWD,N,Automatic (S10),2021,,Plug-in Hybrid,Electricity,29,34,31
+19.38882353,0,14,0,0,541,17,0,3400,0,Premium,Premium Gasoline,21,0,43215,Aston Martin,Vantage Manual,N,Manual 7-spd,2021,,,,0,0,0
+14.98227273,0,20,0,0,394,22,0,2650,0,Premium,Premium Gasoline,26,0,43216,Porsche,718 Boxster,N,Manual 6-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,375,24,0,2400,0,Premium,Premium Gasoline,27,0,43217,Porsche,718 Boxster,N,Automatic (AM-S7),2021,,,,0,0,0
+14.98227273,0,20,0,0,394,22,0,2650,0,Premium,Premium Gasoline,26,0,43218,Porsche,718 Cayman,N,Manual 6-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,375,24,0,2400,0,Premium,Premium Gasoline,27,0,43219,Porsche,718 Cayman,N,Automatic (AM-S7),2021,,,,0,0,0
+15.69571429,0,19,0,0,423,21,0,2750,0,Premium,Premium Gasoline,24,0,43220,Porsche,718 Boxster S,N,Manual 6-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,410,22,0,2650,0,Premium,Premium Gasoline,25,0,43221,Porsche,718 Boxster S,N,Automatic (AM-S7),2021,,,,0,0,0
+15.69571429,0,19,0,0,423,21,0,2750,0,Premium,Premium Gasoline,24,0,43222,Porsche,718 Cayman S,N,Manual 6-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,410,22,0,2650,0,Premium,Premium Gasoline,25,0,43223,Porsche,718 Cayman S,N,Automatic (AM-S7),2021,,,,0,0,0
+14.98227273,0,20,0,0,394,22,0,2650,0,Premium,Premium Gasoline,26,0,43224,Porsche,718 Boxster T,N,Manual 6-spd,2021,,,,0,0,0
+14.33086957,0,21,0,0,380,23,0,2550,0,Premium,Premium Gasoline,27,0,43225,Porsche,718 Boxster T,N,Automatic (AM-S7),2021,,,,0,0,0
+14.98227273,0,20,0,0,394,22,0,2650,0,Premium,Premium Gasoline,26,0,43226,Porsche,718 Cayman T,N,Manual 6-spd,2021,,,,0,0,0
+14.33086957,0,21,0,0,380,23,0,2550,0,Premium,Premium Gasoline,27,0,43227,Porsche,718 Cayman T,N,Automatic (AM-S7),2021,,,,0,0,0
+12.20777778,0,24,0,0,331,27,0,2150,0,Premium,Premium Gasoline,31,0,43228,Audi,A5 quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+12.67730769,0,23,0,0,341,26,0,2250,0,Premium,Premium Gasoline,31,0,43229,Audi,A5 Cabriolet quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,26,0,43230,Lexus,RC 300 AWD,N,Automatic (S6),2021,,,,0,0,0
+14.33086957,0,20,0,0,385,23,0,2550,0,Premium,Premium Gasoline,28,0,43231,Lexus,RC 350,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,26,0,43232,Lexus,RC 350 AWD,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,21,0,0,357,25,0,2350,0,Premium,Premium Gasoline,31,0,43233,Lexus,RC 300,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,16,0,0,459,19,0,3050,0,Premium,Premium Gasoline,24,0,43234,Lexus,RC F,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,371,24,0,2400,0,Premium,Premium Gasoline,29,0,43235,Acura,TLX AWD A-SPEC,N,Automatic (S10),2021,,,,0,0,0
+13.73375,0,21,0,0,369,24,0,2400,0,Premium,Premium Gasoline,29,0,43236,Acura,TLX AWD,N,Automatic (S10),2021,,,,0,0,0
+13.1844,0,22,0,0,357,25,0,2350,0,Premium,Premium Gasoline,30,0,43237,Acura,TLX FWD A-SPEC,N,Automatic (S10),2021,,,,0,0,0
+13.1844,0,22,0,0,352,25,0,2350,0,Premium,Premium Gasoline,31,0,43238,Acura,TLX FWD,N,Automatic (S10),2021,,,,0,0,0
+12.20777778,0,24,0,0,331,27,0,2150,0,Premium,Premium Gasoline,31,0,43239,Audi,A4 S line quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+12.20777778,0,23,0,0,327,27,0,2150,0,Premium,Premium Gasoline,34,0,43240,Cadillac,CT4,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,2250,0,Premium,Premium Gasoline,32,0,43241,Cadillac,CT4 AWD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,347,26,0,2250,0,Premium,Premium Gasoline,30,0,43242,Mercedes-Benz,CLS450,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+13.1844,0,22,0,0,357,25,0,2350,0,Premium,Premium Gasoline,29,0,43243,Mercedes-Benz,CLS450 4matic,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+12.20777778,0,24,0,0,324,27,0,1750,0,Regular,Regular Gasoline,32,0,43244,Volkswagen,GTI,N,Automatic (AM-S7),2021,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,1850,0,Regular,Regular Gasoline,30,0,43245,Volkswagen,GTI,N,Manual 6-spd,2021,,,,0,0,0
+11.77178571,0,24,0,0,314,28,0,1700,0,Regular,Regular Gasoline,35,0,43246,Volkswagen,Jetta GLI,N,Automatic (AM-S7),2021,,,,0,0,0
+11.77178571,0,24,0,0,319,28,0,1700,0,Regular,Regular Gasoline,33,0,43247,Volkswagen,Jetta GLI,N,Manual 6-spd,2021,,,,0,0,0
+9.988181818,0,29,0,0,266,33,0,1450,0,Regular,Regular Gasoline,39,0,43248,Volkswagen,Jetta,N,Automatic (S8),2021,,,,0,0,0
+9.694411765,0,30,0,0,260,34,0,1400,0,Regular,Regular Gasoline,41,0,43249,Volkswagen,Jetta,N,Manual 6-spd,2021,,,,0,0,0
+10.3003125,0,29,0,0,279,32,0,1500,0,Regular,Regular Gasoline,36,0,43250,Volkswagen,Golf,N,Automatic (S8),2021,,,,0,0,0
+9.988181818,0,29,0,0,267,33,0,1450,0,Regular,Regular Gasoline,39,0,43251,Volkswagen,Golf,Y,Manual 6-spd,2021,,,,0,0,0
+12.20777778,0,24,0,0,331,27,0,2150,0,Premium,Premium Gasoline,31,0,43252,Audi,A5 Sportback S line quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2650,0,Premium,Premium Gasoline,28,0,43253,Cadillac,CT5,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,18,0,0,423,21,0,2750,0,Premium,Premium Gasoline,27,0,43254,Cadillac,CT5 V,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,18,0,0,419,21,0,2750,0,Premium,Premium Gasoline,26,0,43255,Cadillac,CT5 AWD,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,18,0,0,419,21,0,2750,0,Premium,Premium Gasoline,26,0,43256,Cadillac,CT5 V AWD,N,Automatic (S10),2021,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,2250,0,Premium,Premium Gasoline,32,0,43257,Cadillac,CT5,N,Automatic (S10),2021,,,,0,0,0
+13.1844,0,21,0,0,389,25,0,2350,0,Premium,Premium Gasoline,31,0,43258,Cadillac,CT5 AWD,N,Automatic (S10),2021,,,,0,0,0
+13.73375,0,20,0,0,370,24,0,2400,0,Premium,Premium Gasoline,31,0,43259,Volkswagen,Arteon 4motion,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,347,25,0,2350,0,Premium,Premium Gasoline,32,0,43260,Volkswagen,Arteon,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,24,0,0,335,26,0,2250,0,Premium,Premium Gasoline,30,0,43261,Audi,A4 allroad quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+15.69571429,0,20,0,0,425,21,0,2750,0,Premium,Premium Gasoline,23,0,43263,Cadillac,XT5 Hearse FWD,N,Automatic (S9),2021,,,,0,0,0
+14.98227273,0,20,0,0,397,22,0,2150,0,Regular,Regular Gasoline,27,0,43264,Ford,Transit Connect Van FWD,N,Automatic (S6),2021,,,,0,0,0
+14.98227273,0,20,0,0,404,22,0,2150,0,Regular,Regular Gasoline,26,0,43265,Ford,Transit Connect Wagon LWB FWD,N,Automatic (S6),2021,,,,0,0,0
+14.98227273,0,20,0,0,397,22,0,2150,0,Regular,Regular Gasoline,27,0,43266,Ford,Transit Connect USPS,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,24,0,0,350,25,0,1900,0,Regular,Regular Gasoline,27,0,43267,Ford,Transit Connect Van FWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,3.942631579,24,18,336,350,25,19,1900,1900,Gasoline or E85,Regular Gasoline,27,20,43268,Ford,Transit Connect Van FFV,N,Automatic (S8),2021,,FFV,E85,0,0,0
+12.67730769,0,24,0,0,344,26,0,1850,0,Regular,Regular Gasoline,29,0,43269,Ford,Transit Connect Wagon LWB FWD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,3.942631579,24,17,335,344,26,19,1850,1900,Gasoline or E85,Regular Gasoline,29,21,43270,Ford,Transit Connect Wagon LWB FFV,N,Automatic (S8),2021,,FFV,E85,0,0,0
+15.69571429,0,20,0,0,425,21,0,2750,0,Premium,Premium Gasoline,23,0,43271,Cadillac,XT5 Hearse AWD,N,Automatic (S9),2021,,,,0,0,0
+12.67730769,0,24,0,0,342,26,0,1850,0,Regular,Regular Gasoline,29,0,43272,Kia,Sorento FWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,1900,0,Regular,Regular Gasoline,29,0,43273,Kia,Sorento FWD,N,Automatic (AM-S8),2021,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,29,0,43274,Mercedes-Benz,GLC300,N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,21,0,0,401,22,0,2150,0,Regular,Regular Gasoline,24,0,43275,Volkswagen,Atlas Cross Sport,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,23,0,0,349,25,0,2350,0,Premium,Premium Gasoline,28,0,43276,Audi,Q5,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+13.1844,0,22,0,0,350,25,0,1900,0,Regular,Regular Gasoline,30,0,43277,Audi,Q3 quattro,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,23,0,0,366,24,0,2000,0,Regular,Regular Gasoline,25,0,43278,Kia,Sorento AWD,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,375,24,0,2000,0,Regular,Regular Gasoline,28,0,43279,Kia,Sorento AWD,N,Automatic (AM-S8),2021,,,,0,0,0
+14.33086957,0,21,0,0,379,23,0,2550,0,Premium,Premium Gasoline,28,0,43280,Mercedes-Benz,GLC300 4matic,N,Automatic 9-spd,2021,,,,0,0,0
+13.73375,0,22,0,0,363,24,0,2400,0,Premium,Premium Gasoline,28,0,43281,Mercedes-Benz,GLC300 4matic Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+17.34789474,0,17,0,0,464,19,0,2500,0,Regular,Regular Gasoline,23,0,43282,Volkswagen,Atlas Cross Sport 4motion,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,373,24,0,2000,0,Regular,Regular Gasoline,28,0,43283,Ford,Explorer RWD,N,Automatic (S10),2021,,,,0,0,0
+13.73375,0,21,0,0,373,24,0,2000,0,Regular,Regular Gasoline,28,0,43284,Ford,Explorer RWD,N,Automatic 10-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,431,21,0,2250,0,Regular,Regular Gasoline,26,0,43285,Ford,Explorer RWD,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,18,0,0,431,21,0,2250,0,Regular,Regular Gasoline,26,0,43286,Lincoln,Aviator RWD,N,Automatic (S10),2021,,,,0,0,0
+21.974,0,14,0,0,572,15,0,3900,0,Premium,Premium Gasoline,18,0,43287,Aston Martin,DBX V8,N,Automatic 9-spd,2021,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,27,0,43288,Ford,Explorer AWD,N,Automatic (S10),2021,,,,0,0,0
+16.4805,0,18,0,0,445,20,0,2400,0,Regular,Regular Gasoline,24,0,43289,Ford,Explorer AWD,N,Automatic (S10),2021,,,,0,0,0
+17.34789474,5.762307692,16,11,497,471,19,13,2500,2750,Gasoline or E85,Regular Gasoline,23,15,43290,Ford,Explorer FFV AWD,N,Automatic (S10),2021,,FFV,E85,0,0,0
+13.1844,0,23,0,0,361,25,0,1900,0,Regular,Regular Gasoline,26,0,43291,Ford,Explorer HEV AWD,N,Automatic (S10),2021,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,27,0,43292,Ford,Explorer AWD,N,Automatic 10-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,445,20,0,2400,0,Regular,Regular Gasoline,24,0,43293,Lincoln,Aviator AWD,N,Automatic (S10),2021,,,,0,0,0
+0.222,0,96,0,0,0,92,0,700,0,Electricity,Electricity,88,0,43294,Polestar,2,N,Automatic (A1),2021,,EV,,0,0,0
+0.258,0,85,0,0,0,79,0,850,0,Electricity,Electricity,72,0,43295,Volvo,XC40 AWD BEV,N,Automatic (A1),2021,,EV,,0,0,0
+14.3864922,6.462941176,16,51,0,403,18,51,3250,0,Premium and Electricity,Premium Gasoline,20,51,43296,Ferrari,SF90 Stradale Coupe,N,Automatic (AM8),2021,,Plug-in Hybrid,Electricity,19,22,20
+11.77178571,0,24,0,0,316,28,0,2100,0,Premium,Premium Gasoline,34,0,43297,Acura,ILX,N,Automatic (AM-S8),2021,,,,0,0,0
+9.694411765,0,31,0,0,264,34,0,1400,0,Regular,Regular Gasoline,38,0,43298,Toyota,Corolla APEX,N,Automatic (AV-S10),2021,,,,0,0,0
+10.63258065,0,28,0,0,286,31,0,1550,0,Regular,Regular Gasoline,36,0,43299,Toyota,Corolla APEX,N,Manual 6-spd,2021,,,,0,0,0
+11.36586207,0,26,0,0,302,29,0,1650,0,Regular,Regular Gasoline,35,0,43300,Mazda,6,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,23,0,0,335,26,0,1850,0,Regular,Regular Gasoline,31,0,43301,Mazda,6,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,22,0,0,338,26,0,1850,0,Regular,Regular Gasoline,33,0,43302,Toyota,Camry,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,354,25,0,1900,0,Regular,Regular Gasoline,31,0,43303,Toyota,Camry TRD,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,1850,0,Regular,Regular Gasoline,32,0,43304,Toyota,Camry XSE,N,Automatic (S8),2021,,,,0,0,0
+10.3003125,0,28,0,0,279,32,0,1500,0,Regular,Regular Gasoline,39,0,43305,Toyota,Camry LE/SE,N,Automatic (S8),2021,,,,0,0,0
+10.63258065,0,27,0,0,284,31,0,1550,0,Regular,Regular Gasoline,38,0,43306,Toyota,Camry XLE/XSE,N,Automatic (S8),2021,,,,0,0,0
+6.338653846,0,51,0,0,170,52,0,900,0,Regular,Regular Gasoline,53,0,43307,Toyota,Camry Hybrid LE,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+7.165434783,0,44,0,0,195,46,0,1050,0,Regular,Regular Gasoline,47,0,43308,Toyota,Camry Hybrid SE/XLE/XSE,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+11.36586207,0,25,0,0,309,29,0,1650,0,Regular,Regular Gasoline,34,0,43309,Toyota,Camry AWD LE/SE,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,315,28,0,1700,0,Regular,Regular Gasoline,34,0,43310,Toyota,Camry AWD XLE/XSE,N,Automatic (S8),2021,,,,0,0,0
+10.987,0,28,0,0,292,30,0,1600,0,Regular,Regular Gasoline,34,0,43311,Honda,HR-V FWD,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.987,0,28,0,0,292,30,0,1600,0,Regular,Regular Gasoline,34,0,43312,Honda,HR-V FWD,N,Automatic (AV-S7),2021,,,,0,0,0
+11.36586207,0,27,0,0,311,29,0,1650,0,Regular,Regular Gasoline,31,0,43313,Honda,HR-V AWD,N,Automatic (variable gear ratios),2021,,,,0,0,0
+11.77178571,0,26,0,0,315,28,0,1700,0,Regular,Regular Gasoline,31,0,43314,Honda,HR-V AWD,N,Automatic (AV-S7),2021,,,,0,0,0
+17.34789474,0,18,0,0,475,19,0,2500,0,Regular,Regular Gasoline,20,0,43315,GMC,Sierra 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,361,25,0,1900,0,Regular,Regular Gasoline,29,0,43316,Lincoln,Corsair FWD,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,369,24,0,2000,0,Regular,Regular Gasoline,29,0,43317,Lincoln,Corsair AWD,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,373,24,0,2000,0,Regular,Regular Gasoline,28,0,43318,Lincoln,Corsair AWD,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,14,0,0,525,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,43319,Dodge,Durango RWD,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,14,0,0,533,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,43320,Dodge,Durango AWD,N,Automatic 8-spd,2021,,,,0,0,0
+9.752396124,7.847857143,18,42,0,259,19,42,3050,0,Premium and Electricity,Premium Gasoline,21,42,43321,Land Rover,Range Rover PHEV,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,24,27,25
+9.752396124,7.847857143,18,42,0,259,19,42,3050,0,Premium and Electricity,Premium Gasoline,21,42,43322,Land Rover,Range Rover Sport PHEV,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,24,27,25
+19.38882353,0,14,0,0,528,17,0,3400,0,Premium,Premium Gasoline,23,0,43323,Audi,R8 2WD,N,Automatic (AM-S7),2021,,,,0,0,0
+19.38882353,0,14,0,0,528,17,0,3400,0,Premium,Premium Gasoline,23,0,43324,Audi,R8 Spyder 2WD,N,Automatic (AM-S7),2021,,,,0,0,0
+12.67730769,0,23,0,0,344,26,0,1850,0,Regular,Regular Gasoline,31,0,43325,Audi,TT Roadster quattro,N,Automatic (AM-S7),2021,,,,0,0,0
+12.67730769,0,23,0,0,344,26,0,1850,0,Regular,Regular Gasoline,31,0,43326,Audi,TT Coupe quattro,N,Automatic (AM-S7),2021,,,,0,0,0
+13.73375,0,20,0,0,373,24,0,2400,0,Premium,Premium Gasoline,30,0,43327,Audi,TT RS,N,Automatic (AM-S7),2021,,,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2650,0,Premium,Premium Gasoline,28,0,43328,Infiniti,Q60,N,Automatic (S7),2021,,,,0,0,0
+14.98227273,0,20,0,0,405,22,0,2650,0,Premium,Premium Gasoline,27,0,43329,Infiniti,Q60 Red Sport,N,Automatic (S7),2021,,,,0,0,0
+15.69571429,0,19,0,0,423,21,0,2750,0,Premium,Premium Gasoline,26,0,43330,Infiniti,Q60 Red Sport AWD,N,Automatic (S7),2021,,,,0,0,0
+14.98227273,0,19,0,0,403,22,0,2650,0,Premium,Premium Gasoline,27,0,43331,Infiniti,Q60 AWD,N,Automatic (S7),2021,,,,0,0,0
+12.20777778,0,24,0,0,330,27,0,2150,0,Premium,Premium Gasoline,33,0,43332,Mercedes-Benz,C300 Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+12.67730769,0,23,0,0,338,26,0,2250,0,Premium,Premium Gasoline,32,0,43333,Mercedes-Benz,C300 4matic Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,359,25,0,2350,0,Premium,Premium Gasoline,30,0,43334,Mercedes-Benz,C300 4matic Convertible,N,Automatic 9-spd,2021,,,,0,0,0
+12.67730769,0,23,0,0,347,26,0,2250,0,Premium,Premium Gasoline,31,0,43335,Mercedes-Benz,C300 Convertible,N,Automatic 9-spd,2021,,,,0,0,0
+13.73375,0,21,0,0,378,24,0,2400,0,Premium,Premium Gasoline,28,0,43336,Mercedes-Benz,AMG E53 4matic Plus Coupe,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+12.67730769,0,23,0,0,341,26,0,2250,0,Premium,Premium Gasoline,31,0,43337,Mercedes-Benz,E450 Coupe,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+13.1844,0,23,0,0,350,25,0,2350,0,Premium,Premium Gasoline,30,0,43338,Mercedes-Benz,E450 4matic Coupe,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+14.33086957,0,21,0,0,384,23,0,2550,0,Premium,Premium Gasoline,27,0,43339,Mercedes-Benz,AMG E53 4matic Plus Convertible,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+13.1844,0,23,0,0,349,25,0,2350,0,Premium,Premium Gasoline,30,0,43340,Mercedes-Benz,E450 Convertible,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+13.1844,0,23,0,0,353,25,0,2350,0,Premium,Premium Gasoline,29,0,43341,Mercedes-Benz,E450 4matic Convertible,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+11.77178571,0,25,0,0,311,28,0,2100,0,Premium,Premium Gasoline,34,0,43342,Audi,A4 quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,26,0,43343,Lexus,IS 300 AWD,N,Automatic (S6),2021,,,,0,0,0
+14.33086957,0,20,0,0,385,23,0,2550,0,Premium,Premium Gasoline,28,0,43344,Lexus,IS 350,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,26,0,43345,Lexus,IS 350 AWD,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,21,0,0,357,25,0,2350,0,Premium,Premium Gasoline,31,0,43346,Lexus,IS 300,N,Automatic (S8),2021,,,,0,0,0
+12.20777778,0,23,0,0,334,27,0,1750,0,Regular,Regular Gasoline,32,0,43347,Mazda,3 4-Door 4WD,N,Automatic (S6),2021,,,,0,0,0
+12.20777778,0,23,0,0,329,27,0,2150,0,Premium,Premium Gasoline,33,0,43348,Mercedes-Benz,C300 4matic,N,Automatic 9-spd,2021,,,,0,0,0
+14.33086957,0,21,0,0,389,23,0,2550,0,Premium,Premium Gasoline,26,0,43349,Mercedes-Benz,AMG CLS53 4matic Plus,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+14.98227273,0,20,0,0,410,22,0,2650,0,Premium,Premium Gasoline,25,0,43350,Mercedes-Benz,AMG GT 43 4matic Plus,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+14.98227273,0,20,0,0,410,22,0,2650,0,Premium,Premium Gasoline,25,0,43351,Mercedes-Benz,AMG GT 53 4matic Plus,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+12.20777778,0,24,0,0,330,27,0,2150,0,Premium,Premium Gasoline,33,0,43352,Alfa Romeo,Giulia,N,Automatic 8-spd,2021,,,,0,0,0
+12.67730769,0,23,0,0,348,26,0,2250,0,Premium,Premium Gasoline,31,0,43353,Alfa Romeo,Giulia AWD,N,Automatic 8-spd,2021,,,,0,0,0
+11.77178571,0,25,0,0,311,28,0,2100,0,Premium,Premium Gasoline,34,0,43354,Audi,A5 Sportback quattro,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+9.988181818,0,30,0,0,266,33,0,1450,0,Regular,Regular Gasoline,38,0,43355,Honda,Civic 4Dr,Y,Automatic (AV-S7),2021,,,,0,0,0
+9.155833333,0,32,0,0,248,36,0,1300,0,Regular,Regular Gasoline,42,0,43356,Honda,Civic 4Dr,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.3003125,0,29,0,0,277,32,0,1500,0,Regular,Regular Gasoline,37,0,43357,Honda,Civic 4Dr,N,Automatic (AV-S7),2021,,,,0,0,0
+9.988181818,0,30,0,0,268,33,0,1450,0,Regular,Regular Gasoline,38,0,43358,Honda,Civic 4Dr,N,Automatic (variable gear ratios),2021,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,1850,0,Regular,Regular Gasoline,31,0,43359,Mazda,3 5-Door 4WD,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,22,0,0,361,25,0,2350,0,Premium,Premium Gasoline,29,0,43360,Mercedes-Benz,AMG E53 4matic Plus,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+9.988181818,0,30,0,0,268,33,0,1450,0,Regular,Regular Gasoline,38,0,43361,Honda,Accord,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.3003125,0,29,0,0,278,32,0,1500,0,Regular,Regular Gasoline,35,0,43362,Honda,Accord Sport/Touring,Y,Automatic (AV-S7),2021,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,1850,0,Regular,Regular Gasoline,32,0,43363,Honda,Accord Sport/Touring,N,Automatic (S10),2021,,,,0,0,0
+6.866875,0,48,0,0,183,48,0,1000,0,Regular,Regular Gasoline,48,0,43364,Honda,Accord Hybrid,N,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+7.665348837,0,44,0,0,207,43,0,1100,0,Regular,Regular Gasoline,41,0,43365,Honda,Accord Hybrid Sport/Touring,Y,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,533,17,0,2800,0,Regular,Regular Gasoline,20,0,43366,Chevrolet,Silverado 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,359,25,0,2350,0,Premium,Premium Gasoline,29,0,43367,Alfa Romeo,Stelvio,N,Automatic 8-spd,2021,,,,0,0,0
+12.67730769,0,24,0,0,341,26,0,1850,0,Regular,Regular Gasoline,31,0,43368,Buick,Envision FWD,N,Automatic (S9),2021,,,,0,0,0
+12.20777778,0,25,0,0,329,27,0,1750,0,Regular,Regular Gasoline,30,0,43369,GMC,Terrain FWD,N,Automatic 9-spd,2021,,,,0,0,0
+10.987,0,27,0,0,292,30,0,1600,0,Regular,Regular Gasoline,35,0,43370,Nissan,Rogue FWD,N,Automatic (AV-S8),2021,,,,0,0,0
+11.36586207,0,26,0,0,304,29,0,1650,0,Regular,Regular Gasoline,34,0,43371,Nissan,Rogue FWD  SV/SL/Platinum,N,Automatic (AV-S8),2021,,,,0,0,0
+13.73375,0,22,0,0,364,24,0,2400,0,Premium,Premium Gasoline,28,0,43372,Alfa Romeo,Stelvio AWD,N,Automatic 8-spd,2021,,,,0,0,0
+12.67730769,0,24,0,0,356,26,0,1850,0,Regular,Regular Gasoline,30,0,43373,Fiat,500X AWD,N,Automatic 9-spd,2021,,,,0,0,0
+12.67730769,0,25,0,0,342,26,0,1850,0,Regular,Regular Gasoline,28,0,43374,GMC,Terrain AWD,N,Automatic 9-spd,2021,,,,0,0,0
+11.36586207,0,26,0,0,310,29,0,1650,0,Regular,Regular Gasoline,33,0,43375,Nissan,Rogue AWD,N,Automatic (AV-S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,318,28,0,1700,0,Regular,Regular Gasoline,32,0,43376,Nissan,Rogue AWD  SV/SL/Platinum,N,Automatic (AV-S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,3050,0,Premium,Premium Gasoline,22,0,43377,Porsche,Macan GTS,N,Automatic (AM-S7),2021,,,,0,0,0
+17.34789474,0,17,0,0,471,19,0,3050,0,Premium,Premium Gasoline,21,0,43378,Porsche,Macan Turbo,N,Automatic (AM-S7),2021,,,,0,0,0
+16.4805,0,19,0,0,432,20,0,2900,0,Premium,Premium Gasoline,23,0,43379,Porsche,Cayenne,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,19,0,0,437,20,0,2900,0,Premium,Premium Gasoline,23,0,43380,Porsche,Cayenne Coupe,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,18,0,0,448,20,0,2900,0,Premium,Premium Gasoline,22,0,43381,Porsche,Cayenne S,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,533,17,0,3400,0,Premium,Premium Gasoline,19,0,43382,Porsche,Cayenne GTS,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,18,0,0,460,19,0,3050,0,Premium,Premium Gasoline,22,0,43383,Porsche,Cayenne S Coupe,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,3400,0,Premium,Premium Gasoline,19,0,43384,Porsche,Cayenne GTS Coupe,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,529,17,0,3400,0,Premium,Premium Gasoline,19,0,43385,Porsche,Cayenne Turbo,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,535,17,0,3400,0,Premium,Premium Gasoline,19,0,43386,Porsche,Cayenne Turbo Coupe,N,Automatic (S8),2021,,,,0,0,0
+7.847857143,0,43,0,0,209,42,0,1150,0,Regular,Regular Gasoline,41,0,43387,Lexus,UX 250h,N,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+8.451538462,0,41,0,0,225,39,0,1200,0,Regular,Regular Gasoline,38,0,43388,Lexus,UX 250h AWD,N,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+10.3003125,0,29,0,0,271,32,0,1500,0,Regular,Regular Gasoline,37,0,43389,Lexus,UX 200,N,Automatic (AV-S10),2021,,,,0,0,0
+10.3003125,0,28,0,0,281,32,0,1500,0,Regular,Regular Gasoline,39,0,43390,Nissan,Altima,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.63258065,0,27,0,0,290,31,0,1550,0,Regular,Regular Gasoline,37,0,43391,Nissan,Altima SR,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.987,0,26,0,0,295,30,0,1600,0,Regular,Regular Gasoline,36,0,43392,Nissan,Altima AWD,N,Automatic (variable gear ratios),2021,,,,0,0,0
+11.36586207,0,25,0,0,309,29,0,1650,0,Regular,Regular Gasoline,35,0,43393,Nissan,Altima AWD SR/Platinum,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.63258065,0,27,0,0,289,31,0,1550,0,Regular,Regular Gasoline,37,0,43394,Nissan,Altima SV/SL,Y,Automatic (variable gear ratios),2021,,,,0,0,0
+11.36586207,0,25,0,0,311,29,0,1650,0,Regular,Regular Gasoline,34,0,43395,Nissan,Altima SR/Platinum,N,Automatic (variable gear ratios),2021,,,,0,0,0
+17.34789474,0,16,0,0,466,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,43396,Dodge,Charger,N,Automatic 8-spd,2021,,,,0,0,0
+12.20777778,0,25,0,0,330,27,0,1750,0,Regular,Regular Gasoline,30,0,43397,Chevrolet,Equinox AWD,N,Automatic 6-spd,2021,,,,0,0,0
+12.67730769,0,23,0,0,307,26,0,1850,0,Regular,Regular Gasoline,29,0,43398,Jeep,Renegade 4WD,N,Automatic 9-spd,2021,,,,0,0,0
+21.974,0,13,0,0,584,15,0,3900,0,Premium,Premium Gasoline,19,0,43399,Dodge,Durango SRT AWD,N,Automatic 8-spd,2021,,,,0,0,0
+21.974,0,13,0,0,592,15,0,3900,0,Premium,Premium Gasoline,19,0,43400,Jeep,Grand Cherokee SRT 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+0.15,0,141,0,0,0,134,0,500,0,Electricity,Electricity,127,0,43401,Tesla,Model 3 Long Range AWD,Y,Automatic (A1),2021,,EV,,0,0,0
+0.18,0,118,0,0,0,113,0,600,0,Electricity,Electricity,107,0,43402,Tesla,Model 3 Performance AWD,N,Automatic (A1),2021,,EV,,0,0,0
+0.192,0,109,0,0,0,105,0,600,0,Electricity,Electricity,101,0,43403,Tesla,Model X Long Range Plus,N,Automatic (A1),2021,,EV,,0,0,0
+0.21,0,100,0,0,0,97,0,650,0,Electricity,Electricity,95,0,43404,Tesla,Model X Performance (20in Wheels),N,Automatic (A1),2021,,EV,,0,0,0
+0.234,0,89,0,0,0,86,0,750,0,Electricity,Electricity,83,0,43405,Tesla,Model X Performance (22in Wheels),N,Automatic (A1),2021,,EV,,0,0,0
+0.162,0,131,0,0,0,125,0,550,0,Electricity,Electricity,117,0,43406,Tesla,Model Y Long Range AWD,Y,Automatic (A1),2021,,EV,,0,0,0
+0.18,0,115,0,0,0,111,0,600,0,Electricity,Electricity,106,0,43407,Tesla,Model Y Performance AWD,N,Automatic (A1),2021,,EV,,0,0,0
+5.728244419,4.776956522,28,70,0,155,30,69,1950,0,Premium and Electricity,Premium Gasoline,33,68,43408,Volvo,S60 AWD PHEV,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,40,44,42
+17.34789474,0,16,0,0,468,19,0,3050,0,Premium,Premium Gasoline,26,0,43414,Bentley,Continental GT,N,Automatic (AM-S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,394,23,0,2050,0,Regular,Regular Gasoline,26,0,43415,Ram,1500 HFE 2WD,N,Automatic 8-spd,2021,,Hybrid,,0,0,0
+27.4675,0,10,0,0,748,12,0,4850,0,Premium,Premium Gasoline,14,0,43416,Ram,1500 TRX 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,401,22,0,2150,0,Regular,Regular Gasoline,28,0,43417,Chrysler,Pacifica,N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,401,22,0,2150,0,Regular,Regular Gasoline,28,0,43418,Chrysler,Voyager,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,450,20,0,2400,0,Regular,Regular Gasoline,25,0,43419,Chrysler,Pacifica AWD,N,Automatic 9-spd,2021,,,,0,0,0
+12.67730769,0,25,0,0,344,26,0,1850,0,Regular,Regular Gasoline,28,0,43420,Hyundai,Santa Fe FWD,N,Automatic (S8),2021,,,,0,0,0
+13.1844,0,22,0,0,365,25,0,1900,0,Regular,Regular Gasoline,28,0,43421,Hyundai,Santa Fe FWD,N,Automatic (AM-S8),2021,,,,0,0,0
+13.73375,0,22,0,0,378,24,0,2000,0,Regular,Regular Gasoline,25,0,43422,Hyundai,Santa Fe AWD,N,Automatic (S8),2021,,,,0,0,0
+13.73375,0,21,0,0,375,24,0,2000,0,Regular,Regular Gasoline,28,0,43423,Hyundai,Santa Fe AWD,N,Automatic (AM-S8),2021,,,,0,0,0
+5.467932586,6.5922,25,43,0,166,27,50,2150,0,Premium and Electricity,Premium Gasoline,29,64,43424,Audi,Q5,Y,Automatic (AM-S7),2021,,Plug-in Hybrid,Electricity,36,39,37
+17.34789474,0,15,0,0,467,19,0,3050,0,Premium,Premium Gasoline,27,0,43425,Chevrolet,Corvette,N,Automatic (S8),2021,,,,0,0,0
+16.4805,0,17,0,0,441,20,0,2900,0,Premium,Premium Gasoline,26,0,43426,Lotus,Evora GT,N,Manual 6-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,438,20,0,2900,0,Premium,Premium Gasoline,24,0,43427,Lotus,Evora GT,N,Automatic (S6),2021,,,,0,0,0
+19.38882353,0,15,0,0,516,17,0,3400,0,Premium,Premium Gasoline,20,0,43428,Porsche,911 Turbo,N,Automatic (AM-S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,521,17,0,3400,0,Premium,Premium Gasoline,20,0,43429,Porsche,911 Turbo Cabriolet,N,Automatic (AM-S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,517,17,0,3400,0,Premium,Premium Gasoline,20,0,43430,Porsche,911 Turbo S,N,Automatic (AM-S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,529,17,0,3400,0,Premium,Premium Gasoline,20,0,43431,Porsche,911 Turbo S Cabriolet,N,Automatic (AM-S8),2021,,,,0,0,0
+9.417428571,0,32,0,0,254,35,0,1350,0,Regular,Regular Gasoline,40,0,43432,Nissan,Versa,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.987,0,27,0,0,296,30,0,1600,0,Regular,Regular Gasoline,35,0,43433,Nissan,Versa,N,Manual 5-spd,2021,,,,0,0,0
+14.33086957,0,19,0,0,389,23,0,2050,0,Regular,Regular Gasoline,30,0,43434,Dodge,Challenger,N,Automatic 8-spd,2021,,,,0,0,0
+17.34789474,0,16,0,0,466,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,43435,Dodge,Challenger,N,Automatic 8-spd,2021,,,,0,0,0
+18.31166667,0,15,0,0,494,18,0,3250,0,Premium,Premium Gasoline,23,0,43436,Dodge,Challenger,N,Manual 6-spd,2021,,,,0,0,0
+18.31166667,0,15,0,0,496,18,0,3250,0,Premium,Premium Gasoline,24,0,43437,Dodge,Challenger,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,14,0,0,523,17,0,3400,0,Premium,Premium Gasoline,23,0,43438,Dodge,Challenger,N,Manual 6-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,546,16,0,3650,0,Premium,Premium Gasoline,22,0,43439,Dodge,Challenger SRT,N,Automatic 8-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,567,16,0,3650,0,Premium,Premium Gasoline,21,0,43440,Dodge,Challenger SRT,N,Manual 6-spd,2021,,,,0,0,0
+18.31166667,0,15,0,0,496,18,0,3250,0,Premium,Premium Gasoline,24,0,43441,Dodge,Challenger Widebody,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,14,0,0,523,17,0,3400,0,Premium,Premium Gasoline,23,0,43442,Dodge,Challenger Widebody,N,Manual 6-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,415,21,0,2250,0,Regular,Regular Gasoline,27,0,43443,Dodge,Challenger AWD,N,Automatic 8-spd,2021,,,,0,0,0
+21.974,0,13,0,0,575,15,0,3900,0,Premium,Premium Gasoline,21,0,43444,Dodge,Challenger SRT Widebody,N,Automatic 8-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,567,16,0,3650,0,Premium,Premium Gasoline,21,0,43445,Dodge,Challenger SRT Widebody,N,Manual 6-spd,2021,,,,0,0,0
+10.63258065,0,28,0,0,288,31,0,1550,0,Regular,Regular Gasoline,36,0,43446,Hyundai,Elantra,N,Automatic (AM-S7),2021,,,,0,0,0
+11.77178571,0,25,0,0,318,28,0,1700,0,Regular,Regular Gasoline,34,0,43447,Hyundai,Elantra,N,Manual 6-spd,2021,,,,0,0,0
+14.33086957,0,19,0,0,389,23,0,2050,0,Regular,Regular Gasoline,30,0,43448,Chrysler,300,N,Automatic 8-spd,2021,,,,0,0,0
+17.34789474,0,16,0,0,466,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,43449,Chrysler,300,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,415,21,0,2250,0,Regular,Regular Gasoline,27,0,43450,Chrysler,300 AWD,N,Automatic 8-spd,2021,,,,0,0,0
+14.33086957,0,19,0,0,389,23,0,2050,0,Regular,Regular Gasoline,30,0,43451,Dodge,Charger,N,Automatic 8-spd,2021,,,,0,0,0
+18.31166667,0,15,0,0,496,18,0,3250,0,Premium,Premium Gasoline,24,0,43452,Dodge,Charger,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,415,21,0,2250,0,Regular,Regular Gasoline,27,0,43453,Dodge,Charger AWD,N,Automatic 8-spd,2021,,,,0,0,0
+21.974,0,12,0,0,592,15,0,3900,0,Premium,Premium Gasoline,21,0,43454,Dodge,Charger SRT Widebody,N,Automatic 8-spd,2021,,,,0,0,0
+18.31166667,0,15,0,0,496,18,0,3250,0,Premium,Premium Gasoline,24,0,43455,Dodge,Charger Widebody,N,Automatic 8-spd,2021,,,,0,0,0
+12.20777778,0,23,0,0,335,27,0,1750,0,Regular,Regular Gasoline,33,0,43456,Hyundai,Sonata,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,18,0,0,437,20,0,2400,0,Regular,Regular Gasoline,24,0,43457,Ford,F150 Pickup 2WD,N,Automatic (S10),2021,,,,0,0,0
+14.98227273,0,20,0,0,406,22,0,2150,0,Regular,Regular Gasoline,26,0,43458,Ford,F150 Pickup 2WD,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,4.681875,20,14,389,424,21,16,2250,2250,Gasoline or E85,Regular Gasoline,24,19,43459,Ford,F150 Pickup 2WD FFV,N,Automatic (S10),2021,,FFV,E85,0,0,0
+16.4805,5.350714286,17,12,450,446,20,14,2400,2550,Gasoline or E85,Regular Gasoline,24,18,43460,Ford,F150 Pickup 2WD FFV,N,Automatic (S10),2021,,FFV,E85,0,0,0
+16.4805,0,17,0,0,450,20,0,2400,0,Regular,Regular Gasoline,25,0,43461,Ram,1500 Classic 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,513,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,43462,Ram,1500 Classic 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,445,20,0,2400,0,Regular,Regular Gasoline,23,0,43463,Ford,F150 Pickup 4WD,Y,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,19,0,0,432,21,0,2250,0,Regular,Regular Gasoline,24,0,43464,Ford,F150 Pickup 4WD,N,Automatic (S10),2021,,,,0,0,0
+13.73375,0,24,0,0,368,24,0,2000,0,Regular,Regular Gasoline,24,0,43465,Ford,F150 Pickup 4WD HEV,Y,Automatic (S10),2021,,Hybrid,,0,0,0
+16.4805,4.994,19,14,405,445,20,15,2400,2400,Gasoline or E85,Regular Gasoline,22,18,43466,Ford,F150 Pickup 4WD FFV,N,Automatic (S10),2021,,FFV,E85,0,0,0
+17.34789474,5.762307692,16,11,467,479,19,13,2500,2750,Gasoline or E85,Regular Gasoline,22,17,43467,Ford,F150 Pickup 4WD FFV,Y,Automatic (S10),2021,,FFV,E85,0,0,0
+17.34789474,0,16,0,0,474,19,0,2500,0,Regular,Regular Gasoline,23,0,43468,Ram,1500 Classic 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,526,17,0,3200,0,Midgrade,Midgrade Gasoline,21,0,43469,Ram,1500 Classic 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+9.155833333,0,36,0,0,246,36,0,1300,0,Regular,Regular Gasoline,36,0,43470,Toyota,Sienna Hybrid 2WD,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+9.417428571,0,35,0,0,253,35,0,1350,0,Regular,Regular Gasoline,36,0,43471,Toyota,Sienna Hybrid AWD,Y,Automatic (AV-S6),2021,,Hybrid,,0,0,0
+10.987,0,28,0,0,294,30,0,1600,0,Regular,Regular Gasoline,34,0,43472,Honda,CR-V FWD,N,Automatic (variable gear ratios),2021,,,,0,0,0
+12.20777778,0,24,0,0,331,27,0,1750,0,Regular,Regular Gasoline,30,0,43473,Mitsubishi,Outlander Sport 2WD,N,Automatic (AV-S6),2021,,,,0,0,0
+13.1844,0,23,0,0,354,25,0,1900,0,Regular,Regular Gasoline,29,0,43474,Mitsubishi,Outlander Sport 2WD,N,Automatic (AV-S6),2021,,,,0,0,0
+11.36586207,0,27,0,0,305,29,0,1650,0,Regular,Regular Gasoline,32,0,43475,Honda,CR-V AWD,Y,Automatic (variable gear ratios),2021,,,,0,0,0
+8.673947368,0,40,0,0,234,38,0,1250,0,Regular,Regular Gasoline,35,0,43476,Honda,CR-V Hybrid AWD,Y,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+12.67730769,0,23,0,0,344,26,0,1850,0,Regular,Regular Gasoline,29,0,43477,Mitsubishi,Outlander Sport 4WD,N,Automatic (AV-S6),2021,,,,0,0,0
+13.1844,0,23,0,0,353,25,0,1900,0,Regular,Regular Gasoline,28,0,43478,Mitsubishi,Outlander Sport 4WD,N,Automatic (AV-S6),2021,,,,0,0,0
+16.4805,0,18,0,0,441,20,0,2900,0,Premium,Premium Gasoline,24,0,43479,Porsche,Macan S,N,Automatic (AM-S7),2021,,,,0,0,0
+12.20777778,0,27,0,0,324,27,0,1750,0,Regular,Regular Gasoline,28,0,43480,Ford,Explorer HEV RWD,N,Automatic (S10),2021,,Hybrid,,0,0,0
+2.799976316,0.288,27,71,0,70,26,70,2250,950,Premium Gas or Electricity,Premium Gasoline,25,69,43481,Karma,Revero GT (21-inch wheels),N,Automatic (A1),2021,,Plug-in Hybrid,Electricity,53,50,52
+3.8422776,0.324,22,63,0,96,22,62,2650,1050,Premium Gas or Electricity,Premium Gasoline,21,61,43482,Karma,Revero GT (22-inch wheels),N,Automatic (A1),2021,,Plug-in Hybrid,Electricity,44,42,43
+29.96454545,0,9,0,0,840,11,0,5300,0,Premium,Premium Gasoline,14,0,43483,Bugatti,Chiron,N,Automatic (AM-S7),2021,,,,0,0,0
+32.961,0,8,0,0,893,10,0,5800,0,Premium,Premium Gasoline,13,0,43484,Bugatti,Chiron Pur Sport,N,Automatic (AM-S7),2021,,,,0,0,0
+32.961,0,8,0,0,852,10,0,5800,0,Premium,Premium Gasoline,15,0,43485,Lamborghini,Aventador Coupe,N,Automatic (AM-S7),2021,,,,0,0,0
+32.961,0,9,0,0,839,10,0,5800,0,Premium,Premium Gasoline,15,0,43486,Lamborghini,Aventador Roadster,N,Automatic (AM-S7),2021,,,,0,0,0
+13.1844,0,23,0,0,354,25,0,2350,0,Premium,Premium Gasoline,29,0,43487,Audi,TTS Coupe,N,Automatic (AM-S7),2021,,,,0,0,0
+9.155833333,0,33,0,0,249,36,0,1300,0,Regular,Regular Gasoline,41,0,43488,Kia,Rio,N,Automatic (AV-S1),2021,,,,0,0,0
+14.98227273,0,18,0,0,399,22,0,2650,0,Premium,Premium Gasoline,29,0,43489,Lexus,LS 500,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,17,0,0,432,21,0,2750,0,Premium,Premium Gasoline,27,0,43490,Lexus,LS 500 AWD,N,Automatic (S10),2021,,,,0,0,0
+12.20777778,0,24,0,0,332,27,0,1750,0,Regular,Regular Gasoline,32,0,43491,Kia,K5,N,Automatic (AM-S8),2021,,,,0,0,0
+16.61673913,0,21,0,0,437,23,0,2200,0,Diesel,Diesel,27,0,43492,Cadillac,Escalade 2WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+15.924375,0,21,0,0,421,24,0,2100,0,Diesel,Diesel,28,0,43493,Chevrolet,Tahoe 2WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+16.61673913,0,21,0,0,437,23,0,2200,0,Diesel,Diesel,27,0,43494,Chevrolet,Suburban 2WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+16.61673913,0,21,0,0,437,23,0,2200,0,Diesel,Diesel,27,0,43495,GMC,Yukon 2WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+16.61673913,0,21,0,0,437,23,0,2200,0,Diesel,Diesel,27,0,43496,GMC,Yukon XL 2WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+4.541046931,4.019634146,29,87,0,119,30,82,1600,0,Regular Gas and Electricity,Regular Gasoline,30,76,43497,Chrysler,Pacifica Hybrid,Y,Automatic (variable gear ratios),2021,,Plug-in Hybrid,Electricity,50,45,48
+0.258,0,78,0,0,0,78,0,850,0,Electricity,Electricity,77,0,43498,Audi,e-tron,Y,Automatic (A1),2021,,EV,,0,0,0
+0.264,0,76,0,0,0,77,0,850,0,Electricity,Electricity,78,0,43499,Audi,e-tron Sportback,N,Automatic (A1),2021,,EV,,0,0,0
+16.4805,0,18,0,0,443,20,0,2900,0,Premium,Premium Gasoline,24,0,43500,Porsche,911 Carrera,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,18,0,0,443,20,0,2900,0,Premium,Premium Gasoline,24,0,43501,Porsche,911 Carrera Cabriolet,N,Automatic (AM-S8),2021,,,,0,0,0
+15.69571429,0,18,0,0,425,21,0,2750,0,Premium,Premium Gasoline,25,0,43502,Porsche,911 Carrera S,N,Manual 7-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,441,20,0,2900,0,Premium,Premium Gasoline,23,0,43503,Porsche,911 Carrera S,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,17,0,0,443,20,0,2900,0,Premium,Premium Gasoline,25,0,43504,Porsche,911 Carrera S Cabriolet,N,Manual 7-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,439,20,0,2900,0,Premium,Premium Gasoline,23,0,43505,Porsche,911 Carrera S Cabriolet,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,18,0,0,442,20,0,2900,0,Premium,Premium Gasoline,24,0,43506,Porsche,911 Carrera 4,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,18,0,0,443,20,0,2900,0,Premium,Premium Gasoline,24,0,43507,Porsche,911 Carrera 4 Cabriolet,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,17,0,0,442,20,0,2900,0,Premium,Premium Gasoline,25,0,43508,Porsche,911 Carrera 4S,N,Manual 7-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,443,20,0,2900,0,Premium,Premium Gasoline,23,0,43509,Porsche,911 Carrera 4S,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,17,0,0,452,20,0,2900,0,Premium,Premium Gasoline,24,0,43510,Porsche,911 Carrera 4S Cabriolet,N,Manual 7-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,439,20,0,2900,0,Premium,Premium Gasoline,23,0,43511,Porsche,911 Carrera 4S Cabriolet,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,18,0,0,442,20,0,2900,0,Premium,Premium Gasoline,24,0,43512,Porsche,911 Targa 4,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,17,0,0,447,20,0,2900,0,Premium,Premium Gasoline,24,0,43513,Porsche,911 Targa 4S,N,Manual 7-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,442,20,0,2900,0,Premium,Premium Gasoline,23,0,43514,Porsche,911 Targa 4S,N,Automatic (AM-S8),2021,,,,0,0,0
+12.20777778,0,23,0,0,324,27,0,2150,0,Premium,Premium Gasoline,35,0,43515,Mercedes-Benz,C300,N,Automatic 9-spd,2021,,,,0,0,0
+0.186,0,114,0,0,0,110,0,600,0,Electricity,Electricity,106,0,43516,Tesla,Model S Performance (19in Wheels),N,Automatic (A1),2021,,EV,,0,0,0
+0.21,0,98,0,0,0,96,0,700,0,Electricity,Electricity,93,0,43517,Tesla,Model S Performance (21in Wheels),N,Automatic (A1),2021,,EV,,0,0,0
+19.38882353,0,15,0,0,527,17,0,3400,0,Premium,Premium Gasoline,20,0,43518,Mercedes-Benz,AMG GT Coupe,N,Automatic (AM7),2021,,,,0,0,0
+19.38882353,0,15,0,0,534,17,0,3400,0,Premium,Premium Gasoline,19,0,43519,Mercedes-Benz,AMG GT C Coupe,N,Automatic (AM7),2021,,,,0,0,0
+20.600625,0,14,0,0,545,16,0,3650,0,Premium,Premium Gasoline,20,0,43520,Mercedes-Benz,AMG GT R Coupe,N,Automatic (AM7),2021,,,,0,0,0
+19.38882353,0,15,0,0,533,17,0,3400,0,Premium,Premium Gasoline,20,0,43521,Mercedes-Benz,AMG GT Roadster,N,Automatic (AM7),2021,,,,0,0,0
+19.38882353,0,15,0,0,531,17,0,3400,0,Premium,Premium Gasoline,20,0,43522,Mercedes-Benz,AMG GT C Roadster,N,Automatic (AM7),2021,,,,0,0,0
+16.4805,0,17,0,0,452,20,0,2900,0,Premium,Premium Gasoline,25,0,43523,Mercedes-Benz,AMG C63 S Convertible,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,452,20,0,2900,0,Premium,Premium Gasoline,25,0,43524,Mercedes-Benz,AMG C63 Convertible,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,440,20,0,2900,0,Premium,Premium Gasoline,26,0,43525,Mercedes-Benz,AMG C63 S Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,440,20,0,2900,0,Premium,Premium Gasoline,26,0,43526,Mercedes-Benz,AMG C63 Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,409,22,0,2650,0,Premium,Premium Gasoline,27,0,43527,Mercedes-Benz,AMG C43 4matic Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2650,0,Premium,Premium Gasoline,27,0,43528,Mercedes-Benz,AMG C43 4matic Convertible,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,16,0,0,454,20,0,2900,0,Premium,Premium Gasoline,26,0,43529,Mercedes-Benz,S560 Convertible,N,Automatic 9-spd,2021,,,,0,0,0
+19.38882353,0,14,0,0,510,17,0,3400,0,Premium,Premium Gasoline,24,0,43530,Mercedes-Benz,AMG S63 4matic Plus Convertible,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,17,0,0,433,21,0,2750,0,Premium,Premium Gasoline,26,0,43531,Mercedes-Benz,AMG C63,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,17,0,0,433,21,0,2750,0,Premium,Premium Gasoline,26,0,43532,Mercedes-Benz,AMG C63 S,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,16,0,0,454,20,0,2900,0,Premium,Premium Gasoline,26,0,43533,Mercedes-Benz,S560 4matic Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+17.34789474,0,16,0,0,471,19,0,3050,0,Premium,Premium Gasoline,26,0,43534,Mercedes-Benz,AMG S63 4matic Plus Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,428,21,0,2750,0,Premium,Premium Gasoline,27,0,43535,Mercedes-Benz,AMG C43 4matic,N,Automatic 9-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,502,18,0,3250,0,Premium,Premium Gasoline,21,0,43536,Mercedes-Benz,AMG GT 63 S 4matic Plus,N,Automatic 9-spd,2021,,,,0,0,0
+18.31166667,0,16,0,0,484,18,0,3250,0,Premium,Premium Gasoline,23,0,43537,Mercedes-Benz,AMG E63 S 4matic Plus,N,Automatic 9-spd,2021,,,,0,0,0
+13.73375,0,20,0,0,370,24,0,2400,0,Premium,Premium Gasoline,30,0,43538,Nissan,Maxima,N,Automatic (AV-S7),2021,,,,0,0,0
+9.988181818,0,29,0,0,268,33,0,1450,0,Regular,Regular Gasoline,39,0,43539,Nissan,Sentra,N,Automatic (variable gear ratios),2021,,,,0,0,0
+10.3003125,0,28,0,0,283,32,0,1500,0,Regular,Regular Gasoline,37,0,43540,Nissan,Sentra SR,N,Automatic (variable gear ratios),2021,,,,0,0,0
+18.31166667,0,16,0,0,483,18,0,3250,0,Premium,Premium Gasoline,23,0,43541,Mercedes-Benz,AMG E63 S 4matic Plus (SW),N,Automatic 9-spd,2021,,,,0,0,0
+14.98227273,0,20,0,0,404,22,0,2150,0,Regular,Regular Gasoline,24,0,43542,Ford,Ranger 4WD,Y,Automatic (S10),2021,,,,0,0,0
+12.67730769,0,25,0,0,342,26,0,1850,0,Regular,Regular Gasoline,28,0,43543,Ford,Bronco Sport 4WD,Y,Automatic 8-spd,2021,,,,0,0,0
+14.33086957,0,21,0,0,387,23,0,2050,0,Regular,Regular Gasoline,26,0,43544,Ford,Bronco Sport 4WD,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,398,22,0,2650,0,Premium,Premium Gasoline,27,0,43545,Land Rover,Evoque,N,Automatic (S9),2021,,,,0,0,0
+16.4805,0,19,0,0,437,20,0,2900,0,Premium,Premium Gasoline,23,0,43546,Land Rover,Discovery Sport,N,Automatic (S9),2021,,,,0,0,0
+16.4805,0,18,0,0,438,20,0,2900,0,Premium,Premium Gasoline,24,0,43547,Mercedes-Benz,AMG GLC43 4matic,N,Automatic 9-spd,2021,,,,0,0,0
+16.4805,0,17,0,0,445,20,0,2900,0,Premium,Premium Gasoline,24,0,43548,Mercedes-Benz,AMG GLC43 4matic  Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,513,17,0,3400,0,Premium,Premium Gasoline,22,0,43549,Mercedes-Benz,AMG GLC63 4matic Plus,N,Automatic 9-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,512,17,0,3400,0,Premium,Premium Gasoline,22,0,43550,Mercedes-Benz,AMG GLC63 4matic Plus Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,512,17,0,3400,0,Premium,Premium Gasoline,22,0,43551,Mercedes-Benz,AMG GLC63 S 4matic Plus Coupe,N,Automatic 9-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,534,17,0,3400,0,Premium,Premium Gasoline,19,0,43552,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+20.600625,0,15,0,0,539,16,0,3650,0,Premium,Premium Gasoline,19,0,43553,Mercedes-Benz,GLS600 4matic Maybach,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+17.34789474,0,17,0,0,465,19,0,3050,0,Premium,Premium Gasoline,22,0,43554,Mercedes-Benz,GLE580 4matic,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+18.31166667,0,16,0,0,491,18,0,3250,0,Premium,Premium Gasoline,21,0,43555,Mercedes-Benz,GLS580 4matic,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+23.54357143,0,13,0,0,637,14,0,4150,0,Premium,Premium Gasoline,16,0,43556,Mercedes-Benz,AMG G63,N,Automatic 9-spd,2021,,,,0,0,0
+0.21,0,104,0,0,0,97,0,700,0,Electricity,Electricity,89,0,43557,Volkswagen,ID.4 1st,N,Automatic (A1),2021,,EV,,0,0,0
+0.21,0,104,0,0,0,97,0,700,0,Electricity,Electricity,89,0,43558,Volkswagen,ID.4 Pro S,N,Automatic (A1),2021,,EV,,0,0,0
+17.34789474,0,16,0,0,472,19,0,3050,0,Premium,Premium Gasoline,23,0,43559,BMW,M4 Coupe,N,Manual 6-spd,2021,,,,0,0,0
+17.34789474,0,16,0,0,470,19,0,3050,0,Premium,Premium Gasoline,23,0,43560,BMW,M4 Competition Coupe,N,Automatic (S8),2021,,,,0,0,0
+11.77178571,0,24,0,0,319,28,0,2100,0,Premium,Premium Gasoline,33,0,43561,BMW,228i Gran Coupe,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,16,0,0,472,19,0,3050,0,Premium,Premium Gasoline,23,0,43562,BMW,M3,N,Manual 6-spd,2021,,,,0,0,0
+17.34789474,0,16,0,0,470,19,0,3050,0,Premium,Premium Gasoline,23,0,43563,BMW,M3 Competition,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2550,0,Premium,Premium Gasoline,29,0,43564,Mercedes-Benz,AMG CLA45 4matic,N,Automatic (AM8),2021,,,,0,0,0
+18.31166667,0,16,0,0,502,18,0,3250,0,Premium,Premium Gasoline,21,0,43565,Mercedes-Benz,AMG GT 63 4matic Plus,N,Automatic 9-spd,2021,,,,0,0,0
+9.155833333,0,33,0,0,242,36,0,1300,0,Regular,Regular Gasoline,41,0,43566,Mitsubishi,Mirage,N,Manual 5-spd,2021,,,,0,0,0
+8.451538462,0,36,0,0,225,39,0,1200,0,Regular,Regular Gasoline,43,0,43567,Mitsubishi,Mirage,N,Automatic (variable gear ratios),2021,,,,0,0,0
+9.417428571,0,33,0,0,252,35,0,1350,0,Regular,Regular Gasoline,40,0,43568,Mitsubishi,Mirage G4,N,Manual 5-spd,2021,,,,0,0,0
+8.908378378,0,35,0,0,238,37,0,1300,0,Regular,Regular Gasoline,41,0,43569,Mitsubishi,Mirage G4,N,Automatic (variable gear ratios),2021,,,,0,0,0
+5.992909091,0,54,0,0,162,55,0,850,0,Regular,Regular Gasoline,56,0,43570,Hyundai,Ioniq,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+5.586610169,0,58,0,0,151,59,0,800,0,Regular,Regular Gasoline,60,0,43571,Hyundai,Ioniq Blue,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,392,23,0,2550,0,Premium,Premium Gasoline,27,0,43572,Mercedes-Benz,AMG GLA45 4matic,N,Automatic (AM8),2021,,,,0,0,0
+14.33086957,0,21,0,0,381,23,0,2550,0,Premium,Premium Gasoline,26,0,43573,Mercedes-Benz,AMG GLB35 4matic,N,Automatic (AM8),2021,,,,0,0,0
+12.20777778,0,24,0,0,325,27,0,1750,0,Regular,Regular Gasoline,32,0,43574,Buick,Encore FWD,N,Automatic (S6),2021,,,,0,0,0
+12.20777778,0,24,0,0,325,27,0,1750,0,Regular,Regular Gasoline,32,0,43575,Chevrolet,Trax FWD,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,23,0,0,338,26,0,1850,0,Regular,Regular Gasoline,30,0,43576,Buick,Encore AWD,N,Automatic (S6),2021,,,,0,0,0
+12.67730769,0,23,0,0,338,26,0,1850,0,Regular,Regular Gasoline,30,0,43577,Chevrolet,Trax AWD,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,22,0,0,353,25,0,1900,0,Regular,Regular Gasoline,30,0,43578,Mazda,CX-30 4WD,N,Automatic (S6),2021,,,,0,0,0
+18.31166667,0,17,0,0,494,18,0,3250,0,Premium,Premium Gasoline,19,0,43579,Mercedes-Benz,G550,N,Automatic 9-spd,2021,,,,0,0,0
+17.34789474,0,17,0,0,458,19,0,3050,0,Premium,Premium Gasoline,24,0,43580,Porsche,718 Boxster GTS,N,Manual 6-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,418,21,0,2750,0,Premium,Premium Gasoline,24,0,43581,Porsche,718 Boxster GTS,N,Automatic (AM-S7),2021,,,,0,0,0
+17.34789474,0,17,0,0,460,19,0,3050,0,Premium,Premium Gasoline,23,0,43582,Porsche,718 Spyder,N,Manual 6-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,436,20,0,2900,0,Premium,Premium Gasoline,24,0,43583,Porsche,718 Spyder,N,Automatic (AM-S7),2021,,,,0,0,0
+17.34789474,0,17,0,0,458,19,0,3050,0,Premium,Premium Gasoline,24,0,43584,Porsche,718 Cayman GTS,N,Manual 6-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,418,21,0,2750,0,Premium,Premium Gasoline,24,0,43585,Porsche,718 Cayman GTS,N,Automatic (AM-S7),2021,,,,0,0,0
+17.34789474,0,17,0,0,460,19,0,3050,0,Premium,Premium Gasoline,23,0,43586,Porsche,718 Cayman GT4,N,Manual 6-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,436,20,0,2900,0,Premium,Premium Gasoline,24,0,43587,Porsche,718 Cayman GT4,N,Automatic (AM-S7),2021,,,,0,0,0
+13.1844,0,24,0,0,360,25,0,1900,0,Regular,Regular Gasoline,26,0,43588,Nissan,NV200 Cargo Van,N,Automatic (variable gear ratios),2021,,,,0,0,0
+17.34789474,0,17,0,0,456,19,0,2500,0,Regular,Regular Gasoline,23,0,43589,Ford,Expedition 2WD,N,Automatic (S10),2021,,,,0,0,0
+17.34789474,0,17,0,0,456,19,0,2500,0,Regular,Regular Gasoline,23,0,43590,Ford,Expedition MAX 2WD,Y,Automatic (S10),2021,,,,0,0,0
+18.31166667,0,16,0,0,486,18,0,2650,0,Regular,Regular Gasoline,22,0,43591,Lincoln,Navigator 2WD,N,Automatic (S10),2021,,,,0,0,0
+18.31166667,0,16,0,0,494,18,0,2650,0,Regular,Regular Gasoline,21,0,43592,Lincoln,Navigator L 2WD,N,Automatic (S10),2021,,,,0,0,0
+17.37204545,0,20,0,0,444,22,0,2300,0,Diesel,Diesel,26,0,43593,Cadillac,Escalade 4WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+17.37204545,0,20,0,0,444,22,0,2300,0,Diesel,Diesel,26,0,43595,Chevrolet,Tahoe 4WD,Y,Automatic 10-spd,2021,,Diesel,,0,0,0
+17.37204545,0,20,0,0,444,22,0,2300,0,Diesel,Diesel,26,0,43596,Chevrolet,Suburban 4WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+17.34789474,0,17,0,0,476,19,0,2500,0,Regular,Regular Gasoline,22,0,43597,Ford,Expedition 4WD,N,Automatic (S10),2021,,,,0,0,0
+18.31166667,0,16,0,0,494,18,0,2650,0,Regular,Regular Gasoline,21,0,43598,Ford,Expedition MAX 4WD,N,Automatic (S10),2021,,,,0,0,0
+17.37204545,0,20,0,0,444,22,0,2300,0,Diesel,Diesel,26,0,43599,GMC,Yukon XL 4WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+17.37204545,0,20,0,0,444,22,0,2300,0,Diesel,Diesel,26,0,43600,GMC,Yukon 4WD,N,Automatic 10-spd,2021,,Diesel,,0,0,0
+19.38882353,0,16,0,0,508,17,0,2800,0,Regular,Regular Gasoline,20,0,43601,Lincoln,Navigator 4WD,N,Automatic (S10),2021,,,,0,0,0
+0.216,0,100,0,0,0,93,0,700,0,Electricity,Electricity,86,0,43602,Ford,Mustang Mach-E AWD,N,Automatic (A1),2021,,EV,,0,0,0
+0.222,0,96,0,0,0,90,0,750,0,Electricity,Electricity,84,0,43603,Ford,Mustang Mach-E AWD Extended,N,Automatic (A1),2021,,EV,,0,0,0
+0.204,0,105,0,0,0,100,0,650,0,Electricity,Electricity,93,0,43604,Ford,Mustang Mach-E RWD,N,Automatic (A1),2021,,EV,,0,0,0
+0.21,0,104,0,0,0,97,0,650,0,Electricity,Electricity,90,0,43605,Ford,Mustang Mach-E RWD Extended,N,Automatic (A1),2021,,EV,,0,0,0
+2.799976316,0.288,27,71,0,70,26,70,2250,950,Premium Gas or Electricity,Premium Gasoline,25,69,43606,Karma,GS-6 (21-inch wheels),N,Automatic (A1),2021,,Plug-in Hybrid,Electricity,53,50,52
+3.8422776,0.324,22,63,0,96,22,62,2650,1050,Premium Gas or Electricity,Premium Gasoline,21,61,43607,Karma,GS-6 (22-inch wheels),N,Automatic (A1),2021,,Plug-in Hybrid,Electricity,44,42,43
+23.54357143,0,12,0,0,632,14,0,4150,0,Premium,Premium Gasoline,18,0,43608,Ford,GT,N,Automatic (AM7),2021,,,,0,0,0
+13.73375,0,21,0,0,366,24,0,2400,0,Premium,Premium Gasoline,30,0,43609,BMW,230i xDrive Convertible,N,Automatic (S8),2021,,,,0,0,0
+18.31166667,0,15,0,0,494,18,0,2650,0,Regular,Regular Gasoline,23,0,43610,Ford,Mustang Mach 1,N,Automatic (S10),2021,,,,0,0,0
+16.4805,0,17,0,0,436,20,0,2900,0,Premium,Premium Gasoline,25,0,43611,Alfa Romeo,Giulia,N,Automatic 8-spd,2021,,,,0,0,0
+6.5922,0,49,0,0,177,50,0,950,0,Regular,Regular Gasoline,52,0,43612,Hyundai,Elantra Hybrid,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+6.103888889,0,53,0,0,165,54,0,900,0,Regular,Regular Gasoline,56,0,43613,Hyundai,Elantra Hybrid Blue,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+13.1844,0,25,0,0,349,25,0,1900,0,Regular,Regular Gasoline,26,0,43614,Ford,F150 Pickup 2WD HEV,N,Automatic (S10),2021,,Hybrid,,0,0,0
+14.33086957,0,21,0,0,387,23,0,2050,0,Regular,Regular Gasoline,26,0,43615,Ford,Ranger 2WD,Y,Automatic (S10),2021,,,,0,0,0
+16.61673913,0,20,0,0,446,23,0,2200,0,Diesel,Diesel,27,0,43616,Ford,F150 Pickup 4WD,N,Automatic (S10),2021,,Diesel,,0,0,0
+17.34789474,0,19,0,0,462,19,0,2500,0,Regular,Regular Gasoline,19,0,43617,Ford,Ranger Tremor 4WD,N,Automatic (S10),2021,,,,0,0,0
+18.31166667,0,19,0,0,486,18,0,2650,0,Regular,Regular Gasoline,18,0,43618,Ford,Ranger 2WD Incomplete,N,Automatic (S10),2021,,,,0,0,0
+17.34789474,0,18,0,0,457,19,0,3050,0,Premium,Premium Gasoline,22,0,43619,Mercedes-Benz,Metris (Passenger Van),N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,432,21,0,2750,0,Premium,Premium Gasoline,23,0,43620,Mercedes-Benz,Metris (Cargo Van),N,Automatic 9-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,432,21,0,2750,0,Premium,Premium Gasoline,23,0,43621,Mercedes-Benz,Metris (Cargo Van LWB),N,Automatic 9-spd,2021,,,,0,0,0
+17.34789474,0,17,0,0,463,19,0,3050,0,Premium,Premium Gasoline,23,0,43622,Alfa Romeo,Stelvio AWD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,19,0,0,426,21,0,2750,0,Premium,Premium Gasoline,23,0,43623,Porsche,Macan,N,Automatic (AM-S7),2021,,,,0,0,0
+11.36586207,0,26,0,0,305,29,0,2000,0,Premium,Premium Gasoline,34,0,43625,Mazda,MX-5,N,Manual 6-spd,2021,,,,0,0,0
+10.987,0,26,0,0,299,30,0,1950,0,Premium,Premium Gasoline,35,0,43626,Mazda,MX-5,N,Automatic (S6),2021,,,,0,0,0
+16.4805,0,17,0,0,445,20,0,2900,0,Premium,Premium Gasoline,26,0,43627,Nissan,370Z,N,Manual 6-spd,2021,,,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2550,0,Premium,Premium Gasoline,27,0,43628,Subaru,WRX,N,Manual 6-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,432,21,0,2750,0,Premium,Premium Gasoline,24,0,43629,Subaru,WRX,N,Automatic (AV-S8),2021,,,,0,0,0
+18.31166667,0,16,0,0,483,18,0,3250,0,Premium,Premium Gasoline,22,0,43630,Subaru,WRX,N,Manual 6-spd,2021,,,,0,0,0
+7.665348837,0,46,0,0,208,43,0,1100,0,Regular,Regular Gasoline,40,0,43631,Kia,Niro Touring,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+6.726734694,0,51,0,0,183,49,0,950,0,Regular,Regular Gasoline,46,0,43632,Kia,Niro,Y,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+6.5922,0,53,0,0,179,50,0,950,0,Regular,Regular Gasoline,48,0,43633,Kia,Niro FE,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2050,0,Regular,Regular Gasoline,28,0,43634,Nissan,Murano FWD,N,Automatic (AV-S7),2021,,,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2050,0,Regular,Regular Gasoline,28,0,43635,Nissan,Murano AWD,N,Automatic (AV-S7),2021,,,,0,0,0
+15.69571429,0,20,0,0,425,21,0,2750,0,Premium,Premium Gasoline,23,0,43636,Cadillac,XT5 Limo FWD,N,Automatic (S9),2021,,,,0,0,0
+15.69571429,0,20,0,0,425,21,0,2750,0,Premium,Premium Gasoline,23,0,43637,Cadillac,XT5 Limo AWD,N,Automatic (S9),2021,,,,0,0,0
+18.31166667,0,17,0,0,492,18,0,3250,0,Premium,Premium Gasoline,20,0,43638,Land Rover,Defender 110,N,Automatic (S8),2021,,,,0,0,0
+17.34789474,0,18,0,0,466,19,0,3050,0,Premium,Premium Gasoline,21,0,43639,Land Rover,Defender 90,N,Automatic (S8),2021,,,,0,0,0
+0.18,0,127,0,0,0,114,0,600,0,Electricity,Electricity,102,0,43640,Kandi,K27,N,Automatic (A1),2021,,EV,,0,0,0
+16.4805,0,17,0,0,439,20,0,2900,0,Premium,Premium Gasoline,25,0,43641,BMW,M850i xDrive Coupe,N,Automatic (S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,20,0,43642,Bentley,Flying Spur,N,Automatic (AM-S8),2021,,,,0,0,0
+13.1844,0,22,0,0,358,25,0,2350,0,Premium,Premium Gasoline,28,0,43643,Honda,Civic 5Dr,N,Manual 6-spd,2021,,,,0,0,0
+8.039268293,0,44,0,0,220,41,0,1150,0,Regular,Regular Gasoline,37,0,43644,Ford,Escape FWD HEV,N,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+10.987,0,28,0,0,293,30,0,1600,0,Regular,Regular Gasoline,34,0,43645,Ford,Escape FWD,N,Automatic 8-spd,2021,,,,0,0,0
+13.1844,0,22,0,0,363,25,0,1900,0,Regular,Regular Gasoline,28,0,43646,Hyundai,Tucson FWD,N,Automatic (S6),2021,,,,0,0,0
+13.1844,0,23,0,0,349,25,0,2350,0,Premium,Premium Gasoline,28,0,43647,Audi,Q5 Sportback,N,Automatic (AM-S7),2021,,Hybrid,,0,0,0
+16.4805,0,18,0,0,441,20,0,2900,0,Premium,Premium Gasoline,24,0,43648,Audi,SQ5 Sportback,N,Automatic (S8),2021,,,,0,0,0
+8.24025,0,43,0,0,224,40,0,1200,0,Regular,Regular Gasoline,37,0,43649,Ford,Escape AWD HEV,Y,Automatic (variable gear ratios),2021,,Hybrid,,0,0,0
+11.77178571,0,26,0,0,318,28,0,1700,0,Regular,Regular Gasoline,31,0,43650,Ford,Escape AWD,N,Automatic 8-spd,2021,,,,0,0,0
+12.67730769,0,23,0,0,342,26,0,1850,0,Regular,Regular Gasoline,31,0,43651,Ford,Escape AWD,N,Automatic 8-spd,2021,,,,0,0,0
+10.3003125,0,33,0,0,283,32,0,1500,0,Regular,Regular Gasoline,30,0,43652,Hyundai,Santa Fe Hybrid,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+9.694411765,0,36,0,0,264,34,0,1400,0,Regular,Regular Gasoline,31,0,43653,Hyundai,Santa Fe Hybrid Blue,N,Automatic (AM-S6),2021,,Hybrid,,0,0,0
+18.31166667,0,15,0,0,508,18,0,3250,0,Premium,Premium Gasoline,22,0,43654,Jaguar,F-Pace SVR,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,402,22,0,2650,0,Premium,Premium Gasoline,27,0,43655,Jaguar,F-Pace P340 MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+14.98227273,0,20,0,0,406,22,0,2650,0,Premium,Premium Gasoline,26,0,43656,Jaguar,F-Pace P400 MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+14.98227273,0,20,0,0,399,22,0,2650,0,Premium,Premium Gasoline,26,0,43657,Land Rover,Range Rover Velar P340 MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+15.69571429,0,19,0,0,426,21,0,2750,0,Premium,Premium Gasoline,25,0,43658,Land Rover,Range Rover Velar P400 MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+23.54357143,0,12,0,0,616,14,0,4150,0,Premium,Premium Gasoline,18,0,43659,Bentley,Bentayga,N,Automatic (S8),2021,,,,0,0,0
+25.35461538,0,12,0,0,659,13,0,4500,0,Premium,Premium Gasoline,17,0,43660,Dodge,Durango SRT AWD,N,Automatic 8-spd,2021,,,,0,0,0
+25.35461538,0,11,0,0,664,13,0,4500,0,Premium,Premium Gasoline,17,0,43661,Jeep,Grand Cherokee Trackhawk 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+0.18,0,124,0,0,0,113,0,600,0,Electricity,Electricity,102,0,43662,BMW,i3s,N,Automatic (A1),2021,,EV,,0,0,0
+0.174,0,127,0,0,0,118,0,550,0,Electricity,Electricity,108,0,43663,Chevrolet,Bolt EV,N,Automatic (variable gear ratios),2021,,EV,,0,0,0
+0.18,0,123,0,0,0,111,0,600,0,Electricity,Electricity,99,0,43664,Nissan,Leaf (40 kW-hr battery pack),N,Automatic (A1),2021,,EV,,0,0,0
+0.186,0,118,0,0,0,108,0,600,0,Electricity,Electricity,97,0,43665,Nissan,Leaf (62 kW-hr battery pack),N,Automatic (A1),2021,,EV,,0,0,0
+0.192,0,114,0,0,0,104,0,650,0,Electricity,Electricity,94,0,43666,Nissan,Leaf SV/SL (62 kW-hr battery pack),N,Automatic (A1),2021,,EV,,0,0,0
+13.73375,0,21,0,0,373,24,0,2000,0,Regular,Regular Gasoline,29,0,43667,Ford,Mustang,N,Manual 6-spd,2021,,,,0,0,0
+14.98227273,0,20,0,0,397,22,0,2150,0,Regular,Regular Gasoline,27,0,43668,Ford,Mustang HO Coupe,N,Manual 6-spd,2021,,,,0,0,0
+13.1844,0,21,0,0,356,25,0,1900,0,Regular,Regular Gasoline,32,0,43669,Ford,Mustang,N,Automatic (S10),2021,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,27,0,43670,Ford,Mustang HO Coupe,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,19,0,0,415,21,0,2250,0,Regular,Regular Gasoline,25,0,43671,Ford,Mustang HO Convertible,N,Manual 6-spd,2021,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,27,0,43672,Ford,Mustang Convertible,N,Manual 6-spd,2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2050,0,Regular,Regular Gasoline,28,0,43673,Ford,Mustang Convertible,N,Automatic (S10),2021,,,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2150,0,Regular,Regular Gasoline,26,0,43674,Ford,Mustang HO Convertible,N,Automatic (S10),2021,,,,0,0,0
+23.54357143,0,12,0,0,631,14,0,4150,0,Premium,Premium Gasoline,18,0,43675,Ford,Shelby GT500 Mustang,N,Automatic (AM7),2021,,,,0,0,0
+18.31166667,0,15,0,0,490,18,0,2650,0,Regular,Regular Gasoline,24,0,43676,Ford,Mustang,N,Manual 6-spd,2021,,,,0,0,0
+17.34789474,0,15,0,0,479,19,0,2500,0,Regular,Regular Gasoline,24,0,43677,Ford,Mustang,N,Automatic (S10),2021,,,,0,0,0
+18.31166667,0,15,0,0,493,18,0,2650,0,Regular,Regular Gasoline,23,0,43678,Ford,Mustang Convertible,N,Automatic (S10),2021,,,,0,0,0
+19.38882353,0,14,0,0,523,17,0,2800,0,Regular,Regular Gasoline,22,0,43679,Ford,Mustang Mach 1,N,Manual 6-spd,2021,,,,0,0,0
+13.1844,0,21,0,0,354,25,0,1900,0,Regular,Regular Gasoline,32,0,43680,Ford,Mustang,N,Automatic 10-spd,2021,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2050,0,Regular,Regular Gasoline,28,0,43681,Ford,Mustang Convertible,N,Automatic 10-spd,2021,,,,0,0,0
+23.54357143,0,13,0,0,623,14,0,4150,0,Premium,Premium Gasoline,17,0,43682,Jeep,Wrangler 4dr 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+0.198,0,108,0,0,0,101,0,650,0,Electricity,Electricity,94,0,43683,Ford,Mustang Mach-E RWD California Route 1,N,Automatic (A1),2021,,EV,,0,0,0
+0.252,0,79,0,0,0,79,0,850,0,Electricity,Electricity,80,0,43684,Porsche,Taycan 4S Perf Battery,N,Automatic (A2),2021,,EV,,0,0,0
+0.258,0,75,0,0,0,77,0,850,0,Electricity,Electricity,81,0,43685,Porsche,Taycan 4S Perf Battery Plus,N,Automatic (A2),2021,,EV,,0,0,0
+3.399441261,3.139142857,48,110,0,90,46,105,1050,0,Regular Gas and Electricity,Regular Gasoline,44,99,43686,Kia,Niro Plug-in Hybrid,N,Automatic (AM-S6),2021,,Plug-in Hybrid,Electricity,70,62,66
+5.516899827,3.662333333,36,99,0,151,35,90,1350,0,Regular Gas and Electricity,Regular Gasoline,35,80,43687,Subaru,Crosstrek Hybrid AWD,N,Automatic (variable gear ratios),2021,,Plug-in Hybrid,Electricity,49,43,46
+16.4805,0,18,0,0,445,20,0,2400,0,Regular,Regular Gasoline,24,0,43688,Nissan,Frontier 2WD,N,Automatic (S9),2021,,,,0,0,0
+17.34789474,0,17,0,0,469,19,0,2500,0,Regular,Regular Gasoline,23,0,43689,Nissan,Frontier 4WD,N,Automatic (S9),2021,,,,0,0,0
+20.600625,6.2425,15,11,509,540,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,43690,Ford,Transit T150 Wagon 2WD FFV,N,Automatic (S10),2021,,FFV,E85,0,0,0
+20.600625,6.2425,14,11,528,565,16,12,3000,3000,Gasoline or E85,Regular Gasoline,18,14,43691,Ford,Transit T150 Wagon 4WD FFV,N,Automatic (S10),2021,,FFV,E85,0,0,0
+20.600625,0,14,0,0,558,16,0,3650,0,Premium,Premium Gasoline,19,0,43692,Nissan,Armada 2WD,N,Automatic (S7),2021,,,,0,0,0
+15.69571429,0,19,0,0,436,21,0,2750,0,Premium,Premium Gasoline,22,0,43693,Land Rover,Discovery,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,18,0,0,435,21,0,2750,0,Premium,Premium Gasoline,24,0,43694,Land Rover,Discovery MHEV,N,Automatic (S8),2021,,Hybrid,,0,0,0
+21.974,0,13,0,0,595,15,0,3900,0,Premium,Premium Gasoline,18,0,43695,Nissan,Armada 4WD,N,Automatic (S7),2021,,,,0,0,0
+21.974,0,13,0,0,594,15,0,3900,0,Premium,Premium Gasoline,18,0,43696,Nissan,Armada 4WD,N,Automatic (S7),2021,,,,0,0,0
+15.69571429,0,21,0,0,420,21,0,2750,0,Premium,Premium Gasoline,22,0,43710,Acura,NSX Hybrid,Y,Automatic (AM-S9),2021,,Hybrid,,0,0,0
+13.73375,0,21,0,0,369,24,0,2000,0,Regular,Regular Gasoline,29,0,43711,Ford,Edge FWD,N,Automatic 8-spd,2021,,,,0,0,0
+14.33086957,0,21,0,0,387,23,0,2050,0,Regular,Regular Gasoline,26,0,43712,Lincoln,Nautilus FWD,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,21,0,0,384,23,0,2050,0,Regular,Regular Gasoline,26,0,43713,Lincoln,Nautilus FWD,N,Automatic 8-spd,2021,,,,0,0,0
+14.33086957,0,21,0,0,380,23,0,2050,0,Regular,Regular Gasoline,28,0,43714,Ford,Edge AWD,N,Automatic 8-spd,2021,,,,0,0,0
+14.33086957,0,20,0,0,383,23,0,2050,0,Regular,Regular Gasoline,28,0,43715,Ford,Edge AWD,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,19,0,0,423,21,0,2250,0,Regular,Regular Gasoline,25,0,43716,Ford,Edge AWD,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,404,22,0,2150,0,Regular,Regular Gasoline,25,0,43717,Lincoln,Nautilus AWD,N,Automatic (S8),2021,,,,0,0,0
+15.69571429,0,19,0,0,423,21,0,2250,0,Regular,Regular Gasoline,25,0,43718,Lincoln,Nautilus AWD,N,Automatic (S8),2021,,,,0,0,0
+14.98227273,0,20,0,0,404,22,0,2150,0,Regular,Regular Gasoline,25,0,43719,Lincoln,Nautilus AWD,N,Automatic 8-spd,2021,,,,0,0,0
+9.988181818,0,31,0,0,269,33,0,1450,0,Regular,Regular Gasoline,36,0,43720,Nissan,Kicks,N,Automatic (variable gear ratios),2021,,,,0,0,0
+14.69942308,0,23,0,0,384,26,0,1950,0,Diesel,Diesel,33,0,43722,Ram,1500 HFE 2WD,N,Automatic 8-spd,2021,,Diesel,,0,0,0
+15.69571429,0,18,0,0,441,21,0,2250,0,Regular,Regular Gasoline,24,0,43723,Honda,Ridgeline AWD,Y,Automatic (S9),2021,,,,0,0,0
+9.617146608,7.165434783,17,44,0,256,19,46,3050,0,Premium and Electricity,Premium Gasoline,21,49,43724,Bentley,Bentayga,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,23,29,26
+2.817745782,2.769831933,52,123,0,74,52,119,900,0,Regular Gas and Electricity,Regular Gasoline,51,115,43725,Hyundai,Ioniq Plug-in Hybrid,N,Automatic (AM-S6),2021,,Plug-in Hybrid,Electricity,78,74,76
+6.251901173,4.454189189,26,77,0,165,26,74,1850,0,Regular Gas and Electricity,Regular Gasoline,26,71,43726,Mitsubishi,Outlander PHEV,N,Automatic (A1),2021,,Plug-in Hybrid,Electricity,39,38,39
+16.4805,0,18,0,0,441,20,0,2900,0,Premium,Premium Gasoline,24,0,43727,Porsche,Panamera,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,18,0,0,441,20,0,2900,0,Premium,Premium Gasoline,24,0,43728,Porsche,Panamera 4,N,Automatic (AM-S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,465,19,0,3050,0,Premium,Premium Gasoline,23,0,43729,Porsche,Panamera 4 Executive,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,18,0,0,441,20,0,2900,0,Premium,Premium Gasoline,23,0,43730,Porsche,Panamera 4 ST,N,Automatic (AM-S8),2021,,,,0,0,0
+16.4805,0,18,0,0,445,20,0,2900,0,Premium,Premium Gasoline,24,0,43731,Porsche,Panamera 4S,N,Automatic (AM-S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,21,0,43732,Porsche,Panamera GTS,N,Automatic (AM-S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,20,0,43733,Porsche,Panamera GTS ST,N,Automatic (AM-S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,3400,0,Premium,Premium Gasoline,21,0,43734,Porsche,Panamera Turbo S Executive,N,Automatic (AM-S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,3400,0,Premium,Premium Gasoline,21,0,43735,Porsche,Panamera Turbo S ST,N,Automatic (AM-S8),2021,,,,0,0,0
+12.20777778,0,24,0,0,330,27,0,1750,0,Regular,Regular Gasoline,30,0,43736,Nissan,Rogue Sport AWD,N,Automatic (AV-S8),2021,,,,0,0,0
+11.77178571,0,25,0,0,318,28,0,1700,0,Regular,Regular Gasoline,32,0,43737,Nissan,Rogue Sport,N,Automatic (AV-S8),2021,,,,0,0,0
+6.810146412,5.15015625,24,59,0,178,26,64,2250,0,Premium and Electricity,Premium Gasoline,29,72,43738,BMW,530e,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,34,41,37
+7.674260089,5.316290323,22,59,0,203,25,62,2350,0,Premium and Electricity,Premium Gasoline,28,67,43739,BMW,530e xDrive,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,30,38,33
+8.3044115,5.4935,21,59,0,204,24,60,2400,0,Premium and Electricity,Premium Gasoline,27,61,43740,BMW,X3 xDrive30e,Y,Automatic (S8),2021,,Plug-in Hybrid,Electricity,29,35,32
+19.38882353,0,15,0,0,528,17,0,3400,0,Premium,Premium Gasoline,20,0,43741,Mercedes-Benz,AMG GT Black Series,N,Automatic (AM7),2021,,,,0,0,0
+11.77178571,0,25,0,0,314,28,0,2100,0,Premium,Premium Gasoline,33,0,43742,Lexus,LS 500h,N,Automatic (AV-S10),2021,,Hybrid,,0,0,0
+12.67730769,0,23,0,0,343,26,0,2250,0,Premium,Premium Gasoline,29,0,43743,Lexus,LS 500h AWD,N,Automatic (AV-S10),2021,,Hybrid,,0,0,0
+14.33086957,0,21,0,0,394,23,0,2550,0,Premium,Premium Gasoline,26,0,43744,Jaguar,E-Pace MHEV,N,Automatic (S9),2021,,Hybrid,,0,0,0
+1.049515566,0.192,30,107,0,22,31,100,1900,600,Premium Gas or Electricity,Premium Gasoline,31,93,43745,BMW,i3 with Range Extender,N,Automatic (A1),2021,,Plug-in Hybrid,Electricity,92,79,86
+1.049515566,0.192,30,107,0,22,31,100,1900,600,Premium Gas or Electricity,Premium Gasoline,31,93,43746,BMW,i3s with Range Extender,N,Automatic (A1),2021,,Plug-in Hybrid,Electricity,92,79,86
+0.162,0,132,0,0,0,120,0,550,0,Electricity,Electricity,108,0,43747,Hyundai,Kona Electric,N,Automatic (A1),2021,,EV,,0,0,0
+32.961,0,8,0,0,867,10,0,5800,0,Premium,Premium Gasoline,14,0,43757,Lamborghini,Aventador Sian Coupe,N,Automatic (AM-S7),2021,,,,0,0,0
+32.961,0,8,0,0,867,10,0,5800,0,Premium,Premium Gasoline,14,0,43758,Lamborghini,Aventador Sian Roadster,N,Automatic (AM-S7),2021,,,,0,0,0
+19.38882353,0,15,0,0,520,17,0,3400,0,Premium,Premium Gasoline,21,0,43759,BMW,M8 Convertible,N,Automatic (S8),2021,,,,0,0,0
+14.33086957,0,20,0,0,398,23,0,2550,0,Premium,Premium Gasoline,26,0,43760,Jaguar,E-Pace,N,Automatic (S9),2021,,,,0,0,0
+15.69571429,0,19,0,0,416,21,0,2250,0,Regular,Regular Gasoline,26,0,43761,Jeep,Grand Cherokee L 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,18,0,0,428,21,0,2250,0,Regular,Regular Gasoline,25,0,43762,Jeep,Grand Cherokee L 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+17.34789474,0,17,0,0,469,19,0,3050,0,Premium,Premium Gasoline,23,0,43767,Porsche,Panamera 4S Executive,N,Automatic (AM-S8),2021,,,,0,0,0
+17.34789474,0,17,0,0,469,19,0,3050,0,Premium,Premium Gasoline,23,0,43768,Porsche,Panamera 4S ST,N,Automatic (AM-S8),2021,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,3400,0,Premium,Premium Gasoline,21,0,43769,Porsche,Panamera Turbo S,N,Automatic (AM-S8),2021,,,,0,0,0
+9.988181818,0,30,0,0,270,33,0,1450,0,Regular,Regular Gasoline,37,0,43770,Nissan,Rogue FWD,N,Automatic (AV-S8),2021,,,,0,0,0
+10.3003125,0,30,0,0,278,32,0,1500,0,Regular,Regular Gasoline,36,0,43771,Nissan,Rogue FWD SL/Platinum,N,Automatic (AV-S8),2021,,,,0,0,0
+9.988181818,0,30,0,0,275,33,0,1450,0,Regular,Regular Gasoline,36,0,43772,Nissan,Rogue AWD,N,Automatic (AV-S8),2021,,,,0,0,0
+10.3003125,0,29,0,0,284,32,0,1500,0,Regular,Regular Gasoline,35,0,43773,Nissan,Rogue AWD SL/Platinum,N,Automatic (AV-S8),2021,,,,0,0,0
+4.469660481,4.225769231,34,83,0,117,33,78,1450,0,Regular Gas and Electricity,Regular Gasoline,32,72,43774,Lincoln,Corsair AWD PHEV,N,Automatic (variable gear ratios),2021,,Plug-in Hybrid,Electricity,52,45,49
+9.644200725,7.165434783,20,45,0,257,21,46,2750,0,Premium and Electricity,Premium Gasoline,22,48,43775,Porsche,Cayenne e-Hybrid,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,26,28,27
+9.644200725,7.165434783,20,45,0,257,21,46,2750,0,Premium and Electricity,Premium Gasoline,22,48,43776,Porsche,Cayenne e-Hybrid Coupe,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,26,28,27
+11.65016224,7.847857143,17,40,0,320,18,42,3250,0,Premium and Electricity,Premium Gasoline,20,44,43777,Porsche,Cayenne Turbo S e-Hybrid,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,21,23,22
+11.65016224,7.847857143,17,40,0,320,18,42,3250,0,Premium and Electricity,Premium Gasoline,20,44,43778,Porsche,Cayenne Turbo S e-Hybrid Coupe,N,Automatic (S8),2021,,Plug-in Hybrid,Electricity,21,23,22
+8.66333625,6.726734694,20,52,0,230,20,49,2400,0,Regular Gas and Electricity,Regular Gasoline,20,45,43801,Jeep,Wrangler 4dr 4xe,Y,Automatic 8-spd,2021,,Plug-in Hybrid,Electricity,29,27,28
+0.246,0,76,0,0,0,79,0,800,0,Electricity,Electricity,84,0,43802,Porsche,Taycan Perf Battery,N,Automatic (A2),2021,,EV,,0,0,0
+0.27,0,71,0,0,0,75,0,900,0,Electricity,Electricity,80,0,43803,Porsche,Taycan Perf Battery Plus,N,Automatic (A2),2021,,EV,,0,0,0
+12.20777778,0,24,0,0,326,27,0,2150,0,Premium,Premium Gasoline,33,0,43814,BMW,430i Convertible,N,Automatic (S8),2021,,,,0,0,0
+12.67730769,0,23,0,0,338,26,0,2250,0,Premium,Premium Gasoline,31,0,43815,BMW,M440i Convertible,N,Automatic (S8),2021,,Hybrid,,0,0,0
+20.600625,0,14,0,0,541,16,0,3000,0,Regular,Regular Gasoline,21,0,43816,Chevrolet,Silverado 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,541,16,0,3000,0,Regular,Regular Gasoline,21,0,43817,GMC,Sierra 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,560,16,0,3000,0,Regular,Regular Gasoline,20,0,43818,GMC,Sierra 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+0.18,0,124,0,0,0,113,0,600,0,Electricity,Electricity,102,0,43819,BMW,i3,N,Automatic (A1),2021,,EV,,0,0,0
+0.18,0,123,0,0,0,112,0,600,0,Electricity,Electricity,102,0,43820,Kia,Niro Electric,N,Automatic (A1),2021,,EV,,0,0,0
+0.144,0,150,0,0,0,142,0,450,0,Electricity,Electricity,133,0,43821,Tesla,Model 3 Standard Range Plus RWD,N,Automatic (A1),2021,,EV,,0,0,0
+19.38882353,0,15,0,0,513,17,0,2800,0,Regular,Regular Gasoline,22,0,43868,Chevrolet,Silverado 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,515,17,0,2800,0,Regular,Regular Gasoline,22,0,43869,GMC,Sierra 2WD,N,Automatic 8-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,545,16,0,3000,0,Regular,Regular Gasoline,21,0,43870,Chevrolet,Silverado 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+21.974,0,13,0,0,593,15,0,3200,0,Regular,Regular Gasoline,18,0,43871,Chevrolet,Silverado 4WD TrailBoss,N,Automatic 6-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,560,16,0,3000,0,Regular,Regular Gasoline,20,0,43872,Chevrolet,Silverado 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,561,16,0,3000,0,Regular,Regular Gasoline,20,0,43873,GMC,Sierra 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,551,16,0,3000,0,Regular,Regular Gasoline,20,0,43874,GMC,Sierra 4WD AT4,N,Automatic 8-spd,2021,,,,0,0,0
+23.54357143,0,13,0,0,635,14,0,3400,0,Regular,Regular Gasoline,17,0,43875,Chevrolet,Silverado Cab Chassis 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+23.54357143,0,13,0,0,634,14,0,3400,0,Regular,Regular Gasoline,18,0,43876,Chevrolet,Silverado Cab Chassis 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+23.54357143,0,13,0,0,635,14,0,3400,0,Regular,Regular Gasoline,17,0,43877,GMC,Sierra Cab Chassis 4WD,N,Automatic 6-spd,2021,,,,0,0,0
+23.54357143,0,13,0,0,634,14,0,3400,0,Regular,Regular Gasoline,18,0,43878,GMC,Sierra Cab Chassis 2WD,N,Automatic 6-spd,2021,,,,0,0,0
+0.15,0,145,0,0,0,133,0,500,0,Electricity,Electricity,121,0,43879,Hyundai,Ioniq Electric,N,Automatic (A1),2021,,EV,,0,0,0
+0.156,0,140,0,0,0,129,0,500,0,Electricity,Electricity,119,0,43880,Tesla,Model Y Standard Range RWD,N,Automatic (A1),2021,,EV,,0,0,0
+0.264,0,80,0,0,0,76,0,850,0,Electricity,Electricity,72,0,43889,Jaguar,I-Pace EV400,N,Automatic (A1),2021,,EV,,0,0,0
+0.27,0,71,0,0,0,73,0,900,0,Electricity,Electricity,75,0,43910,Porsche,Taycan Turbo,N,Automatic (A2),2021,,EV,,0,0,0
+0.288,0,69,0,0,0,70,0,950,0,Electricity,Electricity,71,0,43911,Porsche,Taycan Turbo S,N,Automatic (A2),2021,,EV,,0,0,0
+2.944697339,3.139142857,43,117,0,77,40,105,1200,0,Regular Gas and Electricity,Regular Gasoline,38,93,43912,Ford,Escape FWD PHEV,N,Automatic (variable gear ratios),2021,,Plug-in Hybrid,Electricity,75,59,67
+8.556275971,6.338653846,21,50,0,232,22,52,2650,0,Premium and Electricity,Premium Gasoline,24,54,43913,Porsche,Panamera 4 e-Hybrid,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,27,31,29
+8.556275971,6.338653846,21,50,0,232,22,52,2650,0,Premium and Electricity,Premium Gasoline,24,54,43914,Porsche,Panamera 4 e-Hybrid Executive,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,27,31,29
+8.556275971,6.338653846,21,50,0,232,22,52,2650,0,Premium and Electricity,Premium Gasoline,24,54,43915,Porsche,Panamera 4 e-Hybrid ST,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,27,31,29
+8.70960035,6.5922,21,49,0,236,22,50,2650,0,Premium and Electricity,Premium Gasoline,23,51,43916,Porsche,Panamera 4S e-Hybrid,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,27,30,28
+8.70960035,6.5922,21,49,0,236,22,50,2650,0,Premium and Electricity,Premium Gasoline,23,51,43917,Porsche,Panamera 4S e-Hybrid Executive,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,27,30,28
+8.70960035,6.5922,21,49,0,236,22,50,2650,0,Premium and Electricity,Premium Gasoline,23,51,43918,Porsche,Panamera 4S e-Hybrid ST,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,27,30,28
+10.07991153,6.866875,18,45,0,274,19,48,3050,0,Premium and Electricity,Premium Gasoline,22,51,43919,Porsche,Panamera Turbo S e-Hybrid,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,24,28,25
+10.07991153,6.866875,18,45,0,274,19,48,3050,0,Premium and Electricity,Premium Gasoline,22,51,43920,Porsche,Panamera Turbo S e-Hybrid Executive,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,24,28,25
+10.07991153,6.866875,18,45,0,274,19,48,3050,0,Premium and Electricity,Premium Gasoline,22,51,43921,Porsche,Panamera Turbo S e-Hybrid ST,N,Automatic (AM-S8),2021,,Plug-in Hybrid,Electricity,24,28,25
+15.69571429,0,19,0,0,420,21,0,2750,0,Premium,Premium Gasoline,25,0,43966,Acura,TLX Type-S,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,19,0,0,421,21,0,2750,0,Premium,Premium Gasoline,24,0,43967,Acura,TLX Type-S Perf Tire,N,Automatic (S10),2021,,,,0,0,0
+19.38882353,0,14,0,0,533,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,43968,Jeep,Grand Cherokee L 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+15.69571429,0,20,0,0,424,21,0,2250,0,Regular,Regular Gasoline,22,0,43995,Ford,Bronco 4WD,N,Automatic (S10),2021,,,,0,0,0
+15.69571429,0,20,0,0,426,21,0,2250,0,Regular,Regular Gasoline,22,0,43996,Ford,Bronco 4WD,N,Manual 7-spd,2021,,,,0,0,0
+17.34789474,0,18,0,0,462,19,0,2500,0,Regular,Regular Gasoline,20,0,43997,Ford,Bronco 4WD,N,Automatic (S10),2021,,,,0,0,0
+19.38882353,0,17,0,0,509,17,0,2800,0,Regular,Regular Gasoline,18,0,43998,Ford,Bronco Badlands 4WD,N,Automatic (S10),2021,,,,0,0,0
+19.38882353,0,16,0,0,533,17,0,2800,0,Regular,Regular Gasoline,18,0,43999,Ford,Bronco Badlands 4WD,N,Manual 7-spd,2021,,,,0,0,0
+19.38882353,0,18,0,0,513,17,0,2800,0,Regular,Regular Gasoline,17,0,44000,Ford,Bronco Badlands 4WD,N,Automatic (S10),2021,,,,0,0,0
+19.38882353,0,17,0,0,527,17,0,2800,0,Regular,Regular Gasoline,17,0,44001,Ford,Bronco Sasquatch 4WD,N,Automatic (S10),2021,,,,0,0,0
+18.31166667,0,18,0,0,494,18,0,2650,0,Regular,Regular Gasoline,18,0,44002,Ford,Bronco Sasquatch 4WD,N,Automatic (S10),2021,,,,0,0,0
+18.31166667,0,17,0,0,496,18,0,2650,0,Regular,Regular Gasoline,19,0,44003,Ford,Bronco Black Diamond 4WD,N,Manual 7-spd,2021,,,,0,0,0
+18.31166667,0,18,0,0,494,18,0,2650,0,Regular,Regular Gasoline,18,0,44004,Ford,Bronco Black Diamond 4WD,N,Automatic (S10),2021,,,,0,0,0
+19.38882353,0,15,0,0,522,17,0,3400,0,Premium,Premium Gasoline,20,0,44025,Chevrolet,Silverado 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,555,16,0,3650,0,Premium,Premium Gasoline,19,0,44026,Chevrolet,Silverado 4WD TrailBoss,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,15,0,0,506,18,0,2650,0,Regular,Regular Gasoline,21,0,44027,Chevrolet,Silverado 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,44028,Chevrolet,Silverado 4WD TrailBoss,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,15,0,0,539,16,0,3650,0,Premium,Premium Gasoline,20,0,44029,GMC,Sierra 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,555,16,0,3650,0,Premium,Premium Gasoline,19,0,44030,GMC,Sierra 4WD AT4,N,Automatic 10-spd,2021,,,,0,0,0
+18.31166667,0,15,0,0,504,18,0,2650,0,Regular,Regular Gasoline,21,0,44031,GMC,Sierra 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,44032,GMC,Sierra 4WD AT4,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,552,16,0,3650,0,Premium,Premium Gasoline,20,0,44033,Cadillac,Escalade 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,544,16,0,3650,0,Premium,Premium Gasoline,20,0,44034,Chevrolet,Tahoe 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,544,16,0,3650,0,Premium,Premium Gasoline,20,0,44035,Chevrolet,Suburban 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,20,0,44036,Chevrolet,Tahoe 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,20,0,44037,Chevrolet,Suburban 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,544,16,0,3650,0,Premium,Premium Gasoline,20,0,44038,GMC,Yukon 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,14,0,0,566,16,0,3650,0,Premium,Premium Gasoline,20,0,44039,GMC,Yukon XL 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,20,0,44040,GMC,Yukon 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,20,0,44041,GMC,Yukon XL 2WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,570,16,0,3650,0,Premium,Premium Gasoline,19,0,44042,Cadillac,Escalade 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,570,16,0,3650,0,Premium,Premium Gasoline,19,0,44043,Chevrolet,Tahoe 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,570,16,0,3650,0,Premium,Premium Gasoline,19,0,44044,Chevrolet,Suburban 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,20,0,44045,Chevrolet,Tahoe 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,15,0,0,555,16,0,3000,0,Regular,Regular Gasoline,19,0,44046,Chevrolet,Suburban 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,570,16,0,3650,0,Premium,Premium Gasoline,19,0,44047,GMC,Yukon XL 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,13,0,0,570,16,0,3650,0,Premium,Premium Gasoline,19,0,44048,GMC,Yukon 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,20,0,44049,GMC,Yukon 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+20.600625,0,15,0,0,555,16,0,3000,0,Regular,Regular Gasoline,19,0,44050,GMC,Yukon XL 4WD,N,Automatic 10-spd,2021,,,,0,0,0
+0.168,0,124,0,0,0,120,0,550,0,Electricity,Electricity,115,0,44051,Tesla,Model S Long Range,N,Automatic (A1),2021,,EV,,0,0,0
+0.204,0,107,0,0,0,99,0,650,0,Electricity,Electricity,91,0,44052,Volkswagen,ID.4 Pro,N,Automatic (A1),2021,,EV,,0,0,0
+0.198,0,102,0,0,0,101,0,650,0,Electricity,Electricity,99,0,44069,Tesla,Model S Plaid (21in Wheels),N,Automatic (A1),2021,,EV,,0,0,0
+23.54357143,0,12,0,0,618,14,0,4150,0,Premium,Premium Gasoline,19,0,44089,Roush Performance,Mustang,N,Manual 6-spd,2021,,,,0,0,0
+13.73375,0,20,0,0,372,24,0,2400,0,Premium,Premium Gasoline,29,0,44090,Mercedes-Benz,S500 4matic,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+16.4805,0,18,0,0,440,20,0,2400,0,Regular,Regular Gasoline,23,0,44091,Jeep,Wrangler 2dr 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+16.4805,0,18,0,0,451,20,0,2400,0,Regular,Regular Gasoline,22,0,44092,Jeep,Wrangler 4dr 4WD,N,Automatic 8-spd,2021,,,,0,0,0
+21.974,0,12,0,0,606,15,0,3900,0,Premium,Premium Gasoline,19,0,44161,Roush Performance,Mustang,N,Automatic (S10),2021,,,,0,0,0
+17.34789474,0,16,0,0,469,19,0,3050,0,Premium,Premium Gasoline,24,0,44162,Mercedes-Benz,S580 4matic Maybach,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+16.4805,0,17,0,0,452,20,0,2900,0,Premium,Premium Gasoline,25,0,44163,Mercedes-Benz,S580 4matic,N,Automatic 9-spd,2021,,Hybrid,,0,0,0
+15.69571429,0,19,0,0,431,21,0,2250,0,Regular,Regular Gasoline,23,0,44164,Ford,Explorer Timberline AWD,N,Automatic (S10),2021,,,,0,0,0
+16.4805,0,17,0,0,444,20,0,2400,0,Regular,Regular Gasoline,24,0,44364,Ford,F150 Pickup 2WD,N,Automatic (S10),2021,,,,0,0,0
+17.34789474,5.350714286,17,12,444,463,19,14,2500,2550,Gasoline or E85,Regular Gasoline,24,18,44365,Ford,F150 Pickup 2WD FFV,N,Automatic (S10),2021,,FFV,E85,0,0,0
+18.31166667,0,16,0,0,498,18,0,2650,0,Regular,Regular Gasoline,20,0,44366,Ford,F150 Pickup Tremor 4WD,N,Automatic (S10),2021,,,,0,0,0
+20.600625,0,15,0,0,553,16,0,3000,0,Regular,Regular Gasoline,18,0,44367,Ford,F150 RAPTOR 4WD,N,Automatic (S10),2021,,,,0,0,0
+21.974,0,15,0,0,578,15,0,3200,0,Regular,Regular Gasoline,16,0,44368,Ford,F150 RAPTOR 37 4WD,N,Automatic (S10),2021,,,,0,0,0
+17.34789474,0,17,0,0,468,19,0,2500,0,Regular,Regular Gasoline,23,0,44369,Ford,F150 Pickup 4WD,N,Automatic (S10),2021,,,,0,0,0
+18.31166667,5.350714286,16,12,461,495,18,14,2650,2550,Gasoline or E85,Regular Gasoline,22,17,44370,Ford,F150 Pickup 4WD FFV,N,Automatic (S10),2021,,FFV,E85,0,0,0
+21.974,0,14,0,0,596,15,0,3200,0,Regular,Regular Gasoline,16,0,44371,Ford,F150 RAPTOR 37 4WD,N,Automatic (S10),2021,,,,0,0,0
+18.31166667,0,16,0,0,503,18,0,2650,0,Regular,Regular Gasoline,20,0,44372,Ford,F150 Pickup Tremor 4WD,N,Automatic (S10),2021,,,,0,0,0
+21.974,0,14,0,0,593,15,0,3200,0,Regular,Regular Gasoline,18,0,44373,Ford,F150 RAPTOR 4WD,N,Automatic (S10),2021,,,,0,0,0
+16.4805,0,18,0,0,445,20,0,2400,0,Regular,Regular Gasoline,24,0,44374,Ford,F150 Pickup 4WD,N,Automatic (S10),2021,,,,0,0,0

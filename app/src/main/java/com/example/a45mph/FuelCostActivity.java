@@ -68,7 +68,7 @@ public class FuelCostActivity extends AppCompatActivity {
 
     public void calculateCost(boolean immediateTransfer)
     {
-        boolean hypothetical = isHypotheticalCheck.isActivated();
+        boolean hypothetical = isHypotheticalCheck.isChecked();
         double result = -1; // this function returns -1 in the event of an error
         String errorMessage = "No Error";
 

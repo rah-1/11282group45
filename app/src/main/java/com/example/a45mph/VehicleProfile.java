@@ -196,6 +196,7 @@ public class VehicleProfile extends DataLog {
             String trany = line.next();
             String fileYear = line.next();
 
+
             if (!Objects.equals(fileYear,year))
                 continue;
 
@@ -276,9 +277,8 @@ public class VehicleProfile extends DataLog {
     public void transfer() throws IOException
     {
         File vehicleFile = new File(FILEPATH);
-        setEntry();
-        Log.d("File Man", vehicleFile.getAbsoluteFile().toString());
-        Log.d("File Man", entry);
+        Log.d("Vehicle Profile Man", vehicleFile.getAbsoluteFile().toString());
+        Log.d("Vehicle Profile Man", entry);
 
         transfer(vehicleFile);
     }
