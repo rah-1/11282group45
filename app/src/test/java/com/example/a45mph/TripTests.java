@@ -12,6 +12,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.time.Month;
 import java.util.Objects;
 import java.util.Scanner;
 
@@ -84,6 +85,18 @@ public class TripTests
 
         assert (Objects.equals(testTrip2.toString(), testEntry));
 
+    }
+
+    @Test
+    public void testGetDateTime() {
+        LocalDateTime testTimeAM = LocalDateTime.of(2021, Month.NOVEMBER, 14, 7, 30, 30);
+        LocalDateTime testTimePM = LocalDateTime.of(2020, Month.OCTOBER, 31, 15, 15, 45);
+        assert (DataLog.getDateAsString(testTimeAM).equals("11-14-2021"));
+        assert (DataLog.getTimeAsString(testTimeAM).equals("07:30:30 AM"));
+        assert (DataLog.getDateAndTime(testTimeAM).equals("11-14-2021 07:30:30 AM"));
+        assert (DataLog.getDateAsString(testTimePM).equals("10-31-2020"));
+        assert (DataLog.getTimeAsString(testTimePM).equals("03:15:45 PM"));
+        assert (DataLog.getDateAndTime(testTimePM).equals("10-31-2020 03:15:45 PM"));
     }
 
     @Test
