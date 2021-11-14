@@ -1,10 +1,8 @@
 package com.example.a45mph;
 
-import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
-import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -15,8 +13,6 @@ import android.widget.RadioButton;
 import android.widget.Toast;
 
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.InvalidObjectException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -49,7 +45,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             }
         });
 
-        selectButton = (Button) findViewById(R.id.profileselectbutton);
+        selectButton = (Button) findViewById(R.id.profileselectbuttonvehicleprofile);
         selectButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

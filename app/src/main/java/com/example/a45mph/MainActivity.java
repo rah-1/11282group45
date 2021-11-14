@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private Button allCalculatorsButton;
     private Button allRecordsButton;
     private Button environmentalTrackingButton;
+    private Button selectButton;
 
 
     @Override
@@ -65,6 +66,18 @@ public class MainActivity extends AppCompatActivity {
                 environmentalTrackingActivity();
             }
         });
+
+        selectButton = (Button) findViewById(R.id.selectprofilebutton);
+        selectButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                selectVehicleProfile();
+            }
+        });
+    }
+
+    private void selectVehicleProfile() {
+        startActivity(new Intent(this, VehicleSelectionActivity.class));
     }
 
     public void recordTripActivity() {
