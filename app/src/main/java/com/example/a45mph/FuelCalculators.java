@@ -50,13 +50,11 @@ abstract public class FuelCalculators {
         return Math.round(unitPrice * amtBought * 100) / 100.00;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static double fuelCost(double unitPrice, double amtBought)
     {
         return fuelCost(unitPrice,amtBought,LocalDateTime.now(),VehicleProfileAdapter.currentProfile);
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static double fuelCost(double unitPrice, double amtBought, LocalDateTime time, VehicleProfile vehicle)
     {
         double result = hypotheticalFuelCost(unitPrice,amtBought);

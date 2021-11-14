@@ -43,7 +43,6 @@ public class VehicleProfile extends DataLog {
         fueltype = new Fueltype("null");
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile readLog(Scanner lineScanner)
     {
         LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
@@ -57,13 +56,11 @@ public class VehicleProfile extends DataLog {
         return new VehicleProfile(make, model, name, id, fuel, gpm, timestamp);
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<VehicleProfile> loadVehicleProfiles() throws IOException
     {
         return loadVehicleProfiles(new File(FILEPATH));
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<VehicleProfile> loadVehicleProfiles(File file) throws IOException
     {
         ArrayList<VehicleProfile> profiles = new ArrayList<>();
@@ -85,7 +82,6 @@ public class VehicleProfile extends DataLog {
         }
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile searchProfile(String make, String model, String name, String year, boolean gas,
                                                boolean diesel, boolean elec, boolean auto, boolean man, String speed, Scanner s) throws IOException
     {
@@ -237,7 +233,6 @@ public class VehicleProfile extends DataLog {
                 hits.get(0).getVehicleID(), hits.get(0).fueltype, avgCO2,LocalDateTime.now());
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public VehicleProfile(String make, String model, String name)
     {
         setAll(make,model,name,-1,"-1",new Fueltype("Invalid"),-1,LocalDateTime.now());
@@ -263,16 +258,6 @@ public class VehicleProfile extends DataLog {
     public int getYear() { return year; }
     public String getFuel() { return fueltype.toString(); }
 
-    private void setVehicleData(String make, String model)
-    {
-        // get vehicle data out of the csv
-        // TODO: replace these defaults when we have the csv ready and implemented
-        vehicleID = "0";
-        gramsPerMileCO2 = -1;
-        fueltype = new Fueltype("null");
-    }
-
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile generateProfile(String make, String model, String name)
     {
         if (VehicleSelectionActivity.profileAdapter.searchProfiles(name) == null)

@@ -27,7 +27,6 @@ public class GasMileageCalculatorActivity extends AppCompatActivity {
 
         calculateButton = (Button) findViewById(R.id.calculatempgbutton);
         calculateButton.setOnClickListener(new View.OnClickListener() {
-            @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View v) {
                 calculateMileage();

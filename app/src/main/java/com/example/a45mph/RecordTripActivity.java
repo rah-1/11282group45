@@ -26,7 +26,6 @@ public class RecordTripActivity extends AppCompatActivity {
 
         recordButton = (Button) findViewById(R.id.recordtriprecordbutton);
         recordButton.setOnClickListener(new View.OnClickListener() {
-            @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View v) {
                 recordTrip();

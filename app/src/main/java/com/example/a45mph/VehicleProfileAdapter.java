@@ -23,7 +23,6 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
     private ArrayList<VehicleProfile> profiles;
     public static VehicleProfile currentProfile;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public VehicleProfileAdapter() {
         try {
             profiles = VehicleProfile.loadVehicleProfiles();
@@ -35,7 +34,6 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         }
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public VehicleProfileAdapter(Context c) {
         try {
             profiles = VehicleProfile.loadVehicleProfiles(c.getFileStreamPath(VehicleProfile.FILE));
@@ -70,7 +68,6 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         });
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     private void initProfile() {
         try {
             File f = new File(FILEPATH);
@@ -90,11 +87,10 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
         }
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public void selectProfile(int position) {
 
         try {
-            FileWriter fw = new FileWriter(new File(FILEPATH));
+            FileWriter fw = new FileWriter(FILEPATH);
             Scanner s = new Scanner(new File(VehicleProfile.FILEPATH));
 
             int i = 0;
@@ -113,8 +109,6 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
             Log.d("Profile Selection", e.toString());
         }
     }
-
-
 
     public ArrayList<VehicleProfile> getProfiles() {
         return profiles;

@@ -17,7 +17,6 @@ import java.util.ArrayList;
 public class ExpenditureDataLogAdapter extends RecyclerView.Adapter {
     private ArrayList<ExpenditureDataLog> expenditures;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public ExpenditureDataLogAdapter()
     {
         try {
@@ -29,7 +28,6 @@ public class ExpenditureDataLogAdapter extends RecyclerView.Adapter {
         }
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public ExpenditureDataLogAdapter(Context c)
     {
         try {

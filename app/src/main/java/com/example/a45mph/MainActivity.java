@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
     private Button environmentalTrackingButton;
 
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -17,7 +17,6 @@ import java.util.ArrayList;
 public class TripDataLogAdapter extends RecyclerView.Adapter {
     private ArrayList<TripDataLog> tripLogs;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public TripDataLogAdapter()
     {
         try {
@@ -29,7 +28,6 @@ public class TripDataLogAdapter extends RecyclerView.Adapter {
         }
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public TripDataLogAdapter(Context c)
     {
         try {

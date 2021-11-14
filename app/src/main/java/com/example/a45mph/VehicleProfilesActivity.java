@@ -21,7 +21,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class VehicleProfilesActivity extends AppCompatActivity {
-    private final String FILEPATH = "/data/data/com.example.a45mph/vehicles.csv";
 
     private EditText makeText;
     private EditText modelText;
@@ -44,7 +43,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
 
         createButton = (ImageButton) findViewById(R.id.addvehiclebutton);
         createButton.setOnClickListener(new View.OnClickListener() {
-            @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View v) {
                 createVehicleProfile();
@@ -78,7 +76,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         return vehicleArray;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static VehicleProfile createVehicleProfile(String make, String model, String name)
     {
         return VehicleProfile.generateProfile(make,model,name);
@@ -90,7 +87,6 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     }
 
     // Here, we make and select user's vehicle profiles
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public void createVehicleProfile()
     {
         String errorMessage = "No Error";
@@ -147,7 +143,4 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(),errorMessage,Toast.LENGTH_LONG).show();
         }
     }
-
-
-
 }

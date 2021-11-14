@@ -13,13 +13,11 @@ import java.util.Scanner;
 
 public abstract class EmissionsCalculator {
 
-    // a method for getting the emissions based of the distance of a single trip.
     public static double getTripEmissions(TripDataLog trip)
     {
         return trip.getOdometer() * trip.getVehicle().getCO2();
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static double getTotalEmissions(Scanner s, VehicleProfile vp)
     {
         double sum = 0;
@@ -34,7 +32,6 @@ public abstract class EmissionsCalculator {
         return sum;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static double getAverageEmissions(Scanner s, VehicleProfile vp)
     {
         double sum = 0;
@@ -56,7 +53,6 @@ public abstract class EmissionsCalculator {
         return sum / i;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<EmissionDataLog> getAllEmissions(File file) throws IOException {
         ArrayList<EmissionDataLog> emit = new ArrayList<>();
 
