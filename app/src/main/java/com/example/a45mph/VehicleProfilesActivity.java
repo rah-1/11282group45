@@ -121,7 +121,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             if (vp == null)
                 throw new IOException("Duplicate Profile Name");
 
-            vp.transfer();
+            vp.transfer(this.getFileStreamPath(VehicleProfile.FILE));
             VehicleSelectionActivity.profileAdapter.selectProfile(VehicleSelectionActivity.profileAdapter.addProfile(vp));
 
             Log.d("Vehicle Profile", vp.toString());

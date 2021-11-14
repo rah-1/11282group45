@@ -1,5 +1,6 @@
 package com.example.a45mph;
 
+import android.content.Context;
 import android.os.Build;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -21,6 +22,18 @@ public class ExpenditureDataLogAdapter extends RecyclerView.Adapter {
     {
         try {
             expenditures = ExpenditureDataLog.loadExpenditureDataLogs();
+            Log.d("Expend Log Presentation", "Listing Successful");
+        } catch (IOException e) {
+            expenditures = new ArrayList<ExpenditureDataLog>();
+            Log.d("ExpendLog Presentation", "Listing Unsuccessful");
+        }
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public ExpenditureDataLogAdapter(Context c)
+    {
+        try {
+            expenditures = ExpenditureDataLog.loadExpenditureDataLogs(c.getFileStreamPath(ExpenditureDataLog.FILE));
             Log.d("Expend Log Presentation", "Listing Successful");
         } catch (IOException e) {
             expenditures = new ArrayList<ExpenditureDataLog>();

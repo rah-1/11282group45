@@ -1,6 +1,5 @@
 package com.example.a45mph;
 
-import android.content.res.Resources;
 import android.os.Build;
 import android.util.Log;
 
@@ -8,7 +7,6 @@ import androidx.annotation.RequiresApi;
 
 import java.io.File;
 import java.io.IOException;
-import java.io.InvalidObjectException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Objects;
@@ -60,10 +58,16 @@ public class VehicleProfile extends DataLog {
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
-    public static ArrayList<VehicleProfile> loadVehicleProiles() throws IOException
+    public static ArrayList<VehicleProfile> loadVehicleProfiles() throws IOException
+    {
+        return loadVehicleProfiles(new File(FILEPATH));
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ArrayList<VehicleProfile> loadVehicleProfiles(File file) throws IOException
     {
         ArrayList<VehicleProfile> profiles = new ArrayList<>();
-        Scanner s = new Scanner(new File(FILEPATH));
+        Scanner s = new Scanner(file);
         // iterate through the file and read the vehicle profiles
         try {
             while (s.hasNextLine())
@@ -97,13 +101,13 @@ public class VehicleProfile extends DataLog {
         {
             Scanner line = makeLineScanner(s);
 
-            skipLines(line,4);
+            skipAttributes(line,4);
 
             String GramsCO2 = "0";
             String ACO2 = line.next();
             String CO2 = line.next();
 
-            skipLines(line, 4);
+            skipAttributes(line, 4);
 
             Fueltype ft = new Fueltype("Invalid");
             String fuel1 = line.next();
@@ -153,7 +157,7 @@ public class VehicleProfile extends DataLog {
                 throw new IOException("No Gas Type Selected");
             }
 
-            skipLines(line,2);
+            skipAttributes(line,2);
 
             String id = line.next();
             String fileMake = line.next();
@@ -191,7 +195,7 @@ public class VehicleProfile extends DataLog {
                     continue;
             }
 
-            skipLines(line,1);
+            skipAttributes(line,1);
 
             String trany = line.next();
             String fileYear = line.next();

@@ -90,7 +90,7 @@ public class FuelCostInstrumentTests {
     public void testCalculationAndLogging() {
         try
         {
-            assert InstrumentationTestHelper.setUpTests(FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
             double result1 = FuelCostActivity.calculateCost(2.5,50,false);
             assert (result1 == 125.00);
             double result2 = FuelCostActivity.calculateCost(2.0, 30, false);
@@ -108,7 +108,7 @@ public class FuelCostInstrumentTests {
             fuelExpenditure1.setEntry();
             fuelExpenditure2.setEntry();
 
-            FuelCalculators.transferLogs();
+            FuelCalculators.transferLogs(new File(ExpenditureDataLog.FILEPATH));
             assert (FuelCalculators.getFuelExpenditure().isEmpty());
 
             File f = new File(FILEPATH);

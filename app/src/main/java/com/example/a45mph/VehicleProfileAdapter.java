@@ -1,5 +1,6 @@
 package com.example.a45mph;
 
+import android.content.Context;
 import android.os.Build;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -23,16 +24,28 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
     public static VehicleProfile currentProfile;
 
     @RequiresApi(api = Build.VERSION_CODES.O)
-    public VehicleProfileAdapter()
-    {
+    public VehicleProfileAdapter() {
         try {
-            profiles = VehicleProfile.loadVehicleProiles();
+            profiles = VehicleProfile.loadVehicleProfiles();
             initProfile();
             Log.d("Profile Selection", "Listing Successful");
         } catch (IOException e) {
             profiles = new ArrayList<VehicleProfile>();
             Log.d("Profile Selection", "Listing Unsuccessful");
         }
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public VehicleProfileAdapter(Context c) {
+        try {
+            profiles = VehicleProfile.loadVehicleProfiles(c.getFileStreamPath(VehicleProfile.FILE));
+            initProfile();
+            Log.d("Profile Selection", "Listing Successful");
+        } catch (IOException e) {
+            profiles = new ArrayList<VehicleProfile>();
+            Log.d("Profile Selection", "Listing Unsuccessful");
+        }
+
     }
 
     @NonNull

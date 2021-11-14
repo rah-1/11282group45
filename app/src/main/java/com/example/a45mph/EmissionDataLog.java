@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 
 public class EmissionDataLog extends DataLog {
-    double gCO2;
+    private double gCO2;
     public final String FILEPATH = "data/data/com.example.a45mph/files/emissions.csv";
     public final String FILE = "emissions.csv";
 

@@ -33,6 +33,7 @@ public class GasMileageCalculatorActivity extends AppCompatActivity {
                 calculateMileage();
             }
         });
+
         distanceDrivenField = (EditText) findViewById(R.id.distancedrivenfield);
         fuelUsedField = (EditText) findViewById(R.id.fuelusedfield);
         resultText = (TextView) findViewById(R.id.mpgresulttext);
