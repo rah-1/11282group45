@@ -1,5 +1,6 @@
 package com.example.a45mph;
 
+import android.content.Context;
 import android.os.Build;
 import android.util.Log;
 
@@ -67,8 +68,14 @@ public class ExpenditureDataLog extends DataLog {
     @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<ExpenditureDataLog> loadExpenditureDataLogs() throws IOException
     {
+        return loadExpenditureDataLogs(new File(FILEPATH));
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ArrayList<ExpenditureDataLog> loadExpenditureDataLogs(File file) throws IOException
+    {
         ArrayList<ExpenditureDataLog> expends = new ArrayList<>();
-        Scanner s = new Scanner(new File(FILEPATH));
+        Scanner s = new Scanner(file);
         // iterate through the file and read the vehicle profiles
         try {
             while (s.hasNextLine())
@@ -85,8 +92,6 @@ public class ExpenditureDataLog extends DataLog {
             Log.d("Loading Expenditures","IOException Thrown");
             throw new IOException("Error Loading Expenditures");
         }
-
-
     }
 
     @Override

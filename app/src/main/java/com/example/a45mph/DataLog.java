@@ -52,7 +52,7 @@ public abstract class DataLog
         return lineScanner;
     }
 
-    public static void skipLines(Scanner lineScanner, int lines) throws IOException
+    public static void skipAttributes(Scanner lineScanner, int lines) throws IOException
     {
         if (lines < 0)
             throw new IOException();

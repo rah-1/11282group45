@@ -4,6 +4,7 @@ import android.os.Build;
 
 import androidx.annotation.RequiresApi;
 
+import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -16,11 +17,11 @@ abstract public class FuelCalculators {
         return fuelExpenditure;
     }
 
-    public static void transferLogs() throws IOException
+    public static void transferLogs(File file) throws IOException
     {
         for (ExpenditureDataLog ex : fuelExpenditure)
         {
-            ex.transfer();
+            ex.transfer(file);
         }
 
         fuelExpenditure.clear();

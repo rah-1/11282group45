@@ -13,12 +13,6 @@
             android:name=".VehicleSelectionActivity"
             android:exported="true" />
         <activity
-            android:name=".PersonalizedReportsActivity"
-            android:exported="true" />
-        <activity
-            android:name=".RecordsActivity"
-            android:exported="true" />
-        <activity
             android:name=".RecordTripActivity"
             android:exported="true" />
         <activity

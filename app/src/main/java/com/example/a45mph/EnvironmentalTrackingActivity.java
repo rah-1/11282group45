@@ -42,6 +42,4 @@ public class EnvironmentalTrackingActivity extends AppCompatActivity {
         }
     }
 
-    // devise methods for viewing environmental impact
-
 }

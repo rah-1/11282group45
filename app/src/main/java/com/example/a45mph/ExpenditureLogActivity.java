@@ -20,8 +20,7 @@ public class ExpenditureLogActivity extends AppCompatActivity {
 
         expendList = findViewById(R.id.expenditurelogrecyclerview);
         expendList.setLayoutManager(new LinearLayoutManager(this));
-        expendList.setAdapter(new ExpenditureDataLogAdapter());
-
+        expendList.setAdapter(new ExpenditureDataLogAdapter(this));
     }
 
 

@@ -1,5 +1,6 @@
 package com.example.a45mph;
 
+import android.content.Context;
 import android.os.Build;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -21,6 +22,18 @@ public class TripDataLogAdapter extends RecyclerView.Adapter {
     {
         try {
             tripLogs = TripDataLog.loadTripDataLogs();
+            Log.d("Trip Log Presentation", "Listing Successful");
+        } catch (IOException e) {
+            tripLogs = new ArrayList<TripDataLog>();
+            Log.d("Trip Log Presentation", "Listing Unsuccessful");
+        }
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public TripDataLogAdapter(Context c)
+    {
+        try {
+            tripLogs = TripDataLog.loadTripDataLogs(c.getFileStreamPath(TripDataLog.FILE));
             Log.d("Trip Log Presentation", "Listing Successful");
         } catch (IOException e) {
             tripLogs = new ArrayList<TripDataLog>();

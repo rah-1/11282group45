@@ -14,6 +14,7 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.TextView;
 
+import java.io.File;
 import java.io.IOException;
 
 public class FuelCostActivity extends AppCompatActivity {
@@ -46,15 +47,21 @@ public class FuelCostActivity extends AppCompatActivity {
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
-    public static double calculateCost(double unitPrice, double amtBought, boolean clear) throws IOException
+    public static double calculateCost(double unitPrice, double amtBought, File file, boolean clear) throws IOException
     {
         double result = FuelCalculators.fuelCost(unitPrice,amtBought);
 
         if(clear) {
-            FuelCalculators.transferLogs();
+            FuelCalculators.transferLogs(file);
         }
 
         return result;
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static double calculateCost(double unitPrice, double amtBought, boolean clear) throws IOException
+    {
+        return calculateCost(unitPrice,amtBought,new File(ExpenditureDataLog.FILEPATH),clear);
     }
 
     public static double calculateHypotheticalCost(double unitPrice, double amtBought)
@@ -63,7 +70,7 @@ public class FuelCostActivity extends AppCompatActivity {
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
-    public double calculateCost(boolean immediateTransfer)
+    public void calculateCost(boolean immediateTransfer)
     {
         boolean hypothetical = isHypotheticalCheck.isActivated();
         double result = -1; // this function returns -1 in the event of an error
@@ -77,7 +84,8 @@ public class FuelCostActivity extends AppCompatActivity {
             if (hypothetical)
             { result = calculateHypotheticalCost(unitCost,amtBought); }
             else
-            { result = calculateCost(unitCost,amtBought, immediateTransfer); }
+            { result = calculateCost(unitCost,amtBought, this.getFileStreamPath(ExpenditureDataLog.FILE),
+                    immediateTransfer); }
 
         } catch (NumberFormatException e) {
             // write to the screen that there is an issue with the input
@@ -101,8 +109,6 @@ public class FuelCostActivity extends AppCompatActivity {
             resultText.setText(resultString);
         else
             resultText.setText(errorMessage);
-
-        return result;
     }
 
 }

@@ -19,7 +19,7 @@ public class TripLogActivity extends AppCompatActivity {
 
         tripList = findViewById(R.id.triplogrecyclerview);
         tripList.setLayoutManager(new LinearLayoutManager(this));
-        tripList.setAdapter(new TripDataLogAdapter());
+        tripList.setAdapter(new TripDataLogAdapter(this));
 
     }
 }
