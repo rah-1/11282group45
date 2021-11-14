@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.45mph">
         <activity
-            android:name=".EconomyReaderActivity"
-            android:exported="true" />
-        <activity
             android:name=".VehicleSelectionActivity"
             android:exported="true" />
         <activity
@@ -23,9 +20,6 @@
             android:exported="true" />
         <activity
             android:name=".RecordTripActivity"
-            android:exported="true" />
-        <activity
-            android:name=".DrivingReportsActivity"
             android:exported="true" />
         <activity
             android:name=".VehicleProfilesActivity"
@@ -48,6 +42,10 @@
         <activity
             android:name=".FuelCostActivity"
             android:exported="true" />
+        <activity android:name=".ExpenditureLogActivity"
+            android:exported="true" />
+        <activity android:name=".TripLogActivity"
+            android:exported="true"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

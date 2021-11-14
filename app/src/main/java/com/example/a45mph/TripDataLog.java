@@ -1,14 +1,12 @@
 package com.example.a45mph;
 
 
-import android.content.Context;
 import android.os.Build;
 import android.util.Log;
 
 import androidx.annotation.RequiresApi;
 
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -18,7 +16,8 @@ public class TripDataLog extends DataLog {
     private double odometer;
     private double consumption;
     private double mileage;
-    public static final String FILEPATH = "/data/data/com.example.a45mph/tripLog.csv";
+    public static final String FILEPATH = "/data/data/com.example.a45mph/files/tripLog.csv";
+    public static final String FILE = "tripLog.csv";
 
     private void setAll(double odom, double con)
     {
@@ -86,6 +85,12 @@ public class TripDataLog extends DataLog {
     @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<TripDataLog> loadTripDataLogs() throws IOException
     {
+        return loadTripDataLogs(new File(FILEPATH));
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public static ArrayList<TripDataLog> loadTripDataLogs(File file) throws IOException
+    {
         ArrayList<TripDataLog> trips = new ArrayList<>();
         Scanner s = new Scanner(new File(FILEPATH));
         // iterate through the file and read the vehicle profiles
@@ -105,5 +110,4 @@ public class TripDataLog extends DataLog {
             throw new IOException("Error Reading Trips");
         }
     }
-
 }

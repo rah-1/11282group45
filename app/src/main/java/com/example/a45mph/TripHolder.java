@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.time.LocalDateTime;
 
 public class TripHolder extends RecyclerView.ViewHolder {
-    private View view;
+
     private TextView odom;
     private TextView con;
     private TextView time;
@@ -19,12 +19,12 @@ public class TripHolder extends RecyclerView.ViewHolder {
 
     public TripHolder(@NonNull View itemView) {
         super(itemView);
-        view = itemView;
-        odom = view.findViewById(R.id.odomtexttriplist);
-        con = view.findViewById(R.id.contexttriplist);
-        time = view.findViewById(R.id.timetexttriplist);
-        vehicle = view.findViewById(R.id.vehicletexttriplist);
-        layout = view.findViewById(R.id.triplistitem);
+
+        odom = itemView.findViewById(R.id.odomtexttriplist);
+        con = itemView.findViewById(R.id.contexttriplist);
+        time = itemView.findViewById(R.id.timetexttriplist);
+        vehicle = itemView.findViewById(R.id.vehicletexttriplist);
+        layout = itemView.findViewById(R.id.triplistitem);
     }
 
     public void setOdometer(double o) { odom.setText(Double.toString(o)); }

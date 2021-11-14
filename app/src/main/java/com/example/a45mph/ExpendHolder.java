@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.time.LocalDateTime;
 
 public class ExpendHolder extends RecyclerView.ViewHolder {
-    private View view;
+
     private TextView exp;
     private TextView amt;
     private TextView time;
@@ -19,12 +19,12 @@ public class ExpendHolder extends RecyclerView.ViewHolder {
 
     public ExpendHolder(@NonNull View itemView) {
         super(itemView);
-        view = itemView;
-        exp = view.findViewById(R.id.expendituretextexpenditurelist);
-        amt = view.findViewById(R.id.amtboughttextexpenditurelist);
-        time = view.findViewById(R.id.timetextexpenditurelist);
-        vehicle = view.findViewById(R.id.vehicletextexpenditurelist);
-        layout = view.findViewById(R.id.expenditurelistitem);
+
+        exp = itemView.findViewById(R.id.expendituretextexpenditurelist);
+        amt = itemView.findViewById(R.id.amtboughttextexpenditurelist);
+        time = itemView.findViewById(R.id.timetextexpenditurelist);
+        vehicle = itemView.findViewById(R.id.vehicletextexpenditurelist);
+        layout = itemView.findViewById(R.id.expenditurelistitem);
     }
 
     public void setExpenditure(double e) { exp.setText(Double.toString(e)); }

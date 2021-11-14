@@ -32,6 +32,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
     private EditText speed;
     private RadioButton gas;
     private RadioButton diesel;
+    private RadioButton electricity;
     private ImageButton createButton;
     private Button selectButton;
     private static ArrayList<VehicleProfile> vehicleArray;
@@ -64,6 +65,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
         year = (EditText) findViewById(R.id.yearedittextvehicleprofiles);
         gas = (RadioButton) findViewById(R.id.gasbuttonvehicleprofiles);
         diesel = (RadioButton) findViewById(R.id.dieselbuttonvehicleprofiles);
+        electricity = (RadioButton) findViewById(R.id.electricityradiobuttonvehicleprofiles);
         makeText = (EditText) findViewById(R.id.vehicleprofilemake);
         modelText = (EditText) findViewById(R.id.vehicleprofilemodel);
         nameText = (EditText) findViewById(R.id.vehicleprofilename);
@@ -104,6 +106,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             boolean man = manual.isChecked();
             boolean gas = this.gas.isChecked();
             boolean diesel = this.diesel.isChecked();
+            boolean electricity = this.electricity.isChecked();
             String speed = this.speed.getText().toString();
 
             // read data out of the economy file to make a new vehicle
@@ -113,7 +116,7 @@ public class VehicleProfilesActivity extends AppCompatActivity {
             // search through the file for a record that matches with the given one,
             // create profile in current system, and return result
             VehicleProfile vp = VehicleProfile.searchProfile(make, model, name, year, gas,
-                    diesel, auto, man, speed, s);
+                    diesel, electricity, auto, man, speed, s);
 
             if (vp == null)
                 throw new IOException("Duplicate Profile Name");

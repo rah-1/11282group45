@@ -37,20 +37,11 @@ public class TripDataLogAdapter extends RecyclerView.Adapter {
     @Override
     public void onBindViewHolder(@NonNull RecyclerView.ViewHolder holder, int position) {
         TripHolder trip = (TripHolder) holder;
+
         trip.setConsumption(tripLogs.get(position).getConsumption());
         trip.setOdometer(tripLogs.get(position).getOdometer());
         trip.setTime(tripLogs.get(position).getTime());
         trip.setVehicle(tripLogs.get(position).getVehicle());
-
-        trip.getLayout().setOnClickListener(new View.OnClickListener() {
-            @RequiresApi(api = Build.VERSION_CODES.O)
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
-
-
     }
 
     @Override

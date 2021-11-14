@@ -17,7 +17,6 @@ public class GasMileageCalculatorActivity extends AppCompatActivity {
     private Button calculateButton;
     private EditText fuelUsedField;
     private EditText distanceDrivenField;
-    private TextView mpgResultText;
     private TextView resultText;
 
 

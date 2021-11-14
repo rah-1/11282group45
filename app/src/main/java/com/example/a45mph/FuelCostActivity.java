@@ -39,8 +39,8 @@ public class FuelCostActivity extends AppCompatActivity {
         });
 
 
-        unitCostField = (EditText) findViewById(R.id.fuelcostfuelamountfield);
-        amtBoughtField = (EditText) findViewById(R.id.fuelcostunitpricefield);
+        unitCostField = (EditText) findViewById(R.id.fuelcostunitpricefield);
+        amtBoughtField = (EditText) findViewById(R.id.fuelcostfuelamountfield);
         isHypotheticalCheck = (CheckBox) findViewById(R.id.ishypotheticalcheck);
         resultText = (TextView) findViewById(R.id.fuelcostresulttext);
     }
