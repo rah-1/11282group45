@@ -27,6 +27,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter(this);
 
+        if (VehicleProfileAdapter.currentProfile != null)
+            VehicleSelectionActivity.showCurrentProfile(this);
+        else
+            VehicleSelectionActivity.warnNoSelection(this,"No Profile Selected.");
+
         recordTripButton = (Button) findViewById(R.id.recordtripbutton);
         recordTripButton.setOnClickListener(new View.OnClickListener() {
             @Override

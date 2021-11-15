@@ -65,8 +65,7 @@ public class VehicleProfileAdapter extends RecyclerView.Adapter {
             @Override
             public void onClick(View v) {
                 selectProfile(profileHolder.getAdapterPosition());
-                Toast t = Toast.makeText(v.getContext(),"Current Profile is " + currentProfile.getName(),Toast.LENGTH_LONG);
-                t.show();
+                VehicleSelectionActivity.showCurrentProfile(v.getContext());
             }
         });
     }
