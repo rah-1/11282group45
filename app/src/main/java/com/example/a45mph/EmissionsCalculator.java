@@ -15,7 +15,8 @@ public abstract class EmissionsCalculator {
 
     public static double getTripEmissions(TripDataLog trip)
     {
-        return trip.getOdometer() * trip.getVehicle().getCO2();
+        double result = trip.getOdometer() * trip.getVehicle().getCO2();
+        return Math.round(result * 100) / 100.0;
     }
 
     public static double getTotalEmissions(Scanner s, VehicleProfile vp)
@@ -29,7 +30,7 @@ public abstract class EmissionsCalculator {
                 sum += getTripEmissions(trip);
         }
 
-        return sum;
+        return Math.round(sum * 100) / 100.0;
     }
 
     public static double getAverageEmissions(Scanner s, VehicleProfile vp)
@@ -50,7 +51,7 @@ public abstract class EmissionsCalculator {
         if (sum == 0 || i == 0)
             return 0;
 
-        return sum / i;
+        return Math.round((sum / i) * 100) / 100.0;
     }
 
     public static ArrayList<EmissionDataLog> getAllEmissions(File file) throws IOException {

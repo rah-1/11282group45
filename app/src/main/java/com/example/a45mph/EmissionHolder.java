@@ -41,7 +41,7 @@ public class EmissionHolder extends RecyclerView.ViewHolder {
     }
 
     public void setTripTime(LocalDateTime t) {
-        tripTime.setText(t.toString());
+        tripTime.setText(DataLog.getDateAndTime(t));
     }
     public void setTripTime(String t) {
         tripTime.setText(t);

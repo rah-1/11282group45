@@ -33,7 +33,7 @@ public class ExpendHolder extends RecyclerView.ViewHolder {
     public void setAmountBought(double a) { amt.setText(Double.toString(a));}
     public void setAmountBought(String a) { amt.setText(a); }
 
-    public void setTime(LocalDateTime t) { time.setText(t.toString()); }
+    public void setTime(LocalDateTime t) { time.setText(DataLog.getDateAndTime(t)); }
     public void setTime(String t) { time.setText(t); }
 
     public void setVehicle(VehicleProfile v) { vehicle.setText(v.getName()); }

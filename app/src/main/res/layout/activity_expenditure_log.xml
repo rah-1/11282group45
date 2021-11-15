@@ -20,7 +20,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/expenditurelogrecyclerview"
         android:layout_width="match_parent"
-        android:layout_height="640dp"
+        android:layout_height="500dp"
         android:layout_marginTop="92dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
