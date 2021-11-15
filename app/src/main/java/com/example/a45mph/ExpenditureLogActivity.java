@@ -11,8 +11,6 @@ import android.os.Bundle;
 public class ExpenditureLogActivity extends AppCompatActivity {
     private RecyclerView expendList;
 
-
-    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

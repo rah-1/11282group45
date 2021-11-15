@@ -1,0 +1,1148 @@
+barrels08,barrelsA08,city08,cityA08,co2TailpipeAGpm,co2TailpipeGpm,comb08,combA08,fuelCost08,fuelCostA08,fuelType,fuelType1,highway08,highwayA08,id,make,model,mpgData,trany,year,trans_dscr,atvType,fuelType2,phevCity,phevHwy,phevComb
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31082,Audi,R8,N,Automatic (AM6),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,31083,Audi,R8,N,Manual 6-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31084,Audi,R8 Spyder,N,Automatic (AM6),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,31085,Audi,R8 Spyder,N,Manual 6-spd,2012,,,,0,0,0
+23.54357143,7.491,12,8,629.5,634.7857143,14,10,4150,3600,Premium or E85,Premium Gasoline,19,14,31086,Bentley,Continental Supersports,N,Automatic (S6),2012,,FFV,E85,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,31087,Lamborghini,Aventador Coupe,N,Automatic (S7),2012,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,16,0,31089,Lexus,LFA,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31090,Porsche,911 Speedster,N,Automatic 7-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31091,Porsche,Boxster,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,31092,Porsche,Boxster,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31093,Porsche,Boxster S,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31094,Porsche,Boxster S,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31095,Porsche,Boxster Spyder,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,31096,Porsche,Boxster Spyder,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31097,Porsche,Cayman,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,31098,Porsche,Cayman,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31099,Porsche,Cayman R,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,31100,Porsche,Cayman R,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31101,Porsche,Cayman S,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31102,Porsche,Cayman S,N,Manual 6-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,31103,Aston Martin,DB9,N,Automatic (S6),2012,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,31104,Aston Martin,DB9,N,Manual 6-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31105,Aston Martin,DBS,N,Automatic (S6),2012,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,31106,Aston Martin,DBS,N,Manual 6-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,31107,Aston Martin,Virage,N,Automatic (S6),2012,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,33,0,31108,Fiat,500,Y,Automatic 6-spd,2012,,,,0,0,0
+10.3003125,0,30,0,0,277.71875,32,0,1800,0,Premium,Premium Gasoline,37,0,31109,Fiat,500,Y,Manual 5-spd,2012,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,32,0,31110,Fiat,500 Cabrio,Y,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31111,Mitsubishi,Eclipse Spyder,N,Automatic (S4),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31112,Mitsubishi,Eclipse Spyder,N,Automatic (S5),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,31113,Porsche,911 Carrera,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31114,Porsche,911 Carrera,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31115,Porsche,911 Carrera 4,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,31116,Porsche,911 Carrera 4,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31117,Porsche,911 Carrera 4 Cabriolet,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31118,Porsche,911 Carrera 4 Cabriolet,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31119,Porsche,911 Carrera 4 Targa,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31120,Porsche,911 Carrera 4 Targa,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31121,Porsche,911 Carrera 4S,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31122,Porsche,911 Carrera 4S,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31123,Porsche,911 Carrera 4S Cabriolet,N,Automatic 7-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,31124,Porsche,911 Carrera 4S Cabriolet,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31125,Porsche,911 Carrera 4S Targa,N,Automatic 7-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,31126,Porsche,911 Carrera 4S Targa,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31127,Porsche,911 Carrera Cabriolet,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31128,Porsche,911 Carrera Cabriolet,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31129,Porsche,911 Carrera S,N,Automatic 7-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31130,Porsche,911 Carrera S,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31131,Porsche,911 Carrera S Cabriolet,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31132,Porsche,911 Carrera S Cabriolet,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31133,Porsche,911 GTS,N,Automatic 7-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31134,Porsche,911 GTS,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31135,Porsche,911 GTS Cabriolet,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31136,Porsche,911 GTS Cabriolet,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31137,Porsche,911 Turbo Cabriolet,N,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31138,Porsche,911 Turbo Cabriolet,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31139,Porsche,911 Turbo Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31140,Porsche,911 Turbo Coupe,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31141,Porsche,911 Turbo S Cabriolet,N,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31142,Porsche,911 Turbo S Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31143,Aston Martin,Rapide,N,Automatic (S6),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,31144,Audi,A5 Cabriolet,N,Automatic (variable gear ratios),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,31145,Audi,A5 Cabriolet quattro,N,Automatic (S8),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,31146,Audi,A5 quattro,N,Automatic (S8),2012,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,31147,Audi,A5 quattro,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31148,Audi,S5,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31149,Audi,S5,Y,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,31150,Audi,S5 Cabriolet,N,Automatic (S7),2012,,,,0,0,0
+23.54357143,7.491,12,8,629.5,634.7857143,14,10,4150,3600,Premium or E85,Premium Gasoline,19,14,31151,Bentley,Continental Supersports Convertible,N,Automatic (S6),2012,,FFV,E85,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31152,BMW,128ci Convertible,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,31153,BMW,128ci Convertible,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,31154,BMW,128i,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,31155,BMW,128i,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31156,BMW,135i,N,Automatic (S7),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,31157,BMW,135i,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31158,BMW,135i Convertible,N,Automatic (S7),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,31159,BMW,135i Convertible,N,Manual 6-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31160,BMW,650i Convertible,N,Automatic (S8),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31161,BMW,650i Convertible,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,30,0,31162,Ford,Mustang,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,31163,Ford,Mustang,Y,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,31164,Ford,Mustang,Y,Automatic 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,31165,Ford,Mustang,Y,Manual 6-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31166,Ford,Mustang,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,31167,Ford,Mustang Convertible,Y,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,31168,Mitsubishi,Eclipse,N,Automatic (S4),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31169,Mitsubishi,Eclipse,N,Manual 5-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31170,Mitsubishi,Eclipse,N,Automatic (S5),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31171,Nissan,GT-R,N,Automatic (AM6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,31172,Roush Performance,Stage 3 Mustang,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,31173,Volkswagen,Beetle,N,Automatic (S6),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31174,Volkswagen,Beetle,N,Automatic (S6),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,31175,Volkswagen,Eos,Y,Automatic (S6),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,31176,Audi,A4,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,31177,Audi,A4 quattro,Y,Automatic (S8),2012,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,31178,Audi,A4 quattro,Y,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,31179,Audi,S4,Y,Automatic (S7),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,31180,Audi,S4,N,Manual 6-spd,2012,,,,0,0,0
+23.54357143,7.491,12,8,629.5,634.7857143,14,10,4150,3600,Premium or E85,Premium Gasoline,19,14,31181,Bentley,Continental GT,N,Automatic (S6),2012,,FFV,E85,0,0,0
+10.63258065,0,27,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,37,0,31182,Ford,Focus FWD,Y,Automatic (AM6),2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,36,0,31183,Ford,Focus FWD,Y,Automatic (AM-S6),2012,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,31184,Ford,Focus FWD,Y,Manual 5-spd,2012,,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,39,0,31185,Ford,Focus SFE FWD,Y,Automatic (AM6),2012,,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,38,0,31186,Honda,Civic,Y,Automatic 5-spd,2012,,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,35,0,31187,Honda,Civic,Y,Manual 5-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,31188,Honda,Civic,Y,Manual 6-spd,2012,,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,39,0,31189,Honda,Civic HF,Y,Automatic 5-spd,2012,,,,0,0,0
+7.491136364,0,43,0,0,201.9772727,44,0,1100,0,Regular,Regular Gasoline,44,0,31190,Honda,Civic Hybrid,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,37,0,31191,Hyundai,Accent,Y,Automatic 6-spd,2012,,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,37,0,31192,Hyundai,Accent,Y,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,31193,Saab,9-3 Sedan AWD,N,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,30,0,31194,Saab,9-3 Sedan AWD,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,31195,Volkswagen,CC,N,Automatic (S6),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,31,0,31196,Volkswagen,CC,Y,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31197,Volkswagen,CC 4motion,N,Automatic (S6),2012,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31198,Volkswagen,Golf,N,Automatic (S6),2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,33,0,31199,Volkswagen,Golf,Y,Manual 5-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,33,0,31200,Volkswagen,GTI,Y,Automatic (S6),2012,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,31201,Volkswagen,GTI,Y,Manual 6-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,32,0,31202,Volkswagen,Jetta,Y,Automatic (S6),2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,33,0,31203,Volkswagen,Jetta,Y,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31204,Volkswagen,Jetta,Y,Automatic (S6),2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,33,0,31205,Volkswagen,Jetta,Y,Manual 5-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,31206,Volvo,C30 FWD,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31207,Volvo,S60 AWD,Y,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,30,0,31208,Volvo,S60 FWD,Y,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31209,Acura,TL 2WD,Y,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31210,Acura,TL 4WD,Y,Automatic (S6),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,31211,Acura,TL 4WD,Y,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,33,0,31212,Audi,A6,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,31213,Audi,A6 quattro,Y,Automatic (S8),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,31214,Audi,A7 quattro,Y,Automatic (S8),2012,,,,0,0,0
+23.54357143,7.491,11,8,629.5,634.7857143,14,10,4150,3600,Premium or E85,Premium Gasoline,19,13,31215,Bentley,Continental Flying Spur,N,Automatic (S6),2012,,FFV,E85,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,38,0,31216,Hyundai,Elantra,Y,Automatic 6-spd,2012,,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,38,0,31217,Hyundai,Elantra,Y,Manual 6-spd,2012,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,31,0,31218,Infiniti,M35h,Y,Automatic (S7),2012,,Hybrid,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31219,Infiniti,M37,N,Automatic (S7),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,31220,Infiniti,M37x,N,Automatic (S7),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31221,Infiniti,M56,N,Automatic (S7),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31222,Infiniti,M56x,N,Automatic (S7),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,31223,Mazda,6,Y,Automatic (S5),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,31224,Mazda,6,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31225,Mazda,6,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,31227,Audi,A8 L,N,Automatic (S8),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31228,BMW,740i,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31229,BMW,740Li,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31230,BMW,750i,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31231,BMW,750i xDrive,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31232,BMW,750Li,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31233,BMW,750Li xDrive,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31234,BMW,Alpina B7 LWB,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31235,BMW,Alpina B7 LWB xDrive,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31236,BMW,Alpina B7 SWB,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31237,BMW,Alpina B7 SWB xDrive,N,Automatic (S6),2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31238,Hyundai,Equus,N,Automatic 8-spd,2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,31239,Hyundai,Genesis,Y,Automatic 8-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,31240,Hyundai,Genesis,Y,Automatic 8-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,31241,Hyundai,Genesis R-Spec,N,Automatic 8-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,31242,Audi,A4 Avant quattro,Y,Automatic (S8),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,31243,Saab,9-3X SportCombi AWD,N,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,30,0,31244,Saab,9-3X SportCombi AWD,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31245,Scion,xB,Y,Automatic (S4),2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31246,Scion,xB,Y,Manual 5-spd,2012,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31247,Volkswagen,Jetta SportWagen,Y,Automatic (S6),2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,33,0,31248,Volkswagen,Jetta SportWagen,N,Manual 5-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31249,Kia,Rondo,N,Automatic 4-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31250,Kia,Rondo,N,Automatic 5-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,31251,Chevrolet,Colorado 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31252,Chevrolet,Colorado 2WD,N,Manual 5-spd,2012,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,31253,Chevrolet,Colorado 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,31254,Chevrolet,Colorado Crew Cab 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31255,Chevrolet,Colorado Crew Cab 2WD,N,Manual 5-spd,2012,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,31256,Chevrolet,Colorado Crew Cab 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,31257,GMC,Canyon 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31258,GMC,Canyon 2WD,N,Manual 5-spd,2012,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,31259,GMC,Canyon 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,31260,GMC,Canyon Crew Cab 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31261,GMC,Canyon Crew Cab 2WD,N,Manual 5-spd,2012,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,31262,GMC,Canyon Crew Cab 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,31263,Chevrolet,Colorado 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31264,Chevrolet,Colorado 4WD,N,Manual 5-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,31265,Chevrolet,Colorado 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,31266,Chevrolet,Colorado Crew Cab 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,31267,GMC,Canyon 4WD,Y,Automatic 4-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31268,GMC,Canyon 4WD,N,Manual 5-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,31269,GMC,Canyon 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,31270,GMC,Canyon Crew Cab 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,31271,Chevrolet,Express 1500 2WD Cargo,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,13,10,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,31272,Chevrolet,Express 1500 2WD Conversion Cargo,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,31273,Chevrolet,Express 1500 AWD Cargo,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,31274,Chevrolet,Express 1500 AWD Conversion Cargo,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,31275,GMC,Savana 1500 2WD (cargo),N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,13,10,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,31276,GMC,Savana 1500 2WD Conversion (cargo),N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,31277,GMC,Savana 1500  AWD (cargo),N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,31278,GMC,Savana 1500  AWD Conversion (cargo),N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,13,10,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,31279,Chevrolet,Express 1500 2WD Passenger,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,31280,Chevrolet,Express 1500 AWD Passenger,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,13,10,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,17,13,31281,GMC,Savana 1500 2WD (Passenger),N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,31282,GMC,Savana 1500 AWD (Passenger),N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,31283,Kia,Sedona,Y,Automatic 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,31284,Mazda,5,Y,Automatic (S5),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,31285,Mazda,5,Y,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31286,Hyundai,Tucson 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31287,Hyundai,Tucson 2WD,N,Manual 5-spd,2012,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,31288,Hyundai,Tucson 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31289,Hyundai,Tucson 2WD,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,31290,Kia,Sorento 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,31291,Kia,Sorento 2WD,N,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31292,Kia,Sorento 2WD,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,31293,Kia,Sorento 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,31294,Kia,Sportage 2WD,N,Automatic 6-spd,2012,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,31295,Kia,Sportage 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31296,Kia,Sportage 2WD,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,31297,Audi,Q5,Y,Automatic (S8),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,23,0,31298,Audi,Q5,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31299,BMW,X5 xDrive35i,N,Automatic (S8),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31300,BMW,X5 xDrive50i,N,Automatic (S8),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,31301,BMW,X5 xDriveM,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31302,BMW,X6 xDrive35i,N,Automatic (S8),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31303,BMW,X6 xDrive50i,N,Automatic (S8),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,31304,BMW,X6 xDriveM,N,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31305,Hyundai,Tucson 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31306,Hyundai,Tucson 4WD,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31307,Kia,Sorento 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,31308,Kia,Sorento 4WD,N,Automatic 6-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31309,Kia,Sorento 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,31310,Kia,Sportage 4WD,N,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31311,Kia,Sportage 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31312,Kia,Sportage 4WD,N,Manual 6-spd,2012,,,,0,0,0
+17.37204545,0,19,0,0,463,22,0,2300,0,Diesel,Diesel,26,0,31313,Volkswagen,Touareg,Y,Automatic (S8),2012,,Diesel,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,31314,Aston Martin,V12 Vantage,N,Manual 6-spd,2012,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,38,0,31315,Chevrolet,Cruze Eco,Y,Automatic 6-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31323,Aston Martin,V8 Vantage,N,Manual 6-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,31324,Aston Martin,V8 Vantage S,N,Automatic (AM7),2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,31325,Chevrolet,Corvette,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,25,0,31326,Chevrolet,Corvette,N,Manual 6-spd,2012,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,31327,Chevrolet,Corvette,N,Manual 6-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,31328,Chevrolet,Corvette,N,Manual 6-spd,2012,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31329,Lamborghini,Gallardo Coupe,N,Automatic (AM6),2012,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31330,Lamborghini,Gallardo Spyder,N,Automatic (AM6),2012,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31331,Mercedes-Benz,SL550,N,Automatic 7-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,31332,Mercedes-Benz,SL63 AMG,N,Automatic 7-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31333,Mercedes-Benz,SLS AMG,N,Automatic (AM7),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31334,Porsche,911 C4 GTS,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31335,Porsche,911 C4 GTS,N,Automatic 7-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,31336,Porsche,911 C4 GTS Cabriolet,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31337,Porsche,911 C4 GTS Cabriolet,N,Automatic 7-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31338,Hyundai,Genesis Coupe,N,Automatic 5-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,30,0,31339,Hyundai,Genesis Coupe,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,31340,Hyundai,Genesis Coupe,N,Automatic 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,31341,Hyundai,Genesis Coupe,N,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31342,Nissan,Altima Coupe,Y,Automatic (AV-S6),2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31343,Nissan,Altima Coupe,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31344,Nissan,Altima Coupe,N,Automatic (AV-S6),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,31345,Chevrolet,Camaro,Y,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31346,Chevrolet,Camaro,Y,Manual 6-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,31347,Chevrolet,Camaro,Y,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,31348,Chevrolet,Camaro,Y,Automatic 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,31349,Chevrolet,Camaro,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,31350,Chrysler,200 Convertible,N,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,4.681875,19,14,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,28,21,31351,Chrysler,200 Convertible,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31352,Rolls-Royce,Phantom Drophead Coupe,N,Automatic (S6),2012,,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31353,Rolls-Royce,Phantom Coupe,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,4.406470588,19,14,370.2941176,403.9545455,22,17,2150,2100,Gasoline or E85,Regular Gasoline,29,20,31354,Saab,9-3 Sport Sedan,N,Automatic (S6),2012,,FFV,E85,0,0,0
+13.73375,4.161666667,20,15,349.7222222,370.2916667,24,18,2000,2000,Gasoline or E85,Regular Gasoline,32,23,31355,Saab,9-3 Sport Sedan,N,Manual 6-spd,2012,,FFV,E85,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,31356,Scion,tC,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,31357,Scion,tC,N,Automatic (S6),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,31358,Volvo,C30 FWD,N,Automatic (S5),2012,,,,0,0,0
+14.98227273,4.681875,18,13,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,29,21,31359,Buick,Regal,Y,Automatic (S6),2012,,FFV,E85,0,0,0
+13.73375,4.406470588,20,15,370.2941176,370.2916667,24,17,2000,2100,Gasoline or E85,Regular Gasoline,31,22,31360,Buick,Regal,N,Manual 6-spd,2012,,FFV,E85,0,0,0
+15.69571429,4.994,17,13,419.6666667,423.1904762,21,15,2250,2400,Gasoline or E85,Regular Gasoline,27,19,31361,Buick,LaCrosse,N,Automatic (S6),2012,,FFV,E85,0,0,0
+16.4805,5.350714286,16,12,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,26,18,31362,Buick,LaCrosse AWD,N,Automatic (S6),2012,,FFV,E85,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,35,0,31363,Buick,Regal eAssist,Y,Automatic (AV-S6),2012,,Hybrid,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,35,0,31364,Buick,LaCrosse eAssist,Y,Automatic (AV-S6),2012,,Hybrid,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31365,Cadillac,CTS,N,Automatic (S6),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31366,Cadillac,CTS,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,31367,Cadillac,CTS,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,26,0,31368,Cadillac,CTS,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31369,Cadillac,CTS AWD,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,36,0,31370,Chevrolet,Cruze,Y,Automatic (S6),2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,34,0,31371,Chevrolet,Cruze,Y,Automatic (S6),2012,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,37,0,31372,Chevrolet,Cruze,N,Manual 6-spd,2012,,,,0,0,0
+11.36586207,0,25,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,31373,Chevrolet,Cruze,Y,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,31374,Chevrolet,Malibu,Y,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,31375,Chevrolet,Malibu,N,Automatic (S6),2012,,,,0,0,0
+12.67730769,4.406470588,22,15,370.2941176,341.8076923,26,17,1850,2100,Gasoline or E85,Regular Gasoline,33,23,31376,Chevrolet,Malibu,Y,Automatic (S6),2012,,FFV,E85,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,40,0,31377,Chevrolet,Cruze Eco,Y,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,31378,Chrysler,200,N,Automatic 4-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,30,0,31379,Chrysler,200,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,4.681875,19,14,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,28,21,31380,Chrysler,200,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,23,0,31381,Dodge,Challenger SRT8,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,31382,Dodge,Avenger,Y,Automatic 4-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,30,0,31383,Dodge,Avenger,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,4.681875,19,14,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,28,21,31384,Dodge,Avenger,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,31385,Ford,Fusion FWD,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31386,Ford,Fusion AWD,N,Automatic (S6),2012,,,,0,0,0
+16.4805,4.994,18,13,419.6666667,444.35,20,15,2400,2400,Gasoline or E85,Regular Gasoline,25,18,31387,Ford,Fusion AWD FFV,Y,Automatic (S6),2012,,FFV,E85,0,0,0
+8.673947368,0,41,0,0,233.8684211,38,0,1250,0,Regular,Regular Gasoline,35,0,31388,Ford,Fusion Hybrid FWD,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,31389,Ford,Fusion S FWD,Y,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,31390,Ford,Fusion FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,31391,Ford,Fusion FWD,Y,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31392,Ford,Fusion FWD,Y,Automatic (S6),2012,,,,0,0,0
+14.33086957,4.681875,20,14,393.4375,386.3913043,23,16,2050,2250,Gasoline or E85,Regular Gasoline,28,20,31393,Ford,Fusion FWD FFV,Y,Automatic (S6),2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31394,Lincoln,MKZ AWD,N,Automatic (S6),2012,,,,0,0,0
+8.673947368,0,41,0,0,233.8684211,38,0,1250,0,Regular,Regular Gasoline,35,0,31395,Lincoln,MKZ Hybrid FWD,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31396,Lincoln,MKZ FWD,N,Automatic (S6),2012,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,34,0,31397,Nissan,Sentra,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,31398,Nissan,Sentra,N,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,31399,Nissan,Sentra,N,Automatic (AV-S6),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,31400,Nissan,Sentra,N,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,31401,Nissan,Altima,Y,Automatic (AV-S6),2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,31402,Nissan,Altima,Y,Automatic (AV-S6),2012,,,,0,0,0
+15.69571429,4.681875,18,13,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,28,21,31403,Saab,9-5 Sedan,N,Automatic (S6),2012,,FFV,E85,0,0,0
+13.73375,4.161666667,20,15,349.7222222,370.2916667,24,18,2000,2000,Gasoline or E85,Regular Gasoline,32,23,31404,Saab,9-5 Sedan,N,Manual 6-spd,2012,,FFV,E85,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,31405,Volvo,S80 FWD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31406,Volvo,S80 AWD,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,29,0,31407,Chevrolet,Impala,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,4.681875,18,14,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,29,22,31408,Chevrolet,Impala,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,33,0,31409,Hyundai,Sonata,Y,Automatic 6-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,31410,Hyundai,Sonata,Y,Automatic 6-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,31411,Hyundai,Sonata,Y,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31412,Hyundai,Genesis,Y,Automatic 8-spd,2012,,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31413,Rolls-Royce,Phantom,N,Automatic (S6),2012,,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31414,Rolls-Royce,Phantom EWB,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31415,Cadillac,CTS Wagon,Y,Automatic (S6),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31416,Cadillac,CTS Wagon,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,31417,Cadillac,CTS Wagon,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31418,Cadillac,CTS Wagon AWD,N,Automatic (S6),2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,31419,Hyundai,Elantra Touring,Y,Automatic 4-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,31420,Hyundai,Elantra Touring,N,Manual 5-spd,2012,,,,0,0,0
+15.69571429,4.681875,18,13,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,28,21,31421,Saab,9-3 SportCombi,N,Automatic (S6),2012,,FFV,E85,0,0,0
+13.73375,4.161666667,20,15,349.7222222,370.2916667,24,18,2000,2000,Gasoline or E85,Regular Gasoline,32,23,31422,Saab,9-3 SportCombi,N,Manual 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31423,Chevrolet,Colorado 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31424,Chevrolet,Colorado Crew Cab 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31425,Chevrolet,Colorado Cab Chassis inc 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31426,GMC,Canyon 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31427,GMC,Canyon Cab Chassis Inc 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31428,GMC,Canyon Crew Cab 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,31429,Chevrolet,Colorado 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,31430,Chevrolet,Colorado Crew Cab 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,31431,Chevrolet,Colorado Cab Chassis inc 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31432,GMC,Canyon 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,31433,GMC,Canyon Crew Cab 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,31434,GMC,Canyon Cab Chassis Inc 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31435,Chevrolet,Silverado C15 2WD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,31436,Chevrolet,Silverado C15 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31437,Chevrolet,Silverado C15 2WD,Y,Automatic 4-spd,2012,,,,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,31438,Chevrolet,Silverado C15 2WD,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+18.31166667,5.762307692,15,11,484.2307692,493.7222222,18,13,2650,2750,Gasoline or E85,Regular Gasoline,22,16,31439,Chevrolet,Silverado C15 XFE 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,31440,Dodge,Ram 1500 Pickup 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3400,0,Midgrade,Midgrade Gasoline,20,0,31441,Dodge,Ram 1500 Pickup 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+18.31166667,5.762307692,15,11,484.2307692,493.7222222,18,13,2650,2750,Gasoline or E85,Regular Gasoline,22,16,31442,GMC,Sierra C15 XFE 2WD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31443,GMC,Sierra C15 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,31444,GMC,Sierra C15 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31445,GMC,Sierra C15 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,31446,GMC,Sierra C15 2WD,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31447,Chevrolet,Silverado K15 4WD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,12,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,31448,Chevrolet,Silverado K15 4WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,31449,Chevrolet,Silverado K15 4WD,Y,Automatic 4-spd,2012,,,,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,31450,Chevrolet,Silverado K15 4WD,Y,Automatic 4-spd,2012,,FFV,E85,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3650,0,Midgrade,Midgrade Gasoline,19,0,31451,Dodge,Ram 1500 Pickup 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31452,GMC,Sierra K15 4WD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,12,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,31453,GMC,Sierra K15 4WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,31454,GMC,Sierra K15 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,31455,GMC,Sierra K15 4WD,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,12,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,31456,GMC,Sierra K15 AWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31457,Chevrolet,Express 1500 2WD Cargo,N,Automatic 4-spd,2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31458,Ford,Transit Connect Van,N,Automatic 4-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31459,GMC,Savana 1500 2WD (cargo),N,Automatic 4-spd,2012,,,,0,0,0
+14.33086957,0,22,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,31460,Ford,Transit Connect Wagon FWD,N,Automatic 4-spd,2012,,,,0,0,0
+16.4805,5.350714286,17,12,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,25,18,31461,Chrysler,Town and Country,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+16.4805,5.350714286,17,12,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,25,18,31462,Dodge,Grand Caravan,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+16.4805,5.350714286,17,12,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,25,18,31463,Volkswagen,Routan,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31464,Buick,Enclave FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,18,15,31465,Cadillac,Escalade 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,18,15,31466,Cadillac,Escalade ESV 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31467,Chevrolet,Equinox FWD,N,Automatic 6-spd,2012,,,,0,0,0
+12.67730769,4.406470588,22,15,370.2941176,341.8076923,26,17,1850,2100,Gasoline or E85,Regular Gasoline,31,21,31468,Chevrolet,Equinox FWD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+16.4805,5.350714286,17,12,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,24,17,31469,Chevrolet,Equinox FWD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31470,Chevrolet,Tahoe 1500 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31471,Chevrolet,Avalanche 1500 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31472,Chevrolet,Suburban 1500 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31473,Chevrolet,Traverse FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,5.350714286,16,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,31474,Dodge,Durango 2WD,N,Automatic 5-spd,2012,,FFV,E85,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3400,0,Midgrade,Midgrade Gasoline,20,0,31475,Dodge,Durango 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31476,Dodge,Journey FWD,Y,Automatic 4-spd,2012,,,,0,0,0
+16.4805,5.350714286,17,12,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,25,18,31477,Dodge,Journey FWD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31478,Ford,Flex FWD,N,Automatic 6-spd,2012,,,,0,0,0
+10.3003125,0,34,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,30,0,31479,Ford,Escape Hybrid FWD,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+15.69571429,4.681875,19,14,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,25,18,31480,Ford,Escape FWD FFV,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31481,Ford,Escape FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,31482,Ford,Escape FWD,N,Manual 5-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31483,GMC,Terrain FWD,N,Automatic 6-spd,2012,,,,0,0,0
+12.67730769,4.406470588,22,15,370.2941176,341.8076923,26,17,1850,2100,Gasoline or E85,Regular Gasoline,31,21,31484,GMC,Terrain FWD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+16.4805,5.350714286,17,12,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,24,17,31485,GMC,Terrain FWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31486,GMC,Yukon 1500 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,18,15,31487,GMC,Yukon 1500 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31488,GMC,Yukon XL 1500 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,18,15,31489,GMC,Yukon XL 1500 2WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31490,GMC,Acadia FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,5.350714286,17,13,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,31491,Jeep,Grand Cherokee 2WD,Y,Automatic 5-spd,2012,,FFV,E85,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,31492,Jeep,Liberty 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31493,Lincoln,MKT FWD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31494,Volvo,XC60 FWD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31495,Volvo,XC70 FWD,N,Automatic (S6),2012,,,,0,0,0
+21.974,6.2425,13,10,524.5833333,592.4666667,15,12,3200,3000,Gasoline or E85,Regular Gasoline,18,14,31496,Cadillac,Escalade AWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+14.33086957,4.406470588,20,14,370.2941176,386.3913043,23,17,2050,2100,Gasoline or E85,Regular Gasoline,28,20,31497,Chevrolet,Equinox AWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,5.350714286,16,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,31498,Chevrolet,Equinox AWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31499,Chevrolet,Equinox AWD,N,Automatic 6-spd,2012,,,,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31500,Chevrolet,Avalanche 1500 4WD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31501,Chevrolet,Tahoe 1500 4WD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31502,Chevrolet,Suburban 1500 4WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31503,Chevrolet,Traverse AWD,Y,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,5.350714286,16,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,16,31504,Dodge,Durango 4WD,Y,Automatic 5-spd,2012,,FFV,E85,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3650,0,Midgrade,Midgrade Gasoline,20,0,31505,Dodge,Durango 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31506,Dodge,Journey AWD,Y,Automatic 6-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,31507,Ford,Flex AWD,N,Automatic (S6),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,31508,Ford,Flex AWD,N,Automatic 6-spd,2012,,,,0,0,0
+11.36586207,0,30,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,27,0,31509,Ford,Escape Hybrid AWD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+16.4805,5.350714286,18,13,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,23,17,31510,Ford,Escape AWD FFV,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,31511,Ford,Escape AWD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,4.406470588,20,14,370.2941176,386.3913043,23,17,2050,2100,Gasoline or E85,Regular Gasoline,28,20,31512,GMC,Terrain AWD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,5.350714286,16,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,31513,GMC,Terrain AWD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31514,GMC,Terrain AWD,Y,Automatic 6-spd,2012,,,,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31515,GMC,Yukon XL 1500 4WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+21.974,6.2425,13,10,524.5833333,592.4666667,15,12,3200,3000,Gasoline or E85,Regular Gasoline,18,14,31516,GMC,Yukon Denali 1500 AWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,31517,GMC,Yukon 1500 4WD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31518,GMC,Acadia AWD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,31519,Hyundai,Santa Fe 4WD,N,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,5.350714286,16,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,16,31520,Jeep,Grand Cherokee 4WD,Y,Automatic 5-spd,2012,,FFV,E85,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3650,0,Midgrade,Midgrade Gasoline,20,0,31521,Jeep,Grand Cherokee 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31522,Jeep,Grand Cherokee SRT8 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,31523,Jeep,Liberty 4WD,Y,Automatic 4-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31528,Land Rover,Range Rover,N,Automatic (S6),2012,,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31529,Land Rover,Range Rover,N,Automatic (S6),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,31530,Land Rover,Range Rover Sport,N,Automatic (S6),2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,31531,Land Rover,Range Rover Sport,N,Automatic (S6),2012,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,31532,Land Rover,LR4,N,Automatic (S6),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,31533,Lincoln,MKT AWD,N,Automatic (S6),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,31534,Mercedes-Benz,GLK350 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,31535,Mercedes-Benz,GL450 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,17,0,31536,Mercedes-Benz,GL550 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,31537,Mercedes-Benz,G550,N,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31538,Porsche,Cayenne,N,Automatic (S8),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31539,Porsche,Cayenne,N,Manual 6-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,31540,Porsche,Cayenne S,N,Automatic 8-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31541,Porsche,Cayenne Turbo,Y,Automatic 8-spd,2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,31542,Porsche,Cayenne S Hybrid,N,Automatic 8-spd,2012,,Hybrid,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,31543,Volvo,XC70 AWD,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,31544,Volvo,XC60 AWD,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31556,Aston Martin,V8 Vantage,N,Automatic (AM6),2012,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,31557,Audi,R8 Spyder,N,Automatic (AM6),2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,31,0,31558,Audi,TT Roadster quattro,N,Automatic (S6),2012,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,31559,Audi,R8,N,Automatic (AM6),2012,,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,20,0,31560,Audi,R8 Spyder,N,Manual 6-spd,2012,,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,20,0,31561,Audi,R8,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,27,0,31562,Mazda,MX-5,N,Manual 5-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,27,0,31563,Mazda,MX-5,Y,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,27,0,31564,Mazda,MX-5,Y,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31565,Mercedes-Benz,SLK350,N,Automatic 7-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,31,0,31566,Audi,TT Coupe quattro,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31567,Audi,TT RS Coupe,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31568,Nissan,Altima Coupe,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,28,0,31569,Volvo,C70 FWD,N,Automatic (S5),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,31570,Mazda,3,Y,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,31571,Mazda,3,N,Automatic (S5),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,31572,Mercedes-Benz,CLS550,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,4.681875,18,13,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,28,21,31573,Saab,9-3 Convertible,N,Automatic (S6),2012,,FFV,E85,0,0,0
+13.73375,4.161666667,20,15,349.7222222,370.2916667,24,18,2000,2000,Gasoline or E85,Regular Gasoline,32,23,31574,Saab,9-3 Convertible,N,Manual 6-spd,2012,,FFV,E85,0,0,0
+11.94328125,0,29,0,0,318,32,0,1600,0,Diesel,Diesel,37,0,31575,Volkswagen,Jetta,Y,Automatic (S6),2012,,Diesel,,0,0,0
+11.94328125,0,29,0,0,318,32,0,1600,0,Diesel,Diesel,37,0,31576,Volkswagen,Golf,Y,Automatic (S6),2012,,Diesel,,0,0,0
+11.94328125,0,29,0,0,315,32,0,1600,0,Diesel,Diesel,39,0,31577,Volkswagen,Jetta,Y,Manual 6-spd,2012,,Diesel,,0,0,0
+11.94328125,0,29,0,0,315,32,0,1600,0,Diesel,Diesel,39,0,31578,Volkswagen,Golf,Y,Manual 6-spd,2012,,Diesel,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31579,Volkswagen,Jetta,Y,Automatic (S6),2012,,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,34,0,31580,Volkswagen,Jetta,N,Manual 5-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,31582,Audi,A8,N,Automatic (S8),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31583,Cadillac,CTS,Y,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31584,Mazda,Speed 3,Y,Manual 6-spd,2012,,,,0,0,0
+11.24073529,0,30,0,0,299.4117647,34,0,1500,0,Diesel,Diesel,40,0,31585,Volkswagen,Passat,Y,Automatic (S6),2012,,Diesel,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,31586,Audi,A8 L,N,Automatic (S8),2012,,,,0,0,0
+11.94328125,0,29,0,0,318,32,0,1600,0,Diesel,Diesel,37,0,31587,Audi,A3,Y,Automatic (S6),2012,,Diesel,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,30,0,31588,Audi,A3,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,31589,Audi,A3,N,Automatic (S6),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,31590,Audi,A3 quattro,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31591,Cadillac,CTS Wagon,N,Automatic (S6),2012,,,,0,0,0
+11.94328125,0,29,0,0,318,32,0,1600,0,Diesel,Diesel,37,0,31592,Volkswagen,Jetta SportWagen,Y,Automatic (S6),2012,,Diesel,,0,0,0
+11.94328125,0,29,0,0,315,32,0,1600,0,Diesel,Diesel,39,0,31593,Volkswagen,Jetta SportWagen,Y,Manual 6-spd,2012,,Diesel,,0,0,0
+17.34789474,5.350714286,17,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,24,18,31594,Cadillac,SRX 2WD,Y,Automatic (S6),2012,,FFV,E85,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31595,Chevrolet,Equinox FWD,N,Automatic 6-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31596,GMC,Terrain FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31597,Hyundai,Santa Fe 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31598,Hyundai,Santa Fe 2WD,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31599,Hyundai,Santa Fe 2WD,Y,Automatic 6-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,31600,Mercedes-Benz,GLK350,Y,Automatic 7-spd,2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,26,0,31601,Volkswagen,Tiguan,Y,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31602,Volkswagen,Tiguan,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31603,Volvo,XC90 FWD,N,Automatic (S6),2012,,,,0,0,0
+19.10925,0,17,0,0,509,20,0,2550,0,Diesel,Diesel,24,0,31604,Audi,Q7,N,Automatic (S8),2012,,Diesel,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,31605,Audi,Q7,N,Automatic (S8),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,31606,Buick,Enclave AWD,N,Automatic 6-spd,2012,,,,0,0,0
+18.31166667,5.350714286,16,12,449.6428571,493.7222222,18,14,2650,2550,Gasoline or E85,Regular Gasoline,23,17,31607,Cadillac,SRX AWD,Y,Automatic (S6),2012,,FFV,E85,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,31608,Chevrolet,Equinox AWD,N,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,31609,GMC,Terrain AWD,N,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,31610,Hyundai,Santa Fe 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31611,Saab,9-4X AWD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,31612,Volkswagen,Touareg Hybrid,Y,Automatic (S8),2012,,Hybrid,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31613,Volkswagen,Touareg,N,Automatic (S8),2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,26,0,31614,Volkswagen,Tiguan 4motion,N,Automatic (S6),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,31615,Volvo,XC90 AWD,Y,Automatic (S6),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31616,Volvo,XC70 AWD,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31617,Volvo,XC60 AWD,N,Automatic (S6),2012,,,,0,0,0
+3.375621482,0.216,35,95,0,87,37,94,1550,700,Premium Gas or Electricity,Premium Gasoline,40,93,31618,Chevrolet,Volt,Y,Automatic (variable gear ratios),2012,,Plug-in Hybrid,Electricity,58,62,60
+32.961,0,8,0,0,888.7,10,0,5800,0,Premium,Premium Gasoline,15,0,31619,Bugatti,Veyron,N,Automatic (S7),2012,,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,31620,Lamborghini,Gallardo Coupe,N,Manual 6-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,20,0,31621,Lamborghini,Gallardo Spyder,N,Manual 6-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31622,Mercedes-Benz,SLS AMG Roadster,N,Automatic (AM7),2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,35,0,31623,MINI,Cooper Coupe,N,Automatic (S6),2012,,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1800,0,Premium,Premium Gasoline,36,0,31624,MINI,Cooper Coupe,N,Manual 6-spd,2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31625,MINI,Cooper Roadster,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31626,MINI,Cooper Roadster,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,33,0,31627,MINI,Cooper S Coupe,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31628,MINI,Cooper S Coupe,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,33,0,31629,MINI,Cooper S Roadster,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31630,MINI,Cooper S Roadster,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,32,0,31631,MINI,John Cooper Works Coupe,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,32,0,31632,MINI,John Cooper Works Roadster,N,Manual 6-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31633,Jaguar,XK Convertible,N,Automatic (S6),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,31634,Jaguar,XK Convertible,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31635,Jaguar,XK,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31636,Jaguar,XK,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,35,0,31637,MINI,Cooper,N,Automatic (S6),2012,,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1800,0,Premium,Premium Gasoline,36,0,31638,MINI,Cooper,N,Manual 6-spd,2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31639,MINI,Cooper Convertible,Y,Automatic (S6),2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31640,MINI,Cooper Convertible,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,33,0,31641,MINI,Cooper S,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31642,MINI,Cooper S,Y,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,33,0,31643,MINI,Cooper S Convertible,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31644,MINI,Cooper S Convertible,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,32,0,31645,MINI,John Cooper Works,Y,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,32,0,31646,MINI,John Cooper Works Convertible,N,Manual 6-spd,2012,,,,0,0,0
+8.908378378,0,36,0,0,240.1891892,37,0,1300,0,Regular,Regular Gasoline,37,0,31647,Scion,iQ,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,31648,BMW,M3 Coupe,N,Manual 6-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31649,BMW,M3 Coupe,N,Automatic (S7),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31650,BMW,M3 Convertible,N,Manual 6-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31651,BMW,M3 Convertible,N,Automatic (S7),2012,,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,34,0,31652,Chevrolet,Sonic 5,Y,Automatic (S6),2012,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,34,0,31653,Chevrolet,Sonic 5,N,Manual 5-spd,2012,,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,37,0,31654,Ford,Fiesta FWD,Y,Automatic (AM6),2012,,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,37,0,31655,Ford,Fiesta FWD,Y,Manual 5-spd,2012,,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,38,0,31656,Ford,Fiesta SFE FWD,N,Automatic (AM6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31657,Lexus,IS 350 AWD,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,31658,Lexus,IS 350/IS 350C,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,31659,Lexus,IS 250 AWD,Y,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,31660,Lexus,IS 250/IS 250C,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,31661,Lexus,IS 250/IS 250C,Y,Automatic (S6),2012,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,31662,Maserati,GranTurismo,N,Automatic 6-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,31663,Maserati,GranTurismo Convertible,N,Automatic 6-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31664,Mercedes-Benz,C63 AMG Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,31665,Mercedes-Benz,C350 Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,31666,Mercedes-Benz,E350 Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,31667,Mercedes-Benz,E350 Convertible,N,Automatic 7-spd,2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31668,MINI,Cooper Clubman,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31669,MINI,Cooper Clubman,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,33,0,31670,MINI,Cooper S Clubman,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31671,MINI,Cooper S Clubman,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,32,0,31672,MINI,John Cooper Works Clubman,N,Manual 6-spd,2012,,,,0,0,0
+0.18,0,126,0,0,0,112,0,600,0,Electricity,Electricity,99,0,31673,Mitsubishi,i-MiEV,Y,Automatic (A1),2012,,EV,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,31674,Acura,TSX,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,31675,Acura,TSX,Y,Automatic (S5),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,31676,Acura,TSX,Y,Automatic (S5),2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31677,BMW,650i Coupe,N,Automatic (S8),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31678,BMW,650i Coupe,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,34,0,31679,Chevrolet,Sonic,Y,Automatic (S6),2012,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,34,0,31680,Chevrolet,Sonic,Y,Manual 5-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31681,Honda,Accord Coupe,N,Manual 5-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,31682,Honda,Accord Coupe,Y,Automatic 5-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31683,Honda,Accord Coupe,Y,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,31684,Honda,Accord Coupe,N,Automatic (S5),2012,,,,0,0,0
+10.63258065,0,27,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,37,0,31685,Hyundai,Veloster,Y,Manual 6-spd,2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,31686,Hyundai,Veloster,Y,Automatic (AM6),2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,34,0,31687,Kia,Forte Koup,Y,Automatic 6-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,31688,Kia,Forte Koup,Y,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,31689,Kia,Forte Koup,N,Automatic 6-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31690,Kia,Forte Koup,N,Manual 6-spd,2012,,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,36,0,31691,Kia,Rio,Y,Automatic 6-spd,2012,,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,37,0,31692,Kia,Rio,Y,Manual 6-spd,2012,,,,0,0,0
+7.847857143,0,43,0,0,211.5952381,42,0,1150,0,Regular,Regular Gasoline,40,0,31693,Lexus,CT 200h,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,32,0,31694,Mazda,3,N,Manual 5-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,31695,Mazda,3,Y,Automatic (S5),2012,,,,0,0,0
+10.63258065,0,29,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,34,0,31696,Mazda,2,Y,Manual 5-spd,2012,,,,0,0,0
+10.987,0,28,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,33,0,31697,Mazda,2,N,Automatic 4-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,31698,Mercedes-Benz,C300 4matic,Y,Automatic 7-spd,2012,,,,0,0,0
+16.4805,4.994,18,13,419.6666667,444.35,20,15,2900,2400,Premium or E85,Premium Gasoline,25,18,31699,Mercedes-Benz,C300 4matic,Y,Automatic 7-spd,2012,,FFV,E85,0,0,0
+13.1844,0,21,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,31,0,31700,Mercedes-Benz,C250,Y,Automatic 7-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,31701,Mercedes-Benz,C350,Y,Automatic 7-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31702,Mercedes-Benz,C63 AMG,N,Automatic 7-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,31703,Mercedes-Benz,CL550 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31704,Mercedes-Benz,CL600,N,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,31705,Mercedes-Benz,CL63 AMG,N,Automatic 7-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,31706,Mercedes-Benz,CL65 AMG,N,Automatic 5-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,31707,Mercedes-Benz,CLS550 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,31708,Mercedes-Benz,CLS63 AMG,N,Automatic 7-spd,2012,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,29,0,31709,MINI,Cooper Countryman,N,Automatic (S6),2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,34,0,31710,MINI,Cooper Countryman,Y,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,31,0,31711,MINI,Cooper S Countryman,N,Automatic (S6),2012,,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,32,0,31712,MINI,Cooper S Countryman,N,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,30,0,31713,MINI,Cooper S Countryman All4,Y,Automatic (S6),2012,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,30,0,31714,MINI,Cooper S Countryman All4,Y,Manual 6-spd,2012,,,,0,0,0
+10.987,0,28,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,33,0,31715,Nissan,Versa,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,31716,Nissan,Versa,Y,Automatic 4-spd,2012,,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,31,0,31717,Nissan,Versa,Y,Manual 6-spd,2012,,,,0,0,0
+9.988181818,0,30,0,0,269.3030303,33,0,1450,0,Regular,Regular Gasoline,37,0,31718,Nissan,Versa,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,31719,Nissan,Versa,Y,Manual 5-spd,2012,,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,31720,Subaru,Impreza AWD,Y,Manual 5-spd,2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,31721,Subaru,Impreza AWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31722,Subaru,Impreza AWD,N,Manual 5-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31723,Subaru,Impreza AWD,N,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,31724,Suzuki,SX4 Sedan,N,Manual 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,31,0,31725,Suzuki,SX4 Sedan,N,Automatic (variable gear ratios),2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31726,Suzuki,SX4 Sport,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31727,Suzuki,SX4 Sport,N,Automatic (variable gear ratios),2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31728,Suzuki,Kizashi S,N,Automatic (variable gear ratios),2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,31729,Suzuki,Kizashi,N,Automatic (variable gear ratios),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,31730,Suzuki,Kizashi S,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,31731,Suzuki,Kizashi,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31732,Suzuki,Kizashi S AWD,N,Automatic (variable gear ratios),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31733,Suzuki,Kizashi AWD,N,Automatic (variable gear ratios),2012,,,,0,0,0
+10.63258065,0,29,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,34,0,31734,Toyota,Yaris,Y,Automatic 4-spd,2012,,,,0,0,0
+9.988181818,0,30,0,0,269.3030303,33,0,1450,0,Regular,Regular Gasoline,36,0,31735,Toyota,Yaris,Y,Manual 5-spd,2012,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,18,0,31736,Bentley,Mulsanne,N,Automatic (S8),2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31737,BMW,550i,N,Automatic (S8),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31738,BMW,550i,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31739,Buick,Regal,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,4.406470588,19,15,370.2941176,386.3913043,23,17,2050,2100,Gasoline or E85,Regular Gasoline,30,22,31740,Buick,Regal,N,Automatic (S6),2012,,FFV,E85,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,30,0,31741,Buick,Regal,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,4.681875,18,13,393.4375,403.9545455,22,16,2150,2250,Gasoline or E85,Regular Gasoline,28,21,31742,Buick,Regal,N,Automatic (S6),2012,,FFV,E85,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31743,Cadillac,CTS AWD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31744,Dodge,Challenger,N,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31745,Dodge,Challenger,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,31746,Dodge,Challenger,N,Automatic 5-spd,2012,,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,23,0,31747,Dodge,Challenger SRT8,N,Automatic 5-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,31748,Jaguar,XF,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31749,Jaguar,XF,N,Automatic (S6),2012,,,,0,0,0
+11.36586207,0,25,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,31750,Kia,Forte,Y,Automatic 6-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,34,0,31751,Kia,Forte,N,Manual 6-spd,2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,31752,Kia,Forte Eco,Y,Automatic 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31753,Kia,Forte,N,Automatic 6-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,31754,Kia,Forte,N,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,33,0,31755,Kia,Optima,Y,Automatic 6-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,31756,Kia,Optima,Y,Automatic 6-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,31757,Kia,Optima,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,31758,Mitsubishi,Galant,N,Automatic (S4),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,31759,Nissan,Maxima,Y,Automatic (AV-S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,31760,Saab,9-5 Sedan AWD,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31761,Subaru,Legacy AWD,Y,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,31762,Subaru,Legacy AWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31763,Subaru,Legacy AWD,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31764,Subaru,Legacy AWD,N,Automatic (S5),2012,,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,34,0,31765,Toyota,Camry,Y,Automatic (S6),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,30,0,31766,Toyota,Camry,Y,Automatic (S6),2012,,,,0,0,0
+6.866875,0,49,0,0,185.1458333,48,0,1000,0,Regular,Regular Gasoline,46,0,31767,Toyota,Prius,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,31768,Volkswagen,Passat,Y,Automatic (S6),2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,31769,Volkswagen,Passat,Y,Manual 5-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,31770,Volkswagen,Passat,Y,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31771,Chrysler,300,N,Automatic 5-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,31772,Chrysler,300,Y,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3000,0,Midgrade,Midgrade Gasoline,23,0,31773,Chrysler,300 AWD,N,Automatic 5-spd,2012,,,,0,0,0
+14.33086957,4.406470588,19,14,370.2941176,386.3913043,23,17,2050,2100,Gasoline or E85,Regular Gasoline,30,22,31774,Chrysler,300,Y,Automatic 8-spd,2012,,FFV,E85,0,0,0
+15.69571429,4.681875,18,13,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,27,20,31775,Chrysler,300 AWD,N,Automatic 8-spd,2012,,FFV,E85,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,23,0,31776,Chrysler,300 SRT8,N,Automatic 5-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31777,Dodge,Charger,N,Automatic 5-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,31778,Dodge,Charger,Y,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3000,0,Midgrade,Midgrade Gasoline,23,0,31779,Dodge,Charger AWD,N,Automatic 5-spd,2012,,,,0,0,0
+14.33086957,4.406470588,19,14,370.2941176,386.3913043,23,17,2050,2100,Gasoline or E85,Regular Gasoline,30,22,31780,Dodge,Charger,Y,Automatic 8-spd,2012,,FFV,E85,0,0,0
+15.69571429,4.681875,18,13,393.4375,423.1904762,21,16,2250,2250,Gasoline or E85,Regular Gasoline,27,20,31781,Dodge,Charger AWD,N,Automatic 8-spd,2012,,FFV,E85,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,23,0,31782,Dodge,Charger SRT8,N,Automatic 5-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,31783,Ford,Taurus AWD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31784,Ford,Taurus FWD,Y,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,31785,Ford,Taurus FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31786,Ford,Taurus AWD,N,Automatic (S6),2012,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,31787,Honda,Accord,Y,Manual 5-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,33,0,31788,Honda,Accord,Y,Automatic 5-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,30,0,31789,Honda,Accord,Y,Automatic 5-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31790,Jaguar,XJ,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,31791,Jaguar,XJ LWB,N,Automatic (S6),2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,31792,Jaguar,XJ LWB,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,31793,Jaguar,XJ,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31794,Lincoln,MKS AWD,Y,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31795,Lincoln,MKS FWD,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31796,Lincoln,MKS AWD,Y,Automatic (S6),2012,,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31797,Maserati,Quattroporte,N,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,0,15,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,31798,Mercedes-Benz,S550,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31799,Mercedes-Benz,S400 Hybrid,N,Automatic 7-spd,2012,,Hybrid,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,19,0,31800,Mercedes-Benz,S600,N,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31801,Mercedes-Benz,S63 AMG,Y,Automatic 7-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,24,0,31802,Mercedes-Benz,S550 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+21.974,0,12,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,31803,Mercedes-Benz,S65 AMG,N,Automatic 5-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31805,Porsche,Panamera,N,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,31806,Porsche,Panamera 4,Y,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31807,Porsche,Panamera S,N,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,31808,Porsche,Panamera 4S,N,Automatic 7-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31809,Porsche,Panamera Turbo,N,Automatic 7-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,31810,Porsche,Panamera Turbo S,N,Automatic 7-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,31811,Porsche,Panamera S Hybrid,N,Automatic 8-spd,2012,,Hybrid,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,29,0,31812,Acura,TSX Wagon,Y,Automatic (S5),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31813,Cadillac,CTS Wagon AWD,N,Automatic (S6),2012,,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31814,Dodge,Caliber,N,Automatic (variable gear ratios),2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,31815,Dodge,Caliber,N,Manual 5-spd,2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31816,Dodge,Caliber,N,Automatic (variable gear ratios),2012,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,31817,Honda,Fit,Y,Manual 5-spd,2012,,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,35,0,31818,Honda,Fit,Y,Automatic 5-spd,2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,33,0,31819,Honda,Fit,Y,Automatic (S5),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,31820,Infiniti,EX35,Y,Automatic (S7),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31821,Infiniti,EX35 AWD,N,Automatic (S7),2012,,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,31,0,31822,Kia,Soul Eco,N,Automatic 6-spd,2012,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,31823,Kia,Soul,Y,Automatic 6-spd,2012,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,31824,Kia,Soul,Y,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,31825,Kia,Soul Eco,Y,Automatic 6-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,31826,Kia,Soul,Y,Automatic 6-spd,2012,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,31827,Kia,Soul,N,Manual 6-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,33,0,31828,Subaru,Impreza Wagon/Outback Sport AWD,Y,Manual 5-spd,2012,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,31829,Subaru,Impreza Wagon/Outback Sport AWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,31830,Subaru,Impreza Wagon/Outback Sport AWD,N,Manual 5-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31831,Subaru,Impreza Wagon/Outback Sport AWD,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31832,Suzuki,SX4 AWD,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31833,Suzuki,SX4 AWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,31834,Suzuki,SX4,N,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31835,Suzuki,SX4,N,Automatic (variable gear ratios),2012,,,,0,0,0
+8.039268293,0,43,0,0,216.7560976,41,0,1150,0,Regular,Regular Gasoline,39,0,31836,Toyota,Prius v,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,31837,Nissan,Frontier 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31838,Nissan,Frontier 2WD,N,Manual 5-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31839,Nissan,Frontier 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31840,Nissan,Frontier 2WD,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,31841,Suzuki,Equator 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31842,Suzuki,Equator 2WD,N,Manual 5-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31843,Suzuki,Equator 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,31844,Toyota,Tacoma 2WD,Y,Automatic 4-spd,2012,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,31845,Toyota,Tacoma 2WD,N,Manual 5-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,31846,Toyota,Tacoma 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,31847,Toyota,Tacoma 2WD,N,Manual 6-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,31848,Nissan,Frontier 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31849,Nissan,Frontier 4WD,Y,Manual 6-spd,2012,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,31850,Suzuki,Equator 4WD,N,Automatic 5-spd,2012,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,31851,Toyota,Tacoma 4WD,Y,Automatic 4-spd,2012,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,20,0,31852,Toyota,Tacoma 4WD,Y,Manual 5-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,31853,Toyota,Tacoma 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,31854,Toyota,Tacoma 4WD,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31855,Chevrolet,Silverado 15 Hybrid 2WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+20.600625,6.81,14,10,572.2727273,555.4375,16,11,3000,3250,Gasoline or E85,Regular Gasoline,20,12,31856,Dodge,Ram 1500 Pickup 2WD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31857,GMC,Sierra 15 Hybrid 2WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,31858,Nissan,Titan 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,31859,Toyota,Tundra 2WD,N,Automatic (S5),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31860,Toyota,Tundra 2WD,Y,Automatic (S6),2012,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,31861,Toyota,Tundra 2WD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31862,Chevrolet,Silverado 15 Hybrid 4WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+20.600625,6.81,14,10,572.2727273,555.4375,16,11,3000,3250,Gasoline or E85,Regular Gasoline,19,12,31863,Dodge,Ram 1500 Pickup 4WD,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31864,GMC,Sierra 15 Hybrid 4WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,31865,Nissan,Titan 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,31866,Toyota,Tundra 4WD,Y,Automatic (S6),2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,31867,Toyota,Tundra 4WD,Y,Automatic (S6),2012,,,,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,31868,Toyota,Tundra 4WD FFV,N,Automatic (S6),2012,,FFV,E85,0,0,0
+27.4675,8.323333333,10,8,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,15,11,31869,Chevrolet,Express 2500 2WD Conversion Cargo,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+27.4675,8.323333333,10,8,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,15,11,31870,Chevrolet,Express 2500 2WD Cargo,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+27.4675,8.323333333,10,7,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,14,11,31871,Chevrolet,Express 3500 2WD Cargo,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,31872,Ford,E350 Van,N,Automatic 5-spd,2012,,,,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,17,12,31873,Ford,E150 Van FFV,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,17,12,31874,Ford,E250 Van FFV,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,12,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,16,12,31875,Ford,E150 Van FFV,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,31876,Ford,E250 Van FFV,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+25.35461538,7.491,12,9,629.5,683.6153846,13,10,3650,3600,Gasoline or E85,Regular Gasoline,16,12,31877,Ford,E350 Van FFV,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+27.4675,8.323333333,10,8,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,15,11,31878,GMC,Savana 2500 2WD Conversion (cargo),N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+27.4675,8.323333333,10,8,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,15,11,31879,GMC,Savana 2500 2WD (cargo),N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+27.4675,8.323333333,10,7,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,14,11,31880,GMC,Savana 3500 2WD (cargo),N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+25.35461538,7.491,11,8,629.5,683.6153846,13,10,3650,3600,Gasoline or E85,Regular Gasoline,17,12,31881,Chevrolet,Express 2500 2WD Passenger,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+25.35461538,7.491,11,8,629.5,683.6153846,13,10,3650,3600,Gasoline or E85,Regular Gasoline,17,12,31882,Chevrolet,Express 3500 2WD Passenger,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+25.35461538,8.323333333,11,8,699.4444444,683.6153846,13,9,3650,4000,Gasoline or E85,Regular Gasoline,16,12,31883,Chevrolet,Express 2500 2WD Passenger,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+27.4675,8.323333333,10,8,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,15,11,31884,Chevrolet,Express 3500 2WD Passenger,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,13,0,31885,Ford,E350 Wagon,N,Automatic 5-spd,2012,,,,0,0,0
+23.54357143,7.491,13,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,16,12,31886,Ford,E150 Wagon FFV,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+25.35461538,7.491,12,9,629.5,683.6153846,13,10,3650,3600,Gasoline or E85,Regular Gasoline,16,12,31887,Ford,E150 Wagon FFV,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+25.35461538,7.491,11,9,629.5,683.6153846,13,10,3650,3600,Gasoline or E85,Regular Gasoline,15,11,31888,Ford,E350 Wagon FFV,N,Automatic 4-spd,2012,,FFV,E85,0,0,0
+25.35461538,7.491,11,8,629.5,683.6153846,13,10,3650,3600,Gasoline or E85,Regular Gasoline,17,12,31889,GMC,Savana 2500 2WD (Passenger),N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+25.35461538,7.491,11,8,629.5,683.6153846,13,10,3650,3600,Gasoline or E85,Regular Gasoline,17,12,31890,GMC,Savana 3500 2WD (Passenger),N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+25.35461538,8.323333333,11,8,699.4444444,683.6153846,13,9,3650,4000,Gasoline or E85,Regular Gasoline,16,12,31891,GMC,Savana 2500 2WD (Passenger),N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+27.4675,8.323333333,10,8,699.4444444,740.5833333,12,9,4000,4000,Gasoline or E85,Regular Gasoline,15,11,31892,GMC,Savana 3500 2WD (Passenger),N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+0.324,0,62,0,0,0,62,0,1050,0,Electricity,Electricity,62,0,31893,Azure Dynamics,Transit Connect Electric Van,N,Automatic (A1),2012,,EV,,0,0,0
+0.324,0,62,0,0,0,62,0,1050,0,Electricity,Electricity,62,0,31894,Azure Dynamics,Transit Connect Electric Wagon,N,Automatic (A1),2012,,EV,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31895,Honda,Odyssey,Y,Automatic 5-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,31896,Honda,Odyssey,Y,Automatic 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,31897,Toyota,Sienna 2WD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31898,Toyota,Sienna 2WD,Y,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31899,Toyota,Sienna AWD,Y,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,31900,Acura,RDX 2WD,N,Automatic (S5),2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31901,Cadillac,Escalade Hybrid 2WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,31902,Chevrolet,Captiva FWD,N,Automatic 6-spd,2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31903,Chevrolet,Tahoe Hybrid 2WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,16,0,31904,Chevrolet,Suburban 2500 2WD,N,Automatic 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,31905,Ford,Edge FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31906,Ford,Explorer FWD,Y,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,31907,Ford,Edge FWD,Y,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31908,Ford,Edge FWD,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,31909,Ford,Explorer FWD,Y,Automatic (S6),2012,,,,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,14,31910,Ford,Expedition 2WD FFV,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31911,GMC,Yukon 1500 Hybrid 2WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,16,0,31912,GMC,Yukon XL 2500 2WD,N,Automatic 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,27,0,31913,Honda,Crosstour 2WD,Y,Automatic 5-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,31914,Honda,Pilot 2WD,Y,Automatic 5-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,31915,Hyundai,Veracruz 2WD,N,Automatic 6-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31916,Infiniti,QX56 2WD,N,Automatic (S7),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3400,0,Midgrade,Midgrade Gasoline,20,0,31917,Jeep,Grand Cherokee 2WD,N,Automatic 6-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31918,Jeep,Compass 2WD,N,Manual 5-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,31919,Jeep,Patriot 2WD,Y,Manual 5-spd,2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31920,Jeep,Compass 2WD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31921,Jeep,Patriot 2WD,N,Automatic (variable gear ratios),2012,,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31922,Jeep,Compass 2WD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31923,Jeep,Patriot 2WD,N,Automatic (variable gear ratios),2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,31924,Jeep,Compass 2WD,N,Manual 5-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,31925,Jeep,Patriot 2WD,N,Manual 5-spd,2012,,,,0,0,0
+11.36586207,0,31,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,28,0,31926,Lexus,RX 450h,Y,Automatic (AV-S6),2012,,Hybrid,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,31927,Lexus,RX 350,N,Automatic (S6),2012,,,,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,31928,Lincoln,Navigator 4WD FFV,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31929,Lincoln,MKX FWD,N,Automatic (S6),2012,,,,0,0,0
+20.600625,6.2425,14,10,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,20,14,31930,Lincoln,Navigator 2WD FFV,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,31931,Mazda,CX-9 2WD,Y,Automatic (S6),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,31932,Mitsubishi,Outlander 2WD,N,Automatic (AV-S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,31933,Mitsubishi,Outlander 2WD,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,31934,Nissan,Pathfinder 2WD,Y,Automatic 5-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,19,0,31935,Nissan,Armada 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,31936,Nissan,Xterra 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31937,Saab,9-4X FWD,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,31938,Suzuki,Grand Vitara,N,Manual 5-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,31939,Suzuki,Grand Vitara,N,Automatic 4-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,31940,Toyota,Highlander 2WD,Y,Automatic (S6),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31941,Toyota,Highlander 2WD,Y,Automatic (S5),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,20,0,31942,Toyota,FJ Cruiser 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,31943,Toyota,Sequoia 2WD,N,Automatic (S6),2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,31944,Toyota,Sequoia 2WD,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,31945,Acura,ZDX 4WD,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,31946,Acura,RDX 4WD,N,Automatic (S5),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,31947,Acura,MDX 4WD,Y,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31948,Cadillac,Escalade Hybrid 4WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,31949,Cadillac,Escalade Ext AWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,31950,Cadillac,Escalade ESV AWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31951,Chevrolet,Tahoe Hybrid 4WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,16,0,31952,Chevrolet,Suburban 2500 4WD,N,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31953,Ford,Edge AWD,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,31954,Ford,Edge AWD,Y,Automatic (S6),2012,,,,0,0,0
+21.974,6.81,13,10,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,31955,Ford,Expedition 4WD FFV,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31956,Ford,Explorer AWD,N,Automatic (S6),2012,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,16,0,31957,GMC,Yukon XL 2500 4WD,N,Automatic 6-spd,2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31958,GMC,Yukon 1500 Hybrid 4WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+23.54357143,6.81,13,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,31959,GMC,Yukon XL 1500 AWD,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31960,GMC,Yukon Denali 1500 Hybrid 4WD,N,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,31961,Honda,Crosstour 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31962,Honda,Pilot 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,31963,Hyundai,Veracruz 4WD,N,Automatic 6-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31964,Infiniti,QX56 4WD,N,Automatic (S7),2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31965,Jeep,Compass 4WD,N,Manual 5-spd,2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31966,Jeep,Patriot 4WD,Y,Manual 5-spd,2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,25,0,31967,Jeep,Compass 4WD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,25,0,31968,Jeep,Patriot 4WD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31969,Jeep,Compass 4WD,N,Automatic (variable gear ratios),2012,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,31970,Jeep,Patriot 4WD,N,Automatic (variable gear ratios),2012,,,,0,0,0
+11.77178571,0,29,0,0,317.3928571,28,0,2100,0,Premium,Premium Gasoline,27,0,31971,Lexus,RX 450h AWD,Y,Automatic (AV-S6),2012,,Hybrid,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31972,Lexus,RX 350 AWD,Y,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,31973,Lexus,GX 460,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,31974,Lincoln,MKX AWD,N,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,31975,Mazda,CX-9 4WD,Y,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,31976,Mercedes-Benz,ML350 4matic,Y,Automatic 7-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,31978,Mercedes-Benz,R350 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,31979,Mitsubishi,Outlander 4WD,N,Automatic (AV-S6),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,24,0,31980,Mitsubishi,Outlander 4WD,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,31981,Nissan,Xterra 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,31982,Nissan,Pathfinder 4WD,N,Automatic 5-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,31983,Nissan,Pathfinder 4WD,N,Automatic (S5),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,31984,Nissan,Armada 4WD,N,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,31985,Saab,9-4X AWD,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,31986,Subaru,Outback Wagon AWD,Y,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,31987,Subaru,Outback Wagon AWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,31988,Subaru,Forester AWD,Y,Manual 5-spd,2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,31989,Subaru,Forester AWD,Y,Automatic (S4),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,23,0,31990,Subaru,Forester AWD,N,Automatic (S4),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,31991,Subaru,Outback Wagon AWD,Y,Automatic (S5),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,31992,Subaru,Tribeca AWD,N,Automatic (S5),2012,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,31993,Suzuki,Grand Vitara 4WD,N,Automatic 4-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,31994,Toyota,Highlander 4WD,Y,Automatic (S5),2012,,,,0,0,0
+11.77178571,0,28,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,28,0,31995,Toyota,Highlander Hybrid 4WD,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,31996,Toyota,FJ Cruiser 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,31997,Toyota,FJ Cruiser 4WD,N,Manual 6-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,31998,Toyota,Sequoia 4WD,N,Automatic (S6),2012,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,31999,Toyota,Sequoia 4WD,N,Automatic (S6),2012,,,,0,0,0
+21.974,6.81,13,9,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,32000,Toyota,Sequoia 4WD FFV,N,Automatic (S6),2012,,FFV,E85,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,32001,Jeep,Wrangler 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,32002,Jeep,Wrangler Unlimited 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,32003,Jeep,Wrangler 4WD,Y,Manual 6-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,32004,Jeep,Wrangler Unlimited 4WD,Y,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,32006,BMW,Z4 sDrive28i,N,Automatic 8-spd,2012,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,34,0,32007,BMW,Z4 sDrive28i,Y,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32008,BMW,Z4 sDrive35i,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,32009,BMW,Z4 sDrive35i,N,Automatic (S7),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,32010,BMW,Z4 sDrive35is,N,Automatic (S7),2012,,,,0,0,0
+9.694411765,0,31,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,37,0,32011,Honda,CR-Z,Y,Manual 6-spd,2012,,Hybrid,,0,0,0
+9.155833333,0,34,0,0,246.8611111,36,0,1300,0,Regular,Regular Gasoline,38,0,32012,Honda,CR-Z,Y,Automatic (AV-S7),2012,,Hybrid,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,32013,McLaren Automotive,MP4-12C Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,32014,Nissan,370Z,N,Automatic (S7),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32015,Nissan,370Z,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32016,Nissan,370Z Roadster,N,Automatic (S7),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32017,Nissan,370Z Roadster,N,Manual 6-spd,2012,,,,0,0,0
+23.54357143,7.491,11,8,629.5,634.7857143,14,10,4150,3600,Premium or E85,Premium Gasoline,19,13,32018,Bentley,Continental GTC,N,Automatic (S6),2012,,FFV,E85,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,28,0,32019,BMW,328i Coupe,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32020,BMW,328i Coupe,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32021,BMW,328i Coupe xDrive,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32022,BMW,328i Coupe xDrive,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32023,BMW,328ci Convertible,Y,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,32024,BMW,328ci Convertible,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32025,BMW,335i Coupe,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32026,BMW,335i Coupe,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32027,BMW,335i Coupe xDrive,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,32028,BMW,335i Coupe xDrive,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,32029,BMW,335is Coupe,Y,Automatic (S7),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32030,BMW,335is Coupe,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,32031,BMW,335is Convertible,N,Automatic (S7),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32032,BMW,335is Convertible,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32033,BMW,335ci Convertible,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32034,BMW,335ci Convertible,N,Manual 6-spd,2012,,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,38,0,32035,Chevrolet,Sonic 5,Y,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32036,Infiniti,G37 Convertible,Y,Automatic (S7),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,32037,Infiniti,G37 Convertible,N,Manual 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,32038,Infiniti,G37 Coupe,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,32039,Infiniti,G37 Coupe,N,Automatic (S7),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32040,Infiniti,G37x Coupe,N,Automatic (S7),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,32041,Lexus,IS F,N,Automatic (S8),2012,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,2350,0,Premium,Premium Gasoline,30,0,32042,Mercedes-Benz,C250 Coupe,Y,Automatic 7-spd,2012,,,,0,0,0
+15.69571429,0,17,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,32043,Mercedes-Benz,E550 Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,32044,Mercedes-Benz,E550 Convertible,N,Automatic 7-spd,2012,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,32045,Scion,xD,Y,Automatic 4-spd,2012,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,32,0,32046,Scion,xD,Y,Manual 5-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,30,0,32047,Volkswagen,Beetle,Y,Manual 6-spd,2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,31,0,32048,Volkswagen,Beetle,N,Manual 5-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,32049,BMW,640i Coupe,N,Automatic (S8),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,30,0,32050,BMW,640i Convertible,N,Automatic (S8),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,32051,BMW,650i Coupe xDrive,N,Automatic (S8),2012,,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,38,0,32052,Chevrolet,Sonic,N,Manual 6-spd,2012,,,,0,0,0
+8.039268293,0,40,0,0,216.7560976,41,0,1150,0,Regular,Regular Gasoline,42,0,32053,Honda,Insight,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+8.039268293,0,40,0,0,216.7560976,41,0,1150,0,Regular,Regular Gasoline,42,0,32054,Honda,Insight,N,Automatic (AV-S7),2012,,Hybrid,,0,0,0
+9.694411765,0,35,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,33,0,32055,Lexus,HS 250h,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,37,0,32056,Mazda,3 DI 4-Door,Y,Manual 6-spd,2012,,,,0,0,0
+10.3003125,0,28,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,39,0,32057,Mazda,3 DI 4-Door,Y,Automatic (S6),2012,,,,0,0,0
+11.77178571,0,24,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,32058,Mitsubishi,Lancer,N,Manual 5-spd,2012,,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,33,0,32059,Mitsubishi,Lancer,N,Automatic (AV-S6),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,32060,Mitsubishi,Lancer,Y,Manual 5-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,32061,Mitsubishi,Lancer,N,Automatic (AV-S6),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32062,Mitsubishi,Lancer,N,Automatic (AM6),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,32063,Mitsubishi,Lancer AWD,N,Automatic (AV-S6),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,32064,Mitsubishi,Lancer Evolution,N,Manual 5-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,32065,Mitsubishi,Lancer Evolution,N,Automatic (AM6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,32066,Acura,RL,N,Automatic (S6),2012,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,34,0,32067,BMW,528i,Y,Automatic 8-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,32068,BMW,528i xDrive,N,Automatic 8-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,30,0,32069,BMW,535i,N,Automatic (S8),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,32070,BMW,535i,N,Manual 6-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,30,0,32071,BMW,535i xDrive,N,Automatic (S8),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,32072,BMW,550i xDrive,N,Automatic (S8),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,32073,BMW,ActiveHybrid 7,N,Automatic (S8),2012,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,32074,Infiniti,G37,N,Automatic (S7),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,25,0,32075,Infiniti,G37,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32076,Infiniti,G37x,Y,Automatic (S7),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,32077,Infiniti,G25,N,Automatic (S7),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32078,Infiniti,G25x,N,Automatic (S7),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,32079,Lexus,ES 350,Y,Automatic (S6),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,32080,Lexus,LS 460,N,Automatic (S8),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,32081,Lexus,LS 460 AWD,N,Automatic (S8),2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,32082,Lexus,LS 460 L,N,Automatic (S8),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,32083,Lexus,LS 460 L AWD,N,Automatic (S8),2012,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,23,0,32084,Lexus,LS 600h L,N,Automatic (AV-S8),2012,,Hybrid,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,37,0,32085,Mazda,3 DI 5-Door,Y,Manual 6-spd,2012,,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,37,0,32086,Mazda,3 DI 5-Door,Y,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,30,0,32087,Mercedes-Benz,E350,Y,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,32089,Mercedes-Benz,E350 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+16.4805,0,16,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,32090,Mercedes-Benz,E550 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,32091,Mercedes-Benz,E63 AMG,N,Automatic 7-spd,2012,,,,0,0,0
+8.24025,0,42,0,0,222.175,40,0,1200,0,Regular,Regular Gasoline,38,0,32092,Toyota,Camry Hybrid LE,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+8.451538462,0,40,0,0,227.8717949,39,0,1200,0,Regular,Regular Gasoline,37,0,32093,Toyota,Camry Hybrid XLE,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,32094,BMW,535i Gran Turismo,N,Automatic (S8),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,27,0,32095,BMW,535i xDrive Gran Turismo,N,Automatic (S8),2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,32096,BMW,550i Gran Turismo,N,Automatic (S8),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,19,0,32097,BMW,550i xDrive Gran Turismo,N,Automatic (S8),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,32098,BMW,ActiveHybrid 7L,N,Automatic (S8),2012,,Hybrid,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,32099,BMW,760Li,N,Automatic (S8),2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,32100,Rolls-Royce,Ghost,N,Automatic (S8),2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,20,0,32101,Rolls-Royce,Ghost EWB,N,Automatic (S8),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32102,BMW,328i Sport Wagon,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,32103,BMW,328i Sport Wagon,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32104,BMW,328i xDrive Sport Wagon,N,Automatic (S6),2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,32105,BMW,328i xDrive Sport Wagon,N,Manual 6-spd,2012,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,32106,Mitsubishi,Lancer Sportback,N,Automatic (AV-S6),2012,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,32107,Mitsubishi,Lancer Sportback,N,Automatic (AV-S6),2012,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,2000,0,Premium,Premium Gasoline,32,0,32108,Nissan,Juke,Y,Automatic (AV-S6),2012,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,29,0,32109,Nissan,Juke AWD,Y,Automatic (AV-S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32110,Mercedes-Benz,E350 4matic (wagon),N,Automatic 7-spd,2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,23,0,32111,Mercedes-Benz,E63 AMG (wagon),N,Automatic 7-spd,2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,32112,Ford,F150 Pickup 2WD,Y,Automatic (S6),2012,,,,0,0,0
+17.34789474,5.350714286,17,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,32113,Ford,F150 Pickup 2WD FFV,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+17.34789474,5.350714286,17,12,449.6428571,467.7368421,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,32114,Ford,F150 Pickup 2WD FFV,N,Automatic (S6),2012,,FFV,E85,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,32115,Ford,F150 Pickup 2WD,N,Automatic 6-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,32116,Ford,F150 Pickup 2WD,N,Automatic (S6),2012,,,,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,15,32117,Ford,F150 Pickup 2WD FFV,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+19.38882353,5.762307692,15,11,484.2307692,522.7647059,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,15,32118,Ford,F150 Pickup 2WD FFV,N,Automatic (S6),2012,,FFV,E85,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,32119,Ford,F150 Raptor Pickup 4WD,N,Automatic (S6),2012,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,32120,Ford,F150 Pickup 4WD,Y,Automatic (S6),2012,,,,0,0,0
+18.31166667,5.762307692,16,12,484.2307692,493.7222222,18,13,2650,2750,Gasoline or E85,Regular Gasoline,21,15,32121,Ford,F150 Pickup 4WD FFV,N,Automatic 6-spd,2012,,FFV,E85,0,0,0
+18.31166667,5.762307692,16,12,484.2307692,493.7222222,18,13,2650,2750,Gasoline or E85,Regular Gasoline,21,15,32122,Ford,F150 Pickup 4WD FFV,N,Automatic (S6),2012,,FFV,E85,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,32123,Ford,F150 Pickup 4WD,Y,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,32124,Ford,F150 Pickup 4WD,Y,Automatic 6-spd,2012,,,,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,32125,Ford,F150 Pickup 4WD FFV,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+20.600625,6.2425,14,11,524.5833333,555.4375,16,12,3000,3000,Gasoline or E85,Regular Gasoline,19,14,32126,Ford,F150 Pickup 4WD FFV,Y,Automatic (S6),2012,,FFV,E85,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,32127,Honda,Ridgeline Truck 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,32128,Honda,CR-V 2WD,Y,Automatic 5-spd,2012,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,32129,Infiniti,FX35 RWD,N,Automatic (S7),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,32130,Mazda,CX-7 2WD,N,Automatic (S6),2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,32131,Nissan,Rogue FWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,32132,Nissan,Murano FWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+21.974,6.81,13,9,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,19,14,32133,Nissan,Armada 2WD,N,Automatic 5-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,32134,Toyota,4Runner 2WD,Y,Automatic (S5),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,25,0,32135,BMW,X3 xDrive28i,N,Automatic (S8),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32136,BMW,X3 xDrive35i,N,Automatic (S8),2012,,,,0,0,0
+18.19928571,0,19,0,0,484.7619048,21,0,2400,0,Diesel,Diesel,26,0,32137,BMW,X5 xDrive35d,Y,Automatic (S6),2012,,Diesel,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,32138,Honda,CR-V 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,32139,Infiniti,FX35 AWD,N,Automatic (S7),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,32140,Infiniti,FX50 AWD,N,Automatic (S7),2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,32141,Land Rover,LR2,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,18,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32142,Land Rover,Range Rover Evoque,Y,Automatic 6-spd,2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,21,0,32144,Mazda,CX-7 4WD,N,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,22,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,32147,Nissan,Rogue AWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,32148,Nissan,Murano AWD,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,32149,Nissan,Murano CrossCabriolet,N,Automatic (variable gear ratios),2012,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,32150,Nissan,Xterra 4WD,N,Manual 6-spd,2012,,,,0,0,0
+23.54357143,6.81,12,9,572.2727273,634.7857143,14,11,3400,3250,Gasoline or E85,Regular Gasoline,18,13,32151,Nissan,Armada 4WD,N,Automatic 5-spd,2012,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,32152,Toyota,4Runner 4WD,Y,Automatic (S5),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,32153,Toyota,4Runner 4WD,N,Automatic (S5),2012,,,,0,0,0
+0.204,0,106,0,0,0,99,0,650,0,Electricity,Electricity,92,0,32154,Nissan,Leaf,Y,Automatic (A1),2012,,EV,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,32155,Mitsubishi,Outlander Sport 2WD,N,Automatic (AV-S6),2012,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,32156,Mitsubishi,Outlander Sport 2WD,N,Manual 5-spd,2012,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,32157,Mitsubishi,Outlander Sport 4WD,Y,Automatic (AV-S6),2012,,,,0,0,0
+0.143076923,0,11,0,0,540.7692308,13,0,2550,0,CNG,Natural Gas,16,0,32158,VPG,MV-1 CNG,N,Automatic 4-spd,2012,,CNG,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,32159,VPG,MV-1,N,Automatic 4-spd,2012,,,,0,0,0
+13.73375,4.406470588,21,15,370.2941176,370.2916667,24,17,2000,2100,Gasoline or E85,Regular Gasoline,31,22,32160,Buick,Verano,Y,Automatic (S6),2012,,FFV,E85,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,32161,Chevrolet,Camaro,N,Manual 6-spd,2012,,,,0,0,0
+15.69571429,4.994,17,13,419.6666667,423.1904762,21,15,2250,2400,Gasoline or E85,Regular Gasoline,27,19,32162,Buick,LaCrosse,N,Automatic (S6),2012,,FFV,E85,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,32163,Toyota,Avalon,Y,Automatic (S6),2012,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,30,0,32164,Nissan,Juke,N,Manual 6-spd,2012,,,,0,0,0
+21.974,6.81,13,9,572.2727273,592.4666667,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,32165,Nissan,Titan 2WD,N,Automatic 5-spd,2012,,FFV,E85,0,0,0
+23.54357143,7.491,12,9,629.5,634.7857143,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,12,32166,Nissan,Titan 4WD,Y,Automatic 5-spd,2012,,FFV,E85,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,32167,Nissan,Quest,Y,Automatic (variable gear ratios),2012,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,32168,Chevrolet,Captiva FWD,N,Automatic 6-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,27,0,32169,Mazda,CX-7 2WD,Y,Automatic (S5),2012,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,32170,Chevrolet,Captiva AWD,N,Automatic 6-spd,2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,21,0,32171,Aston Martin,V8 Vantage,N,Automatic (AM7),2012,,,,0,0,0
+9.155833333,0,34,0,0,246.8611111,36,0,1600,0,Premium,Premium Gasoline,38,0,32172,smart,fortwo coupe,Y,Automatic (AM5),2012,,,,0,0,0
+9.155833333,0,34,0,0,246.8611111,36,0,1600,0,Premium,Premium Gasoline,38,0,32173,smart,fortwo cabriolet,Y,Automatic (AM5),2012,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,32174,Roush Performance,Stage 3 Mustang,N,Automatic 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,33,0,32175,BMW,328i,Y,Automatic (S8),2012,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,2150,0,Premium,Premium Gasoline,34,0,32176,BMW,328i,Y,Manual 6-spd,2012,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,32177,BMW,335i,Y,Automatic (S8),2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,29,0,32178,BMW,335i,N,Manual 6-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,32179,Chevrolet,Camaro,N,Automatic (S6),2012,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,34,0,32181,Toyota,Corolla,Y,Automatic 4-spd,2012,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,32182,Toyota,Corolla,N,Manual 5-spd,2012,,,,0,0,0
+6.5922,0,53,0,0,177.74,50,0,950,0,Regular,Regular Gasoline,46,0,32183,Toyota,Prius c,Y,Automatic (variable gear ratios),2012,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32184,Volkswagen,Golf R,Y,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,32185,Buick,Regal,Y,Automatic (S6),2012,,,,0,0,0
+9.155833333,0,34,0,0,246.8611111,36,0,1300,0,Regular,Regular Gasoline,39,0,32186,Hyundai,Sonata Hybrid,Y,Automatic 6-spd,2012,,Hybrid,,0,0,0
+9.155833333,0,34,0,0,246.8611111,36,0,1300,0,Regular,Regular Gasoline,38,0,32187,Kia,Optima Hybrid,Y,Automatic 6-spd,2012,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,32188,Hyundai,Azera,Y,Automatic 6-spd,2012,,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,30,0,32189,Nissan,Cube,N,Automatic (variable gear ratios),2012,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,29,0,32190,Nissan,Cube,N,Manual 6-spd,2012,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,32191,Toyota,Matrix,N,Automatic 4-spd,2012,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,32,0,32192,Toyota,Matrix,N,Manual 5-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,32193,Toyota,Matrix,N,Automatic 4-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,32194,Toyota,Matrix,N,Manual 5-spd,2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,32195,Toyota,Matrix,N,Automatic (S5),2012,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,32196,Toyota,RAV4 2WD,N,Automatic 4-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,32197,Toyota,RAV4 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,32198,Toyota,Venza,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,32199,Toyota,Venza,Y,Automatic (S6),2012,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,32200,Toyota,RAV4 4WD,Y,Automatic 4-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,32201,Toyota,RAV4 4WD,Y,Automatic 5-spd,2012,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,32202,Toyota,Venza AWD,N,Automatic (S6),2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,32203,Toyota,Venza AWD,Y,Automatic (S6),2012,,,,0,0,0
+16.4805,5.350714286,17,12,449.6428571,444.35,20,14,2400,2550,Gasoline or E85,Regular Gasoline,25,18,32228,Ram,C/V Cargo Van,Y,Automatic 6-spd,2012,,FFV,E85,0,0,0
+0.276,0,77,0,0,0,73,0,900,0,Electricity,Electricity,68,0,32277,CODA Automotive,CODA,N,Automatic (A1),2012,,EV,,0,0,0
+0.192,0,110,0,0,0,105,0,600,0,Electricity,Electricity,99,0,32278,Ford,Focus Electric,N,Automatic (variable gear ratios),2012,,EV,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,32279,Mercedes-Benz,SLK250,N,Automatic 7-spd,2012,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,32,0,32280,Mercedes-Benz,SLK250,N,Manual 6-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,32281,Mercedes-Benz,SLK55 AMG,Y,Automatic 7-spd,2012,,,,0,0,0
+10.987,0,28,0,0,296.2333333,30,0,1950,0,Premium,Premium Gasoline,33,0,32282,Fiat,500 Abarth,Y,Manual 5-spd,2012,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32283,Lotus,Evora,N,Manual 6-spd,2012,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,32284,Lotus,Evora,N,Manual 6-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,32285,Lotus,Evora,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,28,0,32286,Lotus,Evora,N,Automatic (S6),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32287,Porsche,New 911 Carrera,N,Manual 7-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,32288,Porsche,New 911 Carrera,N,Automatic (AM-S7),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32289,Porsche,New 911 Carrera Cabriolet,N,Manual 7-spd,2012,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2550,0,Premium,Premium Gasoline,28,0,32290,Porsche,New 911 Carrera Cabriolet,N,Automatic (AM-S7),2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32291,Porsche,New 911 Carrera S,N,Manual 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32292,Porsche,New 911 Carrera S,N,Automatic (AM-S7),2012,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,32293,Porsche,New 911 Carrera S Cabriolet,N,Manual 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32294,Porsche,New 911 Carrera S Cabriolet,N,Automatic (AM-S7),2012,,,,0,0,0
+20.600625,0,13,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,19,0,32295,Mercedes-Benz,C63 AMG Black Series Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,32296,Mercedes-Benz,E350 4matic Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+14.98227273,4.994,19,13,419.6666667,403.9545455,22,15,2650,2400,Premium or E85,Premium Gasoline,28,19,32297,Mercedes-Benz,E350 Convertible,N,Automatic 7-spd,2012,,FFV,E85,0,0,0
+14.33086957,4.406470588,20,14,370.2941176,386.3913043,23,17,2550,2100,Premium or E85,Premium Gasoline,28,21,32298,Mercedes-Benz,E350 Coupe,N,Automatic 7-spd,2012,,FFV,E85,0,0,0
+14.98227273,4.681875,19,14,393.4375,403.9545455,22,16,2650,2250,Premium or E85,Premium Gasoline,27,20,32299,Mercedes-Benz,E350 4matic Coupe,N,Automatic 7-spd,2012,,FFV,E85,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,36,0,32300,Chevrolet,Sonic,N,Automatic (S6),2012,,,,0,0,0
+11.36586207,3.405,26,19,286.1363636,306.4482759,29,22,1650,1650,Gasoline or E85,Regular Gasoline,35,26,32301,Ford,Focus FWD FFV,Y,Manual 5-spd,2012,,FFV,E85,0,0,0
+10.63258065,3.405,27,19,286.1363636,286.6774194,31,22,1550,1650,Gasoline or E85,Regular Gasoline,37,27,32302,Ford,Focus FWD FFV,Y,Automatic (AM6),2012,,FFV,E85,0,0,0
+10.3003125,3.405,28,19,286.1363636,277.71875,32,22,1500,1650,Gasoline or E85,Regular Gasoline,39,27,32303,Ford,Focus SFE FWD FFV,Y,Automatic (AM6),2012,,FFV,E85,0,0,0
+14.98227273,4.406470588,19,15,370.2941176,403.9545455,22,17,2650,2100,Premium or E85,Premium Gasoline,28,21,32304,Mercedes-Benz,C350,N,Automatic 7-spd,2012,,FFV,E85,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,36,0,32305,Chevrolet,Sonic 5,Y,Automatic (S6),2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,32306,Mercedes-Benz,ML550 4matic,N,Automatic 7-spd,2012,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,18,0,32307,Mercedes-Benz,ML63 AMG,N,Automatic 7-spd,2012,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,32316,Maybach,57,N,Automatic 5-spd,2012,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,32317,Maybach,57S,N,Automatic 5-spd,2012,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,32318,Maybach,62,N,Automatic 5-spd,2012,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,32319,Maybach,62S,N,Automatic 5-spd,2012,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4850,0,Premium,Premium Gasoline,16,0,32320,Maybach,Landaulet,N,Automatic 5-spd,2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,32330,Ferrari,458 Italia Coupe,N,Automatic (AM7),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,32331,Ferrari,458 Italia Coupe,N,Automatic (AM7),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,32332,Ferrari,458 Italia Spider,N,Automatic (AM7),2012,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,18,0,32333,Ferrari,458 Italia Spider,N,Automatic (AM7),2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,32334,Ferrari,California,N,Automatic (AM7),2012,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,19,0,32335,Ferrari,California,N,Automatic (AM7),2012,,,,0,0,0
+0.06,0,27,0,0,226.7741935,31,0,1050,0,CNG,Natural Gas,38,0,32336,Honda,Civic Natural Gas,Y,Automatic 5-spd,2012,,CNG,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,32337,Ferrari,FF,N,Automatic (AM7),2012,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,17,0,32338,Ferrari,FF,N,Automatic (AM7),2012,,,,0,0,0
+4.744612482,3.469578947,51,90,0,133,50,95,950,0,Regular Gas and Electricity,Regular Gasoline,49,102,32484,Toyota,Prius Plug-in Hybrid,Y,Automatic (variable gear ratios),2012,,Plug-in Hybrid,Electricity,59,56,58
+6.359254843,0.372,20,55,0,169,20,54,2900,1200,Premium Gas or Electricity,Premium Gasoline,21,54,32516,Fisker,Karma,Y,Automatic (A1),2012,,Plug-in Hybrid,Electricity,33,34,33
+0.228,0,88,0,0,0,89,0,750,0,Electricity,Electricity,90,0,32557,Tesla,Model S,Y,Automatic (A1),2012,,EV,,0,0,0
+0.264,0,78,0,0,0,76,0,850,0,Electricity,Electricity,74,0,33308,Toyota,RAV4 EV,N,Automatic (variable gear ratios),2012,,EV,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,33359,Mercedes-Benz,C350 4matic Coupe,N,Automatic 7-spd,2012,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,19,0,33360,BMW,650i Convertible xDrive,N,Automatic (S8),2012,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,33361,BMW,M6 Convertible,N,Automatic (S7),2012,,,,0,0,0
+10.63258065,3.405,27,19,286.1363636,286.6774194,31,22,1550,1650,Gasoline or E85,Regular Gasoline,36,27,33362,Ford,Focus FWD FFV,Y,Automatic (AM-S6),2012,,FFV,E85,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,2250,0,Premium,Premium Gasoline,30,0,33363,BMW,ActiveHybrid 5,N,Automatic (S8),2012,,Hybrid,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,33364,Honda,Crosstour 2WD,N,Automatic 5-spd,2012,,,,0,0,0
+16.4805,4.994,18,13,419.6666667,444.35,20,15,2900,2400,Premium or E85,Premium Gasoline,23,17,33365,Mercedes-Benz,ML350 4matic,N,Automatic 7-spd,2012,,FFV,E85,0,0,0
+0.324,0,60,0,0,0,62,0,1050,0,Electricity,Electricity,64,0,33383,BYD,e6,N,Automatic (A1),2012,,EV,,0,0,0

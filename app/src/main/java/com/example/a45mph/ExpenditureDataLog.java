@@ -1,11 +1,6 @@
 package com.example.a45mph;
 
-import android.content.Context;
-import android.os.Build;
 import android.util.Log;
-
-import androidx.annotation.RequiresApi;
-
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
@@ -54,7 +49,6 @@ public class ExpenditureDataLog extends DataLog {
         entry = time + "," + vehicle.getName() + "," + expend + "," + amtBought + "\n";
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ExpenditureDataLog readLog(Scanner lineScanner)
     {
         LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
@@ -65,13 +59,11 @@ public class ExpenditureDataLog extends DataLog {
         return new ExpenditureDataLog(expend,amount,timestamp,vehicleProfile);
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<ExpenditureDataLog> loadExpenditureDataLogs() throws IOException
     {
         return loadExpenditureDataLogs(new File(FILEPATH));
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<ExpenditureDataLog> loadExpenditureDataLogs(File file) throws IOException
     {
         ArrayList<ExpenditureDataLog> expends = new ArrayList<>();
@@ -98,9 +90,10 @@ public class ExpenditureDataLog extends DataLog {
     public void transfer() throws IOException {
         File expendLogFile = new File(FILEPATH);
         setEntry();
-        Log.d("File Man", expendLogFile.getAbsoluteFile().toString());
-        Log.d("File Man", entry);
+        Log.d("Expenditure Man", expendLogFile.getAbsoluteFile().toString());
+        Log.d("Expenditure Man", entry);
 
         transfer(expendLogFile);
     }
+
 }

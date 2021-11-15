@@ -19,7 +19,6 @@ import java.util.Scanner;
 public class EmissionDataLogAdapter extends RecyclerView.Adapter {
     private ArrayList<EmissionDataLog> emissions;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public EmissionDataLogAdapter()
     {
         try {
@@ -33,7 +32,6 @@ public class EmissionDataLogAdapter extends RecyclerView.Adapter {
         }
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public EmissionDataLogAdapter(Context c)
     {
         try {

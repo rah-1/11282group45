@@ -11,7 +11,6 @@ import android.os.Bundle;
 public class TripLogActivity extends AppCompatActivity {
     private RecyclerView tripList;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

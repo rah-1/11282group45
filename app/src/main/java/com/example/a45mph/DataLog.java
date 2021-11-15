@@ -22,7 +22,6 @@ public abstract class DataLog
     protected VehicleProfile vehicle;
     protected String entry;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public DataLog()
     {
         time = LocalDateTime.now();
@@ -62,20 +61,20 @@ public abstract class DataLog
             lineScanner.next();
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static String getDateAsString(LocalDateTime ldt) {
         DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("MM-dd-yyyy");
         return ldt.format(dateFormatter);
     }
-    @RequiresApi(api = Build.VERSION_CODES.O)
+
     public static String getTimeAsString(LocalDateTime ldt) {
         String timePattern = "hh:mm:ss a";
         return ldt.format(DateTimeFormatter.ofPattern(timePattern));
     }
-    @RequiresApi(api = Build.VERSION_CODES.O)
+
     public static String getDateAndTime(LocalDateTime ldt) {
         return getDateAsString(ldt) + " " + getTimeAsString(ldt);
     }
+
     public LocalDateTime getTime() { return time; }
     public VehicleProfile getVehicle() { return vehicle; }
 
@@ -90,18 +89,21 @@ public abstract class DataLog
             }
 
             Log.d("File Man", "File created successfully");
-
-            FileWriter fw = new FileWriter(Logfile);
-            fw.write(entry);
-            fw.close();
+            writeEntry(Logfile,false);
         }
         else
         {
             Log.d("File Man","File exists");
-            FileWriter fw = new FileWriter(Logfile, true);
-            fw.write(entry);
-            fw.close();
+            writeEntry(Logfile,true);
         }
+    }
+
+    private void writeEntry(File logFile, boolean append) throws IOException
+    {
+        FileWriter fw = new FileWriter(logFile, append);
+        setEntry();
+        fw.write(entry);
+        fw.close();
     }
 
     @Override

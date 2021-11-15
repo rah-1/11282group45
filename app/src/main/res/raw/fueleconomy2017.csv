@@ -1,0 +1,1294 @@
+barrels08,barrelsA08,city08,cityA08,co2TailpipeAGpm,co2TailpipeGpm,comb08,combA08,fuelCost08,fuelCostA08,fuelType,fuelType1,highway08,highwayA08,id,make,model,mpgData,trany,year,trans_dscr,atvType,fuelType2,phevCity,phevHwy,phevComb
+14.33086957,0,20,0,0,388,23,0,2050,0,Regular,Regular Gasoline,28,0,37217,Hyundai,Santa Fe Sport FWD,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,396,23,0,2050,0,Regular,Regular Gasoline,27,0,37218,Hyundai,Santa Fe Sport Ultimate FWD,Y,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,410,22,0,2150,0,Regular,Regular Gasoline,26,0,37219,Hyundai,Santa Fe Sport AWD,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,19,0,0,425,21,0,2250,0,Regular,Regular Gasoline,24,0,37220,Hyundai,Santa Fe Sport Ultimate AWD,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,19,0,0,419,21,0,2750,0,Premium,Premium Gasoline,25,0,37221,Audi,Q7,N,Automatic (S8),2017,,,,0,0,0
+9.988181818,0,29,0,0,272,33,0,1450,0,Regular,Regular Gasoline,38,0,37225,Hyundai,Elantra SE,N,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,282,32,0,1500,0,Regular,Regular Gasoline,37,0,37226,Hyundai,Elantra,Y,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,26,0,0,301,29,0,1650,0,Regular,Regular Gasoline,36,0,37227,Hyundai,Elantra,N,Manual 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,427,21,0,2250,0,Regular,Regular Gasoline,25,0,37228,Hyundai,Santa Fe FWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,17,0,0,457,20,0,2400,0,Regular,Regular Gasoline,23,0,37229,Hyundai,Santa Fe Ultimate FWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,18,0,0,433,20,0,2400,0,Regular,Regular Gasoline,24,0,37230,Hyundai,Santa Fe AWD,Y,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,475,19,0,2500,0,Regular,Regular Gasoline,22,0,37231,Hyundai,Santa Fe Ultimate AWD,Y,Automatic (S6),2017,,,,0,0,0
+13.73375,0,21,0,0,379,24,0,2000,0,Regular,Regular Gasoline,27,0,37243,Hyundai,Santa Fe Sport FWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,20,0,0,406,22,0,2150,0,Regular,Regular Gasoline,26,0,37244,Hyundai,Santa Fe Sport AWD,N,Automatic (S6),2017,,,,0,0,0
+13.1844,0,22,0,0,358,25,0,1900,0,Regular,Regular Gasoline,29,0,37262,Kia,Sportage FWD,Y,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,351,26,0,1850,0,Regular,Regular Gasoline,30,0,37263,Kia,Sportage FE FWD,Y,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,21,0,0,392,23,0,2050,0,Regular,Regular Gasoline,26,0,37264,Kia,Sportage FWD,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,21,0,0,397,23,0,2050,0,Regular,Regular Gasoline,25,0,37265,Kia,Sportage AWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,21,0,0,400,22,0,2150,0,Regular,Regular Gasoline,25,0,37266,Kia,Sportage FE AWD,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,20,0,0,424,21,0,2250,0,Regular,Regular Gasoline,23,0,37267,Kia,Sportage AWD,Y,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,395,22,0,2150,0,Regular,Regular Gasoline,27,0,37270,Cadillac,XT5,Y,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,419,21,0,2250,0,Regular,Regular Gasoline,26,0,37271,Cadillac,XT5 AWD,Y,Automatic (S8),2017,,,,0,0,0
+9.155833333,0,33,0,0,242,36,0,1300,0,Regular,Regular Gasoline,41,0,37290,Mitsubishi,Mirage,N,Manual 5-spd,2017,,,,0,0,0
+8.451538462,0,37,0,0,226,39,0,1200,0,Regular,Regular Gasoline,43,0,37291,Mitsubishi,Mirage,N,Automatic (variable gear ratios),2017,,,,0,0,0
+14.98227273,0,18,0,0,416,22,0,2150,0,Regular,Regular Gasoline,28,0,37292,Chrysler,Pacifica,Y,Automatic 9-spd,2017,,,,0,0,0
+0.18,0,121,0,0,0,112,0,600,0,Electricity,Electricity,102,0,37293,Mitsubishi,i-MiEV,N,Automatic (A1),2017,,EV,,0,0,0
+19.38882353,0,14,0,0,519,17,0,3400,0,Premium,Premium Gasoline,22,0,37299,Audi,R8,N,Automatic (AM-S7),2017,,,,0,0,0
+19.38882353,0,14,0,0,519,17,0,3400,0,Premium,Premium Gasoline,22,0,37300,Audi,R8 Spyder,N,Automatic (AM-S7),2017,,,,0,0,0
+12.20777778,0,24,0,0,330,27,0,2150,0,Premium,Premium Gasoline,31,0,37301,Audi,A4 quattro,Y,Automatic (AM-S7),2017,,,,0,0,0
+11.77178571,0,25,0,0,315,28,0,2100,0,Premium,Premium Gasoline,33,0,37302,Audi,A4,Y,Automatic (AM-S7),2017,,,,0,0,0
+14.33086957,0,20,0,0,385,23,0,2550,0,Premium,Premium Gasoline,27,0,37303,Subaru,WRX,N,Manual 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,420,21,0,2750,0,Premium,Premium Gasoline,24,0,37304,Subaru,WRX,N,Automatic (AV-S8),2017,,,,0,0,0
+17.34789474,0,17,0,0,458,19,0,3050,0,Premium,Premium Gasoline,23,0,37305,Subaru,WRX,N,Manual 6-spd,2017,,,,0,0,0
+14.98227273,0,19,0,0,397,22,0,2650,0,Premium,Premium Gasoline,28,0,37306,BMW,740i xDrive,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2550,0,Premium,Premium Gasoline,28,0,37307,Acura,RDX FWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,402,22,0,2650,0,Premium,Premium Gasoline,27,0,37308,Acura,RDX AWD,Y,Automatic (S6),2017,,,,0,0,0
+2.006844186,0.186,43,113,0,51,42,106,1150,600,Regular Gas or Electricity,Regular Gasoline,42,99,37309,Chevrolet,Volt,Y,Automatic (variable gear ratios),2017,,Plug-in Hybrid,Electricity,82,72,77
+18.31166667,0,15,0,0,500,18,0,3250,0,Premium,Premium Gasoline,23,0,37311,Jaguar,F-Type R AWD Coupe,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,500,18,0,3250,0,Premium,Premium Gasoline,23,0,37312,Jaguar,F-Type R AWD Convertible,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2550,0,Premium,Premium Gasoline,28,0,37313,Jaguar,F-Type Coupe,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2550,0,Premium,Premium Gasoline,28,0,37314,Jaguar,F-Type Convertible,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,27,0,37315,Jaguar,F-Type S Coupe,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,27,0,37316,Jaguar,F-Type S Convertible,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,426,21,0,2750,0,Premium,Premium Gasoline,26,0,37317,Jaguar,F-Type S AWD Coupe,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,426,21,0,2750,0,Premium,Premium Gasoline,26,0,37318,Jaguar,F-Type S AWD Convertible,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,476,19,0,3050,0,Premium,Premium Gasoline,24,0,37319,Jaguar,F-Type Coupe,N,Manual 6-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,476,19,0,3050,0,Premium,Premium Gasoline,24,0,37320,Jaguar,F-Type Convertible,N,Manual 6-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,485,18,0,3250,0,Premium,Premium Gasoline,24,0,37321,Jaguar,F-Type S Coupe,N,Manual 6-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,485,18,0,3250,0,Premium,Premium Gasoline,24,0,37322,Jaguar,F-Type S Convertible,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,349,25,0,2350,0,Premium,Premium Gasoline,31,0,37325,MINI,John Cooper Works Convertible,N,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,368,24,0,2400,0,Premium,Premium Gasoline,30,0,37326,BMW,640i Coupe,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,377,23,0,2550,0,Premium,Premium Gasoline,29,0,37327,BMW,640i Convertible,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,398,22,0,2650,0,Premium,Premium Gasoline,28,0,37328,BMW,640i xDrive Coupe,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,398,22,0,2650,0,Premium,Premium Gasoline,28,0,37329,BMW,640i xDrive Convertible,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,15,0,0,519,17,0,3400,0,Premium,Premium Gasoline,22,0,37330,BMW,M6 Coupe,N,Manual 6-spd,2017,,,,0,0,0
+20.600625,0,14,0,0,553,16,0,3650,0,Premium,Premium Gasoline,20,0,37331,BMW,M6 Coupe,N,Automatic (AM-S7),2017,,,,0,0,0
+19.38882353,0,15,0,0,519,17,0,3400,0,Premium,Premium Gasoline,22,0,37332,BMW,M6 Convertible,N,Manual 6-spd,2017,,,,0,0,0
+20.600625,0,14,0,0,553,16,0,3650,0,Premium,Premium Gasoline,20,0,37333,BMW,M6 Convertible,N,Automatic (AM-S7),2017,,,,0,0,0
+14.33086957,0,20,0,0,377,23,0,2550,0,Premium,Premium Gasoline,29,0,37334,BMW,640i Gran Coupe,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,398,22,0,2650,0,Premium,Premium Gasoline,28,0,37335,BMW,640i xDrive Gran Coupe,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,15,0,0,519,17,0,3400,0,Premium,Premium Gasoline,22,0,37336,BMW,M6 Gran Coupe,N,Manual 6-spd,2017,,,,0,0,0
+20.600625,0,14,0,0,553,16,0,3650,0,Premium,Premium Gasoline,20,0,37337,BMW,M6 Gran Coupe,N,Automatic (AM-S7),2017,,,,0,0,0
+9.417428571,0,33,0,0,249,35,0,1350,0,Regular,Regular Gasoline,40,0,37338,Mitsubishi,Mirage G4,N,Manual 5-spd,2017,,,,0,0,0
+8.908378378,0,35,0,0,237,37,0,1300,0,Regular,Regular Gasoline,42,0,37339,Mitsubishi,Mirage G4,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+12.20777778,0,24,0,0,329,27,0,1750,0,Regular,Regular Gasoline,32,0,37340,Hyundai,Elantra GT,N,Manual 6-spd,2017,,,,0,0,0
+12.67730769,0,22,0,0,346,26,0,2250,0,Premium,Premium Gasoline,31,0,37341,MINI,Cooper S Clubman All4,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,366,24,0,2400,0,Premium,Premium Gasoline,30,0,37342,MINI,Cooper S Clubman All4,N,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2400,0,Premium,Premium Gasoline,28,0,37343,BMW,X3 sDrive28i,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2400,0,Premium,Premium Gasoline,28,0,37344,BMW,X3 xDrive28i,Y,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,19,0,0,418,21,0,2750,0,Premium,Premium Gasoline,26,0,37345,BMW,X3 xDrive35i,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,19,0,0,418,21,0,2750,0,Premium,Premium Gasoline,26,0,37346,BMW,X4 M40i,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,0,24,0,0,327,27,0,2150,0,Premium,Premium Gasoline,32,0,37352,MINI,John Cooper Works Convertible,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,24,0,0,331,27,0,1750,0,Regular,Regular Gasoline,32,0,37353,Hyundai,Elantra GT,Y,Automatic (S6),2017,,,,0,0,0
+16.4805,0,18,0,0,443,20,0,2400,0,Regular,Regular Gasoline,24,0,37354,Kia,Sedona,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,433,21,0,2250,0,Regular,Regular Gasoline,25,0,37355,Kia,Sedona SX,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,476,19,0,2500,0,Regular,Regular Gasoline,22,0,37356,Kia,Sedona SXL,N,Automatic (S6),2017,,,,0,0,0
+13.73375,0,21,0,0,369,24,0,2000,0,Regular,Regular Gasoline,29,0,37357,Ford,Escape FWD,Y,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,342,26,0,1850,0,Regular,Regular Gasoline,30,0,37358,Ford,Escape FWD,Y,Automatic (S6),2017,,,,0,0,0
+13.1844,0,22,0,0,357,25,0,1900,0,Regular,Regular Gasoline,29,0,37359,Ford,Escape FWD,Y,Automatic (S6),2017,,,,0,0,0
+13.73375,4.161666667,21,15,353,369,24,18,2000,2000,Gasoline or E85,Regular Gasoline,29,22,37360,Ford,Escape FWD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+14.33086957,0,21,0,0,387,23,0,2050,0,Regular,Regular Gasoline,28,0,37361,Lincoln,MKC FWD,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,27,0,37362,Ford,Escape AWD,Y,Automatic (S6),2017,,,,0,0,0
+13.73375,0,22,0,0,370,24,0,2000,0,Regular,Regular Gasoline,28,0,37363,Ford,Escape AWD,Y,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,433,21,0,2250,0,Regular,Regular Gasoline,25,0,37364,Lincoln,MKC AWD,Y,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,19,0,0,413,21,0,2250,0,Regular,Regular Gasoline,25,0,37365,Lincoln,MKC AWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2150,0,Regular,Regular Gasoline,25,0,37366,Lincoln,MKC AWD,N,Automatic (S6),2017,,,,0,0,0
+13.1844,0,23,0,0,359,25,0,2350,0,Premium,Premium Gasoline,27,0,37367,Subaru,Forester AWD,Y,Automatic (AV-S8),2017,,,,0,0,0
+17.34789474,0,17,0,0,477,19,0,3050,0,Premium,Premium Gasoline,22,0,37368,Mercedes-Benz,GLS450 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+23.54357143,0,13,0,0,615,14,0,4150,0,Premium,Premium Gasoline,17,0,37369,Mercedes-Benz,AMG GLS63,N,Automatic 7-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,470,19,0,3050,0,Premium,Premium Gasoline,24,0,37374,BMW,650i xDrive Coupe,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,486,18,0,3250,0,Premium,Premium Gasoline,24,0,37375,BMW,650i xDrive Convertible,N,Automatic (S8),2017,,,,0,0,0
+20.600625,0,13,0,0,572,16,0,3650,0,Premium,Premium Gasoline,21,0,37376,Maserati,GranTurismo,N,Automatic 6-spd,2017,,,,0,0,0
+21.974,0,13,0,0,577,15,0,3900,0,Premium,Premium Gasoline,20,0,37377,Maserati,GranTurismo Convertible,N,Automatic 6-spd,2017,,,,0,0,0
+11.36586207,0,25,0,0,309,29,0,2000,0,Premium,Premium Gasoline,35,0,37378,Acura,ILX,N,Automatic (AM-S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,486,18,0,3250,0,Premium,Premium Gasoline,24,0,37379,BMW,650i xDrive Gran Coupe,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,486,18,0,3250,0,Premium,Premium Gasoline,24,0,37380,BMW,Alpina B6 xDrive Gran Coupe,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,29,0,37381,Ford,Fusion AWD,Y,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,23,0,0,328,27,0,1750,0,Regular,Regular Gasoline,34,0,37382,Ford,Fusion FWD,Y,Automatic (S6),2017,,,,0,0,0
+7.847857143,0,43,0,0,210,42,0,1150,0,Regular,Regular Gasoline,41,0,37383,Ford,Fusion Hybrid FWD,Y,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+9.417428571,0,32,0,0,256,35,0,1350,0,Regular,Regular Gasoline,40,0,37384,Hyundai,Elantra,Y,Automatic (AM7),2017,,,,0,0,0
+8.24025,0,41,0,0,222,40,0,1200,0,Regular,Regular Gasoline,38,0,37385,Lincoln,MKZ Hybrid FWD,Y,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,28,0,37386,Lincoln,MKZ AWD,N,Automatic (S6),2017,,,,0,0,0
+13.73375,0,21,0,0,370,24,0,2000,0,Regular,Regular Gasoline,31,0,37387,Lincoln,MKZ FWD,N,Automatic (S6),2017,,,,0,0,0
+18.31166667,0,15,0,0,486,18,0,3250,0,Premium,Premium Gasoline,24,0,37388,BMW,550i xDrive Gran Turismo,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,18,0,0,411,22,0,2150,0,Regular,Regular Gasoline,28,0,37389,Genesis,G80 RWD,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,459,19,0,2500,0,Regular,Regular Gasoline,25,0,37390,Genesis,G80 AWD,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,397,23,0,2050,0,Regular,Regular Gasoline,27,0,37391,Kia,Sorento FWD,N,Automatic (S6),2017,,,,0,0,0
+13.73375,0,21,0,0,377,24,0,2000,0,Regular,Regular Gasoline,28,0,37392,Kia,Sorento FWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,18,0,0,436,20,0,2400,0,Regular,Regular Gasoline,25,0,37393,Kia,Sorento FWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,18,0,0,446,20,0,2900,0,Premium,Premium Gasoline,23,0,37394,Jaguar,F-Pace,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,414,22,0,2150,0,Regular,Regular Gasoline,25,0,37395,Kia,Sorento AWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,21,0,0,397,22,0,2150,0,Regular,Regular Gasoline,25,0,37396,Kia,Sorento AWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,465,19,0,2500,0,Regular,Regular Gasoline,23,0,37397,Kia,Sorento AWD,Y,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,434,21,0,2250,0,Regular,Regular Gasoline,25,0,37398,Kia,Sorento FE AWD,N,Automatic (S6),2017,,,,0,0,0
+20.600625,0,14,0,0,562,16,0,3650,0,Premium,Premium Gasoline,18,0,37399,Mercedes-Benz,GLS550 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,368,24,0,2400,0,Premium,Premium Gasoline,30,0,37401,Jaguar,XE,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,21,0,0,362,25,0,1900,0,Regular,Regular Gasoline,31,0,37402,Ford,Fusion FWD,Y,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,410,22,0,2150,0,Regular,Regular Gasoline,26,0,37403,Honda,Ridgeline FWD,Y,Automatic 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,424,21,0,2250,0,Regular,Regular Gasoline,25,0,37404,Honda,Ridgeline AWD,Y,Automatic 6-spd,2017,,,,0,0,0
+14.33086957,0,21,0,0,386,23,0,2050,0,Regular,Regular Gasoline,26,0,37405,GMC,Acadia FWD,N,Automatic 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,426,21,0,2250,0,Regular,Regular Gasoline,25,0,37406,GMC,Acadia FWD,N,Automatic 6-spd,2017,,,,0,0,0
+14.33086957,0,21,0,0,392,23,0,2050,0,Regular,Regular Gasoline,25,0,37407,GMC,Acadia AWD,N,Automatic 6-spd,2017,,,,0,0,0
+16.4805,0,18,0,0,437,20,0,2400,0,Regular,Regular Gasoline,25,0,37408,GMC,Acadia AWD,Y,Automatic 6-spd,2017,,,,0,0,0
+10.63258065,0,27,0,0,286,31,0,1550,0,Regular,Regular Gasoline,36,0,37412,Kia,Rio Eco,N,Automatic (S6),2017,,,,0,0,0
+10.987,0,27,0,0,292,30,0,1600,0,Regular,Regular Gasoline,36,0,37413,Kia,Rio,N,Automatic (S6),2017,,,,0,0,0
+10.63258065,0,27,0,0,287,31,0,1550,0,Regular,Regular Gasoline,36,0,37414,Kia,Rio,Y,Manual 6-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,3050,0,Premium,Premium Gasoline,23,0,37415,Porsche,Macan S,N,Automatic (AM-S7),2017,,,,0,0,0
+17.34789474,0,17,0,0,461,19,0,3050,0,Premium,Premium Gasoline,23,0,37416,Porsche,Macan GTS,N,Automatic (AM-S7),2017,,,,0,0,0
+16.4805,0,17,0,0,452,20,0,2900,0,Premium,Premium Gasoline,24,0,37417,Porsche,Cayenne S,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,476,19,0,3050,0,Premium,Premium Gasoline,23,0,37418,Porsche,Cayenne GTS,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,19,0,0,428,21,0,2750,0,Premium,Premium Gasoline,24,0,37424,Porsche,911 Turbo,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,19,0,0,430,21,0,2750,0,Premium,Premium Gasoline,24,0,37425,Porsche,911 Turbo Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,19,0,0,428,21,0,2750,0,Premium,Premium Gasoline,24,0,37426,Porsche,911 Turbo S,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,19,0,0,430,21,0,2750,0,Premium,Premium Gasoline,24,0,37427,Porsche,911 Turbo S Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+13.1844,0,23,0,0,354,25,0,2350,0,Premium,Premium Gasoline,29,0,37428,Mercedes-Benz,C300 4matic Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+13.1844,0,21,0,0,361,25,0,1900,0,Regular,Regular Gasoline,32,0,37429,Ford,Fusion FWD,N,Automatic 6-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2050,0,Regular,Regular Gasoline,28,0,37430,Subaru,Legacy AWD,Y,Automatic (AV-S6),2017,,,,0,0,0
+13.73375,0,21,0,0,365,24,0,2000,0,Regular,Regular Gasoline,30,0,37431,Hyundai,Sonata Limited,N,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,25,0,0,307,29,0,1650,0,Regular,Regular Gasoline,36,0,37432,Hyundai,Sonata,Y,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,316,28,0,1700,0,Regular,Regular Gasoline,35,0,37433,Hyundai,Sonata Sport Limited,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,467,19,0,3050,0,Premium,Premium Gasoline,23,0,37434,Porsche,Macan Turbo,N,Automatic (AM-S7),2017,,,,0,0,0
+14.98227273,0,20,0,0,398,22,0,2150,0,Regular,Regular Gasoline,27,0,37435,Subaru,Outback AWD,Y,Automatic (AV-S6),2017,,,,0,0,0
+15.69571429,0,21,0,0,420,21,0,2750,0,Premium,Premium Gasoline,22,0,37436,Acura,NSX Hybrid,N,Automatic (AM-S9),2017,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,382,23,0,2550,0,Premium,Premium Gasoline,29,0,37437,Porsche,911 Carrera,N,Manual 7-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,355,25,0,2350,0,Premium,Premium Gasoline,30,0,37438,Porsche,911 Carrera,N,Automatic (AM-S7),2017,,,,0,0,0
+14.33086957,0,20,0,0,388,23,0,2550,0,Premium,Premium Gasoline,29,0,37439,Porsche,911 Carrera Cabriolet,N,Manual 7-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2550,0,Premium,Premium Gasoline,28,0,37440,Porsche,911 Carrera S Cabriolet,N,Manual 7-spd,2017,,,,0,0,0
+13.73375,0,22,0,0,367,24,0,2400,0,Premium,Premium Gasoline,28,0,37441,Porsche,911 Carrera S Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+14.33086957,0,20,0,0,389,23,0,2550,0,Premium,Premium Gasoline,28,0,37442,Porsche,911 Carrera 4,N,Manual 7-spd,2017,,,,0,0,0
+14.98227273,0,19,0,0,395,22,0,2650,0,Premium,Premium Gasoline,28,0,37443,Porsche,911 Carrera 4 Cabriolet,N,Manual 7-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,370,24,0,2400,0,Premium,Premium Gasoline,28,0,37444,Porsche,911 Carrera 4 Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+14.33086957,0,20,0,0,392,23,0,2550,0,Premium,Premium Gasoline,28,0,37445,Porsche,911 Carrera 4S,N,Manual 7-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,373,24,0,2400,0,Premium,Premium Gasoline,28,0,37446,Porsche,911 Carrera 4S,N,Automatic (AM-S7),2017,,,,0,0,0
+14.98227273,0,19,0,0,396,22,0,2650,0,Premium,Premium Gasoline,28,0,37447,Porsche,911 Carrera 4S Cabriolet,N,Manual 7-spd,2017,,,,0,0,0
+14.98227273,0,19,0,0,395,22,0,2650,0,Premium,Premium Gasoline,28,0,37448,Porsche,911 Targa 4,N,Manual 7-spd,2017,,,,0,0,0
+13.73375,0,22,0,0,367,24,0,2400,0,Premium,Premium Gasoline,28,0,37449,Porsche,911 Targa 4,N,Automatic (AM-S7),2017,,,,0,0,0
+14.98227273,0,19,0,0,396,22,0,2650,0,Premium,Premium Gasoline,28,0,37450,Porsche,911 Targa 4S,N,Manual 7-spd,2017,,,,0,0,0
+11.36586207,0,25,0,0,311,29,0,1650,0,Regular,Regular Gasoline,34,0,37451,Subaru,Legacy AWD,Y,Automatic (AV-S6),2017,,,,0,0,0
+10.63258065,0,28,0,0,286,31,0,1550,0,Regular,Regular Gasoline,36,0,37452,Hyundai,Sonata,N,Automatic (AM7),2017,,,,0,0,0
+11.77178571,0,26,0,0,315,28,0,1700,0,Regular,Regular Gasoline,32,0,37453,Subaru,Forester AWD,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+14.98227273,0,19,0,0,411,22,0,2650,0,Premium,Premium Gasoline,26,0,37454,Nissan,370Z,N,Automatic (S7),2017,,,,0,0,0
+15.69571429,0,18,0,0,426,21,0,2750,0,Premium,Premium Gasoline,26,0,37455,Nissan,370Z,N,Manual 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,433,21,0,2750,0,Premium,Premium Gasoline,25,0,37456,Nissan,370Z Roadster,N,Automatic (S7),2017,,,,0,0,0
+16.4805,0,17,0,0,447,20,0,2900,0,Premium,Premium Gasoline,24,0,37457,Nissan,370Z Roadster,N,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,22,0,0,365,24,0,2400,0,Premium,Premium Gasoline,28,0,37458,Porsche,911 Carrera Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,22,0,0,363,24,0,2400,0,Premium,Premium Gasoline,28,0,37459,Porsche,911 Carrera S,N,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,22,0,0,362,24,0,2400,0,Premium,Premium Gasoline,28,0,37460,Porsche,911 Carrera 4,N,Automatic (AM-S7),2017,,,,0,0,0
+12.67730769,0,23,0,0,347,26,0,2250,0,Premium,Premium Gasoline,30,0,37461,Mercedes-Benz,C300 Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+12.67730769,0,22,0,0,347,26,0,1850,0,Regular,Regular Gasoline,31,0,37462,Hyundai,Sonata,Y,Automatic (S6),2017,,,,0,0,0
+8.039268293,0,43,0,0,217,41,0,1150,0,Regular,Regular Gasoline,39,0,37463,Toyota,Prius v,Y,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,381,23,0,2050,0,Regular,Regular Gasoline,28,0,37464,Chevrolet,Equinox AWD,N,Automatic 6-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,381,23,0,2050,0,Regular,Regular Gasoline,28,0,37465,GMC,Terrain AWD,N,Automatic 6-spd,2017,,,,0,0,0
+11.77178571,0,25,0,0,319,28,0,1700,0,Regular,Regular Gasoline,32,0,37466,Subaru,Outback AWD,Y,Automatic (AV-S6),2017,,,,0,0,0
+4.184202292,3.398041237,43,104,0,112,42,97,1150,0,Regular Gas and Electricity,Regular Gasoline,41,91,37470,Ford,Fusion Energi Plug-in Hybrid,Y,Automatic (variable gear ratios),2017,,Plug-in Hybrid,Electricity,60,54,57
+19.38882353,0,14,0,0,532,17,0,3400,0,Premium,Premium Gasoline,21,0,37471,Lamborghini,Huracan,N,Automatic (AM-S7),2017,,,,0,0,0
+19.38882353,0,14,0,0,532,17,0,3400,0,Premium,Premium Gasoline,21,0,37472,Lamborghini,Huracan 2WD,N,Automatic (AM-S7),2017,,,,0,0,0
+20.600625,0,14,0,0,547,16,0,3650,0,Premium,Premium Gasoline,20,0,37473,Lamborghini,Huracan Spyder,N,Automatic (AM-S7),2017,,,,0,0,0
+20.600625,0,14,0,0,547,16,0,3650,0,Premium,Premium Gasoline,20,0,37474,Lamborghini,Huracan Spyder 2WD,N,Automatic (AM-S7),2017,,,,0,0,0
+14.33086957,0,20,0,0,389,23,0,2550,0,Premium,Premium Gasoline,29,0,37475,Porsche,911 Carrera S,N,Manual 7-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,371,24,0,2400,0,Premium,Premium Gasoline,28,0,37476,Porsche,911 Carrera 4S Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,21,0,0,376,24,0,2400,0,Premium,Premium Gasoline,27,0,37477,Porsche,911 Targa 4S,N,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,21,0,0,373,24,0,2400,0,Premium,Premium Gasoline,28,0,37478,Toyota,86,N,Manual 6-spd,2017,,,,0,0,0
+10.987,0,26,0,0,295,30,0,1600,0,Regular,Regular Gasoline,36,0,37479,Hyundai,Accent,Y,Automatic (S6),2017,,,,0,0,0
+10.63258065,0,27,0,0,282,31,0,1550,0,Regular,Regular Gasoline,37,0,37480,Hyundai,Accent,N,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,369,24,0,2400,0,Premium,Premium Gasoline,30,0,37481,Jaguar,XE,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,383,23,0,2550,0,Premium,Premium Gasoline,29,0,37482,Jaguar,XE AWD,N,Automatic (S8),2017,,,,0,0,0
+10.63258065,0,29,0,0,288,31,0,1550,0,Regular,Regular Gasoline,34,0,37483,Mazda,CX-3 2WD,N,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,27,0,0,308,29,0,1650,0,Regular,Regular Gasoline,32,0,37484,Mazda,CX-3 4WD,Y,Automatic (S6),2017,,,,0,0,0
+23.54357143,0,11,0,0,637,14,0,4150,0,Premium,Premium Gasoline,19,0,37485,Rolls-Royce,Phantom Drophead Coupe,N,Automatic (S8),2017,,,,0,0,0
+23.54357143,0,11,0,0,638,14,0,4150,0,Premium,Premium Gasoline,19,0,37486,Rolls-Royce,Phantom Coupe,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2400,0,Premium,Premium Gasoline,29,0,37487,Buick,Regal,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,19,0,0,385,23,0,2050,0,Regular,Regular Gasoline,30,0,37488,Buick,Regal,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,377,23,0,2550,0,Premium,Premium Gasoline,29,0,37490,Jaguar,XF,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2550,0,Premium,Premium Gasoline,28,0,37491,Jaguar,XF AWD,N,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,25,0,0,318,28,0,1700,0,Regular,Regular Gasoline,33,0,37492,Kia,Forte,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,18,0,0,412,22,0,2150,0,Regular,Regular Gasoline,28,0,37493,Cadillac,XTS,N,Automatic (S6),2017,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,1900,0,Regular,Regular Gasoline,30,0,37494,Chevrolet,Impala,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,18,0,0,408,22,0,2150,0,Regular,Regular Gasoline,28,0,37495,Chevrolet,Impala,Y,Automatic (S6),2017,,,,0,0,0
+18.31166667,0,15,0,0,502,18,0,3250,0,Premium,Premium Gasoline,23,0,37496,Genesis,G80 RWD,N,Automatic (S8),2017,,,,0,0,0
+23.54357143,0,11,0,0,638,14,0,4150,0,Premium,Premium Gasoline,19,0,37497,Rolls-Royce,Phantom,N,Automatic (S8),2017,,,,0,0,0
+23.54357143,0,11,0,0,637,14,0,4150,0,Premium,Premium Gasoline,19,0,37498,Rolls-Royce,Phantom EWB,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,21,0,0,355,25,0,1900,0,Regular,Regular Gasoline,31,0,37499,Chevrolet,Equinox FWD,N,Automatic 6-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,444,20,0,2400,0,Regular,Regular Gasoline,24,0,37500,Chevrolet,Equinox FWD,N,Automatic 6-spd,2017,,,,0,0,0
+13.1844,4.406470588,21,15,359,355,25,17,1900,2100,Gasoline or E85,Regular Gasoline,31,21,37501,Chevrolet,Equinox FWD,Y,Automatic 6-spd,2017,,FFV,E85,0,0,0
+13.1844,0,21,0,0,355,25,0,1900,0,Regular,Regular Gasoline,31,0,37502,GMC,Terrain FWD,N,Automatic 6-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,444,20,0,2400,0,Regular,Regular Gasoline,24,0,37503,GMC,Terrain FWD,N,Automatic 6-spd,2017,,,,0,0,0
+13.1844,4.406470588,21,15,359,355,25,17,1900,2100,Gasoline or E85,Regular Gasoline,31,21,37504,GMC,Terrain FWD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+18.31166667,0,16,0,0,489,18,0,2650,0,Regular,Regular Gasoline,23,0,37505,Chevrolet,Equinox AWD,N,Automatic 6-spd,2017,,,,0,0,0
+14.33086957,4.406470588,20,14,377,381,23,17,2050,2100,Gasoline or E85,Regular Gasoline,28,20,37506,Chevrolet,Equinox AWD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+18.31166667,0,16,0,0,489,18,0,2650,0,Regular,Regular Gasoline,23,0,37507,GMC,Terrain AWD,Y,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,507,18,0,2650,0,Regular,Regular Gasoline,22,0,37508,Buick,Enclave FWD,N,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,507,18,0,2650,0,Regular,Regular Gasoline,22,0,37509,Chevrolet,Traverse FWD,Y,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,507,18,0,2650,0,Regular,Regular Gasoline,21,0,37510,Ford,Expedition 2WD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,535,17,0,2800,0,Regular,Regular Gasoline,20,0,37511,Ford,Expedition EL 2WD,N,Automatic (S6),2017,,,,0,0,0
+18.31166667,0,15,0,0,507,18,0,2650,0,Regular,Regular Gasoline,22,0,37512,GMC,Acadia Limited FWD,N,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,37513,Lincoln,Navigator 2WD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,536,17,0,2800,0,Regular,Regular Gasoline,20,0,37514,Lincoln,Navigator L 2WD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,518,17,0,2800,0,Regular,Regular Gasoline,22,0,37515,Buick,Enclave AWD,N,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,518,17,0,2800,0,Regular,Regular Gasoline,22,0,37516,Chevrolet,Traverse AWD,Y,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,537,17,0,2800,0,Regular,Regular Gasoline,20,0,37517,Ford,Expedition 4WD,N,Automatic (S6),2017,,,,0,0,0
+20.600625,0,15,0,0,543,16,0,3000,0,Regular,Regular Gasoline,19,0,37518,Ford,Expedition EL 4WD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,518,17,0,2800,0,Regular,Regular Gasoline,22,0,37519,GMC,Acadia Limited AWD,N,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,537,17,0,2800,0,Regular,Regular Gasoline,20,0,37520,Lincoln,Navigator 4WD,N,Automatic (S6),2017,,,,0,0,0
+20.600625,0,15,0,0,546,16,0,3000,0,Regular,Regular Gasoline,19,0,37521,Lincoln,Navigator L 4WD,N,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,25,0,0,302,29,0,2000,0,Premium,Premium Gasoline,36,0,37527,Fiat,124 Spider,Y,Automatic 6-spd,2017,,,,0,0,0
+10.987,0,26,0,0,298,30,0,1950,0,Premium,Premium Gasoline,35,0,37528,Fiat,124 Spider,N,Manual 6-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,328,27,0,2150,0,Premium,Premium Gasoline,32,0,37529,Toyota,86,Y,Automatic (S6),2017,,,,0,0,0
+20.600625,0,14,0,0,549,16,0,3650,0,Premium,Premium Gasoline,21,0,37530,Ford,Shelby GT350 Mustang,Y,Manual 6-spd,2017,,,,0,0,0
+7.847857143,0,39,0,0,221,42,0,1150,0,Regular,Regular Gasoline,45,0,37531,Hyundai,Sonata Hybrid SE,Y,Automatic (AM6),2017,,Hybrid,,0,0,0
+8.24025,0,38,0,0,222,40,0,1200,0,Regular,Regular Gasoline,43,0,37532,Hyundai,Sonata Hybrid,Y,Automatic (AM6),2017,,Hybrid,,0,0,0
+13.1844,0,21,0,0,366,25,0,2350,0,Premium,Premium Gasoline,30,0,37533,Nissan,Maxima,Y,Automatic (AV-S7),2017,,,,0,0,0
+13.73375,0,21,0,0,363,24,0,2000,0,Regular,Regular Gasoline,30,0,37534,Toyota,Camry,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,17,0,0,448,20,0,2900,0,Premium,Premium Gasoline,24,0,37535,Genesis,G90 AWD,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,454,20,0,2900,0,Premium,Premium Gasoline,24,0,37536,Genesis,G90 RWD,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,493,18,0,3250,0,Premium,Premium Gasoline,23,0,37537,Genesis,G90 AWD,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,482,19,0,3050,0,Premium,Premium Gasoline,24,0,37538,Genesis,G90 RWD,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,448,20,0,2400,0,Regular,Regular Gasoline,25,0,37539,Kia,K900,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2000,0,Regular,Regular Gasoline,28,0,37540,Ram,Promaster City,N,Automatic 9-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,342,26,0,1850,0,Regular,Regular Gasoline,30,0,37541,Hyundai,Tucson FWD,Y,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,25,0,0,334,27,0,1750,0,Regular,Regular Gasoline,30,0,37542,Hyundai,Tucson FWD,N,Automatic (AM7),2017,,,,0,0,0
+11.77178571,0,26,0,0,317,28,0,1700,0,Regular,Regular Gasoline,32,0,37543,Hyundai,Tucson Eco FWD,N,Automatic (AM7),2017,,,,0,0,0
+14.33086957,0,21,0,0,388,23,0,2050,0,Regular,Regular Gasoline,26,0,37544,Hyundai,Tucson AWD,N,Automatic (S6),2017,,,,0,0,0
+13.1844,0,24,0,0,355,25,0,1900,0,Regular,Regular Gasoline,28,0,37545,Hyundai,Tucson AWD,N,Automatic (AM7),2017,,,,0,0,0
+12.20777778,0,25,0,0,333,27,0,1750,0,Regular,Regular Gasoline,30,0,37546,Hyundai,Tucson Eco AWD,N,Automatic (AM7),2017,,,,0,0,0
+14.98227273,0,20,0,0,399,22,0,2650,0,Premium,Premium Gasoline,25,0,37547,Volvo,XC90 AWD,Y,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,22,0,0,384,23,0,2550,0,Premium,Premium Gasoline,25,0,37548,Volvo,XC90 AWD,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,16,0,0,484,18,0,3250,0,Premium,Premium Gasoline,22,0,37549,Nissan,GT-R,N,Automatic (AM6),2017,,,,0,0,0
+11.36586207,0,25,0,0,302,29,0,1650,0,Regular,Regular Gasoline,36,0,37550,Volvo,S60 Inscription FWD,N,Automatic (S8),2017,,,,0,0,0
+11.36586207,0,25,0,0,302,29,0,1650,0,Regular,Regular Gasoline,36,0,37551,Volvo,S60 FWD,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,1850,0,Regular,Regular Gasoline,31,0,37552,Volvo,S60 Inscription AWD,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,1850,0,Regular,Regular Gasoline,31,0,37553,Volvo,S60 AWD,Y,Automatic (S8),2017,,,,0,0,0
+13.1844,0,22,0,0,354,25,0,1900,0,Regular,Regular Gasoline,30,0,37554,Volvo,S60 CC AWD,N,Automatic (S8),2017,,,,0,0,0
+10.3003125,0,29,0,0,301,32,0,1500,0,Regular,Regular Gasoline,38,0,37555,Kia,Forte,Y,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,314,28,0,1700,0,Regular,Regular Gasoline,34,0,37556,Kia,Forte,N,Manual 6-spd,2017,,,,0,0,0
+12.20777778,0,23,0,0,328,27,0,2150,0,Premium,Premium Gasoline,34,0,37557,Volvo,S90 FWD,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,22,0,0,353,25,0,2350,0,Premium,Premium Gasoline,31,0,37558,Volvo,S90 AWD,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,512,18,0,3250,0,Premium,Premium Gasoline,23,0,37559,Kia,K900,N,Automatic (S8),2017,,,,0,0,0
+11.36586207,0,25,0,0,302,29,0,1650,0,Regular,Regular Gasoline,36,0,37560,Volvo,V60 FWD,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,2250,0,Premium,Premium Gasoline,32,0,37561,Volvo,V60 AWD,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,22,0,0,354,25,0,1900,0,Regular,Regular Gasoline,30,0,37562,Volvo,V60 CC AWD,Y,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,1850,0,Regular,Regular Gasoline,31,0,37563,Volvo,V60 AWD,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,348,26,0,1850,0,Regular,Regular Gasoline,30,0,37564,Volvo,XC60 FWD,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,20,0,0,395,22,0,2650,0,Premium,Premium Gasoline,27,0,37565,Volvo,XC60 AWD,Y,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,384,23,0,2050,0,Regular,Regular Gasoline,29,0,37566,Volvo,XC60 AWD,N,Automatic (S8),2017,,,,0,0,0
+25.35461538,0,11,0,0,676,13,0,4500,0,Premium,Premium Gasoline,18,0,37567,Lamborghini,Aventador Coupe,N,Automatic (AM-S7),2017,,,,0,0,0
+25.35461538,0,10,0,0,698,13,0,4500,0,Premium,Premium Gasoline,18,0,37568,Lamborghini,Aventador Roadster,N,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,21,0,0,369,24,0,2400,0,Premium,Premium Gasoline,28,0,37569,Porsche,Boxster,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,353,25,0,2350,0,Premium,Premium Gasoline,29,0,37570,Porsche,Boxster,N,Automatic (AM-S7),2017,,,,0,0,0
+14.98227273,0,20,0,0,401,22,0,2650,0,Premium,Premium Gasoline,26,0,37571,Porsche,Boxster S,N,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,372,24,0,2400,0,Premium,Premium Gasoline,28,0,37572,Porsche,Boxster S,N,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,21,0,0,370,24,0,2000,0,Regular,Regular Gasoline,30,0,37573,Ford,Mustang,Y,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,370,24,0,2000,0,Regular,Regular Gasoline,30,0,37574,Ford,Mustang,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,28,0,37575,Ford,Mustang Convertible,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,423,21,0,2250,0,Regular,Regular Gasoline,27,0,37576,Ford,Mustang,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,428,21,0,2250,0,Regular,Regular Gasoline,27,0,37577,Ford,Mustang,N,Manual 6-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,494,18,0,2650,0,Regular,Regular Gasoline,25,0,37578,Ford,Mustang,N,Manual 6-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,492,18,0,2650,0,Regular,Regular Gasoline,23,0,37579,Ford,Mustang Convertible,N,Automatic (S6),2017,,,,0,0,0
+18.31166667,0,15,0,0,493,18,0,2650,0,Regular,Regular Gasoline,24,0,37580,Ford,Mustang,N,Automatic (S6),2017,,,,0,0,0
+13.73375,0,21,0,0,370,24,0,2000,0,Regular,Regular Gasoline,28,0,37581,Ford,Mustang Performance Package,N,Manual 6-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,28,0,37582,Ford,Mustang Performance Package,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,14,0,0,523,17,0,2800,0,Regular,Regular Gasoline,23,0,37583,Ford,Mustang Performance Package,Y,Manual 6-spd,2017,,,,0,0,0
+14.33086957,0,21,0,0,386,23,0,2050,0,Regular,Regular Gasoline,27,0,37584,Ford,Mustang Convertible,Y,Manual 6-spd,2017,,,,0,0,0
+19.38882353,0,14,0,0,523,17,0,2800,0,Regular,Regular Gasoline,23,0,37585,Ford,Mustang Convertible,Y,Manual 6-spd,2017,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,2250,0,Premium,Premium Gasoline,32,0,37586,Volvo,S60 AWD,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,22,0,0,351,25,0,2350,0,Premium,Premium Gasoline,30,0,37587,Mercedes-Benz,E300,N,Automatic 9-spd,2017,,,,0,0,0
+13.73375,0,22,0,0,362,24,0,2400,0,Premium,Premium Gasoline,29,0,37588,Mercedes-Benz,E300 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,439,20,0,2400,0,Regular,Regular Gasoline,26,0,37589,Cadillac,XTS AWD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,2800,0,Regular,Regular Gasoline,21,0,37590,Cadillac,XTS Limo,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2550,0,Premium,Premium Gasoline,27,0,37591,Acura,MDX FWD,N,Automatic (S9),2017,,,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2650,0,Premium,Premium Gasoline,27,0,37592,Acura,MDX FWD,N,Automatic (S9),2017,,,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2650,0,Premium,Premium Gasoline,26,0,37593,Acura,MDX AWD,N,Automatic (S9),2017,,,,0,0,0
+15.69571429,0,18,0,0,424,21,0,2750,0,Premium,Premium Gasoline,26,0,37594,Acura,MDX AWD,N,Automatic (S9),2017,,,,0,0,0
+14.98227273,0,19,0,0,408,22,0,2150,0,Regular,Regular Gasoline,27,0,37595,Ford,Explorer FWD,Y,Automatic (S6),2017,,,,0,0,0
+16.4805,0,17,0,0,452,20,0,2400,0,Regular,Regular Gasoline,24,0,37596,Ford,Explorer FWD,Y,Automatic (S6),2017,,,,0,0,0
+16.4805,4.994,17,13,425,452,20,15,2400,2400,Gasoline or E85,Regular Gasoline,24,18,37597,Ford,Explorer 2WD FFV,Y,Automatic (S6),2017,,FFV,E85,0,0,0
+15.69571429,0,18,0,0,430,21,0,2250,0,Regular,Regular Gasoline,25,0,37598,Ford,Explorer AWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,475,19,0,2500,0,Regular,Regular Gasoline,23,0,37599,Ford,Explorer AWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,5.350714286,16,12,454,475,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,37600,Ford,Explorer AWD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+18.31166667,0,16,0,0,494,18,0,2650,0,Regular,Regular Gasoline,22,0,37601,Ford,Explorer AWD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,14,0,0,536,17,0,3400,0,Premium,Premium Gasoline,21,0,37602,Porsche,Cayenne Turbo,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,14,0,0,536,17,0,3400,0,Premium,Premium Gasoline,21,0,37603,Porsche,Cayenne Turbo S,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,501,18,0,3250,0,Premium,Premium Gasoline,22,0,37604,Ferrari,488 GTB,N,Automatic (AM7),2017,,,,0,0,0
+27.4675,0,11,0,0,711,12,0,4850,0,Premium,Premium Gasoline,15,0,37605,Ferrari,F12 tdf,N,Automatic (AM7),2017,,,,0,0,0
+16.4805,0,17,0,0,442,20,0,2900,0,Premium,Premium Gasoline,25,0,37606,Mercedes-Benz,SL550,N,Automatic 9-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,383,23,0,2550,0,Premium,Premium Gasoline,28,0,37607,Mercedes-Benz,SL450,N,Automatic 9-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,468,19,0,3050,0,Premium,Premium Gasoline,25,0,37608,Mercedes-Benz,AMG SL63,N,Automatic 7-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,367,24,0,2400,0,Premium,Premium Gasoline,29,0,37609,Subaru,BRZ,N,Manual 6-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,322,27,0,2150,0,Premium,Premium Gasoline,33,0,37610,Subaru,BRZ,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,398,22,0,2150,0,Regular,Regular Gasoline,28,0,37611,Chevrolet,Camaro,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,457,19,0,3050,0,Premium,Premium Gasoline,25,0,37612,Chevrolet,Camaro,N,Manual 6-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,380,23,0,2550,0,Premium,Premium Gasoline,30,0,37613,Chevrolet,Camaro,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,357,25,0,2350,0,Premium,Premium Gasoline,31,0,37614,Chevrolet,Camaro,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,16,0,0,442,20,0,2400,0,Regular,Regular Gasoline,28,0,37615,Chevrolet,Camaro,Y,Manual 6-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,442,20,0,2900,0,Premium,Premium Gasoline,27,0,37616,Chevrolet,Camaro,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,14,0,0,517,17,0,3400,0,Premium,Premium Gasoline,22,0,37617,Mercedes-Benz,AMG S63 4matic Convertible,N,Automatic 7-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,379,23,0,2550,0,Premium,Premium Gasoline,29,0,37618,Cadillac,ATS,N,Manual 6-spd,2017,,,,0,0,0
+7.847857143,0,43,0,0,212,42,0,1150,0,Regular,Regular Gasoline,40,0,37619,Lexus,CT 200h,N,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+16.4805,0,17,0,0,444,20,0,2400,0,Regular,Regular Gasoline,26,0,37620,Ford,Fusion AWD,Y,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,414,21,0,2250,0,Regular,Regular Gasoline,28,0,37621,Honda,Accord,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,21,0,0,350,25,0,1900,0,Regular,Regular Gasoline,33,0,37622,Honda,Accord,Y,Automatic 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,362,24,0,2000,0,Regular,Regular Gasoline,32,0,37623,Honda,Accord,N,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,334,26,0,1850,0,Regular,Regular Gasoline,32,0,37624,Honda,Accord,N,Manual 6-spd,2017,,,,0,0,0
+10.987,0,27,0,0,292,30,0,1600,0,Regular,Regular Gasoline,36,0,37625,Honda,Accord,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+11.36586207,0,26,0,0,303,29,0,1650,0,Regular,Regular Gasoline,34,0,37626,Honda,Accord,N,Automatic (AV-S7),2017,,,,0,0,0
+16.4805,0,17,0,0,447,20,0,2400,0,Regular,Regular Gasoline,26,0,37627,Lincoln,MKZ AWD,Y,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,425,21,0,2250,0,Regular,Regular Gasoline,27,0,37628,Lincoln,MKZ FWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,475,19,0,3050,0,Premium,Premium Gasoline,24,0,37629,Maserati,Ghibli V6 SQ4 AWD,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,460,19,0,3050,0,Premium,Premium Gasoline,24,0,37630,Maserati,Ghibli V6,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,471,19,0,3050,0,Premium,Premium Gasoline,24,0,37631,Maserati,Ghibli S RWD,N,Automatic 8-spd,2017,,,,0,0,0
+14.98227273,0,19,0,0,405,22,0,2650,0,Premium,Premium Gasoline,27,0,37632,BMW,535i Gran Turismo,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,419,21,0,2750,0,Premium,Premium Gasoline,26,0,37633,BMW,535i xDrive Gran Turismo,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,15,0,0,517,17,0,3400,0,Premium,Premium Gasoline,22,0,37634,Maserati,Quattroporte GTS,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,485,18,0,3250,0,Premium,Premium Gasoline,23,0,37635,Maserati,Quattroporte SQ4 V6,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,482,18,0,3250,0,Premium,Premium Gasoline,23,0,37636,Maserati,Quattroporte S,N,Automatic 8-spd,2017,,,,0,0,0
+9.155833333,0,33,0,0,247,36,0,1300,0,Regular,Regular Gasoline,40,0,37637,Honda,Fit,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+9.694411765,0,32,0,0,260,34,0,1400,0,Regular,Regular Gasoline,37,0,37638,Honda,Fit,N,Automatic (AV-S7),2017,,,,0,0,0
+10.3003125,0,29,0,0,281,32,0,1500,0,Regular,Regular Gasoline,36,0,37639,Honda,Fit,Y,Manual 6-spd,2017,,,,0,0,0
+16.4805,0,18,0,0,447,20,0,2400,0,Regular,Regular Gasoline,24,0,37640,Chevrolet,Silverado 15 Hybrid 2WD,N,Automatic 8-spd,2017,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,522,17,0,2800,0,Regular,Regular Gasoline,21,0,37641,Chevrolet,Silverado C15 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,479,19,0,2500,0,Regular,Regular Gasoline,23,0,37642,Chevrolet,Silverado C15 2WD,Y,Automatic 6-spd,2017,,,,0,0,0
+16.4805,5.350714286,18,12,456,448,20,14,2400,2550,Gasoline or E85,Regular Gasoline,24,16,37643,Chevrolet,Silverado C15 2WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+16.4805,0,18,0,0,447,20,0,2400,0,Regular,Regular Gasoline,24,0,37644,GMC,Sierra 15 Hybrid 2WD,N,Automatic 8-spd,2017,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,37645,GMC,Sierra C15 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,479,19,0,2500,0,Regular,Regular Gasoline,23,0,37646,GMC,Sierra C15 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+16.4805,5.350714286,18,12,457,448,20,14,2400,2550,Gasoline or E85,Regular Gasoline,24,16,37647,GMC,Sierra C15 2WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+17.34789474,5.350714286,16,12,457,475,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,37648,GMC,Sierra C15 2WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+18.31166667,0,16,0,0,488,18,0,2650,0,Regular,Regular Gasoline,21,0,37649,Chevrolet,Silverado 15 Hybrid 4WD,N,Automatic 8-spd,2017,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,531,17,0,2800,0,Regular,Regular Gasoline,20,0,37650,Chevrolet,Silverado K15 4WD,Y,Automatic 8-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,533,17,0,2800,0,Regular,Regular Gasoline,20,0,37651,Chevrolet,Silverado K15 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,495,18,0,2650,0,Regular,Regular Gasoline,22,0,37652,Chevrolet,Silverado K15 4WD,Y,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,5.762307692,16,11,527,491,18,13,2650,2750,Gasoline or E85,Regular Gasoline,22,16,37653,Chevrolet,Silverado K15 4WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+17.34789474,5.762307692,17,12,487,473,19,13,2500,2750,Gasoline or E85,Regular Gasoline,22,15,37654,Chevrolet,Silverado K15 4WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+18.31166667,0,16,0,0,488,18,0,2650,0,Regular,Regular Gasoline,21,0,37655,GMC,Sierra 15 Hybrid 4WD,N,Automatic 8-spd,2017,,Hybrid,,0,0,0
+19.38882353,0,15,0,0,531,17,0,2800,0,Regular,Regular Gasoline,20,0,37656,GMC,Sierra K15 4WD,Y,Automatic 8-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,533,17,0,2800,0,Regular,Regular Gasoline,20,0,37657,GMC,Sierra K15 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,494,18,0,2650,0,Regular,Regular Gasoline,22,0,37658,GMC,Sierra K15 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,5.762307692,16,11,524,492,18,13,2650,2750,Gasoline or E85,Regular Gasoline,22,16,37659,GMC,Sierra K15 4WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+17.34789474,5.762307692,17,12,473,474,19,13,2500,2750,Gasoline or E85,Regular Gasoline,22,15,37660,GMC,Sierra K15 4WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+25.35461538,0,11,0,0,704,13,0,3650,0,Regular,Regular Gasoline,16,0,37661,Chevrolet,Express 2500 2WD Passenger,N,Automatic 6-spd,2017,,,,0,0,0
+27.4675,0,11,0,0,716,12,0,4000,0,Regular,Regular Gasoline,16,0,37662,Chevrolet,Express 3500 2WD Passenger,N,Automatic 6-spd,2017,,,,0,0,0
+25.35461538,0,11,0,0,704,13,0,3650,0,Regular,Regular Gasoline,16,0,37663,GMC,Savana 2500 2WD (Passenger),N,Automatic 6-spd,2017,,,,0,0,0
+27.4675,0,11,0,0,716,12,0,4000,0,Regular,Regular Gasoline,16,0,37664,GMC,Savana 3500 2WD (Passenger),N,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,525,17,0,2800,0,Regular,Regular Gasoline,21,0,37665,Cadillac,XTS Hearse,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,19,0,37666,Chevrolet,Silverado K15 Cab Chassis 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,20,0,37667,Chevrolet,Silverado C15 Cab Chassis 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,19,0,37668,GMC,Sierra K15 Cab Chassis 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,20,0,37669,GMC,Sierra C15 Cab Chassis 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,412,22,0,2650,0,Premium,Premium Gasoline,24,0,37670,Volkswagen,Tiguan,N,Automatic (S6),2017,,,,0,0,0
+13.73375,0,21,0,0,373,24,0,2000,0,Regular,Regular Gasoline,28,0,37671,Buick,Envision AWD,Y,Automatic 6-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,399,22,0,2650,0,Premium,Premium Gasoline,26,0,37672,Buick,Envision AWD,Y,Automatic 6-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,406,22,0,2650,0,Premium,Premium Gasoline,25,0,37673,Land Rover,Discovery Sport,N,Automatic (S9),2017,,,,0,0,0
+13.73375,0,21,0,0,372,24,0,2400,0,Premium,Premium Gasoline,29,0,37674,Land Rover,Range Rover Evoque,N,Automatic (S9),2017,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2550,0,Premium,Premium Gasoline,28,0,37675,Land Rover,Range Rover Evoque Convertible,N,Automatic (S9),2017,,,,0,0,0
+19.38882353,0,15,0,0,512,17,0,2800,0,Regular,Regular Gasoline,22,0,37676,Cadillac,Escalade 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,477,19,0,2500,0,Regular,Regular Gasoline,23,0,37677,Chevrolet,Tahoe C1500 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,477,19,0,2500,0,Regular,Regular Gasoline,23,0,37678,Chevrolet,Suburban C1500 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+17.34789474,5.350714286,16,12,457,477,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,37679,Chevrolet,Tahoe C1500 2WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+17.34789474,5.350714286,16,12,457,477,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,37680,Chevrolet,Suburban C1500 2WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+19.38882353,0,15,0,0,512,17,0,2800,0,Regular,Regular Gasoline,22,0,37681,GMC,Yukon C1500 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,512,17,0,2800,0,Regular,Regular Gasoline,22,0,37682,GMC,Yukon C1500 XL 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,477,19,0,2500,0,Regular,Regular Gasoline,23,0,37683,GMC,Yukon C1500 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,477,19,0,2500,0,Regular,Regular Gasoline,23,0,37684,GMC,Yukon C1500 XL 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+17.34789474,5.350714286,16,12,457,477,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,37685,GMC,Yukon C1500 2WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+17.34789474,5.350714286,16,12,457,477,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,37686,GMC,Yukon C1500 XL 2WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+13.73375,0,22,0,0,373,24,0,2400,0,Premium,Premium Gasoline,26,0,37687,Volvo,XC90 FWD,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,15,0,0,533,17,0,2800,0,Regular,Regular Gasoline,20,0,37688,Cadillac,Escalade 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,497,18,0,2650,0,Regular,Regular Gasoline,22,0,37689,Chevrolet,Tahoe K1500 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,502,18,0,2650,0,Regular,Regular Gasoline,22,0,37690,Chevrolet,Suburban K1500 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,5.762307692,16,11,482,497,18,13,2650,2750,Gasoline or E85,Regular Gasoline,22,16,37691,Chevrolet,Tahoe K1500 4WD,Y,Automatic 6-spd,2017,,FFV,E85,0,0,0
+18.31166667,6.2425,15,11,511,502,18,12,2650,3000,Gasoline or E85,Regular Gasoline,22,15,37692,Chevrolet,Suburban K1500 4WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+20.600625,0,14,0,0,553,16,0,3000,0,Regular,Regular Gasoline,20,0,37693,GMC,Yukon K1500 XL 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,531,17,0,2800,0,Regular,Regular Gasoline,20,0,37694,GMC,Yukon K1500 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,502,18,0,2650,0,Regular,Regular Gasoline,22,0,37695,GMC,Yukon K1500 XL 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,497,18,0,2650,0,Regular,Regular Gasoline,22,0,37696,GMC,Yukon K1500 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+18.31166667,6.2425,15,11,511,502,18,12,2650,3000,Gasoline or E85,Regular Gasoline,22,15,37697,GMC,Yukon K1500 XL 4WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+18.31166667,5.762307692,16,11,482,497,18,13,2650,2750,Gasoline or E85,Regular Gasoline,22,16,37698,GMC,Yukon K1500 4WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+20.600625,0,14,0,0,557,16,0,3650,0,Premium,Premium Gasoline,19,0,37699,Maserati,Levante S,N,Automatic 8-spd,2017,,,,0,0,0
+20.600625,0,14,0,0,548,16,0,3650,0,Premium,Premium Gasoline,20,0,37700,Maserati,Levante,N,Automatic 8-spd,2017,,,,0,0,0
+16.4805,0,18,0,0,432,20,0,2900,0,Premium,Premium Gasoline,24,0,37701,Porsche,Cayenne,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,17,0,0,453,19,0,3050,0,Premium,Premium Gasoline,23,0,37702,Porsche,Cayenne Platinum,N,Automatic (S8),2017,,,,0,0,0
+8.652550063,6.103888889,24,53,0,238,25,54,2350,0,Premium and Electricity,Premium Gasoline,27,55,37703,Volvo,XC90 AWD PHEV,N,Automatic (S8),2017,,Plug-in Hybrid,Electricity,29,32,30
+18.31166667,0,16,0,0,495,18,0,3250,0,Premium,Premium Gasoline,22,0,37704,Ferrari,488 GTB,N,Automatic (AM7),2017,,,,0,0,0
+25.35461538,0,12,0,0,672,13,0,4500,0,Premium,Premium Gasoline,16,0,37705,Ferrari,F12 Berlinetta,N,Automatic (AM7),2017,,,,0,0,0
+25.35461538,0,11,0,0,697,13,0,4500,0,Premium,Premium Gasoline,15,0,37706,Ferrari,F12 tdf,N,Automatic (AM7),2017,,,,0,0,0
+13.73375,4.161666667,21,15,349,364,24,18,2400,2000,Premium or E85,Premium Gasoline,30,22,37707,Audi,A5 quattro,N,Automatic (S8),2017,,FFV,E85,0,0,0
+13.73375,4.406470588,21,15,358,372,24,17,2400,2100,Premium or E85,Premium Gasoline,29,21,37708,Audi,A5 Cabriolet quattro,N,Automatic (S8),2017,,FFV,E85,0,0,0
+20.600625,0,13,0,0,542,16,0,3650,0,Premium,Premium Gasoline,23,0,37709,Bentley,Continental GT Convertible,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,377,23,0,2550,0,Premium,Premium Gasoline,29,0,37710,Mercedes-Benz,E400 Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2550,0,Premium,Premium Gasoline,28,0,37711,Mercedes-Benz,E400 4matic Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,443,20,0,2900,0,Premium,Premium Gasoline,25,0,37712,Mercedes-Benz,E550 Convertible,N,Automatic 7-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,377,23,0,2550,0,Premium,Premium Gasoline,29,0,37713,Mercedes-Benz,E400 Convertible,N,Automatic 7-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,445,20,0,2900,0,Premium,Premium Gasoline,25,0,37714,Mercedes-Benz,S550 Convertible,N,Automatic 9-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,475,18,0,3250,0,Premium,Premium Gasoline,25,0,37715,Bentley,Continental GT,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,16,0,0,495,18,0,3250,0,Premium,Premium Gasoline,22,0,37716,Mercedes-Benz,AMG CLS63 S 4matic,N,Automatic 7-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,376,24,0,2400,0,Premium,Premium Gasoline,29,0,37717,Audi,A6 quattro,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,376,24,0,2400,0,Premium,Premium Gasoline,29,0,37718,Audi,A7 quattro,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,17,0,0,427,21,0,2750,0,Premium,Premium Gasoline,27,0,37719,Audi,S7,N,Automatic (AM-S7),2017,,,,0,0,0
+18.31166667,0,15,0,0,497,18,0,3250,0,Premium,Premium Gasoline,25,0,37720,Audi,RS 7,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,14,0,0,517,17,0,3400,0,Premium,Premium Gasoline,24,0,37721,Bentley,Flying Spur,N,Automatic (S8),2017,,,,0,0,0
+25.35461538,0,12,0,0,661,13,0,4500,0,Premium,Premium Gasoline,17,0,37723,Ferrari,GTC4Lusso,N,Automatic (AM7),2017,,,,0,0,0
+12.20777778,0,24,0,0,321,27,0,1750,0,Regular,Regular Gasoline,33,0,37724,Toyota,Camry,Y,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2050,0,Regular,Regular Gasoline,28,0,37725,Volkswagen,Passat,Y,Automatic (AM-S6),2017,,,,0,0,0
+12.20777778,0,23,0,0,329,27,0,1750,0,Regular,Regular Gasoline,34,0,37726,Volkswagen,Passat,Y,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,397,22,0,2650,0,Premium,Premium Gasoline,29,0,37727,Audi,A8 L,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,18,0,0,410,22,0,2650,0,Premium,Premium Gasoline,29,0,37728,Audi,A8 L,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2150,0,Regular,Regular Gasoline,28,0,37729,Hyundai,Azera Limited,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2050,0,Regular,Regular Gasoline,28,0,37730,Hyundai,Azera,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,21,0,0,382,23,0,2050,0,Regular,Regular Gasoline,27,0,37731,Jeep,Patriot FWD,N,Automatic 6-spd,2017,,,,0,0,0
+14.33086957,0,21,0,0,382,23,0,2050,0,Regular,Regular Gasoline,27,0,37732,Jeep,Compass FWD,Y,Automatic 6-spd,2017,,,,0,0,0
+14.98227273,4.681875,20,14,394,395,22,16,2650,2250,Premium or E85,Premium Gasoline,27,19,37733,Audi,Q5,N,Automatic (S8),2017,,FFV,E85,0,0,0
+14.98227273,0,20,0,0,400,22,0,2150,0,Regular,Regular Gasoline,25,0,37734,Jeep,Patriot 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+13.73375,0,22,0,0,369,24,0,2000,0,Regular,Regular Gasoline,27,0,37735,Jeep,Patriot 4WD,N,Manual 5-spd,2017,,,,0,0,0
+15.69571429,0,20,0,0,417,21,0,2250,0,Regular,Regular Gasoline,23,0,37736,Jeep,Compass 4WD,N,Automatic (variable gear ratios),2017,,,,0,0,0
+14.98227273,0,20,0,0,400,22,0,2150,0,Regular,Regular Gasoline,25,0,37737,Jeep,Compass 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+13.73375,0,22,0,0,369,24,0,2000,0,Regular,Regular Gasoline,27,0,37738,Jeep,Compass 4WD,N,Manual 5-spd,2017,,,,0,0,0
+15.69571429,0,20,0,0,417,21,0,2250,0,Regular,Regular Gasoline,23,0,37739,Jeep,Patriot 4WD,N,Automatic (variable gear ratios),2017,,,,0,0,0
+10.987,0,27,0,0,294,30,0,1950,0,Premium,Premium Gasoline,36,0,37741,MINI,Cooper Convertible,N,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,281,32,0,1800,0,Premium,Premium Gasoline,37,0,37742,MINI,Cooper Convertible,N,Manual 6-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,338,26,0,2250,0,Premium,Premium Gasoline,32,0,37743,Audi,A5 quattro,N,Manual 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,413,21,0,2750,0,Premium,Premium Gasoline,28,0,37744,Audi,S5,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,18,0,0,428,21,0,2750,0,Premium,Premium Gasoline,26,0,37745,Audi,S5 Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+16.4805,0,17,0,0,439,20,0,2900,0,Premium,Premium Gasoline,26,0,37746,Audi,S5,N,Manual 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,430,21,0,2750,0,Premium,Premium Gasoline,26,0,37747,BMW,M2,N,Manual 6-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,395,22,0,2650,0,Premium,Premium Gasoline,26,0,37748,BMW,M2,N,Automatic (AM-S7),2017,,,,0,0,0
+16.4805,0,17,0,0,438,20,0,2900,0,Premium,Premium Gasoline,26,0,37749,BMW,M4 Convertible,N,Manual 6-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,455,19,0,3050,0,Premium,Premium Gasoline,24,0,37750,BMW,M4 Convertible,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,18,0,0,432,21,0,2750,0,Premium,Premium Gasoline,26,0,37751,Mercedes-Benz,E550 Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+10.987,0,27,0,0,294,30,0,1950,0,Premium,Premium Gasoline,36,0,37752,MINI,Cooper Hardtop 2 door,N,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,282,32,0,1800,0,Premium,Premium Gasoline,38,0,37753,MINI,Cooper Hardtop 2 door,Y,Manual 6-spd,2017,,,,0,0,0
+10.987,0,27,0,0,294,30,0,1950,0,Premium,Premium Gasoline,36,0,37754,MINI,Cooper Hardtop 4 door,N,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,281,32,0,1800,0,Premium,Premium Gasoline,37,0,37755,MINI,Cooper Hardtop 4 door,N,Manual 6-spd,2017,,,,0,0,0
+11.77178571,0,24,0,0,321,28,0,2100,0,Premium,Premium Gasoline,35,0,37756,Acura,TLX FWD,N,Automatic (AM-S8),2017,,,,0,0,0
+13.1844,0,21,0,0,358,25,0,2350,0,Premium,Premium Gasoline,34,0,37757,Acura,TLX FWD,N,Automatic (S9),2017,,,,0,0,0
+13.1844,0,21,0,0,358,25,0,2350,0,Premium,Premium Gasoline,31,0,37758,Acura,TLX AWD,N,Automatic (S9),2017,,,,0,0,0
+11.77178571,0,23,0,0,323,28,0,2100,0,Premium,Premium Gasoline,35,0,37759,BMW,320i,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,438,20,0,2900,0,Premium,Premium Gasoline,26,0,37760,BMW,M3,Y,Manual 6-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,3050,0,Premium,Premium Gasoline,24,0,37761,BMW,M3,N,Automatic (AM-S7),2017,,,,0,0,0
+16.4805,0,17,0,0,438,20,0,2900,0,Premium,Premium Gasoline,26,0,37762,BMW,M4 Coupe,N,Manual 6-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,3050,0,Premium,Premium Gasoline,24,0,37763,BMW,M4 Coupe,N,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,21,0,0,364,24,0,2000,0,Regular,Regular Gasoline,31,0,37764,Buick,Verano,N,Automatic (S6),2017,,,,0,0,0
+13.73375,0,20,0,0,376,24,0,2000,0,Regular,Regular Gasoline,30,0,37765,Cadillac,ATS,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,399,22,0,2150,0,Regular,Regular Gasoline,27,0,37766,Cadillac,ATS AWD,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,348,26,0,2250,0,Premium,Premium Gasoline,30,0,37767,Mercedes-Benz,AMG CLA45 4matic,N,Automatic (AM7),2017,,,,0,0,0
+18.31166667,0,15,0,0,501,18,0,3250,0,Premium,Premium Gasoline,24,0,37768,Audi,S8,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,423,21,0,2750,0,Premium,Premium Gasoline,27,0,37769,Audi,S6,N,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,20,0,0,376,24,0,2000,0,Regular,Regular Gasoline,30,0,37770,Cadillac,CTS,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,399,22,0,2150,0,Regular,Regular Gasoline,27,0,37771,Cadillac,CTS AWD,N,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,25,0,0,317,28,0,2100,0,Premium,Premium Gasoline,33,0,37772,MINI,Cooper Clubman,N,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,317,28,0,2100,0,Premium,Premium Gasoline,34,0,37773,MINI,Cooper Clubman,N,Manual 6-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,486,18,0,2650,0,Regular,Regular Gasoline,23,0,37774,Cadillac,XTS AWD,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,417,21,0,2250,0,Regular,Regular Gasoline,27,0,37775,Cadillac,CT6 AWD,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,424,21,0,2750,0,Premium,Premium Gasoline,26,0,37776,Cadillac,CT6 AWD,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,4.681875,19,14,386,401,22,16,2150,2250,Gasoline or E85,Regular Gasoline,28,20,37777,Chevrolet,Impala,N,Automatic (S6),2017,,FFV,E85,0,0,0
+13.1844,0,22,0,0,356,25,0,2350,0,Premium,Premium Gasoline,30,0,37778,Fiat,500 L,N,Automatic 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,361,25,0,2350,0,Premium,Premium Gasoline,28,0,37779,Mercedes-Benz,AMG GLA45 4matic,N,Automatic (AM7),2017,,,,0,0,0
+14.33086957,4.406470588,20,15,375,392,23,17,2050,2100,Gasoline or E85,Regular Gasoline,27,20,37780,Ford,Transit Connect Van FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+14.98227273,4.681875,19,14,390,407,22,16,2150,2250,Gasoline or E85,Regular Gasoline,27,20,37781,Ford,Transit Connect Wagon LWB FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+14.98227273,0,19,0,0,407,22,0,2150,0,Regular,Regular Gasoline,27,0,37782,Ford,Transit Connect Wagon FWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,4.681875,19,14,386,401,22,16,2150,2250,Gasoline or E85,Regular Gasoline,27,19,37783,Ford,Transit Connect Wagon FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+13.1844,0,22,0,0,356,25,0,1900,0,Regular,Regular Gasoline,29,0,37784,Buick,Envision FWD,N,Automatic 6-spd,2017,,,,0,0,0
+15.69571429,0,19,0,0,420,21,0,2250,0,Regular,Regular Gasoline,25,0,37785,Dodge,Journey,Y,Automatic 4-spd,2017,,,,0,0,0
+17.34789474,5.350714286,17,12,440,456,19,14,2500,2550,Gasoline or E85,Regular Gasoline,25,18,37786,Dodge,Journey,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+13.73375,0,22,0,0,378,24,0,2000,0,Regular,Regular Gasoline,26,0,37787,Jeep,Patriot FWD,N,Automatic (variable gear ratios),2017,,,,0,0,0
+13.73375,0,22,0,0,378,24,0,2000,0,Regular,Regular Gasoline,26,0,37788,Jeep,Compass FWD,N,Automatic (variable gear ratios),2017,,,,0,0,0
+15.69571429,0,18,0,0,429,21,0,2750,0,Premium,Premium Gasoline,26,0,37789,Audi,Q5,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,17,0,0,458,19,0,3050,0,Premium,Premium Gasoline,24,0,37790,Audi,SQ5,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,470,19,0,2500,0,Regular,Regular Gasoline,24,0,37791,Dodge,Journey AWD,N,Automatic 6-spd,2017,,,,0,0,0
+15.69571429,0,20,0,0,424,21,0,2750,0,Premium,Premium Gasoline,23,0,37792,Volkswagen,Tiguan 4motion,Y,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,426,21,0,2750,0,Premium,Premium Gasoline,25,0,37793,BMW,X5 sDrive35i,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,426,21,0,2750,0,Premium,Premium Gasoline,25,0,37794,BMW,X6 sDrive35i,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,18,0,0,434,20,0,2900,0,Premium,Premium Gasoline,24,0,37795,BMW,X5 xDrive35i,Y,Automatic (S8),2017,,,,0,0,0
+16.4805,0,18,0,0,434,20,0,2900,0,Premium,Premium Gasoline,24,0,37796,BMW,X6 xDrive35i,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,17,0,0,462,19,0,2500,0,Regular,Regular Gasoline,23,0,37797,Volkswagen,Touareg,N,Automatic (S8),2017,,,,0,0,0
+0.18,0,121,0,0,0,112,0,600,0,Electricity,Electricity,103,0,37798,Fiat,500e,N,Automatic (A1),2017,,EV,,0,0,0
+9.53520117,0.426,21,47,0,258,22,46,2650,1400,Premium Gas or Electricity,Premium Gasoline,24,45,37799,Porsche,Cayenne S e-Hybrid,N,Automatic (AM8),2017,,Plug-in Hybrid,Electricity,25,29,27
+23.54357143,0,12,0,0,623,14,0,4150,0,Premium,Premium Gasoline,19,0,37801,Dodge,Viper,N,Manual 6-spd,2017,,,,0,0,0
+25.35461538,0,12,0,0,662,13,0,4500,0,Premium,Premium Gasoline,16,0,37802,Ferrari,F12 Berlinetta,N,Automatic (AM7),2017,,,,0,0,0
+12.20777778,0,25,0,0,324,27,0,2150,0,Premium,Premium Gasoline,32,0,37803,Mercedes-Benz,SLC300,N,Automatic 9-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,379,23,0,2550,0,Premium,Premium Gasoline,29,0,37804,Mercedes-Benz,AMG SLC43,N,Automatic 9-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,487,18,0,3250,0,Premium,Premium Gasoline,23,0,37805,Ferrari,California T,N,Automatic (AM7),2017,,,,0,0,0
+17.34789474,0,16,0,0,478,19,0,3050,0,Premium,Premium Gasoline,23,0,37806,Ferrari,California T,N,Automatic (AM7),2017,,,,0,0,0
+11.36586207,0,27,0,0,300,29,0,2000,0,Premium,Premium Gasoline,33,0,37807,Fiat,500,N,Automatic 6-spd,2017,,,,0,0,0
+9.694411765,0,31,0,0,264,34,0,1700,0,Premium,Premium Gasoline,38,0,37808,Fiat,500,Y,Manual 5-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,326,27,0,2150,0,Premium,Premium Gasoline,32,0,37809,Fiat,500,N,Automatic 6-spd,2017,,,,0,0,0
+10.987,0,28,0,0,299,30,0,1950,0,Premium,Premium Gasoline,33,0,37810,Fiat,500,N,Manual 5-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,326,27,0,2150,0,Premium,Premium Gasoline,32,0,37811,Fiat,500 Abarth,N,Automatic 6-spd,2017,,,,0,0,0
+10.987,0,28,0,0,299,30,0,1950,0,Premium,Premium Gasoline,33,0,37812,Fiat,500 Abarth,N,Manual 5-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,2250,0,Premium,Premium Gasoline,32,0,37813,MINI,Cooper S Convertible,N,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,373,24,0,2400,0,Premium,Premium Gasoline,28,0,37814,Audi,S3,Y,Automatic (AM-S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,3050,0,Premium,Premium Gasoline,24,0,37815,BMW,650i Coupe,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,3050,0,Premium,Premium Gasoline,24,0,37816,BMW,650i Convertible,N,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,25,0,0,316,28,0,2100,0,Premium,Premium Gasoline,32,0,37817,MINI,Cooper S Hardtop 2 door,N,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,2250,0,Premium,Premium Gasoline,32,0,37818,MINI,Cooper S Hardtop 2 door,N,Manual 6-spd,2017,,,,0,0,0
+11.77178571,0,25,0,0,316,28,0,2100,0,Premium,Premium Gasoline,32,0,37819,MINI,Cooper S Hardtop 4 door,N,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,2250,0,Premium,Premium Gasoline,32,0,37820,MINI,Cooper S Hardtop 4 door,N,Manual 6-spd,2017,,,,0,0,0
+11.77178571,0,25,0,0,316,28,0,2100,0,Premium,Premium Gasoline,32,0,37821,MINI,John Cooper Works Hardtop,N,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,2250,0,Premium,Premium Gasoline,32,0,37822,MINI,John Cooper Works Hardtop,N,Manual 6-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2550,0,Premium,Premium Gasoline,28,0,37823,Audi,Q3,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,459,19,0,3050,0,Premium,Premium Gasoline,24,0,37824,BMW,650i Gran Coupe,N,Automatic (S8),2017,,,,0,0,0
+6.866875,0,49,0,0,183,48,0,1000,0,Regular,Regular Gasoline,47,0,37825,Honda,Accord Hybrid,Y,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+7.847857143,0,39,0,0,212,42,0,1150,0,Regular,Regular Gasoline,46,0,37826,Kia,Optima Hybrid,N,Automatic (AM6),2017,,Hybrid,,0,0,0
+12.20777778,0,23,0,0,329,27,0,2150,0,Premium,Premium Gasoline,33,0,37827,MINI,Cooper S Clubman,N,Automatic (S8),2017,,,,0,0,0
+8.24025,0,42,0,0,221,40,0,1200,0,Regular,Regular Gasoline,38,0,37828,Toyota,Camry Hybrid LE,N,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+8.673947368,0,40,0,0,230,38,0,1250,0,Regular,Regular Gasoline,37,0,37829,Toyota,Camry Hybrid XLE/SE,N,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,384,23,0,2050,0,Regular,Regular Gasoline,28,0,37830,Kia,Cadenza,N,Automatic (S8),2017,,,,0,0,0
+20.600625,0,15,0,0,552,16,0,3000,0,Regular,Regular Gasoline,19,0,37831,Ford,Transit T150 Wagon,Y,Automatic (S6),2017,,,,0,0,0
+20.600625,6.81,14,10,552,570,16,11,3000,3250,Gasoline or E85,Regular Gasoline,18,13,37832,Ford,Transit T150 Wagon FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+14.33086957,0,20,0,0,392,23,0,2050,0,Regular,Regular Gasoline,27,0,37833,Ford,Transit Connect Van 2WD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2150,0,Regular,Regular Gasoline,27,0,37834,Ford,Transit Connect Wagon LWB FWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,17,0,0,445,20,0,2400,0,Regular,Regular Gasoline,25,0,37835,Dodge,Grand Caravan,N,Automatic 6-spd,2017,,,,0,0,0
+16.4805,5.350714286,17,12,431,445,20,14,2400,2550,Gasoline or E85,Regular Gasoline,25,18,37836,Dodge,Grand Caravan,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,457,19,0,3050,0,Premium,Premium Gasoline,24,0,37837,Infiniti,QX70 RWD,N,Automatic (S7),2017,,,,0,0,0
+13.1844,0,21,0,0,361,25,0,1900,0,Regular,Regular Gasoline,30,0,37838,Jeep,Cherokee FWD,Y,Automatic 9-spd,2017,,,,0,0,0
+13.1844,4.161666667,21,15,351,361,25,18,1900,2000,Gasoline or E85,Regular Gasoline,30,22,37839,Jeep,Cherokee FWD,N,Automatic 9-spd,2017,,FFV,E85,0,0,0
+13.1844,0,23,0,0,353,25,0,1900,0,Regular,Regular Gasoline,28,0,37840,Jeep,Compass FWD,N,Manual 5-spd,2017,,,,0,0,0
+13.1844,0,23,0,0,353,25,0,1900,0,Regular,Regular Gasoline,28,0,37841,Jeep,Patriot FWD,N,Manual 5-spd,2017,,,,0,0,0
+13.1844,0,23,0,0,347,25,0,1900,0,Regular,Regular Gasoline,30,0,37842,Jeep,Compass FWD,N,Manual 5-spd,2017,,,,0,0,0
+13.1844,0,23,0,0,347,25,0,1900,0,Regular,Regular Gasoline,30,0,37843,Jeep,Patriot FWD,N,Manual 5-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,377,24,0,2250,0,Midgrade,Midgrade Gasoline,29,0,37844,Jeep,Cherokee FWD,N,Automatic 9-spd,2017,,,,0,0,0
+13.73375,0,22,0,0,364,24,0,2400,0,Premium,Premium Gasoline,28,0,37845,Mercedes-Benz,GLC300,Y,Automatic 9-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,486,18,0,3250,0,Premium,Premium Gasoline,22,0,37846,Infiniti,QX70 AWD,N,Automatic (S7),2017,,,,0,0,0
+14.33086957,0,21,0,0,378,23,0,2050,0,Regular,Regular Gasoline,28,0,37847,Jeep,Cherokee 4WD,Y,Automatic 9-spd,2017,,,,0,0,0
+14.33086957,4.406470588,21,14,372,378,23,17,2050,2100,Gasoline or E85,Regular Gasoline,28,21,37848,Jeep,Cherokee 4WD,N,Automatic 9-spd,2017,,FFV,E85,0,0,0
+14.98227273,0,19,0,0,412,22,0,2150,0,Regular,Regular Gasoline,25,0,37849,Jeep,Cherokee Trailhawk 4WD,N,Automatic 9-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,388,23,0,2350,0,Midgrade,Midgrade Gasoline,27,0,37850,Jeep,Cherokee 4WD,N,Automatic 9-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,416,21,0,2600,0,Midgrade,Midgrade Gasoline,26,0,37851,Jeep,Cherokee 4WD Active Drive II,Y,Automatic 9-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,432,21,0,2600,0,Midgrade,Midgrade Gasoline,24,0,37852,Jeep,Cherokee Trailhawk 4WD,Y,Automatic 9-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2400,0,Premium,Premium Gasoline,28,0,37853,Mercedes-Benz,GLC300 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,399,22,0,2650,0,Premium,Premium Gasoline,25,0,37854,Porsche,Macan,N,Automatic (AM-S7),2017,,,,0,0,0
+19.38882353,0,14,0,0,525,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,37855,Dodge,Durango RWD,N,Automatic 8-spd,2017,,,,0,0,0
+15.69571429,0,19,0,0,414,21,0,2250,0,Regular,Regular Gasoline,26,0,37856,Dodge,Durango RWD,Y,Automatic 8-spd,2017,,,,0,0,0
+15.69571429,0,19,0,0,414,21,0,2250,0,Regular,Regular Gasoline,26,0,37857,Jeep,Grand Cherokee 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+16.4805,0,18,0,0,440,20,0,2900,0,Premium,Premium Gasoline,23,0,37858,Mercedes-Benz,GLE350,N,Automatic 7-spd,2017,,,,0,0,0
+19.38882353,0,14,0,0,523,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,37859,Dodge,Durango AWD,N,Automatic 8-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,427,21,0,2250,0,Regular,Regular Gasoline,25,0,37860,Dodge,Durango AWD,N,Automatic 8-spd,2017,,,,0,0,0
+19.38882353,0,14,0,0,533,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,37861,Jeep,Grand Cherokee 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+21.974,0,13,0,0,592,15,0,3900,0,Premium,Premium Gasoline,19,0,37862,Jeep,Grand Cherokee SRT 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,427,21,0,2250,0,Regular,Regular Gasoline,25,0,37863,Jeep,Grand Cherokee 4WD,Y,Automatic 8-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,454,20,0,2900,0,Premium,Premium Gasoline,23,0,37864,Mercedes-Benz,AMG GLE43 4matic Coupe,N,Automatic 9-spd,2017,,,,0,0,0
+21.974,0,13,0,0,611,15,0,3900,0,Premium,Premium Gasoline,17,0,37865,Mercedes-Benz,AMG GLE63 S,N,Automatic 7-spd,2017,,,,0,0,0
+21.974,0,14,0,0,574,15,0,3900,0,Premium,Premium Gasoline,18,0,37866,Mercedes-Benz,AMG GLE63 S Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+21.974,0,13,0,0,611,15,0,3900,0,Premium,Premium Gasoline,17,0,37867,Mercedes-Benz,AMG GLE63,N,Automatic 7-spd,2017,,,,0,0,0
+16.4805,0,18,0,0,445,20,0,2900,0,Premium,Premium Gasoline,23,0,37868,Mercedes-Benz,GLE400 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+17.34789474,0,15,0,0,477,19,0,3050,0,Premium,Premium Gasoline,26,0,37869,Chevrolet,Corvette,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,465,19,0,3050,0,Premium,Premium Gasoline,25,0,37870,Chevrolet,Corvette,N,Manual 7-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,503,18,0,3250,0,Premium,Premium Gasoline,22,0,37871,Chevrolet,Corvette,N,Manual 7-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,540,16,0,3650,0,Premium,Premium Gasoline,23,0,37872,Chevrolet,Corvette,N,Automatic (S8),2017,,,,0,0,0
+9.417428571,0,33,0,0,251,35,0,1650,0,Premium,Premium Gasoline,38,0,37873,smart,fortwo cabriolet,N,Automatic (AM6),2017,,,,0,0,0
+9.694411765,0,31,0,0,258,34,0,1700,0,Premium,Premium Gasoline,38,0,37874,smart,fortwo cabriolet,N,Manual 5-spd,2017,,,,0,0,0
+13.1844,0,23,0,0,358,25,0,2350,0,Premium,Premium Gasoline,27,0,37875,Audi,TTS Coupe,N,Automatic (AM-S6),2017,,,,0,0,0
+13.1844,0,21,0,0,360,25,0,2350,0,Premium,Premium Gasoline,32,0,37876,BMW,230i Coupe,N,Manual 6-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,325,27,0,2150,0,Premium,Premium Gasoline,33,0,37877,BMW,230i xDrive Coupe,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,0,23,0,0,324,27,0,2150,0,Premium,Premium Gasoline,34,0,37878,BMW,230i Convertible,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,335,26,0,2250,0,Premium,Premium Gasoline,33,0,37879,BMW,230i xDrive Convertible,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,0,23,0,0,324,27,0,2150,0,Premium,Premium Gasoline,34,0,37880,BMW,430i Convertible,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,22,0,0,343,26,0,2250,0,Premium,Premium Gasoline,32,0,37881,BMW,430i xDrive Convertible,N,Automatic (S8),2017,,,,0,0,0
+9.988181818,0,30,0,0,268,33,0,1450,0,Regular,Regular Gasoline,38,0,37882,Chevrolet,Spark,N,Automatic (variable gear ratios),2017,,,,0,0,0
+9.988181818,0,29,0,0,271,33,0,1450,0,Regular,Regular Gasoline,38,0,37883,Chevrolet,Spark,N,Manual 5-spd,2017,,,,0,0,0
+9.694411765,0,30,0,0,264,34,0,1400,0,Regular,Regular Gasoline,39,0,37884,Toyota,Yaris iA,Y,Manual 6-spd,2017,,,,0,0,0
+9.417428571,0,32,0,0,249,35,0,1350,0,Regular,Regular Gasoline,40,0,37885,Toyota,Yaris iA,Y,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,387,23,0,2550,0,Premium,Premium Gasoline,28,0,37886,Audi,Q3 quattro,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,23,0,0,324,27,0,2150,0,Premium,Premium Gasoline,34,0,37887,BMW,330i,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,21,0,0,360,25,0,2350,0,Premium,Premium Gasoline,32,0,37888,BMW,330i,N,Manual 6-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,335,26,0,2250,0,Premium,Premium Gasoline,33,0,37889,BMW,330i xDrive,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,0,23,0,0,325,27,0,2150,0,Premium,Premium Gasoline,35,0,37890,BMW,320i,N,Manual 6-spd,2017,,,,0,0,0
+12.20777778,0,23,0,0,332,27,0,2150,0,Premium,Premium Gasoline,34,0,37891,BMW,320i xDrive,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,21,0,0,358,25,0,2350,0,Premium,Premium Gasoline,32,0,37892,BMW,340i,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,0,23,0,0,324,27,0,2150,0,Premium,Premium Gasoline,34,0,37893,BMW,430i Coupe,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,21,0,0,351,25,0,2350,0,Premium,Premium Gasoline,33,0,37894,BMW,430i Coupe,N,Manual 6-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,335,26,0,2250,0,Premium,Premium Gasoline,33,0,37895,BMW,430i xDrive Coupe,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,0,23,0,0,324,27,0,2150,0,Premium,Premium Gasoline,34,0,37896,BMW,430i Gran Coupe,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,335,26,0,2250,0,Premium,Premium Gasoline,33,0,37897,BMW,430i xDrive Gran Coupe,Y,Automatic (S8),2017,,,,0,0,0
+13.1844,0,22,0,0,349,25,0,2350,0,Premium,Premium Gasoline,31,0,37898,Cadillac,ATS,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,22,0,0,347,26,0,1850,0,Regular,Regular Gasoline,32,0,37899,Cadillac,ATS,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,449,20,0,2900,0,Premium,Premium Gasoline,25,0,37900,Cadillac,ATS-V,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,475,19,0,3050,0,Premium,Premium Gasoline,23,0,37901,Cadillac,ATS-V,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,358,25,0,2350,0,Premium,Premium Gasoline,30,0,37902,Cadillac,ATS AWD,N,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,24,0,0,317,28,0,1700,0,Regular,Regular Gasoline,34,0,37903,Chevrolet,Sonic,N,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,312,28,0,1700,0,Regular,Regular Gasoline,33,0,37904,Chevrolet,Sonic,N,Manual 5-spd,2017,,,,0,0,0
+10.987,0,27,0,0,295,30,0,1600,0,Regular,Regular Gasoline,36,0,37905,Chevrolet,Sonic,N,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,281,32,0,1500,0,Regular,Regular Gasoline,38,0,37906,Chevrolet,Sonic,N,Manual 6-spd,2017,,,,0,0,0
+9.694411765,0,30,0,0,265,34,0,1400,0,Regular,Regular Gasoline,40,0,37907,Chevrolet,Cruze,Y,Automatic (S6),2017,,,,0,0,0
+9.988181818,0,29,0,0,269,33,0,1450,0,Regular,Regular Gasoline,39,0,37908,Chevrolet,Cruze Premier,Y,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,29,0,0,278,32,0,1500,0,Regular,Regular Gasoline,38,0,37909,Chevrolet,Cruze Hatchback,Y,Automatic (S6),2017,,,,0,0,0
+10.63258065,0,28,0,0,287,31,0,1550,0,Regular,Regular Gasoline,37,0,37910,Chevrolet,Cruze Premier Hatchback,Y,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,274,32,0,1500,0,Regular,Regular Gasoline,39,0,37911,Chevrolet,Cruze,Y,Manual 6-spd,2017,,,,0,0,0
+10.63258065,0,28,0,0,286,31,0,1550,0,Regular,Regular Gasoline,37,0,37912,Chevrolet,Cruze Hatchback,N,Manual 6-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,333,27,0,2150,0,Premium,Premium Gasoline,31,0,37913,Mercedes-Benz,C300 4matic,N,Automatic 7-spd,2017,,,,0,0,0
+23.54357143,0,12,0,0,627,14,0,4150,0,Premium,Premium Gasoline,19,0,37914,Rolls-Royce,Dawn,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,23,0,0,347,25,0,2350,0,Premium,Premium Gasoline,30,0,37915,Volkswagen,Golf R,N,Automatic (AM-S6),2017,,,,0,0,0
+13.1844,0,22,0,0,354,25,0,2350,0,Premium,Premium Gasoline,31,0,37916,Volkswagen,Golf R,Y,Manual 6-spd,2017,,,,0,0,0
+10.3003125,0,28,0,0,282,32,0,1500,0,Regular,Regular Gasoline,38,0,37917,Volkswagen,Jetta,Y,Automatic (S6),2017,,,,0,0,0
+9.988181818,0,28,0,0,271,33,0,1450,0,Regular,Regular Gasoline,40,0,37918,Volkswagen,Jetta,Y,Manual 5-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,380,23,0,2550,0,Premium,Premium Gasoline,30,0,37919,Acura,RLX,N,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,29,0,0,306,29,0,2000,0,Premium,Premium Gasoline,30,0,37920,Acura,RLX Hybrid,N,Automatic (AM-S7),2017,,Hybrid,,0,0,0
+13.1844,0,21,0,0,360,25,0,1900,0,Regular,Regular Gasoline,31,0,37921,Buick,LaCrosse,Y,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,378,23,0,2050,0,Regular,Regular Gasoline,29,0,37922,Buick,LaCrosse AWD,Y,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,402,22,0,2650,0,Premium,Premium Gasoline,27,0,37923,Buick,Regal AWD,N,Automatic (S6),2017,,,,0,0,0
+13.1844,0,22,0,0,359,25,0,2350,0,Premium,Premium Gasoline,30,0,37924,Cadillac,CTS,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,16,0,0,481,18,0,3250,0,Premium,Premium Gasoline,24,0,37925,Cadillac,CTS,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,368,24,0,2400,0,Premium,Premium Gasoline,29,0,37926,Cadillac,CTS AWD,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,14,0,0,530,17,0,3400,0,Premium,Premium Gasoline,21,0,37927,Cadillac,CTS-V,N,Automatic (S8),2017,,,,0,0,0
+10.987,0,27,0,0,293,30,0,1600,0,Regular,Regular Gasoline,36,0,37928,Chevrolet,Malibu,Y,Automatic 6-spd,2017,,,,0,0,0
+21.974,0,12,0,0,604,15,0,3900,0,Premium,Premium Gasoline,19,0,37929,Rolls-Royce,Wraith,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,22,0,0,349,25,0,2350,0,Premium,Premium Gasoline,31,0,37930,BMW,X1 xDrive28i,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,2250,0,Premium,Premium Gasoline,32,0,37931,BMW,X1 sDrive28i,Y,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,335,26,0,2250,0,Premium,Premium Gasoline,33,0,37932,BMW,330i xDrive Gran Turismo,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,441,20,0,2900,0,Premium,Premium Gasoline,26,0,37933,BMW,750i,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,459,19,0,3050,0,Premium,Premium Gasoline,25,0,37934,BMW,750i xDrive,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,16,0,0,481,18,0,3250,0,Premium,Premium Gasoline,24,0,37935,BMW,Alpina B7 xDrive,Y,Automatic (S8),2017,,,,0,0,0
+13.1844,0,22,0,0,359,25,0,2350,0,Premium,Premium Gasoline,30,0,37936,Cadillac,CT6,N,Automatic (S8),2017,,,,0,0,0
+23.54357143,0,12,0,0,627,14,0,4150,0,Premium,Premium Gasoline,19,0,37937,Rolls-Royce,Ghost,N,Automatic (S8),2017,,,,0,0,0
+23.54357143,0,12,0,0,627,14,0,4150,0,Premium,Premium Gasoline,19,0,37938,Rolls-Royce,Ghost EWB,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,23,0,0,335,26,0,2250,0,Premium,Premium Gasoline,33,0,37939,BMW,330i xDrive Sports Wagon,N,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,24,0,0,317,28,0,1700,0,Regular,Regular Gasoline,34,0,37940,Chevrolet,Sonic 5,N,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,312,28,0,1700,0,Regular,Regular Gasoline,33,0,37941,Chevrolet,Sonic 5,N,Manual 5-spd,2017,,,,0,0,0
+10.987,0,27,0,0,295,30,0,1600,0,Regular,Regular Gasoline,36,0,37942,Chevrolet,Sonic 5,N,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,281,32,0,1500,0,Regular,Regular Gasoline,38,0,37943,Chevrolet,Sonic 5,N,Manual 6-spd,2017,,,,0,0,0
+17.34789474,5.350714286,16,12,457,475,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,37944,Chevrolet,Silverado C15 2WD,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+11.77178571,0,25,0,0,313,28,0,1700,0,Regular,Regular Gasoline,33,0,37945,Buick,Encore,Y,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,313,28,0,1700,0,Regular,Regular Gasoline,33,0,37946,Chevrolet,Trax,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,24,0,0,334,27,0,1750,0,Regular,Regular Gasoline,30,0,37947,Buick,Encore AWD,Y,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,24,0,0,334,27,0,1750,0,Regular,Regular Gasoline,30,0,37948,Chevrolet,Trax AWD,N,Automatic (S6),2017,,,,0,0,0
+13.73375,0,22,0,0,368,24,0,2000,0,Regular,Regular Gasoline,28,0,37949,Subaru,Forester AWD,Y,Manual 6-spd,2017,,,,0,0,0
+21.974,0,12,0,0,596,15,0,3900,0,Premium,Premium Gasoline,19,0,37950,Bentley,Bentayga,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,15,0,0,515,17,0,3400,0,Premium,Premium Gasoline,21,0,37951,BMW,X5 xDrive50i,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,15,0,0,515,17,0,3400,0,Premium,Premium Gasoline,21,0,37952,BMW,X6 xDrive50i,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,18,0,0,457,19,0,3050,0,Premium,Premium Gasoline,22,0,37953,Mercedes-Benz,GLE350 4matic,N,Automatic 7-spd,2017,,,,0,0,0
+17.34789474,5.350714286,18,13,429,457,19,14,3050,2550,Premium or E85,Premium Gasoline,22,17,37954,Mercedes-Benz,GLE350 4matic,N,Automatic 7-spd,2017,,FFV,E85,0,0,0
+18.31166667,0,15,0,0,501,18,0,3250,0,Premium,Premium Gasoline,22,0,37955,Ferrari,488 Spider,N,Automatic (AM7),2017,,,,0,0,0
+18.31166667,0,16,0,0,495,18,0,3250,0,Premium,Premium Gasoline,22,0,37956,Ferrari,488 Spider,N,Automatic (AM7),2017,,,,0,0,0
+18.31166667,0,16,0,0,486,18,0,3250,0,Premium,Premium Gasoline,22,0,37957,Mercedes-Benz,AMG GT S,N,Automatic (AM7),2017,,,,0,0,0
+18.31166667,0,16,0,0,486,18,0,3250,0,Premium,Premium Gasoline,22,0,37958,Mercedes-Benz,AMG GT,N,Automatic (AM7),2017,,,,0,0,0
+13.1844,0,21,0,0,358,25,0,2350,0,Premium,Premium Gasoline,32,0,37959,BMW,M240i Coupe,Y,Automatic (S8),2017,,,,0,0,0
+13.1844,0,21,0,0,358,25,0,2350,0,Premium,Premium Gasoline,32,0,37960,BMW,M240i Convertible,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,372,24,0,2400,0,Premium,Premium Gasoline,29,0,37961,BMW,440i Convertible,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,396,22,0,2650,0,Premium,Premium Gasoline,28,0,37962,Infiniti,Q60,N,Automatic (S7),2017,,,,0,0,0
+14.98227273,0,20,0,0,398,22,0,2650,0,Premium,Premium Gasoline,27,0,37963,Infiniti,Q60S Red Sport,N,Automatic (S7),2017,,,,0,0,0
+13.1844,0,22,0,0,353,25,0,2350,0,Premium,Premium Gasoline,30,0,37964,Infiniti,Q60,N,Automatic (S7),2017,,,,0,0,0
+13.73375,0,21,0,0,374,24,0,2400,0,Premium,Premium Gasoline,28,0,37965,Infiniti,Q60 AWD,N,Automatic (S7),2017,,,,0,0,0
+15.69571429,0,19,0,0,418,21,0,2750,0,Premium,Premium Gasoline,26,0,37966,Infiniti,Q60S Red Sport AWD,N,Automatic (S7),2017,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2650,0,Premium,Premium Gasoline,27,0,37967,Infiniti,Q60 AWD,N,Automatic (S7),2017,,,,0,0,0
+13.1844,0,21,0,0,358,25,0,2350,0,Premium,Premium Gasoline,32,0,37968,BMW,440i Coupe,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,21,0,0,358,25,0,2350,0,Premium,Premium Gasoline,32,0,37969,BMW,440i Gran Coupe,N,Automatic (S8),2017,,,,0,0,0
+10.3003125,0,30,0,0,278,32,0,1500,0,Regular,Regular Gasoline,35,0,37970,Toyota,Yaris,N,Automatic 4-spd,2017,,,,0,0,0
+9.988181818,0,30,0,0,271,33,0,1450,0,Regular,Regular Gasoline,36,0,37971,Toyota,Yaris,N,Manual 5-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,325,27,0,1750,0,Regular,Regular Gasoline,32,0,37972,Volkswagen,GTI,Y,Automatic (AM-S6),2017,,,,0,0,0
+11.77178571,0,24,0,0,319,28,0,1700,0,Regular,Regular Gasoline,34,0,37973,Volkswagen,GTI,Y,Manual 6-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,326,27,0,1750,0,Regular,Regular Gasoline,33,0,37974,Volkswagen,Jetta,N,Automatic (AM-S6),2017,,,,0,0,0
+12.20777778,0,23,0,0,335,27,0,1750,0,Regular,Regular Gasoline,33,0,37975,Volkswagen,Jetta,Y,Manual 6-spd,2017,,,,0,0,0
+11.36586207,0,25,0,0,311,29,0,1650,0,Regular,Regular Gasoline,35,0,37976,Volkswagen,Jetta,Y,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,25,0,0,309,29,0,1650,0,Regular,Regular Gasoline,35,0,37977,Volkswagen,Golf,Y,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,25,0,0,305,29,0,1650,0,Regular,Regular Gasoline,36,0,37978,Volkswagen,Golf,N,Manual 5-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,372,24,0,2400,0,Premium,Premium Gasoline,29,0,37979,BMW,740i,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,445,20,0,2900,0,Premium,Premium Gasoline,24,0,37980,Infiniti,QX50,N,Automatic (S7),2017,,,,0,0,0
+16.4805,0,17,0,0,453,20,0,2900,0,Premium,Premium Gasoline,24,0,37981,Infiniti,QX50 AWD,N,Automatic (S7),2017,,,,0,0,0
+11.36586207,0,25,0,0,309,29,0,1650,0,Regular,Regular Gasoline,34,0,37982,Volkswagen,Golf SportWagen,Y,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,313,28,0,1700,0,Regular,Regular Gasoline,35,0,37983,Volkswagen,Golf SportWagen,N,Manual 5-spd,2017,,,,0,0,0
+15.69571429,0,19,0,0,431,21,0,2250,0,Regular,Regular Gasoline,24,0,37984,Toyota,Tacoma 2WD,Y,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,19,0,0,427,21,0,2250,0,Regular,Regular Gasoline,23,0,37985,Toyota,Tacoma 2WD,Y,Automatic (S6),2017,,,,0,0,0
+18.31166667,0,17,0,0,481,18,0,2650,0,Regular,Regular Gasoline,21,0,37986,Toyota,Tacoma 4WD,N,Manual 6-spd,2017,,,,0,0,0
+16.4805,0,18,0,0,446,20,0,2400,0,Regular,Regular Gasoline,23,0,37987,Toyota,Tacoma 4WD,N,Automatic (S6),2017,,,,0,0,0
+18.31166667,0,17,0,0,483,18,0,2650,0,Regular,Regular Gasoline,20,0,37988,Toyota,Tacoma 4WD Double Cab Off-Road,Y,Manual 6-spd,2017,,,,0,0,0
+16.4805,0,19,0,0,448,20,0,2400,0,Regular,Regular Gasoline,21,0,37989,Toyota,Tacoma 4WD,N,Manual 5-spd,2017,,,,0,0,0
+16.4805,0,19,0,0,441,20,0,2400,0,Regular,Regular Gasoline,22,0,37990,Toyota,Tacoma 4WD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,512,17,0,3200,0,Midgrade,Midgrade Gasoline,22,0,37991,Ram,1500 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+16.4805,5.350714286,17,12,455,450,20,14,2400,2550,Gasoline or E85,Regular Gasoline,25,17,37992,Ram,1500 2WD,Y,Automatic 8-spd,2017,,FFV,E85,0,0,0
+21.974,0,13,0,0,580,15,0,3650,0,Midgrade,Midgrade Gasoline,19,0,37993,Ram,1500 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+19.38882353,0,15,0,0,527,17,0,3200,0,Midgrade,Midgrade Gasoline,21,0,37994,Ram,1500 4WD,Y,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,5.762307692,16,11,482,475,19,13,2500,2750,Gasoline or E85,Regular Gasoline,23,16,37995,Ram,1500 4WD,N,Automatic 8-spd,2017,,FFV,E85,0,0,0
+14.98227273,0,19,0,0,409,22,0,2150,0,Regular,Regular Gasoline,27,0,37996,Toyota,Sienna 2WD,Y,Automatic (S8),2017,,,,0,0,0
+16.4805,0,18,0,0,441,20,0,2400,0,Regular,Regular Gasoline,24,0,37997,Toyota,Sienna AWD,Y,Automatic (S8),2017,,,,0,0,0
+20.600625,0,14,0,0,549,16,0,3650,0,Premium,Premium Gasoline,19,0,37998,BMW,X5 M,N,Automatic (S8),2017,,,,0,0,0
+20.600625,0,14,0,0,549,16,0,3650,0,Premium,Premium Gasoline,19,0,37999,BMW,X6 M,N,Automatic (S8),2017,,,,0,0,0
+0.162,0,137,0,0,0,124,0,550,0,Electricity,Electricity,111,0,38000,BMW,i3 BEV (60  Amp-hour battery),N,Automatic (A1),2017,,EV,,0,0,0
+0.174,0,129,0,0,0,118,0,550,0,Electricity,Electricity,106,0,38001,BMW,i3 BEV (94 Amp-hour battery),Y,Automatic (A1),2017,,EV,,0,0,0
+0.24,0,85,0,0,0,84,0,800,0,Electricity,Electricity,82,0,38002,Mercedes-Benz,B250e,N,Automatic (A1),2017,,EV,,0,0,0
+12.67730769,0,23,0,0,336,26,0,1850,0,Regular,Regular Gasoline,30,0,38005,Audi,TT Roadster quattro,N,Automatic (AM-S6),2017,,,,0,0,0
+12.20777778,0,24,0,0,330,27,0,1750,0,Regular,Regular Gasoline,31,0,38006,Audi,A3 quattro,N,Automatic (AM-S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,336,26,0,1850,0,Regular,Regular Gasoline,30,0,38007,Audi,TT Coupe quattro,N,Automatic (AM-S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,401,22,0,2650,0,Premium,Premium Gasoline,28,0,38008,BMW,M240i Coupe,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,21,0,0,357,25,0,2350,0,Premium,Premium Gasoline,31,0,38009,BMW,M240i xDrive Coupe,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,19,0,0,395,23,0,2550,0,Premium,Premium Gasoline,29,0,38010,BMW,M240i Convertible,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,21,0,0,357,25,0,2350,0,Premium,Premium Gasoline,31,0,38011,BMW,M240i xDrive Convertible,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,20,0,0,374,24,0,2400,0,Premium,Premium Gasoline,30,0,38012,BMW,440i xDrive Convertible,N,Automatic (S8),2017,,,,0,0,0
+10.63258065,0,27,0,0,284,31,0,1900,0,Premium,Premium Gasoline,37,0,38013,Audi,A4 Ultra,N,Automatic (AM-S7),2017,,,,0,0,0
+14.33086957,0,19,0,0,395,23,0,2550,0,Premium,Premium Gasoline,29,0,38014,BMW,340i,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,21,0,0,357,25,0,2350,0,Premium,Premium Gasoline,31,0,38015,BMW,340i xDrive,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,19,0,0,391,23,0,2550,0,Premium,Premium Gasoline,29,0,38016,BMW,340i xDrive,N,Manual 6-spd,2017,,,,0,0,0
+14.33086957,0,19,0,0,395,23,0,2550,0,Premium,Premium Gasoline,29,0,38017,BMW,440i Coupe,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,21,0,0,357,25,0,2350,0,Premium,Premium Gasoline,31,0,38018,BMW,440i xDrive Coupe,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,19,0,0,391,23,0,2550,0,Premium,Premium Gasoline,29,0,38019,BMW,440i xDrive Coupe,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,21,0,0,357,25,0,2350,0,Premium,Premium Gasoline,31,0,38020,BMW,440i xDrive Gran Coupe,N,Automatic (S8),2017,,,,0,0,0
+11.36586207,0,26,0,0,310,29,0,1650,0,Regular,Regular Gasoline,32,0,38021,Hyundai,Veloster,N,Automatic (AM7),2017,,,,0,0,0
+11.77178571,0,25,0,0,321,28,0,1700,0,Regular,Regular Gasoline,33,0,38022,Hyundai,Veloster,N,Manual 6-spd,2017,,,,0,0,0
+9.694411765,0,30,0,0,259,34,0,1400,0,Regular,Regular Gasoline,39,0,38023,Mazda,2,N,Manual 6-spd,2017,,,,0,0,0
+9.417428571,0,32,0,0,252,35,0,1350,0,Regular,Regular Gasoline,40,0,38024,Mazda,2,N,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,24,0,0,319,28,0,2100,0,Premium,Premium Gasoline,34,0,38025,Mercedes-Benz,C300,N,Automatic 7-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,425,21,0,2750,0,Premium,Premium Gasoline,26,0,38026,Mercedes-Benz,CLS550,N,Automatic 9-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,444,20,0,2900,0,Premium,Premium Gasoline,25,0,38027,Mercedes-Benz,CLS550 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,353,25,0,2350,0,Premium,Premium Gasoline,31,0,38028,Audi,A6 quattro,Y,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,24,0,0,317,28,0,2100,0,Premium,Premium Gasoline,34,0,38029,Audi,A6,N,Automatic (AM-S7),2017,,,,0,0,0
+23.54357143,0,11,0,0,652,14,0,4150,0,Premium,Premium Gasoline,18,0,38030,Bentley,Mulsanne,N,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,24,0,0,315,28,0,1700,0,Regular,Regular Gasoline,34,0,38031,Mazda,6,Y,Manual 6-spd,2017,,,,0,0,0
+11.36586207,0,26,0,0,304,29,0,1650,0,Regular,Regular Gasoline,35,0,38032,Mazda,6,Y,Automatic (S6),2017,,,,0,0,0
+10.987,0,27,0,0,299,30,0,1600,0,Regular,Regular Gasoline,35,0,38033,Mazda,6,Y,Automatic (S6),2017,,,,0,0,0
+13.73375,0,20,0,0,374,24,0,2400,0,Premium,Premium Gasoline,30,0,38034,BMW,340i xDrive Gran Turismo,N,Automatic (S8),2017,,,,0,0,0
+20.600625,0,14,0,0,544,16,0,3650,0,Premium,Premium Gasoline,22,0,38035,Chevrolet,SS,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,14,0,0,520,17,0,3400,0,Premium,Premium Gasoline,22,0,38036,Chevrolet,SS,N,Manual 6-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,467,19,0,2500,0,Regular,Regular Gasoline,24,0,38037,Lincoln,Continental  AWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,17,0,0,453,20,0,2400,0,Regular,Regular Gasoline,25,0,38038,Lincoln,Continental  AWD,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,422,21,0,2250,0,Regular,Regular Gasoline,27,0,38039,Lincoln,Continental  FWD,Y,Automatic (S6),2017,,,,0,0,0
+16.4805,0,17,0,0,440,20,0,2400,0,Regular,Regular Gasoline,26,0,38040,Lincoln,Continental  FWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,467,19,0,2500,0,Regular,Regular Gasoline,24,0,38041,Lincoln,Continental  AWD,N,Automatic (S6),2017,,,,0,0,0
+13.1844,0,23,0,0,349,25,0,2350,0,Premium,Premium Gasoline,28,0,38042,Audi,A4 allroad quattro,N,Automatic (AM-S7),2017,,,,0,0,0
+12.67730769,0,23,0,0,348,26,0,1850,0,Regular,Regular Gasoline,30,0,38043,Subaru,Crosstrek AWD,N,Manual 5-spd,2017,,,,0,0,0
+11.36586207,0,26,0,0,311,29,0,1650,0,Regular,Regular Gasoline,33,0,38044,Subaru,Crosstrek AWD,Y,Automatic (AV-S6),2017,,,,0,0,0
+8.009330414,5.15015625,25,62,0,214,27,64,2150,0,Premium and Electricity,Premium Gasoline,29,68,38045,BMW,740e xDrive,N,Automatic (S8),2017,,Plug-in Hybrid,Electricity,31,37,33
+3.880578051,3.329393939,38,99,0,104,39,99,1200,0,Regular Gas and Electricity,Regular Gasoline,40,98,38046,Hyundai,Sonata Plug-in Hybrid,Y,Automatic (AM6),2017,,Plug-in Hybrid,Electricity,57,59,58
+25.35461538,0,12,0,0,682,13,0,4500,0,Premium,Premium Gasoline,15,0,38047,Ferrari,LaFerrari Aperta,N,Automatic (AM7),2017,,Hybrid,,0,0,0
+20.600625,0,13,0,0,546,16,0,3650,0,Premium,Premium Gasoline,22,0,38048,Mercedes-Benz,AMG SL65,N,Automatic 7-spd,2017,,,,0,0,0
+11.77178571,0,25,0,0,315,28,0,2100,0,Premium,Premium Gasoline,33,0,38049,MINI,Cooper S Convertible,N,Automatic (S6),2017,,,,0,0,0
+21.974,0,12,0,0,604,15,0,3900,0,Premium,Premium Gasoline,20,0,38050,Bentley,Continental GT Convertible,N,Automatic (S8),2017,,,,0,0,0
+20.600625,0,14,0,0,542,16,0,3650,0,Premium,Premium Gasoline,21,0,38051,Mercedes-Benz,S65 AMG Convertible,N,Automatic 7-spd,2017,,,,0,0,0
+21.974,0,12,0,0,580,15,0,3900,0,Premium,Premium Gasoline,21,0,38052,Bentley,Continental GT,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,0,24,0,0,324,27,0,2150,0,Premium,Premium Gasoline,33,0,38053,Infiniti,QX30,N,Automatic (AM7),2017,,,,0,0,0
+13.1844,0,21,0,0,362,25,0,2350,0,Premium,Premium Gasoline,30,0,38054,Infiniti,QX30 AWD,N,Automatic (AM7),2017,,,,0,0,0
+9.694411765,0,31,0,0,260,34,0,1400,0,Regular,Regular Gasoline,39,0,38055,Nissan,Versa,N,Automatic (variable gear ratios),2017,,,,0,0,0
+10.987,0,27,0,0,296,30,0,1600,0,Regular,Regular Gasoline,36,0,38056,Nissan,Versa,Y,Manual 5-spd,2017,,,,0,0,0
+11.36586207,0,26,0,0,302,29,0,1650,0,Regular,Regular Gasoline,35,0,38057,Nissan,Versa,N,Automatic 4-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,349,25,0,2350,0,Premium,Premium Gasoline,31,0,38058,Volkswagen,CC,N,Automatic (AM-S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,388,23,0,2550,0,Premium,Premium Gasoline,27,0,38059,Volvo,S60 Polestar AWD,N,Automatic (S8),2017,,,,0,0,0
+21.974,0,12,0,0,604,15,0,3900,0,Premium,Premium Gasoline,20,0,38060,Bentley,Flying Spur,N,Automatic (S8),2017,,,,0,0,0
+6.338653846,0,54,0,0,171,52,0,900,0,Regular,Regular Gasoline,50,0,38061,Toyota,Prius,Y,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+5.885892857,0,58,0,0,158,56,0,850,0,Regular,Regular Gasoline,53,0,38062,Toyota,Prius Eco,Y,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+20.600625,0,13,0,0,565,16,0,3650,0,Premium,Premium Gasoline,21,0,38063,Mercedes-Benz,Maybach S600,N,Automatic 7-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,547,16,0,3650,0,Premium,Premium Gasoline,22,0,38064,Mercedes-Benz,S600,N,Automatic 7-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,552,16,0,3650,0,Premium,Premium Gasoline,22,0,38065,Mercedes-Benz,AMG S65,N,Automatic 7-spd,2017,,,,0,0,0
+12.20777778,0,25,0,0,330,27,0,1750,0,Regular,Regular Gasoline,30,0,38066,Kia,Soul,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,25,0,0,334,27,0,1750,0,Regular,Regular Gasoline,30,0,38067,Kia,Soul,Y,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,24,0,0,335,27,0,1750,0,Regular,Regular Gasoline,30,0,38068,Kia,Soul,N,Manual 6-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,388,23,0,2550,0,Premium,Premium Gasoline,27,0,38069,Volvo,V60 Polestar AWD,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,23,0,0,349,25,0,1900,0,Regular,Regular Gasoline,29,0,38070,Toyota,RAV4,N,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,338,26,0,1850,0,Regular,Regular Gasoline,30,0,38071,Toyota,RAV4 LE/XLE,Y,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,344,26,0,2250,0,Premium,Premium Gasoline,31,0,38072,Mercedes-Benz,GLA250 4matic,Y,Automatic (AM7),2017,,,,0,0,0
+13.1844,0,22,0,0,357,25,0,1900,0,Regular,Regular Gasoline,28,0,38073,Toyota,RAV4 AWD,Y,Automatic (S6),2017,,,,0,0,0
+13.73375,0,22,0,0,363,24,0,2000,0,Regular,Regular Gasoline,28,0,38074,Toyota,RAV4 Limited AWD/SE AWD,Y,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,34,0,0,275,32,0,1500,0,Regular,Regular Gasoline,30,0,38075,Toyota,RAV4 Hybrid AWD,Y,Automatic (AV-S6),2017,,Hybrid,,0,0,0
+20.600625,0,14,0,0,555,16,0,3000,0,Regular,Regular Gasoline,19,0,38076,Nissan,Armada 2WD,N,Automatic (S7),2017,,,,0,0,0
+20.600625,0,15,0,0,548,16,0,3650,0,Premium,Premium Gasoline,18,0,38077,Lexus,GX 460,N,Automatic (S6),2017,,,,0,0,0
+21.974,0,13,0,0,596,15,0,3900,0,Premium,Premium Gasoline,18,0,38078,Lexus,LX 570,N,Automatic (S8),2017,,,,0,0,0
+21.974,0,13,0,0,588,15,0,3200,0,Regular,Regular Gasoline,18,0,38079,Nissan,Armada 4WD,Y,Automatic (S7),2017,,,,0,0,0
+21.974,0,13,0,0,595,15,0,3200,0,Regular,Regular Gasoline,18,0,38080,Toyota,Land Cruiser Wagon 4WD,N,Automatic (S8),2017,,,,0,0,0
+7.070999909,4.642394366,28,66,0,189,30,71,1950,0,Premium and Electricity,Premium Gasoline,34,78,38081,BMW,330e,Y,Automatic (S8),2017,,Plug-in Hybrid,Electricity,34,43,38
+17.34789474,0,16,0,0,468,19,0,3050,0,Premium,Premium Gasoline,24,0,38082,Lotus,Evora,N,Manual 6-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,451,20,0,2900,0,Premium,Premium Gasoline,24,0,38083,Lotus,Evora,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,395,23,0,2550,0,Premium,Premium Gasoline,27,0,38084,Buick,Cascada,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,458,19,0,3050,0,Premium,Premium Gasoline,23,0,38085,Mercedes-Benz,AMG C63 S Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,458,19,0,3050,0,Premium,Premium Gasoline,23,0,38086,Mercedes-Benz,AMG C63 Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+10.63258065,0,28,0,0,288,31,0,1550,0,Regular,Regular Gasoline,35,0,38087,Hyundai,Veloster,N,Automatic (AM6),2017,,,,0,0,0
+10.987,0,27,0,0,304,30,0,1600,0,Regular,Regular Gasoline,34,0,38088,Hyundai,Veloster,N,Manual 6-spd,2017,,,,0,0,0
+10.61625,0,32,0,0,284,36,0,1400,0,Diesel,Diesel,42,0,38089,Jaguar,XE,N,Automatic (S8),2017,,Diesel,,0,0,0
+11.24073529,0,30,0,0,299,34,0,1500,0,Diesel,Diesel,40,0,38090,Jaguar,XE AWD,Y,Automatic (S8),2017,,Diesel,,0,0,0
+11.77178571,0,25,0,0,320,28,0,1700,0,Regular,Regular Gasoline,33,0,38091,Kia,Forte Koup,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,25,0,0,328,27,0,1750,0,Regular,Regular Gasoline,32,0,38092,Kia,Forte Koup,N,Automatic (AM7),2017,,,,0,0,0
+12.67730769,0,23,0,0,348,26,0,1850,0,Regular,Regular Gasoline,30,0,38093,Kia,Forte Koup,N,Manual 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,432,21,0,2750,0,Premium,Premium Gasoline,25,0,38094,Mercedes-Benz,AMG C63,N,Automatic 7-spd,2017,,,,0,0,0
+16.4805,0,18,0,0,441,20,0,2900,0,Premium,Premium Gasoline,24,0,38095,Mercedes-Benz,AMG C63 S,N,Automatic 7-spd,2017,,,,0,0,0
+12.67730769,0,22,0,0,342,26,0,2250,0,Premium,Premium Gasoline,33,0,38096,Chevrolet,Malibu,Y,Automatic 9-spd,2017,,,,0,0,0
+7.165434783,0,49,0,0,194,46,0,1050,0,Regular,Regular Gasoline,43,0,38097,Chevrolet,Malibu Hybrid,Y,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+12.20777778,0,23,0,0,323,27,0,1750,0,Regular,Regular Gasoline,36,0,38098,Chrysler,200,N,Automatic 9-spd,2017,,,,0,0,0
+12.20777778,3.7455,23,17,309,323,27,20,1750,1800,Gasoline or E85,Regular Gasoline,36,26,38099,Chrysler,200,N,Automatic 9-spd,2017,,FFV,E85,0,0,0
+14.33086957,4.406470588,19,14,370,388,23,17,2050,2100,Gasoline or E85,Regular Gasoline,31,23,38100,Chrysler,200,N,Automatic 9-spd,2017,,FFV,E85,0,0,0
+14.98227273,4.681875,18,14,381,405,22,16,2150,2250,Gasoline or E85,Regular Gasoline,28,21,38101,Chrysler,200 AWD,N,Automatic 9-spd,2017,,FFV,E85,0,0,0
+14.33086957,0,20,0,0,390,23,0,2550,0,Premium,Premium Gasoline,29,0,38102,Infiniti,Q50,Y,Automatic (S7),2017,,,,0,0,0
+14.98227273,0,20,0,0,398,22,0,2650,0,Premium,Premium Gasoline,26,0,38103,Infiniti,Q50S Red Sport,N,Automatic (S7),2017,,,,0,0,0
+14.98227273,0,19,0,0,408,22,0,2650,0,Premium,Premium Gasoline,27,0,38104,Infiniti,Q50 AWD,N,Automatic (S7),2017,,,,0,0,0
+14.98227273,0,19,0,0,412,22,0,2650,0,Premium,Premium Gasoline,26,0,38105,Infiniti,Q50S Red Sport  AWD,Y,Automatic (S7),2017,,,,0,0,0
+12.67730769,0,23,0,0,345,26,0,2250,0,Premium,Premium Gasoline,31,0,38106,Infiniti,Q50,N,Automatic (S7),2017,,,,0,0,0
+13.73375,0,22,0,0,365,24,0,2400,0,Premium,Premium Gasoline,28,0,38107,Infiniti,Q50 AWD,N,Automatic (S7),2017,,,,0,0,0
+10.91957143,0,31,0,0,289,35,0,1450,0,Diesel,Diesel,42,0,38108,Jaguar,XF,N,Automatic (S8),2017,,Diesel,,0,0,0
+11.24073529,0,30,0,0,299,34,0,1500,0,Diesel,Diesel,40,0,38109,Jaguar,XF AWD,N,Automatic (S8),2017,,Diesel,,0,0,0
+13.73375,0,21,0,0,365,24,0,2000,0,Regular,Regular Gasoline,30,0,38110,Lexus,ES 350,Y,Automatic (S6),2017,,,,0,0,0
+8.24025,0,40,0,0,223,40,0,1200,0,Regular,Regular Gasoline,39,0,38111,Lexus,ES 300h,Y,Automatic (AV-S6),2017,,Hybrid,,0,0,0
+10.63258065,0,28,0,0,283,31,0,1550,0,Regular,Regular Gasoline,36,0,38112,Toyota,Corolla iM,Y,Automatic (AV-S7),2017,,,,0,0,0
+10.987,0,27,0,0,297,30,0,1600,0,Regular,Regular Gasoline,35,0,38113,Toyota,Corolla iM,N,Manual 6-spd,2017,,,,0,0,0
+11.77178571,0,25,0,0,317,28,0,1700,0,Regular,Regular Gasoline,34,0,38114,Kia,Forte 5,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,25,0,0,332,27,0,1750,0,Regular,Regular Gasoline,30,0,38115,Kia,Forte 5,N,Automatic (AM7),2017,,,,0,0,0
+13.1844,0,23,0,0,353,25,0,1900,0,Regular,Regular Gasoline,29,0,38116,Kia,Forte 5,N,Manual 6-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,434,21,0,2750,0,Premium,Premium Gasoline,26,0,38117,Mercedes-Benz,S550,N,Automatic 9-spd,2017,,,,0,0,0
+16.4805,0,16,0,0,452,20,0,2900,0,Premium,Premium Gasoline,25,0,38118,Mercedes-Benz,S550 4matic,Y,Automatic 9-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,322,27,0,2150,0,Premium,Premium Gasoline,33,0,38119,Mercedes-Benz,GLA250,N,Automatic (AM7),2017,,,,0,0,0
+18.31166667,0,15,0,0,505,18,0,2650,0,Regular,Regular Gasoline,21,0,38120,Nissan,Titan 2WD,N,Automatic (S7),2017,,,,0,0,0
+20.600625,0,15,0,0,554,16,0,3000,0,Regular,Regular Gasoline,19,0,38121,Toyota,Tundra 2WD,Y,Automatic (S6),2017,,,,0,0,0
+21.974,6.81,13,9,575,594,15,11,3200,3250,Gasoline or E85,Regular Gasoline,18,13,38122,Toyota,Tundra 2WD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+21.974,0,13,0,0,592,15,0,3200,0,Regular,Regular Gasoline,18,0,38123,Toyota,Tundra 2WD,N,Automatic (S6),2017,,,,0,0,0
+18.31166667,0,15,0,0,505,18,0,2650,0,Regular,Regular Gasoline,21,0,38124,Nissan,Titan 4WD,Y,Automatic (S7),2017,,,,0,0,0
+19.38882353,0,15,0,0,529,17,0,2800,0,Regular,Regular Gasoline,20,0,38125,Nissan,Titan 4WD  PRO4X,Y,Automatic (S7),2017,,,,0,0,0
+20.600625,0,14,0,0,568,16,0,3000,0,Regular,Regular Gasoline,18,0,38126,Toyota,Tundra 4WD,N,Automatic (S6),2017,,,,0,0,0
+21.974,7.491,13,9,600,604,15,10,3200,3600,Gasoline or E85,Regular Gasoline,17,12,38127,Toyota,Tundra 4WD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+21.974,0,13,0,0,606,15,0,3200,0,Regular,Regular Gasoline,17,0,38128,Toyota,Tundra 4WD,Y,Automatic (S6),2017,,,,0,0,0
+10.987,0,27,0,0,298,30,0,1600,0,Regular,Regular Gasoline,33,0,38129,Buick,Encore,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2050,0,Regular,Regular Gasoline,27,0,38130,Lexus,RX 350,N,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,26,0,0,315,28,0,1700,0,Regular,Regular Gasoline,31,0,38131,Buick,Encore AWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,405,22,0,2150,0,Regular,Regular Gasoline,26,0,38132,Lexus,RX 350 AWD,Y,Automatic (S8),2017,,,,0,0,0
+12.67730769,3.942631579,23,17,333,344,26,19,2250,1900,Premium or E85,Premium Gasoline,31,23,38133,Mercedes-Benz,GLA250 4matic,N,Automatic (AM7),2017,,FFV,E85,0,0,0
+23.54357143,0,12,0,0,624,14,0,4150,0,Premium,Premium Gasoline,18,0,38134,Aston Martin,V12 Vantage S,N,Automatic (AM7),2017,,,,0,0,0
+27.4675,0,10,0,0,724,12,0,4850,0,Premium,Premium Gasoline,16,0,38135,Aston Martin,V12 Vantage S,N,Manual 7-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,481,19,0,3050,0,Premium,Premium Gasoline,23,0,38136,McLaren Automotive,570S Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,481,19,0,3050,0,Premium,Premium Gasoline,23,0,38137,McLaren Automotive,570GT,Y,Automatic 7-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,555,16,0,3650,0,Premium,Premium Gasoline,21,0,38138,Aston Martin,Vanquish S Zagato,N,Automatic (S8),2017,,,,0,0,0
+19.38882353,0,14,0,0,533,17,0,3400,0,Premium,Premium Gasoline,21,0,38139,Aston Martin,Rapide S,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,29,0,38140,Mercedes-Benz,C300 4matic Convertible,N,Automatic 9-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,342,26,0,2250,0,Premium,Premium Gasoline,31,0,38141,Mercedes-Benz,C300 Convertible,N,Automatic 9-spd,2017,,,,0,0,0
+12.20777778,0,23,0,0,336,27,0,2150,0,Premium,Premium Gasoline,32,0,38142,Mercedes-Benz,CLA250 4matic,N,Automatic (AM7),2017,,,,0,0,0
+16.4805,0,17,0,0,443,20,0,2900,0,Premium,Premium Gasoline,25,0,38143,Mercedes-Benz,S550 4matic Coupe,N,Automatic 9-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,490,18,0,3250,0,Premium,Premium Gasoline,23,0,38144,Mercedes-Benz,AMG S63 4matic Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+11.77178571,0,24,0,0,322,28,0,1700,0,Regular,Regular Gasoline,33,0,38145,Mitsubishi,Lancer,N,Manual 5-spd,2017,,,,0,0,0
+10.987,0,27,0,0,295,30,0,1600,0,Regular,Regular Gasoline,34,0,38146,Mitsubishi,Lancer,Y,Automatic (AV-S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,1850,0,Regular,Regular Gasoline,30,0,38147,Mitsubishi,Lancer 4WD,N,Automatic (AV-S6),2017,,,,0,0,0
+16.4805,0,17,0,0,446,20,0,2400,0,Regular,Regular Gasoline,25,0,38148,Volkswagen,CC 4motion,N,Automatic (S6),2017,,,,0,0,0
+10.987,0,26,0,0,297,30,0,1600,0,Regular,Regular Gasoline,37,0,38149,Nissan,Altima SR,N,Automatic (AV-S7),2017,,,,0,0,0
+10.63258065,0,27,0,0,287,31,0,1550,0,Regular,Regular Gasoline,39,0,38150,Nissan,Altima,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+12.67730769,0,22,0,0,347,26,0,1850,0,Regular,Regular Gasoline,32,0,38151,Nissan,Altima,Y,Automatic (AV-S7),2017,,,,0,0,0
+10.987,0,27,0,0,289,30,0,1600,0,Regular,Regular Gasoline,35,0,38152,Toyota,Corolla,N,Manual 6-spd,2017,,,,0,0,0
+10.3003125,0,28,0,0,281,32,0,1500,0,Regular,Regular Gasoline,36,0,38153,Toyota,Corolla,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+10.63258065,0,28,0,0,286,31,0,1550,0,Regular,Regular Gasoline,35,0,38154,Toyota,Corolla,Y,Automatic (AV-S7),2017,,,,0,0,0
+9.694411765,0,30,0,0,263,34,0,1400,0,Regular,Regular Gasoline,40,0,38155,Toyota,Corolla LE Eco,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+9.988181818,0,29,0,0,271,33,0,1450,0,Regular,Regular Gasoline,38,0,38156,Toyota,Corolla LE Eco,N,Automatic (variable gear ratios),2017,,,,0,0,0
+18.31166667,0,15,0,0,499,18,0,3250,0,Premium,Premium Gasoline,23,0,38157,Mercedes-Benz,AMG S63 4matic,N,Automatic 7-spd,2017,,,,0,0,0
+11.77178571,0,25,0,0,314,28,0,1700,0,Regular,Regular Gasoline,33,0,38158,Honda,HR-V FWD,N,Manual 6-spd,2017,,,,0,0,0
+10.63258065,0,28,0,0,289,31,0,1550,0,Regular,Regular Gasoline,34,0,38159,Honda,HR-V FWD,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+10.63258065,0,28,0,0,289,31,0,1550,0,Regular,Regular Gasoline,34,0,38160,Honda,HR-V FWD,N,Automatic (AV-S7),2017,,,,0,0,0
+11.36586207,0,27,0,0,314,29,0,1650,0,Regular,Regular Gasoline,31,0,38161,Honda,HR-V AWD,N,Automatic (variable gear ratios),2017,,,,0,0,0
+11.36586207,0,27,0,0,314,29,0,1650,0,Regular,Regular Gasoline,31,0,38162,Honda,HR-V AWD,N,Automatic (AV-S7),2017,,,,0,0,0
+14.33086957,0,20,0,0,395,23,0,2050,0,Regular,Regular Gasoline,27,0,38163,Nissan,Pathfinder 2WD,N,Automatic (variable gear ratios),2017,,,,0,0,0
+13.1787931,0,26,0,0,352,29,0,1750,0,Diesel,Diesel,33,0,38164,Jaguar,F-Pace,Y,Automatic (S8),2017,,Diesel,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2150,0,Regular,Regular Gasoline,26,0,38165,Nissan,Pathfinder 4WD,N,Automatic (variable gear ratios),2017,,,,0,0,0
+15.69571429,0,19,0,0,415,21,0,2250,0,Regular,Regular Gasoline,26,0,38166,Nissan,Pathfinder 4WD Platinum,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+10.987,0,31,0,0,297,30,0,1950,0,Premium,Premium Gasoline,28,0,38167,Lexus,RX 450h AWD,Y,Automatic (AV-S6),2017,,Hybrid,,0,0,0
+0.192,0,120,0,0,0,105,0,600,0,Electricity,Electricity,92,0,38168,Kia,Soul Electric,N,Automatic (A1),2017,,EV,,0,0,0
+9.179989169,5.885892857,23,55,0,248,24,56,2400,0,Premium and Electricity,Premium Gasoline,25,57,38169,BMW,X5 xDrive40e,N,Automatic (S8),2017,,Plug-in Hybrid,Electricity,28,31,29
+11.36586207,0,26,0,0,305,29,0,2000,0,Premium,Premium Gasoline,33,0,38174,Mazda,MX-5,Y,Manual 6-spd,2017,,,,0,0,0
+11.36586207,0,26,0,0,301,29,0,2000,0,Premium,Premium Gasoline,35,0,38175,Mazda,MX-5,N,Automatic (S6),2017,,,,0,0,0
+13.1844,0,22,0,0,359,25,0,1900,0,Regular,Regular Gasoline,30,0,38176,Audi,A3 Cabriolet quattro,N,Automatic (AM-S6),2017,,,,0,0,0
+11.36586207,0,26,0,0,305,29,0,1650,0,Regular,Regular Gasoline,33,0,38177,Hyundai,Elantra,Y,Automatic (AM7),2017,,,,0,0,0
+13.1844,0,22,0,0,356,25,0,1900,0,Regular,Regular Gasoline,30,0,38178,Hyundai,Elantra,Y,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,349,25,0,2350,0,Premium,Premium Gasoline,31,0,38179,MINI,Cooper S Clubman,N,Manual 6-spd,2017,,,,0,0,0
+11.77178571,0,25,0,0,317,28,0,2100,0,Premium,Premium Gasoline,33,0,38180,Fiat,500 X,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,353,25,0,1900,0,Regular,Regular Gasoline,30,0,38181,Fiat,500 X,N,Automatic 9-spd,2017,,,,0,0,0
+12.67730769,0,24,0,0,336,26,0,2250,0,Premium,Premium Gasoline,31,0,38182,Jeep,Renegade 2WD,N,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,364,24,0,2000,0,Regular,Regular Gasoline,29,0,38183,Fiat,500 X AWD,Y,Automatic 9-spd,2017,,,,0,0,0
+12.67730769,0,24,0,0,339,26,0,2250,0,Premium,Premium Gasoline,31,0,38184,Jeep,Renegade 4WD,N,Manual 6-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,497,18,0,2650,0,Regular,Regular Gasoline,22,0,38185,Chevrolet,Silverado C15 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,497,18,0,2650,0,Regular,Regular Gasoline,22,0,38186,GMC,Sierra C15 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+0.168,0,128,0,0,0,119,0,550,0,Electricity,Electricity,110,0,38187,Chevrolet,Bolt EV,Y,Automatic (A1),2017,,EV,,0,0,0
+15.69571429,0,19,0,0,415,21,0,2750,0,Premium,Premium Gasoline,26,0,38188,Lexus,RC 300 AWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,396,22,0,2650,0,Premium,Premium Gasoline,28,0,38189,Lexus,RC 350,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,19,0,0,415,21,0,2750,0,Premium,Premium Gasoline,26,0,38190,Lexus,RC 350 AWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,465,19,0,3050,0,Premium,Premium Gasoline,25,0,38191,Lexus,RC F,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,2250,0,Premium,Premium Gasoline,32,0,38192,Lexus,RC 200t,N,Automatic (S8),2017,,,,0,0,0
+20.600625,0,13,0,0,559,16,0,3650,0,Premium,Premium Gasoline,23,0,38193,Roush Performance,Stage 3 Mustang,N,Manual 6-spd,2017,,,,0,0,0
+19.38882353,0,14,0,0,531,17,0,3400,0,Premium,Premium Gasoline,22,0,38194,Roush Performance,Stage 3 Mustang,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,472,19,0,3050,0,Premium,Premium Gasoline,24,0,38195,Lexus,GS F,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,3.942631579,23,17,330,336,27,19,2150,1900,Premium or E85,Premium Gasoline,32,23,38196,Mercedes-Benz,CLA250 4matic,N,Automatic (AM7),2017,,FFV,E85,0,0,0
+17.34789474,0,16,0,0,460,19,0,3050,0,Premium,Premium Gasoline,24,0,38197,Lexus,LS 460,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,16,0,0,486,18,0,3250,0,Premium,Premium Gasoline,23,0,38198,Lexus,LS 460 AWD,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,16,0,0,460,19,0,3050,0,Premium,Premium Gasoline,24,0,38199,Lexus,LS 460 L,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,16,0,0,486,18,0,3250,0,Premium,Premium Gasoline,23,0,38200,Lexus,LS 460 L AWD,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,388,23,0,2550,0,Premium,Premium Gasoline,28,0,38201,Lexus,GS 350,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,411,22,0,2650,0,Premium,Premium Gasoline,26,0,38202,Lexus,GS 350 AWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,405,22,0,2650,0,Premium,Premium Gasoline,27,0,38203,Lexus,GS 350 F Sport,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,2250,0,Premium,Premium Gasoline,32,0,38204,Lexus,GS 200t,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,368,24,0,2400,0,Premium,Premium Gasoline,30,0,38205,Lexus,GS 200t F Sport,N,Automatic (S8),2017,,,,0,0,0
+10.63258065,0,29,0,0,283,31,0,1900,0,Premium,Premium Gasoline,34,0,38206,Lexus,GS 450h,N,Automatic (AV-S8),2017,,Hybrid,,0,0,0
+12.67730769,0,22,0,0,345,26,0,2250,0,Premium,Premium Gasoline,32,0,38207,MINI,Cooper Clubman All4,N,Manual 6-spd,2017,,,,0,0,0
+10.63258065,0,28,0,0,286,31,0,1550,0,Regular,Regular Gasoline,37,0,38208,Kia,Optima,N,Automatic (AM7),2017,,,,0,0,0
+13.1844,0,22,0,0,360,25,0,1900,0,Regular,Regular Gasoline,31,0,38209,Kia,Optima,N,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,25,0,0,310,29,0,1650,0,Regular,Regular Gasoline,36,0,38210,Kia,Optima FE,N,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,24,0,0,321,28,0,1700,0,Regular,Regular Gasoline,34,0,38211,Kia,Optima,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,466,19,0,3050,0,Premium,Premium Gasoline,24,0,38212,Mercedes-Benz,Maybach S550 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,373,24,0,2000,0,Regular,Regular Gasoline,28,0,38213,Nissan,Murano FWD,N,Automatic (AV-S7),2017,,,,0,0,0
+13.73375,0,21,0,0,376,24,0,2000,0,Regular,Regular Gasoline,28,0,38214,Nissan,Murano AWD,N,Automatic (AV-S7),2017,,,,0,0,0
+17.34789474,0,17,0,0,467,19,0,2500,0,Regular,Regular Gasoline,22,0,38215,Ford,F150 4WD BASE PAYLOAD LT TIRE,N,Automatic (S10),2017,,,,0,0,0
+13.1844,0,24,0,0,354,25,0,1900,0,Regular,Regular Gasoline,26,0,38216,Chevrolet,City Express Cargo Van,N,Automatic (variable gear ratios),2017,,,,0,0,0
+13.1844,0,24,0,0,354,25,0,1900,0,Regular,Regular Gasoline,26,0,38217,Nissan,NV200 Cargo Van,N,Automatic (variable gear ratios),2017,,,,0,0,0
+14.98227273,0,20,0,0,399,22,0,2650,0,Premium,Premium Gasoline,27,0,38218,Infiniti,QX60 FWD,N,Automatic (AV-S7),2017,,,,0,0,0
+14.98227273,0,19,0,0,410,22,0,2650,0,Premium,Premium Gasoline,26,0,38219,Infiniti,QX60 AWD,N,Automatic (AV-S7),2017,,,,0,0,0
+18.31166667,0,17,0,0,481,18,0,2650,0,Regular,Regular Gasoline,21,0,38220,Jeep,Wrangler 4WD,N,Automatic 5-spd,2017,,,,0,0,0
+18.31166667,0,17,0,0,480,18,0,2650,0,Regular,Regular Gasoline,21,0,38221,Jeep,Wrangler 4WD,N,Manual 6-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,504,18,0,2650,0,Regular,Regular Gasoline,20,0,38222,Jeep,Wrangler Unlimited 4WD,Y,Automatic 5-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,502,18,0,2650,0,Regular,Regular Gasoline,21,0,38223,Jeep,Wrangler Unlimited 4WD,N,Manual 6-spd,2017,,,,0,0,0
+20.600625,0,14,0,0,548,16,0,3650,0,Premium,Premium Gasoline,20,0,38224,Infiniti,QX80 2WD,N,Automatic (S7),2017,,,,0,0,0
+12.67730769,0,25,0,0,341,26,0,1850,0,Regular,Regular Gasoline,27,0,38225,Infiniti,QX60 Hybrid FWD,N,Automatic (AV-S7),2017,,Hybrid,,0,0,0
+21.974,0,13,0,0,593,15,0,3900,0,Premium,Premium Gasoline,19,0,38226,Infiniti,QX80 4WD,N,Automatic (S7),2017,,,,0,0,0
+12.67730769,0,25,0,0,345,26,0,1850,0,Regular,Regular Gasoline,27,0,38227,Infiniti,QX60 Hybrid AWD,N,Automatic (AV-S7),2017,,Hybrid,,0,0,0
+5.931317675,3.971204819,33,81,0,158,34,83,1700,0,Premium and Electricity,Premium Gasoline,36,86,38228,Audi,A3 e-tron,Y,Automatic (AM-S6),2017,,Plug-in Hybrid,Electricity,42,46,44
+1.23807953,0.18,36,118,0,29,35,111,1650,600,Premium Gas or Electricity,Premium Gasoline,33,103,38229,BMW,i3 REX  (94 Amp-hour battery),Y,Automatic (A1),2017,,Plug-in Hybrid,Electricity,95,81,88
+7.354658294,4.336973684,28,80,0,199,28,76,2100,0,Premium and Electricity,Premium Gasoline,29,72,38230,BMW,i8,N,Automatic 6-spd,2017,,Plug-in Hybrid,Electricity,37,38,37
+11.36586207,0,26,0,0,303,29,0,1650,0,Regular,Regular Gasoline,35,0,38231,Audi,A3,N,Automatic (AM-S7),2017,,,,0,0,0
+11.77178571,0,25,0,0,316,28,0,1700,0,Regular,Regular Gasoline,34,0,38232,Audi,A3 Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+20.600625,0,14,0,0,560,16,0,3650,0,Premium,Premium Gasoline,20,0,38233,Chevrolet,Camaro,N,Manual 6-spd,2017,,,,0,0,0
+11.77178571,0,24,0,0,322,28,0,1700,0,Regular,Regular Gasoline,33,0,38234,Volkswagen,Beetle Convertible,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,24,0,0,331,27,0,1750,0,Regular,Regular Gasoline,31,0,38235,Volkswagen,Beetle Dune Convertible,N,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,278,32,0,1500,0,Regular,Regular Gasoline,39,0,38236,Honda,Civic 2Dr,N,Manual 6-spd,2017,,,,0,0,0
+9.694411765,0,30,0,0,262,34,0,1400,0,Regular,Regular Gasoline,39,0,38237,Honda,Civic 2Dr,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+9.417428571,0,30,0,0,258,35,0,1350,0,Regular,Regular Gasoline,41,0,38238,Honda,Civic 2Dr,N,Manual 6-spd,2017,,,,0,0,0
+9.417428571,0,31,0,0,256,35,0,1350,0,Regular,Regular Gasoline,40,0,38239,Honda,Civic 2Dr,N,Automatic (variable gear ratios),2017,,,,0,0,0
+11.36586207,0,24,0,0,311,29,0,2000,0,Premium,Premium Gasoline,36,0,38240,Mercedes-Benz,CLA250,N,Automatic (AM7),2017,,,,0,0,0
+12.67730769,0,23,0,0,349,26,0,1850,0,Regular,Regular Gasoline,29,0,38241,Volkswagen,Beetle,N,Automatic (AM-S6),2017,,,,0,0,0
+11.77178571,0,24,0,0,322,28,0,1700,0,Regular,Regular Gasoline,33,0,38242,Volkswagen,Beetle,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,24,0,0,331,27,0,1750,0,Regular,Regular Gasoline,31,0,38243,Volkswagen,Beetle Dune,N,Automatic (S6),2017,,,,0,0,0
+25.35461538,0,11,0,0,692,13,0,4500,0,Premium,Premium Gasoline,17,0,38244,Bentley,Mulsanne EWB,N,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,412,22,0,2650,0,Premium,Premium Gasoline,25,0,38245,Ford,Focus RS AWD,Y,Manual 6-spd,2017,,,,0,0,0
+10.3003125,0,28,0,0,273,32,0,1500,0,Regular,Regular Gasoline,40,0,38246,Honda,Civic 4Dr,N,Manual 6-spd,2017,,,,0,0,0
+9.694411765,0,31,0,0,257,34,0,1400,0,Regular,Regular Gasoline,40,0,38247,Honda,Civic 4Dr,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+9.417428571,0,31,0,0,251,35,0,1350,0,Regular,Regular Gasoline,42,0,38248,Honda,Civic 4Dr,Y,Manual 6-spd,2017,,,,0,0,0
+9.155833333,0,32,0,0,248,36,0,1300,0,Regular,Regular Gasoline,42,0,38249,Honda,Civic 4Dr,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+13.1844,0,22,0,0,353,25,0,2350,0,Premium,Premium Gasoline,29,0,38250,MINI,Cooper Clubman All4,N,Automatic (S8),2017,,,,0,0,0
+10.987,0,27,0,0,298,30,0,1600,0,Regular,Regular Gasoline,35,0,38251,Nissan,Sentra,N,Manual 6-spd,2017,,,,0,0,0
+10.3003125,0,29,0,0,278,32,0,1500,0,Regular,Regular Gasoline,37,0,38252,Nissan,Sentra,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+11.77178571,0,26,0,0,318,28,0,2100,0,Premium,Premium Gasoline,32,0,38253,Nissan,Sentra,N,Manual 6-spd,2017,,,,0,0,0
+11.36586207,0,27,0,0,307,29,0,2000,0,Premium,Premium Gasoline,33,0,38254,Nissan,Sentra,N,Automatic (AV-S7),2017,,,,0,0,0
+9.988181818,0,30,0,0,264,33,0,1450,0,Regular,Regular Gasoline,39,0,38255,Honda,Civic 5Dr,N,Manual 6-spd,2017,,,,0,0,0
+9.694411765,0,31,0,0,260,34,0,1400,0,Regular,Regular Gasoline,40,0,38256,Honda,Civic 5Dr,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+10.3003125,0,30,0,0,274,32,0,1800,0,Premium,Premium Gasoline,36,0,38257,Honda,Civic 5Dr Sport,Y,Automatic (AV-S7),2017,,,,0,0,0
+9.988181818,0,30,0,0,264,33,0,1750,0,Premium,Premium Gasoline,39,0,38258,Honda,Civic 5Dr Sport,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,354,25,0,1900,0,Regular,Regular Gasoline,30,0,38259,Volkswagen,Golf Alltrack,Y,Automatic (AM-S6),2017,,,,0,0,0
+13.1844,0,22,0,0,354,25,0,1900,0,Regular,Regular Gasoline,30,0,38260,Volkswagen,Golf SportWagen 4motion,Y,Automatic (AM-S6),2017,,,,0,0,0
+18.31166667,5.762307692,15,11,468,501,18,13,2650,2750,Gasoline or E85,Regular Gasoline,22,16,38261,Ford,F150 Pickup 2WD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+20.600625,5.762307692,14,11,468,555,16,13,3000,2750,Gasoline or E85,Regular Gasoline,20,16,38262,Ford,F150 5.0L 2WD FFV GVWR>7599 LBS,N,Automatic (S6),2017,,FFV,E85,0,0,0
+15.69571429,0,18,0,0,423,21,0,2250,0,Regular,Regular Gasoline,24,0,38263,Ford,F150 2.7L 2WD GVWR>6649 LBS,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,411,22,0,2150,0,Regular,Regular Gasoline,26,0,38264,Ford,F150 Pickup 2WD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,4.994,18,13,415,437,20,15,2400,2400,Gasoline or E85,Regular Gasoline,24,18,38265,Ford,F150 Pickup 2WD FFV,Y,Automatic 6-spd,2017,,FFV,E85,0,0,0
+15.69571429,0,18,0,0,426,21,0,2250,0,Regular,Regular Gasoline,25,0,38266,Ford,F150 Pickup 2WD,N,Automatic (S10),2017,,,,0,0,0
+17.34789474,0,17,0,0,466,19,0,2500,0,Regular,Regular Gasoline,22,0,38267,Ford,F150 3.5L 2WD GVWR>7599 LBS,N,Automatic (S10),2017,,,,0,0,0
+15.69571429,0,19,0,0,423,21,0,2250,0,Regular,Regular Gasoline,24,0,38268,Ford,F150 2WD BASE PAYLOAD LT TIRE,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,18,0,0,444,20,0,2400,0,Regular,Regular Gasoline,23,0,38269,Ford,F150 2WD BASE PAYLOAD LT TIRE,N,Automatic (S10),2017,,,,0,0,0
+19.38882353,5.762307692,15,11,492,520,17,13,2800,2750,Gasoline or E85,Regular Gasoline,21,16,38270,Ford,F150 Pickup 4WD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+20.600625,5.762307692,14,11,497,555,16,13,3000,2750,Gasoline or E85,Regular Gasoline,19,16,38271,Ford,F150 5.0L 4WD FFV GVWR>7599 LBS,Y,Automatic (S6),2017,,FFV,E85,0,0,0
+17.34789474,0,18,0,0,467,19,0,2500,0,Regular,Regular Gasoline,22,0,38272,Ford,F150 2.7L 4WD GVWR>6799 LBS,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,18,0,0,452,20,0,2400,0,Regular,Regular Gasoline,23,0,38273,Ford,F150 Pickup 4WD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,5.350714286,17,12,445,465,19,14,2500,2550,Gasoline or E85,Regular Gasoline,23,17,38274,Ford,F150 Pickup 4WD FFV,N,Automatic 6-spd,2017,,FFV,E85,0,0,0
+20.600625,0,15,0,0,546,16,0,3000,0,Regular,Regular Gasoline,18,0,38275,Ford,F150 RAPTOR 4WD,Y,Automatic (S10),2017,,,,0,0,0
+17.34789474,0,17,0,0,467,19,0,2500,0,Regular,Regular Gasoline,21,0,38276,Ford,F150 4WD BASE PAYLOAD LT TIRE,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,17,0,0,453,20,0,2400,0,Regular,Regular Gasoline,23,0,38277,Ford,F150 Pickup 4WD,Y,Automatic (S10),2017,,,,0,0,0
+17.34789474,0,17,0,0,466,19,0,2500,0,Regular,Regular Gasoline,21,0,38278,Ford,F150 3.5L 4WD GVWR>7599 LBS,Y,Automatic (S10),2017,,,,0,0,0
+19.38882353,5.762307692,15,11,491,521,17,13,2800,2750,Gasoline or E85,Regular Gasoline,20,16,38279,Ford,F150 4WD FFV BASE PAYLOAD LT TIRE,N,Automatic (S6),2017,,FFV,E85,0,0,0
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,28,0,38280,Lexus,NX 200t,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,25,0,0,330,27,0,1750,0,Regular,Regular Gasoline,30,0,38281,Mitsubishi,Outlander 2WD,N,Automatic (AV-S6),2017,,,,0,0,0
+13.1844,0,23,0,0,347,25,0,1900,0,Regular,Regular Gasoline,29,0,38282,Mitsubishi,Outlander Sport 2WD,N,Manual 5-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,328,27,0,1750,0,Regular,Regular Gasoline,30,0,38283,Mitsubishi,Outlander Sport 2WD,Y,Automatic (AV-S6),2017,,,,0,0,0
+14.33086957,0,21,0,0,385,23,0,2050,0,Regular,Regular Gasoline,27,0,38284,Jeep,Cherokee 4WD Active Drive II,N,Automatic 9-spd,2017,,,,0,0,0
+13.73375,0,22,0,0,364,24,0,2400,0,Premium,Premium Gasoline,28,0,38285,Lexus,NX 200t AWD,Y,Automatic (S6),2017,,,,0,0,0
+13.73375,0,22,0,0,374,24,0,2400,0,Premium,Premium Gasoline,27,0,38286,Lexus,NX 200t AWD F Sport,Y,Automatic (S6),2017,,,,0,0,0
+10.63258065,0,33,0,0,281,31,0,1550,0,Regular,Regular Gasoline,30,0,38287,Lexus,NX 300h AWD,Y,Automatic (AV-S6),2017,,Hybrid,,0,0,0
+12.67730769,0,24,0,0,340,26,0,1850,0,Regular,Regular Gasoline,29,0,38288,Mitsubishi,Outlander 4WD,N,Automatic (AV-S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,388,23,0,2550,0,Premium,Premium Gasoline,27,0,38289,Mitsubishi,Outlander 4WD,N,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,23,0,0,343,26,0,1850,0,Regular,Regular Gasoline,29,0,38290,Mitsubishi,Outlander Sport 4WD,N,Automatic (AV-S6),2017,,,,0,0,0
+23.54357143,7.491,13,9,609,632,14,10,3400,3600,Gasoline or E85,Regular Gasoline,17,13,38291,Toyota,Sequoia 4WD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+11.36586207,0,27,0,0,308,29,0,2000,0,Premium,Premium Gasoline,32,0,38292,Infiniti,Q50 Hybrid,N,Automatic (S7),2017,,Hybrid,,0,0,0
+11.77178571,0,26,0,0,321,28,0,2100,0,Premium,Premium Gasoline,30,0,38293,Infiniti,Q50 Hybrid AWD,N,Automatic (S7),2017,,Hybrid,,0,0,0
+13.73375,0,21,0,0,365,24,0,2000,0,Regular,Regular Gasoline,30,0,38294,Toyota,Avalon,N,Automatic (S6),2017,,,,0,0,0
+8.24025,0,40,0,0,223,40,0,1200,0,Regular,Regular Gasoline,39,0,38295,Toyota,Avalon Hybrid,Y,Automatic (AV-S6),2017,,Hybrid,,0,0,0
+17.34789474,0,17,0,0,467,19,0,2500,0,Regular,Regular Gasoline,22,0,38296,Nissan,Frontier 2WD,N,Automatic 5-spd,2017,,,,0,0,0
+15.69571429,0,19,0,0,431,21,0,2250,0,Regular,Regular Gasoline,23,0,38297,Nissan,Frontier 2WD,N,Manual 5-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,478,19,0,2500,0,Regular,Regular Gasoline,23,0,38298,Nissan,Frontier 2WD,Y,Automatic 5-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,479,19,0,2500,0,Regular,Regular Gasoline,22,0,38299,Nissan,Frontier 2WD,N,Manual 6-spd,2017,,,,0,0,0
+18.31166667,5.762307692,16,11,471,494,18,13,2650,2750,Gasoline or E85,Regular Gasoline,22,16,38300,Nissan,Frontier 2WD FFV,N,Automatic 5-spd,2017,,FFV,E85,0,0,0
+19.38882353,0,15,0,0,520,17,0,2800,0,Regular,Regular Gasoline,21,0,38301,Nissan,Frontier 4WD,N,Automatic 5-spd,2017,,,,0,0,0
+18.31166667,0,16,0,0,507,18,0,2650,0,Regular,Regular Gasoline,21,0,38302,Nissan,Frontier 4WD,N,Manual 6-spd,2017,,,,0,0,0
+19.38882353,6.2425,15,11,504,521,17,12,2800,3000,Gasoline or E85,Regular Gasoline,21,15,38303,Nissan,Frontier 4WD FFV,N,Automatic 5-spd,2017,,FFV,E85,0,0,0
+13.1844,3.942631579,22,16,331,357,25,19,1900,1900,Gasoline or E85,Regular Gasoline,30,23,38304,Jeep,Renegade 2WD,N,Automatic 9-spd,2017,,FFV,E85,0,0,0
+13.73375,0,21,0,0,371,24,0,2000,0,Regular,Regular Gasoline,29,0,38305,Jeep,Renegade 4WD,Y,Automatic 9-spd,2017,,,,0,0,0
+21.974,0,13,0,0,610,15,0,3200,0,Regular,Regular Gasoline,17,0,38306,Toyota,Sequoia 2WD,N,Automatic (S6),2017,,,,0,0,0
+25.35461538,0,12,0,0,696,13,0,4500,0,Premium,Premium Gasoline,14,0,38307,Mercedes-Benz,AMG G63,N,Automatic 7-spd,2017,,,,0,0,0
+27.4675,0,11,0,0,762,12,0,4850,0,Premium,Premium Gasoline,13,0,38308,Mercedes-Benz,AMG G65,N,Automatic 7-spd,2017,,,,0,0,0
+23.54357143,0,13,0,0,613,14,0,3400,0,Regular,Regular Gasoline,17,0,38309,Toyota,Sequoia 4WD,N,Automatic (S6),2017,,,,0,0,0
+10.63258065,0,27,0,0,284,31,0,1550,0,Regular,Regular Gasoline,37,0,38310,Mazda,3 4-Door,N,Manual 6-spd,2017,,,,0,0,0
+10.3003125,0,28,0,0,281,32,0,1500,0,Regular,Regular Gasoline,37,0,38311,Mazda,3 4-Door,Y,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,25,0,0,312,29,0,1650,0,Regular,Regular Gasoline,34,0,38312,Mazda,3 4-Door,N,Manual 6-spd,2017,,,,0,0,0
+10.987,0,27,0,0,293,30,0,1600,0,Regular,Regular Gasoline,36,0,38313,Mazda,3 4-Door,N,Automatic (S6),2017,,,,0,0,0
+10.63258065,0,28,0,0,284,31,0,1550,0,Regular,Regular Gasoline,37,0,38314,Mazda,3 4-Door,N,Automatic (S6),2017,,,,0,0,0
+20.600625,0,13,0,0,553,16,0,3650,0,Premium,Premium Gasoline,21,0,38315,Mercedes-Benz,S65 AMG Coupe,N,Automatic 7-spd,2017,,,,0,0,0
+14.33086957,0,19,0,0,389,23,0,2050,0,Regular,Regular Gasoline,30,0,38316,Dodge,Challenger,Y,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,466,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,38318,Dodge,Challenger,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,486,18,0,3250,0,Premium,Premium Gasoline,25,0,38319,Dodge,Challenger,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,494,18,0,3250,0,Premium,Premium Gasoline,23,0,38320,Dodge,Challenger,N,Manual 6-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,546,16,0,3650,0,Premium,Premium Gasoline,22,0,38321,Dodge,Challenger SRT,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,486,18,0,3250,0,Premium,Premium Gasoline,25,0,38322,Dodge,Challenger SRT,N,Automatic 8-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,567,16,0,3650,0,Premium,Premium Gasoline,21,0,38323,Dodge,Challenger SRT,N,Manual 6-spd,2017,,,,0,0,0
+10.63258065,0,27,0,0,286,31,0,1550,0,Regular,Regular Gasoline,37,0,38324,Mazda,3 5-Door,Y,Manual 6-spd,2017,,,,0,0,0
+10.63258065,0,28,0,0,283,31,0,1550,0,Regular,Regular Gasoline,37,0,38325,Mazda,3 5-Door,Y,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,319,28,0,1700,0,Regular,Regular Gasoline,33,0,38326,Mazda,3 5-Door,N,Manual 6-spd,2017,,,,0,0,0
+10.987,0,26,0,0,294,30,0,1600,0,Regular,Regular Gasoline,35,0,38327,Mazda,3 5-Door,Y,Automatic (S6),2017,,,,0,0,0
+10.987,0,27,0,0,291,30,0,1600,0,Regular,Regular Gasoline,36,0,38328,Mazda,3 5-Door,N,Automatic (S6),2017,,,,0,0,0
+10.3003125,0,28,0,0,282,32,0,1500,0,Regular,Regular Gasoline,38,0,38329,Subaru,Impreza 4-Door,Y,Automatic (AV-S7),2017,,,,0,0,0
+10.987,0,27,0,0,291,30,0,1600,0,Regular,Regular Gasoline,36,0,38330,Subaru,Impreza Sport 4-Door,N,Automatic (AV-S7),2017,,,,0,0,0
+14.33086957,0,19,0,0,389,23,0,2050,0,Regular,Regular Gasoline,30,0,38331,Chrysler,300,Y,Automatic 8-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,415,21,0,2250,0,Regular,Regular Gasoline,27,0,38332,Chrysler,300 AWD,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,466,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,38333,Chrysler,300,N,Automatic 8-spd,2017,,,,0,0,0
+14.33086957,0,19,0,0,389,23,0,2050,0,Regular,Regular Gasoline,30,0,38334,Dodge,Charger,N,Automatic 8-spd,2017,,,,0,0,0
+15.69571429,0,18,0,0,415,21,0,2250,0,Regular,Regular Gasoline,27,0,38335,Dodge,Charger AWD,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,466,19,0,2850,0,Midgrade,Midgrade Gasoline,25,0,38336,Dodge,Charger,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,486,18,0,3250,0,Premium,Premium Gasoline,25,0,38337,Dodge,Charger,Y,Automatic 8-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,546,16,0,3650,0,Premium,Premium Gasoline,22,0,38338,Dodge,Charger SRT,N,Automatic 8-spd,2017,,,,0,0,0
+18.31166667,0,15,0,0,486,18,0,3250,0,Premium,Premium Gasoline,25,0,38339,Dodge,Charger SRT,N,Automatic 8-spd,2017,,,,0,0,0
+11.36586207,0,28,0,0,303,29,0,2000,0,Premium,Premium Gasoline,32,0,38340,Nissan,Juke,N,Automatic (AV-S7),2017,,,,0,0,0
+11.36586207,0,27,0,0,307,29,0,2000,0,Premium,Premium Gasoline,33,0,38341,Nissan,Juke,N,Manual 6-spd,2017,,,,0,0,0
+11.77178571,0,26,0,0,319,28,0,2100,0,Premium,Premium Gasoline,30,0,38342,Nissan,Juke AWD,N,Automatic (AV-S7),2017,,,,0,0,0
+11.77178571,0,26,0,0,316,28,0,2100,0,Premium,Premium Gasoline,31,0,38343,Nissan,Juke Nismo RS,N,Manual 6-spd,2017,,,,0,0,0
+12.67730769,0,25,0,0,337,26,0,2250,0,Premium,Premium Gasoline,29,0,38344,Nissan,Juke Nismo RS AWD,N,Automatic (AV-S8),2017,,,,0,0,0
+10.63258065,0,28,0,0,282,31,0,1550,0,Regular,Regular Gasoline,37,0,38345,Subaru,Impreza 5-Door,Y,Automatic (AV-S7),2017,,,,0,0,0
+10.987,0,27,0,0,292,30,0,1600,0,Regular,Regular Gasoline,35,0,38346,Subaru,Impreza Sport 5-Door,Y,Automatic (AV-S7),2017,,,,0,0,0
+14.98227273,0,20,0,0,413,22,0,2650,0,Premium,Premium Gasoline,23,0,38347,Mercedes-Benz,Metris (Passenger Van),N,Automatic 7-spd,2017,,,,0,0,0
+14.98227273,0,21,0,0,396,22,0,2650,0,Premium,Premium Gasoline,24,0,38348,Mercedes-Benz,Metris (Cargo Van),N,Automatic 7-spd,2017,,,,0,0,0
+15.69571429,0,19,0,0,415,21,0,2750,0,Premium,Premium Gasoline,26,0,38349,Lexus,IS 300 AWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,19,0,0,396,22,0,2650,0,Premium,Premium Gasoline,28,0,38350,Lexus,IS 350,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,19,0,0,415,21,0,2750,0,Premium,Premium Gasoline,26,0,38351,Lexus,IS 350 AWD,N,Automatic (S6),2017,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,2250,0,Premium,Premium Gasoline,32,0,38352,Lexus,IS 200t,Y,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,503,18,0,3250,0,Premium,Premium Gasoline,23,0,38353,Jaguar,XJ,N,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,15,0,0,503,18,0,3250,0,Premium,Premium Gasoline,23,0,38354,Jaguar,XJL,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,416,21,0,2750,0,Premium,Premium Gasoline,27,0,38355,Jaguar,XJ,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,444,20,0,2900,0,Premium,Premium Gasoline,26,0,38356,Jaguar,XJ AWD,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,450,20,0,2900,0,Premium,Premium Gasoline,25,0,38357,Jaguar,XJL AWD,N,Automatic (S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,418,21,0,2750,0,Premium,Premium Gasoline,27,0,38358,Jaguar,XJL,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,20,0,0,370,24,0,2000,0,Regular,Regular Gasoline,29,0,38359,Ford,Edge FWD,N,Automatic (S6),2017,,,,0,0,0
+13.73375,0,21,0,0,370,24,0,2000,0,Regular,Regular Gasoline,29,0,38360,Ford,Edge FWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,17,0,0,435,20,0,2400,0,Regular,Regular Gasoline,26,0,38361,Ford,Edge FWD,Y,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,393,23,0,2050,0,Regular,Regular Gasoline,27,0,38362,Ford,Edge AWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,457,19,0,2500,0,Regular,Regular Gasoline,24,0,38363,Ford,Edge AWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,470,19,0,3050,0,Premium,Premium Gasoline,22,0,38364,Mercedes-Benz,AMG C63 S Convertible,N,Automatic 7-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,470,19,0,3050,0,Premium,Premium Gasoline,22,0,38365,Mercedes-Benz,AMG C63 Convertible,N,Automatic 7-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,389,23,0,2550,0,Premium,Premium Gasoline,28,0,38366,Mercedes-Benz,AMG C43 4matic Coupe,N,Automatic 9-spd,2017,,,,0,0,0
+14.98227273,0,19,0,0,410,22,0,2650,0,Premium,Premium Gasoline,26,0,38367,Mercedes-Benz,AMG C43 4matic Convertible,N,Automatic 9-spd,2017,,,,0,0,0
+11.24073529,0,30,0,0,303,34,0,1500,0,Diesel,Diesel,40,0,38368,BMW,328d xDrive,N,Automatic (S8),2017,,Diesel,,0,0,0
+14.33086957,0,20,0,0,382,23,0,2550,0,Premium,Premium Gasoline,28,0,38369,Mercedes-Benz,AMG C43 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,451,20,0,2900,0,Premium,Premium Gasoline,24,0,38370,Alfa Romeo,Giulia,N,Automatic 8-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,464,19,0,3050,0,Premium,Premium Gasoline,24,0,38371,Infiniti,Q70,N,Automatic (S7),2017,,,,0,0,0
+18.31166667,0,16,0,0,487,18,0,3250,0,Premium,Premium Gasoline,23,0,38372,Infiniti,Q70 AWD,N,Automatic (S7),2017,,,,0,0,0
+10.987,0,28,0,0,296,30,0,1950,0,Premium,Premium Gasoline,33,0,38373,Infiniti,Q70 Hybrid,N,Automatic (S7),2017,,Hybrid,,0,0,0
+15.69571429,0,18,0,0,433,21,0,2750,0,Premium,Premium Gasoline,25,0,38374,Infiniti,Q70,N,Automatic (S7),2017,,,,0,0,0
+16.4805,0,18,0,0,442,20,0,2900,0,Premium,Premium Gasoline,24,0,38375,Infiniti,Q70 AWD,N,Automatic (S7),2017,,,,0,0,0
+15.69571429,0,18,0,0,431,21,0,2750,0,Premium,Premium Gasoline,25,0,38376,Mercedes-Benz,AMG E43 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,339,26,0,2250,0,Premium,Premium Gasoline,31,0,38377,MINI,John Cooper Works Clubman All4,N,Automatic (S8),2017,,,,0,0,0
+11.24073529,0,30,0,0,303,34,0,1500,0,Diesel,Diesel,40,0,38378,BMW,328d xDrive Sports Wagon,N,Automatic (S8),2017,,Diesel,,0,0,0
+11.77178571,0,26,0,0,320,28,0,1700,0,Regular,Regular Gasoline,31,0,38379,Kia,Soul,N,Automatic (AM7),2017,,,,0,0,0
+14.98227273,0,19,0,0,408,22,0,2150,0,Regular,Regular Gasoline,26,0,38380,Chevrolet,Colorado 2WD,N,Manual 6-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,405,22,0,2150,0,Regular,Regular Gasoline,26,0,38381,Chevrolet,Colorado 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+15.2874,0,22,0,0,411,25,0,2050,0,Diesel,Diesel,30,0,38382,Chevrolet,Colorado 2WD,N,Automatic 6-spd,2017,,Diesel,,0,0,0
+16.4805,0,18,0,0,440,20,0,2400,0,Regular,Regular Gasoline,25,0,38383,Chevrolet,Colorado 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+14.98227273,0,19,0,0,408,22,0,2150,0,Regular,Regular Gasoline,26,0,38384,GMC,Canyon 2WD,N,Manual 6-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,405,22,0,2150,0,Regular,Regular Gasoline,26,0,38385,GMC,Canyon 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+15.2874,0,22,0,0,411,25,0,2050,0,Diesel,Diesel,30,0,38386,GMC,Canyon 2WD,N,Automatic 6-spd,2017,,Diesel,,0,0,0
+16.4805,0,18,0,0,440,20,0,2400,0,Regular,Regular Gasoline,25,0,38387,GMC,Canyon 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+15.69571429,0,19,0,0,423,21,0,2250,0,Regular,Regular Gasoline,24,0,38388,Chevrolet,Colorado 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,461,19,0,2500,0,Regular,Regular Gasoline,24,0,38389,Chevrolet,Colorado 4WD,Y,Automatic 8-spd,2017,,,,0,0,0
+16.61673913,0,20,0,0,449,23,0,2200,0,Diesel,Diesel,28,0,38390,Chevrolet,Colorado 4WD,Y,Automatic 6-spd,2017,,Diesel,,0,0,0
+15.69571429,0,19,0,0,423,21,0,2250,0,Regular,Regular Gasoline,24,0,38391,GMC,Canyon 4WD,N,Automatic 6-spd,2017,,,,0,0,0
+17.34789474,0,17,0,0,461,19,0,2500,0,Regular,Regular Gasoline,24,0,38392,GMC,Canyon 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+16.61673913,0,20,0,0,449,23,0,2200,0,Diesel,Diesel,28,0,38393,GMC,Canyon 4WD,N,Automatic 6-spd,2017,,Diesel,,0,0,0
+21.974,0,15,0,0,589,15,0,3200,0,Regular,Regular Gasoline,15,0,38394,Chevrolet,Colorado Cab Chassis 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+21.974,0,15,0,0,589,15,0,3200,0,Regular,Regular Gasoline,15,0,38395,GMC,Canyon Cab Chassis 2WD,N,Automatic 8-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,440,20,0,2400,0,Regular,Regular Gasoline,25,0,38396,Lincoln,MKX FWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,18,0,0,444,20,0,2400,0,Regular,Regular Gasoline,25,0,38397,Lincoln,MKX FWD,N,Automatic (S6),2017,,,,0,0,0
+11.36586207,0,26,0,0,312,29,0,1650,0,Regular,Regular Gasoline,33,0,38398,Nissan,Rogue FWD,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+14.33086957,0,20,0,0,389,23,0,2550,0,Premium,Premium Gasoline,27,0,38399,BMW,X4 xDrive28i,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,17,0,0,454,20,0,2400,0,Regular,Regular Gasoline,24,0,38400,Ford,Edge AWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,17,0,0,467,19,0,2500,0,Regular,Regular Gasoline,24,0,38401,Lincoln,MKX AWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,471,19,0,2500,0,Regular,Regular Gasoline,23,0,38402,Lincoln,MKX AWD,N,Automatic (S6),2017,,,,0,0,0
+16.4805,0,18,0,0,438,20,0,2900,0,Premium,Premium Gasoline,24,0,38403,Mercedes-Benz,AMG GLC43 4matic Coupe,N,Automatic 9-spd,2017,,,,0,0,0
+12.20777778,0,25,0,0,326,27,0,1750,0,Regular,Regular Gasoline,32,0,38404,Nissan,Rogue AWD,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+14.98227273,0,20,0,0,406,22,0,2650,0,Premium,Premium Gasoline,25,0,38405,Audi,Q7,N,Automatic (S8),2017,,,,0,0,0
+3.635100053,3.200097087,38,103,0,97,40,103,1200,0,Regular Gas and Electricity,Regular Gasoline,43,104,38406,Kia,Optima Plug-in Hybrid,Y,Automatic (AM6),2017,,Plug-in Hybrid,Electricity,58,65,61
+11.77178571,0,24,0,0,317,28,0,2100,0,Premium,Premium Gasoline,34,0,38407,Alfa Romeo,4C,N,Automatic (AM6),2017,,,,0,0,0
+27.4675,0,10,0,0,746,12,0,4850,0,Premium,Premium Gasoline,16,0,38408,Lamborghini,Aventador Roadster LP740-4,N,Automatic (AM-S7),2017,,,,0,0,0
+27.4675,0,10,0,0,746,12,0,4850,0,Premium,Premium Gasoline,16,0,38409,Lamborghini,Aventador Coupe LP740-4,N,Automatic (AM-S7),2017,,,,0,0,0
+19.38882353,0,14,0,0,523,17,0,3400,0,Premium,Premium Gasoline,23,0,38410,Dodge,Challenger,N,Manual 6-spd,2017,,,,0,0,0
+19.38882353,0,14,0,0,523,17,0,3400,0,Premium,Premium Gasoline,23,0,38411,Dodge,Challenger SRT,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,355,25,0,2350,0,Premium,Premium Gasoline,30,0,38412,Volvo,V90 CC AWD,Y,Automatic (S8),2017,,,,0,0,0
+18.31166667,0,16,0,0,493,18,0,2650,0,Regular,Regular Gasoline,23,0,38413,Lincoln,MKT Livery AWD,N,Automatic 6-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,407,22,0,2150,0,Regular,Regular Gasoline,24,0,38414,Toyota,Highlander,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,21,0,0,384,23,0,2050,0,Regular,Regular Gasoline,27,0,38415,Toyota,Highlander LE/XLE/SE/LTD,Y,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2050,0,Regular,Regular Gasoline,27,0,38416,Toyota,Highlander,N,Automatic (S8),2017,,,,0,0,0
+16.4805,0,18,0,0,443,20,0,2900,0,Premium,Premium Gasoline,24,0,38417,Mercedes-Benz,AMG GLC43 4matic,Y,Automatic 9-spd,2017,,,,0,0,0
+17.34789474,0,16,0,0,468,19,0,2500,0,Regular,Regular Gasoline,23,0,38418,Ford,Flex FWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,468,19,0,2500,0,Regular,Regular Gasoline,24,0,38419,Lincoln,MKT FWD,N,Automatic (S6),2017,,,,0,0,0
+18.31166667,0,16,0,0,491,18,0,2650,0,Regular,Regular Gasoline,22,0,38420,Ford,Flex AWD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,38421,Ford,Flex AWD,N,Automatic (S6),2017,,,,0,0,0
+19.38882353,0,15,0,0,523,17,0,2800,0,Regular,Regular Gasoline,21,0,38422,Lincoln,MKT AWD,N,Automatic (S6),2017,,,,0,0,0
+14.98227273,0,20,0,0,398,22,0,2150,0,Regular,Regular Gasoline,26,0,38423,Toyota,Highlander AWD,Y,Automatic (S8),2017,,,,0,0,0
+14.98227273,0,19,0,0,405,22,0,2150,0,Regular,Regular Gasoline,26,0,38424,Toyota,Highlander AWD,N,Automatic (S8),2017,,,,0,0,0
+11.77178571,0,29,0,0,311,28,0,1700,0,Regular,Regular Gasoline,27,0,38425,Toyota,Highlander Hybrid AWD,Y,Automatic (AV-S6),2017,,Hybrid,,0,0,0
+11.36586207,0,30,0,0,305,29,0,1650,0,Regular,Regular Gasoline,28,0,38426,Toyota,Highlander Hybrid AWD LE Plus,N,Automatic (AV-S6),2017,,Hybrid,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2050,0,Regular,Regular Gasoline,27,0,38427,Toyota,Highlander AWD LE,N,Automatic (S8),2017,,,,0,0,0
+0.18,0,124,0,0,0,112,0,600,0,Electricity,Electricity,101,0,38428,Nissan,Leaf,Y,Automatic (A1),2017,,EV,,0,0,0
+10.61625,0,31,0,0,285,36,0,1400,0,Diesel,Diesel,43,0,38429,BMW,328d,N,Automatic (S8),2017,,Diesel,,0,0,0
+13.73375,0,21,0,0,367,24,0,2400,0,Premium,Premium Gasoline,31,0,38430,MINI,John Cooper Works Clubman All4,N,Manual 6-spd,2017,,,,0,0,0
+0.15,0,150,0,0,0,136,0,500,0,Electricity,Electricity,122,0,38431,Hyundai,Ioniq Electric,N,Automatic (A1),2017,,EV,,0,0,0
+15.69571429,0,18,0,0,418,21,0,2750,0,Premium,Premium Gasoline,26,0,38432,Porsche,911 Carrera GTS,N,Manual 7-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,391,23,0,2550,0,Premium,Premium Gasoline,26,0,38433,Porsche,911 Carrera GTS,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,18,0,0,415,21,0,2750,0,Premium,Premium Gasoline,26,0,38434,Porsche,911 Carrera GTS Cabriolet,N,Manual 7-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,400,22,0,2650,0,Premium,Premium Gasoline,26,0,38435,Porsche,911 Carrera GTS Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,18,0,0,414,21,0,2750,0,Premium,Premium Gasoline,26,0,38436,Porsche,911 Carrera 4 GTS,N,Manual 7-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,400,22,0,2650,0,Premium,Premium Gasoline,26,0,38437,Porsche,911 Carrera 4 GTS,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,18,0,0,419,21,0,2750,0,Premium,Premium Gasoline,26,0,38438,Porsche,911 Carrera 4 GTS Cabriolet,N,Manual 7-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,402,22,0,2650,0,Premium,Premium Gasoline,25,0,38439,Porsche,911 Carrera 4 GTS Cabriolet,N,Automatic (AM-S7),2017,,,,0,0,0
+15.69571429,0,18,0,0,428,21,0,2750,0,Premium,Premium Gasoline,26,0,38440,Porsche,911 Targa 4 GTS,N,Manual 7-spd,2017,,,,0,0,0
+14.98227273,0,20,0,0,404,22,0,2650,0,Premium,Premium Gasoline,26,0,38441,Porsche,911 Targa 4 GTS,N,Automatic (AM-S7),2017,,,,0,0,0
+9.988181818,0,30,0,0,269,33,0,1450,0,Regular,Regular Gasoline,37,0,38442,Chevrolet,Spark ACTIV,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+10.3003125,0,29,0,0,278,32,0,1500,0,Regular,Regular Gasoline,37,0,38443,Chevrolet,Spark ACTIV,N,Manual 5-spd,2017,,,,0,0,0
+15.69571429,4.681875,18,14,399,415,21,16,2250,2250,Gasoline or E85,Regular Gasoline,27,20,38444,Chrysler,300 AWD,N,Automatic 8-spd,2017,,FFV,E85,0,0,0
+15.69571429,4.681875,18,14,399,415,21,16,2250,2250,Gasoline or E85,Regular Gasoline,27,20,38445,Dodge,Charger AWD,N,Automatic 8-spd,2017,,FFV,E85,0,0,0
+14.33086957,0,20,0,0,388,23,0,2050,0,Regular,Regular Gasoline,27,0,38446,Honda,Pilot FWD,N,Automatic (S9),2017,,,,0,0,0
+14.98227273,0,19,0,0,405,22,0,2150,0,Regular,Regular Gasoline,27,0,38447,Honda,Pilot FWD,N,Automatic 6-spd,2017,,,,0,0,0
+11.77178571,0,26,0,0,312,28,0,1700,0,Regular,Regular Gasoline,32,0,38448,Honda,CR-V FWD,N,Automatic (variable gear ratios),2017,,,,0,0,0
+10.987,0,28,0,0,292,30,0,1600,0,Regular,Regular Gasoline,34,0,38449,Honda,CR-V FWD,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+14.98227273,0,19,0,0,407,22,0,2150,0,Regular,Regular Gasoline,26,0,38450,Honda,Pilot AWD,Y,Automatic (S9),2017,,,,0,0,0
+15.69571429,0,18,0,0,421,21,0,2250,0,Regular,Regular Gasoline,26,0,38451,Honda,Pilot AWD,Y,Automatic 6-spd,2017,,,,0,0,0
+12.20777778,0,25,0,0,328,27,0,1750,0,Regular,Regular Gasoline,31,0,38452,Honda,CR-V AWD,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+11.36586207,0,27,0,0,303,29,0,1650,0,Regular,Regular Gasoline,33,0,38453,Honda,CR-V AWD,Y,Automatic (variable gear ratios),2017,,,,0,0,0
+13.73375,0,22,0,0,375,24,0,2400,0,Premium,Premium Gasoline,27,0,38454,Mercedes-Benz,GLC300 4matic Coupe,N,Automatic (S9),2017,,,,0,0,0
+20.600625,0,14,0,0,570,16,0,3650,0,Premium,Premium Gasoline,19,0,38455,Land Rover,Range Rover,N,Automatic (S8),2017,,,,0,0,0
+20.600625,0,14,0,0,570,16,0,3650,0,Premium,Premium Gasoline,19,0,38456,Land Rover,Range Rover LWB,N,Automatic (S8),2017,,,,0,0,0
+20.600625,0,14,0,0,552,16,0,3650,0,Premium,Premium Gasoline,19,0,38457,Land Rover,Range Rover Sport,N,Automatic (S8),2017,,,,0,0,0
+25.35461538,0,13,0,0,660,13,0,4500,0,Premium,Premium Gasoline,14,0,38458,Mercedes-Benz,G550,N,Automatic 7-spd,2017,,,,0,0,0
+10.86146565,7.665348837,20,38,0,296,21,43,2750,0,Premium and Electricity,Premium Gasoline,23,50,38459,Mercedes-Benz,GLE550e 4matic,N,Automatic 7-spd,2017,,Plug-in Hybrid,Electricity,24,27,25
+8.2541804,5.682931034,24,54,0,229,26,58,2250,0,Premium and Electricity,Premium Gasoline,30,63,38460,Mercedes-Benz,S550e,N,Automatic 7-spd,2017,,Plug-in Hybrid,Electricity,28,36,31
+9.417428571,0,33,0,0,248,35,0,1650,0,Premium,Premium Gasoline,39,0,38461,smart,fortwo coupe,N,Automatic (AM6),2017,,,,0,0,0
+9.694411765,0,31,0,0,257,34,0,1700,0,Premium,Premium Gasoline,39,0,38462,smart,fortwo coupe,N,Manual 5-spd,2017,,,,0,0,0
+11.77178571,0,24,0,0,318,28,0,2100,0,Premium,Premium Gasoline,35,0,38463,BMW,230i Coupe,N,Automatic (S8),2017,,,,0,0,0
+10.63258065,0,27,0,0,286,31,0,1550,0,Regular,Regular Gasoline,37,0,38464,Ford,Fiesta FWD,N,Automatic (AM-S6),2017,,,,0,0,0
+10.987,0,27,0,0,293,30,0,1600,0,Regular,Regular Gasoline,35,0,38465,Ford,Fiesta FWD,N,Manual 5-spd,2017,,,,0,0,0
+9.417428571,0,31,0,0,254,35,0,1350,0,Regular,Regular Gasoline,41,0,38466,Ford,Fiesta SFE FWD,N,Manual 5-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,329,27,0,2150,0,Premium,Premium Gasoline,33,0,38467,Audi,A4 quattro,N,Manual 6-spd,2017,,,,0,0,0
+11.36586207,0,26,0,0,308,29,0,1650,0,Regular,Regular Gasoline,33,0,38468,Ford,Fiesta ST FWD,N,Manual 6-spd,2017,,,,0,0,0
+10.63258065,0,27,0,0,284,31,0,1550,0,Regular,Regular Gasoline,38,0,38469,Ford,Focus FWD,Y,Automatic (S6),2017,,,,0,0,0
+9.694411765,0,30,0,0,264,34,0,1400,0,Regular,Regular Gasoline,40,0,38470,Ford,Focus FWD,Y,Manual 6-spd,2017,,,,0,0,0
+10.63258065,0,26,0,0,289,31,0,1550,0,Regular,Regular Gasoline,38,0,38471,Ford,Focus FWD,Y,Automatic (AM6),2017,,,,0,0,0
+11.36586207,0,26,0,0,303,29,0,1650,0,Regular,Regular Gasoline,36,0,38472,Ford,Focus FWD,N,Automatic (AM-S6),2017,,,,0,0,0
+11.77178571,0,25,0,0,314,28,0,1700,0,Regular,Regular Gasoline,34,0,38473,Ford,Focus FWD,N,Manual 5-spd,2017,,,,0,0,0
+10.63258065,3.256956522,26,20,278,289,31,23,1550,1550,Gasoline or E85,Regular Gasoline,38,28,38474,Ford,Focus FWD FFV,N,Automatic (AM6),2017,,FFV,E85,0,0,0
+11.36586207,3.405,26,19,292,303,29,22,1650,1650,Gasoline or E85,Regular Gasoline,36,26,38475,Ford,Focus FWD FFV,N,Automatic (AM-S6),2017,,FFV,E85,0,0,0
+11.77178571,3.567142857,25,18,303,314,28,21,1700,1700,Gasoline or E85,Regular Gasoline,34,25,38476,Ford,Focus FWD FFV,N,Manual 5-spd,2017,,FFV,E85,0,0,0
+13.1844,0,22,0,0,356,25,0,1900,0,Regular,Regular Gasoline,30,0,38477,Ford,Focus ST FWD,N,Manual 6-spd,2017,,,,0,0,0
+14.33086957,0,20,0,0,386,23,0,2050,0,Regular,Regular Gasoline,29,0,38478,Ford,Taurus FWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,5.350714286,17,13,437,467,19,14,2500,2550,Gasoline or E85,Regular Gasoline,24,18,38479,Ford,Taurus AWD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+15.69571429,4.681875,18,13,401,423,21,16,2250,2250,Gasoline or E85,Regular Gasoline,27,20,38480,Ford,Taurus FWD FFV,N,Automatic (S6),2017,,FFV,E85,0,0,0
+17.34789474,0,17,0,0,467,19,0,2500,0,Regular,Regular Gasoline,24,0,38481,Ford,Taurus AWD,N,Automatic (S6),2017,,,,0,0,0
+15.69571429,0,18,0,0,423,21,0,2250,0,Regular,Regular Gasoline,27,0,38482,Ford,Taurus FWD,N,Automatic (S6),2017,,,,0,0,0
+17.34789474,0,16,0,0,468,19,0,2500,0,Regular,Regular Gasoline,24,0,38483,Ford,Taurus AWD,N,Automatic (S6),2017,,,,0,0,0
+5.992909091,0,55,0,0,163,55,0,850,0,Regular,Regular Gasoline,54,0,38484,Hyundai,Ioniq,Y,Automatic (AM6),2017,,Hybrid,,0,0,0
+5.682931034,0,57,0,0,154,58,0,800,0,Regular,Regular Gasoline,59,0,38485,Hyundai,Ioniq Blue,Y,Automatic (AM6),2017,,Hybrid,,0,0,0
+6.726734694,0,51,0,0,183,49,0,950,0,Regular,Regular Gasoline,46,0,38486,Kia,Niro,Y,Automatic (AM6),2017,,Hybrid,,0,0,0
+14.98227273,0,20,0,0,396,22,0,2150,0,Regular,Regular Gasoline,27,0,38487,Nissan,Quest,N,Automatic (variable gear ratios),2017,,,,0,0,0
+13.73375,0,22,0,0,362,24,0,2000,0,Regular,Regular Gasoline,28,0,38488,Mazda,CX-9 2WD,N,Automatic (S6),2017,,,,0,0,0
+14.33086957,0,20,0,0,390,23,0,2050,0,Regular,Regular Gasoline,26,0,38489,Mazda,CX-9 4WD,N,Automatic (S6),2017,,,,0,0,0
+15.2874,0,23,0,0,401,25,0,2050,0,Diesel,Diesel,29,0,38490,BMW,X5 xDrive 35d,Y,Automatic (S8),2017,,Diesel,,0,0,0
+4.048550748,3.923928571,32,89,0,106,32,84,1500,0,Regular Gas and Electricity,Regular Gasoline,33,78,38491,Chrysler,Pacifica Hybrid,Y,Automatic (variable gear ratios),2017,,Plug-in Hybrid,Electricity,54,49,52
+14.33086957,4.406470588,19,14,376,389,23,17,2050,2100,Gasoline or E85,Regular Gasoline,30,22,38493,Chrysler,300,N,Automatic 8-spd,2017,,FFV,E85,0,0,0
+14.33086957,4.406470588,19,14,376,389,23,17,2050,2100,Gasoline or E85,Regular Gasoline,30,22,38494,Dodge,Charger,N,Automatic 8-spd,2017,,FFV,E85,0,0,0
+8.24025,0,42,0,0,222,40,0,1200,0,Regular,Regular Gasoline,38,0,38495,Ford,C-MAX Hybrid FWD,Y,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+7.665348837,0,46,0,0,207,43,0,1100,0,Regular,Regular Gasoline,40,0,38496,Kia,Niro Touring,Y,Automatic (AM6),2017,,Hybrid,,0,0,0
+6.5922,0,52,0,0,177,50,0,950,0,Regular,Regular Gasoline,49,0,38497,Kia,Niro FE,N,Automatic (AM6),2017,,Hybrid,,0,0,0
+17.34789474,0,17,0,0,460,19,0,3050,0,Premium,Premium Gasoline,23,0,38498,Porsche,Macan Turbo Kit,N,Automatic (AM-S7),2017,,,,0,0,0
+12.67730769,0,22,0,0,345,26,0,2250,0,Premium,Premium Gasoline,32,0,38501,MINI,Cooper Countryman All4,N,Manual 6-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,571,16,0,3650,0,Premium,Premium Gasoline,20,0,38502,BMW,M760i xDrive,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,17,0,0,468,19,0,3050,0,Premium,Premium Gasoline,23,0,38503,Land Rover,Range Rover,N,Automatic (S8),2017,,,,0,0,0
+17.34789474,0,17,0,0,468,19,0,3050,0,Premium,Premium Gasoline,23,0,38504,Land Rover,Range Rover Sport,N,Automatic (S8),2017,,,,0,0,0
+0.186,0,118,0,0,0,107,0,600,0,Electricity,Electricity,96,0,38505,Ford,Focus Electric,N,Automatic (A1),2017,,EV,,0,0,0
+4.595636089,3.469578947,41,104,0,122,39,95,1200,0,Regular Gas and Electricity,Regular Gasoline,38,87,38506,Ford,C-MAX Energi Plug-In Hybrid,Y,Automatic (variable gear ratios),2017,,Plug-in Hybrid,Electricity,57,50,54
+23.54357143,0,11,0,0,654,14,0,4150,0,Premium,Premium Gasoline,18,0,38507,Ford,GT,N,Automatic (AM7),2017,,,,0,0,0
+7.165434783,0,48,0,0,193,46,0,1050,0,Regular,Regular Gasoline,43,0,38508,Toyota,Prius c,N,Automatic (variable gear ratios),2017,,Hybrid,,0,0,0
+14.98227273,0,19,0,0,404,22,0,2150,0,Regular,Regular Gasoline,27,0,38509,Honda,Odyssey,Y,Automatic 6-spd,2017,,,,0,0,0
+9.694411765,0,33,0,0,261,34,0,1400,0,Regular,Regular Gasoline,35,0,38510,Nissan,Rogue Hybrid  FWD,N,Automatic (AV-S7),2017,,Hybrid,,0,0,0
+9.988181818,0,31,0,0,276,33,0,1450,0,Regular,Regular Gasoline,34,0,38511,Nissan,Rogue Hybrid  AWD,Y,Automatic (AV-S7),2017,,Hybrid,,0,0,0
+18.31166667,0,17,0,0,479,18,0,2650,0,Regular,Regular Gasoline,21,0,38512,Toyota,4Runner 2WD,N,Automatic (S5),2017,,,,0,0,0
+18.31166667,0,17,0,0,491,18,0,2650,0,Regular,Regular Gasoline,20,0,38513,Toyota,4Runner 4WD,Y,Automatic (S5),2017,,,,0,0,0
+18.31166667,0,17,0,0,491,18,0,2650,0,Regular,Regular Gasoline,20,0,38514,Toyota,4Runner 4WD,N,Automatic (S5),2017,,,,0,0,0
+12.20777778,0,24,0,0,330,27,0,2150,0,Premium,Premium Gasoline,33,0,38515,Alfa Romeo,Giulia,Y,Automatic 8-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,348,26,0,2250,0,Premium,Premium Gasoline,31,0,38516,Alfa Romeo,Giulia AWD,N,Automatic 8-spd,2017,,,,0,0,0
+12.20777778,0,25,0,0,330,27,0,2150,0,Premium,Premium Gasoline,31,0,38517,Nissan,Sentra Nismo,Y,Manual 6-spd,2017,,,,0,0,0
+12.20777778,0,25,0,0,330,27,0,2150,0,Premium,Premium Gasoline,30,0,38518,Nissan,Sentra Nismo,N,Automatic (AV-S7),2017,,,,0,0,0
+15.924375,0,22,0,0,412,24,0,2100,0,Diesel,Diesel,28,0,38519,Land Rover,Range Rover,N,Automatic (S8),2017,,Diesel,,0,0,0
+15.924375,0,22,0,0,412,24,0,2100,0,Diesel,Diesel,28,0,38520,Land Rover,Range Rover Sport,N,Automatic (S8),2017,,Diesel,,0,0,0
+12.67730769,0,22,0,0,347,26,0,1850,0,Regular,Regular Gasoline,32,0,38521,Volkswagen,Golf Alltrack,N,Manual 6-spd,2017,,,,0,0,0
+12.67730769,0,22,0,0,347,26,0,1850,0,Regular,Regular Gasoline,32,0,38522,Volkswagen,Golf SportWagen 4motion,Y,Manual 6-spd,2017,,,,0,0,0
+0.192,0,101,0,0,0,104,0,600,0,Electricity,Electricity,107,0,38523,Tesla,Model S AWD - 60D,N,Automatic (A1),2017,,EV,,0,0,0
+0.198,0,102,0,0,0,103,0,650,0,Electricity,Electricity,105,0,38524,Tesla,Model S AWD - 75D,N,Automatic (A1),2017,,EV,,0,0,0
+0.21,0,92,0,0,0,98,0,700,0,Electricity,Electricity,105,0,38525,Tesla,Model S AWD - P100D,N,Automatic (A1),2017,,EV,,0,0,0
+0.216,0,91,0,0,0,93,0,700,0,Electricity,Electricity,94,0,38526,Tesla,Model X AWD - 60D,N,Automatic (A1),2017,,EV,,0,0,0
+0.216,0,91,0,0,0,93,0,700,0,Electricity,Electricity,95,0,38527,Tesla,Model X AWD - 75D,N,Automatic (A1),2017,,EV,,0,0,0
+0.222,0,90,0,0,0,92,0,700,0,Electricity,Electricity,94,0,38528,Tesla,Model X AWD - 90D,N,Automatic (A1),2017,,EV,,0,0,0
+0.228,0,89,0,0,0,89,0,750,0,Electricity,Electricity,90,0,38529,Tesla,Model X AWD - P90D,N,Automatic (A1),2017,,EV,,0,0,0
+0.234,0,81,0,0,0,86,0,750,0,Electricity,Electricity,92,0,38530,Tesla,Model X AWD - P100D,N,Automatic (A1),2017,,EV,,0,0,0
+2.957863087,2.478270677,55,145,0,78,54,133,900,0,Regular Gas and Electricity,Regular Gasoline,53,121,38531,Toyota,Prius Prime,Y,Automatic (variable gear ratios),2017,,Plug-in Hybrid,Electricity,83,73,78
+21.974,0,12,0,0,591,15,0,3900,0,Premium,Premium Gasoline,20,0,38532,Chevrolet,Camaro,N,Automatic (S10),2017,,,,0,0,0
+15.69571429,0,18,0,0,415,21,0,2250,0,Regular,Regular Gasoline,27,0,38533,Dodge,Challenger GT,N,Automatic 8-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,358,25,0,1900,0,Regular,Regular Gasoline,30,0,38534,Jeep,New Compass 4WD,Y,Automatic 9-spd,2017,,,,0,0,0
+16.4805,0,17,0,0,455,20,0,2900,0,Premium,Premium Gasoline,23,0,38535,Mercedes-Benz,AMG GLE43 4matic,N,Automatic 9-spd,2017,,,,0,0,0
+29.96454545,0,11,0,0,829,11,0,5300,0,Premium,Premium Gasoline,11,0,38536,Mercedes-Benz,G550 4x4 (Special Off-Road Model),N,Automatic 7-spd,2017,,,,0,0,0
+0.21,0,92,0,0,0,95,0,700,0,Electricity,Electricity,100,0,38537,Tesla,Model S AWD - P90D,N,Automatic (A1),2017,,EV,,0,0,0
+12.20777778,0,24,0,0,331,27,0,1750,0,Regular,Regular Gasoline,32,0,38538,Subaru,Impreza 4-Door,N,Manual 5-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,337,26,0,1850,0,Regular,Regular Gasoline,31,0,38539,Subaru,Impreza Sport 4-Door,Y,Manual 5-spd,2017,,,,0,0,0
+12.67730769,0,24,0,0,335,26,0,1850,0,Regular,Regular Gasoline,31,0,38540,Subaru,Impreza 5-Door,N,Manual 5-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,351,25,0,1900,0,Regular,Regular Gasoline,30,0,38541,Subaru,Impreza Sport 5-Door,N,Manual 5-spd,2017,,,,0,0,0
+14.98227273,0,19,0,0,401,22,0,2150,0,Regular,Regular Gasoline,28,0,38542,Chrysler,Pacifica,N,Automatic 9-spd,2017,,,,0,0,0
+12.20777778,0,24,0,0,326,27,0,2150,0,Premium,Premium Gasoline,34,0,38543,BMW,530i,N,Automatic (S8),2017,,,,0,0,0
+12.20777778,0,23,0,0,335,27,0,2150,0,Premium,Premium Gasoline,33,0,38544,BMW,530i xDrive,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,20,0,0,374,24,0,2400,0,Premium,Premium Gasoline,30,0,38545,BMW,540i,N,Automatic (S8),2017,,,,0,0,0
+14.33086957,0,20,0,0,380,23,0,2550,0,Premium,Premium Gasoline,29,0,38546,BMW,540i xDrive,N,Automatic (S8),2017,,,,0,0,0
+13.1844,0,23,0,0,355,25,0,1900,0,Regular,Regular Gasoline,28,0,38547,Mitsubishi,Outlander Sport 2WD,N,Automatic (AV-S6),2017,,,,0,0,0
+13.73375,0,22,0,0,368,24,0,2000,0,Regular,Regular Gasoline,27,0,38548,Mitsubishi,Outlander Sport 4WD,N,Automatic (AV-S6),2017,,,,0,0,0
+0.168,0,126,0,0,0,119,0,550,0,Electricity,Electricity,111,0,38549,Volkswagen,e-Golf,N,Automatic (A1),2017,,EV,,0,0,0
+13.1844,0,22,0,0,350,25,0,1900,0,Regular,Regular Gasoline,31,0,38550,Jeep,New Compass 2WD,N,Automatic 6-spd,2017,,,,0,0,0
+10.32932432,0,31,0,0,276,37,0,1350,0,Diesel,Diesel,47,0,38553,Chevrolet,Cruze,Y,Automatic 9-spd,2017,,Diesel,,0,0,0
+10.32932432,0,30,0,0,272,37,0,1350,0,Diesel,Diesel,52,0,38554,Chevrolet,Cruze,N,Manual 6-spd,2017,,Diesel,,0,0,0
+12.20777778,0,23,0,0,333,27,0,2150,0,Premium,Premium Gasoline,32,0,38555,MINI,Cooper S Countryman,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,23,0,0,363,24,0,2000,0,Regular,Regular Gasoline,26,0,38556,Nissan,NV200 NYC Taxi,N,Automatic (variable gear ratios),2017,,,,0,0,0
+0.204,0,98,0,0,0,99,0,650,0,Electricity,Electricity,101,0,38557,Tesla,Model S (60 kW-hr battery pack),N,Automatic (A1),2017,,EV,,0,0,0
+0.204,0,97,0,0,0,98,0,650,0,Electricity,Electricity,100,0,38558,Tesla,Model S (75 kW-hr battery pack),N,Automatic (A1),2017,,EV,,0,0,0
+11.77178571,0,25,0,0,319,28,0,2100,0,Premium,Premium Gasoline,33,0,38559,MINI,Cooper Countryman,N,Automatic (S6),2017,,,,0,0,0
+11.77178571,0,24,0,0,322,28,0,2100,0,Premium,Premium Gasoline,33,0,38560,MINI,Cooper Countryman,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,23,0,0,347,25,0,2350,0,Premium,Premium Gasoline,30,0,38561,MINI,Cooper Countryman All4,N,Automatic (S8),2017,,,,0,0,0
+12.67730769,0,22,0,0,346,26,0,2250,0,Premium,Premium Gasoline,31,0,38562,MINI,Cooper S Countryman All4,N,Automatic (S8),2017,,,,0,0,0
+13.73375,0,21,0,0,365,24,0,2400,0,Premium,Premium Gasoline,31,0,38563,MINI,Cooper S Countryman All4,N,Manual 6-spd,2017,,,,0,0,0
+25.35461538,0,12,0,0,699,13,0,4500,0,Premium,Premium Gasoline,14,0,38564,Roush Performance,F150 Pickup 2WD,N,Automatic (S6),2017,,,,0,0,0
+25.35461538,0,12,0,0,699,13,0,4500,0,Premium,Premium Gasoline,14,0,38565,Roush Performance,F150 Pickup 4WD,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,24,0,0,328,27,0,1750,0,Regular,Regular Gasoline,31,0,38566,Mazda,CX-5 2WD,N,Automatic (S6),2017,,,,0,0,0
+12.20777778,0,26,0,0,329,27,0,2150,0,Premium,Premium Gasoline,27,0,38567,Acura,MDX Hybrid AWD,N,Automatic (AM-S7),2017,,Hybrid,,0,0,0
+12.67730769,0,23,0,0,352,26,0,1850,0,Regular,Regular Gasoline,29,0,38568,Mazda,CX-5 4WD,Y,Automatic (S6),2017,,,,0,0,0
+0.192,0,102,0,0,0,104,0,600,0,Electricity,Electricity,107,0,38569,Tesla,Model S AWD - 90D,N,Automatic (A1),2017,,EV,,0,0,0
+15.69571429,0,19,0,0,417,21,0,2750,0,Premium,Premium Gasoline,25,0,38588,Mercedes-Benz,E400 4matic (station wagon),N,Automatic 9-spd,2017,,,,0,0,0
+12.67730769,0,23,0,0,339,26,0,1850,0,Regular,Regular Gasoline,32,0,38589,Jeep,New Compass 2WD,N,Manual 6-spd,2017,,,,0,0,0
+13.1844,0,22,0,0,355,25,0,1900,0,Regular,Regular Gasoline,31,0,38590,Jeep,New Compass 4WD,N,Manual 6-spd,2017,,,,0,0,0
+0.282,0,73,0,0,0,72,0,900,0,Electricity,Electricity,71,0,38591,BYD,e6,N,Automatic (A1),2017,,EV,,0,0,0
+13.73375,0,21,0,0,369,24,0,2400,0,Premium,Premium Gasoline,28,0,38593,Porsche,Panamera,N,Automatic (AM-S8),2017,,,,0,0,0
+14.33086957,0,21,0,0,378,23,0,2550,0,Premium,Premium Gasoline,27,0,38594,Porsche,Panamera 4,N,Automatic (AM-S8),2017,,,,0,0,0
+14.33086957,0,21,0,0,378,23,0,2550,0,Premium,Premium Gasoline,27,0,38595,Porsche,Panamera 4 Executive,N,Automatic (AM-S8),2017,,,,0,0,0
+14.33086957,0,21,0,0,378,23,0,2550,0,Premium,Premium Gasoline,28,0,38596,Porsche,Panamera 4S,N,Automatic (AM-S8),2017,,,,0,0,0
+14.33086957,0,21,0,0,378,23,0,2550,0,Premium,Premium Gasoline,28,0,38597,Porsche,Panamera 4S Executive,N,Automatic (AM-S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,420,21,0,2750,0,Premium,Premium Gasoline,25,0,38598,Porsche,Panamera Turbo,N,Automatic (AM-S8),2017,,,,0,0,0
+15.69571429,0,18,0,0,420,21,0,2750,0,Premium,Premium Gasoline,25,0,38599,Porsche,Panamera Turbo Executive,N,Automatic (AM-S8),2017,,,,0,0,0
+19.38882353,0,16,0,0,532,17,0,2800,0,Regular,Regular Gasoline,18,0,38639,Chevrolet,Colorado ZR2 4WD,N,Automatic 8-spd,2017,,,,0,0,0
+0.198,0,101,0,0,0,102,0,650,0,Electricity,Electricity,102,0,38640,Tesla,Model S AWD - 100D,N,Automatic (A1),2017,,EV,,0,0,0
+11.77178571,0,25,0,0,318,28,0,1700,0,Regular,Regular Gasoline,32,0,38648,Nissan,Rogue Sport FWD,N,Automatic (AV-S7),2017,,,,0,0,0
+12.20777778,0,24,0,0,329,27,0,1750,0,Regular,Regular Gasoline,30,0,38649,Nissan,Rogue Sport AWD,Y,Automatic (AV-S7),2017,,,,0,0,0
+5.563419343,5.316290323,23,56,0,144,26,62,2250,0,Premium and Electricity,Premium Gasoline,29,71,38650,Cadillac,CT6 Plug-In,N,Automatic (variable gear ratios),2017,,Plug-in Hybrid,Electricity,35,45,39
+13.1844,0,22,0,0,360,25,0,2350,0,Premium,Premium Gasoline,28,0,38696,Honda,Civic 5Dr - Type R,N,Manual 6-spd,2017,,,,0,0,0
+19.10925,0,19,0,0,506,20,0,2550,0,Diesel,Diesel,22,0,38697,Chevrolet,Colorado ZR2 4WD,N,Automatic 6-spd,2017,,Diesel,,0,0,0
+18.31166667,0,16,0,0,500,18,0,3250,0,Premium,Premium Gasoline,21,0,38714,Land Rover,Discovery,N,Automatic (S8),2017,,,,0,0,0
+16.61673913,0,21,0,0,448,23,0,2200,0,Diesel,Diesel,26,0,38715,Land Rover,Discovery,N,Automatic (S8),2017,,Diesel,,0,0,0
+10.3003125,0,28,0,0,279,32,0,1800,0,Premium,Premium Gasoline,38,0,38771,Honda,Civic Si 2Dr,N,Manual 6-spd,2017,,,,0,0,0
+10.3003125,0,28,0,0,279,32,0,1800,0,Premium,Premium Gasoline,38,0,38772,Honda,Civic Si 4Dr,N,Manual 6-spd,2017,,,,0,0,0
+20.600625,0,13,0,0,561,16,0,3650,0,Premium,Premium Gasoline,21,0,38840,Mercedes-Benz,Maybach S650 Convertible,N,Automatic 7-spd,2017,,,,0,0,0
+14.98227273,0,19,0,0,399,22,0,2650,0,Premium,Premium Gasoline,28,0,38966,Audi,RS 3,N,Automatic (AM-S7),2017,,,,0,0,0
+25.35461538,0,11,0,0,667,13,0,4500,0,Premium,Premium Gasoline,19,0,38967,Bentley,Continental Supersports Convertible,N,Automatic (S8),2017,,,,0,0,0
+23.54357143,0,11,0,0,644,14,0,4150,0,Premium,Premium Gasoline,20,0,38968,Bentley,Continental Supersports,N,Automatic (S8),2017,,,,0,0,0
+7.884889477,6.462941176,28,45,0,215,30,51,1950,0,Premium and Electricity,Premium Gasoline,32,61,38969,Mercedes-Benz,C350e,N,Automatic 7-spd,2017,,Plug-in Hybrid,Electricity,32,37,34
+0.18,0,126,0,0,0,114,0,600,0,Electricity,Electricity,103,0,39191,Honda,Clarity EV,Y,Automatic (A1),2017,,EV,,0,0,0
+0.186,0,124,0,0,0,108,0,600,0,Electricity,Electricity,94,0,39192,smart,fortwo electric drive coupe,N,Automatic (A1),2017,,EV,,0,0,0
+16.61673913,0,20,0,0,448,23,0,2200,0,Diesel,Diesel,27,0,39384,Ram,1500 2WD,N,Automatic 8-spd,2017,,Diesel,,0,0,0
+17.37204545,0,19,0,0,465,22,0,2300,0,Diesel,Diesel,27,0,39385,Ram,1500 4WD,Y,Automatic 8-spd,2017,,Diesel,,0,0,0
+19.38882353,0,15,0,0,497,17,0,3400,0,Premium,Premium Gasoline,21,0,39527,Aston Martin,DB11 V12,N,Automatic (S8),2017,,,,0,0,0
+0.198,0,112,0,0,0,102,0,650,0,Electricity,Electricity,91,0,39603,smart,fortwo electric drive convertible,N,Automatic (A1),2017,,EV,,0,0,0
+20.600625,0,14,0,0,550,16,0,3000,0,Regular,Regular Gasoline,19,0,39743,Lincoln,MKT Hearse AWD,N,Automatic 6-spd,2017,,,,0,0,0
+21.974,0,14,0,0,574,15,0,3200,0,Regular,Regular Gasoline,19,0,39744,Lincoln,MKT Limo AWD,N,Automatic 6-spd,2017,,,,0,0,0
+0.162,0,131,0,0,0,126,0,500,0,Electricity,Electricity,120,0,39769,Tesla,Model 3 Long Range,N,Automatic (A1),2017,,EV,,0,0,0
+13.1844,0,22,0,0,353,25,0,2350,0,Premium,Premium Gasoline,29,0,39800,Porsche,Cayman,Y,Automatic (AM-S7),2017,,,,0,0,0
+13.73375,0,21,0,0,369,24,0,2400,0,Premium,Premium Gasoline,28,0,39801,Porsche,Cayman,N,Manual 6-spd,2017,,,,0,0,0
+13.73375,0,21,0,0,372,24,0,2400,0,Premium,Premium Gasoline,28,0,39802,Porsche,Cayman S,N,Automatic (AM-S7),2017,,,,0,0,0
+14.98227273,0,20,0,0,401,22,0,2650,0,Premium,Premium Gasoline,26,0,39803,Porsche,Cayman S,N,Manual 6-spd,2017,,,,0,0,0
+0.234,0,86,0,0,0,87,0,750,0,Electricity,Electricity,89,0,39831,Tesla,Model X AWD - 100D,N,Automatic (A1),2017,,EV,,0,0,0

@@ -32,7 +32,6 @@ public class FuelCostActivity extends AppCompatActivity {
         // Create onClick events
         calculateButton = (Button) findViewById(R.id.fuelcostcalculatebutton);
         calculateButton.setOnClickListener(new View.OnClickListener() {
-            @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View v) {
                 calculateCost(true);
@@ -46,7 +45,6 @@ public class FuelCostActivity extends AppCompatActivity {
         resultText = (TextView) findViewById(R.id.fuelcostresulttext);
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static double calculateCost(double unitPrice, double amtBought, File file, boolean clear) throws IOException
     {
         double result = FuelCalculators.fuelCost(unitPrice,amtBought);
@@ -58,7 +56,6 @@ public class FuelCostActivity extends AppCompatActivity {
         return result;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static double calculateCost(double unitPrice, double amtBought, boolean clear) throws IOException
     {
         return calculateCost(unitPrice,amtBought,new File(ExpenditureDataLog.FILEPATH),clear);
@@ -69,10 +66,9 @@ public class FuelCostActivity extends AppCompatActivity {
         return FuelCalculators.hypotheticalFuelCost(unitPrice, amtBought);
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public void calculateCost(boolean immediateTransfer)
     {
-        boolean hypothetical = isHypotheticalCheck.isActivated();
+        boolean hypothetical = isHypotheticalCheck.isChecked();
         double result = -1; // this function returns -1 in the event of an error
         String errorMessage = "No Error";
 

@@ -59,9 +59,8 @@ public class TripDataLog extends DataLog {
   
     public void transfer() throws IOException {
         File tripLogFile = new File(FILEPATH);
-        setEntry();
-        Log.d("File Man", tripLogFile.getAbsoluteFile().toString());
-        Log.d("File Man", entry);
+        Log.d("Trip Data Log Man", tripLogFile.getAbsoluteFile().toString());
+        Log.d("Trip Data Log Man", entry);
 
         transfer(tripLogFile);
     }
@@ -71,7 +70,6 @@ public class TripDataLog extends DataLog {
         entry = time + "," + vehicle.getName() + "," + consumption + "," + odometer + "," + mileage + "\n";
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static TripDataLog readLog(Scanner lineScanner)
     {
         LocalDateTime timestamp = LocalDateTime.parse(lineScanner.next());
@@ -82,13 +80,11 @@ public class TripDataLog extends DataLog {
         return new TripDataLog(odometer,consumption,timestamp,vehicleProfile);
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<TripDataLog> loadTripDataLogs() throws IOException
     {
         return loadTripDataLogs(new File(FILEPATH));
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     public static ArrayList<TripDataLog> loadTripDataLogs(File file) throws IOException
     {
         ArrayList<TripDataLog> trips = new ArrayList<>();

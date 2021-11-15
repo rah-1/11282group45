@@ -15,7 +15,6 @@ public class VehicleSelectionActivity extends AppCompatActivity {
     private RecyclerView profileList;
     public static VehicleProfileAdapter profileAdapter;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

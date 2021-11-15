@@ -1,10 +1,5 @@
 package com.example.a45mph;
 
-import android.os.Build;
-import android.provider.ContactsContract;
-
-import androidx.annotation.RequiresApi;
-
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
@@ -18,7 +13,6 @@ public class EmissionDataLog extends DataLog {
         this.gCO2 = gCO2;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
     EmissionDataLog(double gCO2) {
         super(LocalDateTime.now(),VehicleProfileAdapter.currentProfile);
         setAll(gCO2);

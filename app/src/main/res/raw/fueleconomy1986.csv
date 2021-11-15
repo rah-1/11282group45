@@ -1,0 +1,1211 @@
+barrels08,barrelsA08,city08,cityA08,co2TailpipeAGpm,co2TailpipeGpm,comb08,combA08,fuelCost08,fuelCostA08,fuelType,fuelType1,highway08,highwayA08,id,make,model,mpgData,trany,year,trans_dscr,atvType,fuelType2,phevCity,phevHwy,phevComb
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,1689,Alfa Romeo,Spider,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,1690,Autokraft Limited,A.C.Mkiv,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1691,Bertone,X1/9,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,1692,Chevrolet,Corvette,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,1693,Chevrolet,Corvette,N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,1694,Chevrolet,Corvette Convertible,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,1695,Chevrolet,Corvette Convertible,N,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,1696,Nissan,300ZX,N,Automatic 4-spd,1986,VLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1697,Nissan,300ZX,N,Automatic 4-spd,1986,VLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,1698,Nissan,300ZX,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1699,Nissan,300ZX,N,Manual 5-spd,1986,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,14,0,1700,Ferrari,Testarossa,N,Manual 5-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,17,0,1701,Ferrari,328 GTS/GTB,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1702,Ford,EXP,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,1703,Ford,EXP,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1704,Ford,EXP,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,1705,Ford,EXP,N,Manual 5-spd,1986,SIL,,,0,0,0
+11.77178571,0,25,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,32,0,1706,Honda,Civic CRX,N,Automatic 4-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,1707,Honda,Civic CRX,N,Manual 5-spd,1986,,,,0,0,0
+12.20777778,0,26,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,1708,Honda,Civic CRX,N,Manual 5-spd,1986,,,,0,0,0
+7.165434783,0,42,0,0,193.1956522,46,0,1050,0,Regular,Regular Gasoline,51,0,1709,Honda,Civic CRX HF,N,Manual 5-spd,1986,SIL,,,0,0,0
+8.24025,0,37,0,0,222.175,40,0,1200,0,Regular,Regular Gasoline,45,0,1710,Honda,Civic CRX HF,N,Manual 5-spd,1986,SIL,,,0,0,0
+47.08714286,0,6,0,0,1269.571429,7,0,8300,0,Premium,Premium Gasoline,10,0,1711,Lamborghini,Countach,N,Manual 5-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,1712,Maserati,Biturbo Spyder,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,4150,0,Premium,Premium Gasoline,16,0,1713,Mercedes-Benz,560SL,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,1714,Panther Car Company Limited,Kallista,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,1715,Panther Car Company Limited,Kallista,N,Manual 4-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1716,Pontiac,Fiero,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,21,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,32,0,1717,Pontiac,Fiero,Y,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,1718,Pontiac,Fiero,Y,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,1719,Pontiac,Fiero,Y,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,25,0,1720,Pontiac,Fiero,Y,Manual 5-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1721,Subaru,XT-DL,N,Manual 5-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,1722,Texas Coach Company,500SL,N,Automatic 4-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1723,Toyota,MR2,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,1724,Toyota,MR2,Y,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,1725,TVR Engineering Ltd,TVR 280i/350i Convertible,N,Automatic (S4),1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,1726,TVR Engineering Ltd,TVR 280i/350i Coupe,N,Automatic (S4),1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1727,Alfa Romeo,GTV,N,Manual 5-spd,1986,,,,0,0,0
+9.417428571,0,34,0,0,253.9142857,35,0,1350,0,Regular,Regular Gasoline,38,0,1728,Chevrolet,Sprint,N,Automatic 3-spd,1986,,,,0,0,0
+8.24025,0,37,0,0,222.175,40,0,1200,0,Regular,Regular Gasoline,45,0,1729,Chevrolet,Sprint,N,Manual 5-spd,1986,,,,0,0,0
+6.866875,0,44,0,0,185.1458333,48,0,1000,0,Regular,Regular Gasoline,53,0,1730,Chevrolet,Sprint ER,N,Manual 5-spd,1986,SIL,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,17,0,1731,Ferrari,Mondial/Cabriolet,N,Manual 5-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,1732,Maserati,Biturbo,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,1733,Mazda,RX-7,Y,Automatic 4-spd,1986,,,,0,0,0
+9.417428571,0,34,0,0,253.9142857,35,0,1350,0,Regular,Regular Gasoline,38,0,1734,Pontiac,Firefly FE,N,Automatic 3-spd,1986,,,,0,0,0
+8.24025,0,37,0,0,222.175,40,0,1200,0,Regular,Regular Gasoline,45,0,1735,Pontiac,Firefly FE,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1736,Porsche,911,N,Manual 5-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,20,0,1737,Porsche,911,N,Manual 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,1738,Porsche,928 S,Y,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,22,0,1739,Porsche,928 S,Y,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,1740,Porsche,944,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,1741,Porsche,944,Y,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,1742,Porsche,944,Y,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,1743,Volkswagen,Cabriolet,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1744,Volkswagen,Cabriolet,N,Manual 5-spd,1986,SIL,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1745,Yugo,Gy/yugo GVX,Y,Manual 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,1746,Audi,Coupe GT,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,1747,Audi,Coupe GT,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,1748,Audi,4000 CS quattro,Y,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,1749,Audi,4000 S,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1750,Audi,4000 S,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,1751,BMW,3 Series,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,1752,BMW,3 Series,Y,Manual 5-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,1753,BMW,6 Series,N,Automatic 4-spd,1986,2MODE,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,1754,BMW,6 Series,N,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1755,Chevrolet,Camaro,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,1756,Chevrolet,Camaro,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,1757,Chevrolet,Camaro,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1758,Chevrolet,Camaro,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,1759,Chevrolet,Camaro,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1760,Chevrolet,Camaro,N,Automatic 4-spd,1986,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1761,Chevrolet,Cavalier Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1762,Chevrolet,Cavalier Convertible,N,Manual 4-spd,1986,SIL,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1763,Chevrolet,Cavalier Convertible,N,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,1764,Chevrolet,Cavalier Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,1765,Chevrolet,Cavalier Convertible,N,Manual 4-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1766,Chevrolet,Chevette CS,N,Automatic 3-spd,1986,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,1767,Chevrolet,Chevette CS,N,Manual 4-spd,1986,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,1768,Chevrolet,Chevette CS,N,Manual 5-spd,1986,,,,0,0,0
+10.61625,0,33,0,0,282.7777778,36,0,1400,0,Diesel,Diesel,41,0,1769,Chevrolet,Chevette CS,N,Manual 5-spd,1986,,Diesel,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,31,0,1770,Chevrolet,Spectrum,N,Automatic 3-spd,1986,,,,0,0,0
+9.694411765,0,32,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,38,0,1771,Chevrolet,Spectrum,N,Manual 5-spd,1986,SIL,,,0,0,0
+9.155833333,0,34,0,0,246.8611111,36,0,1300,0,Regular,Regular Gasoline,39,0,1772,Chevrolet,Sprint Plus,N,Automatic 3-spd,1986,,,,0,0,0
+8.24025,0,37,0,0,222.175,40,0,1200,0,Regular,Regular Gasoline,45,0,1773,Chevrolet,Sprint Plus,Y,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,1774,Chrysler,Laser/Daytona,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,1775,Chrysler,Laser/Daytona,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,1776,Chrysler,Laser/Daytona,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,1777,Chrysler,Laser/Daytona,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,1778,Chrysler,Laser/Daytona,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1779,Chrysler,Laser/Daytona,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,1780,Chrysler,LeBaron Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,1781,Chrysler,LeBaron Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,1782,Chrysler,LeBaron Convertible,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,1783,Chrysler,LeBaron Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,27,0,1784,Nissan,Pulsar NX,N,Automatic 3-spd,1986,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,1785,Nissan,Pulsar NX,N,Manual 5-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,27,0,1786,Nissan,Sentra,N,Automatic 3-spd,1986,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,1787,Nissan,Sentra,N,Manual 5-spd,1986,,,,0,0,0
+9.554625,0,37,0,0,254.5,40,0,1250,0,Diesel,Diesel,45,0,1788,Nissan,Sentra,N,Manual 4-spd,1986,SIL,Diesel,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,1789,Nissan,200SX,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1790,Nissan,200SX,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,1791,Nissan,200SX,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1792,Nissan,300ZX 2x2,N,Automatic 4-spd,1986,VLKUP,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1793,Nissan,300ZX 2x2,Y,Manual 5-spd,1986,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,1794,Dodge,Charger,N,Manual 4-spd,1986,SIL,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,1795,Dodge,Charger,N,Manual 4-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,1796,Dodge,Charger,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,33,0,1797,Dodge,Charger,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,1798,Dodge,Charger,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,1799,Dodge,Charger,N,Manual 5-spd,1986,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,29,0,1800,Dodge,Colt,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+9.988181818,0,31,0,0,269.3030303,33,0,1450,0,Regular,Regular Gasoline,37,0,1801,Dodge,Colt,N,Manual 4-spd,1986,SIL,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,35,0,1802,Dodge,Colt,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,24,0,1803,Dodge,Colt,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,1804,Dodge,Colt,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,1805,Dodge,Conquest,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,1806,Dodge,Conquest,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,1807,Dodge,Daytona,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,1808,Dodge,Daytona,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,1809,Dodge,Daytona,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,1810,Dodge,Daytona,Y,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,1811,Dodge,Daytona,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1812,Dodge,Daytona,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,1813,Dodge,600 Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,1814,Dodge,600 Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,1815,Dodge,600 Convertible,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,1816,Dodge,600 Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1817,Ford,Laser,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,1818,Ford,Laser,N,Manual 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,1819,Ford,Mustang,Y,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1820,Ford,Mustang,N,Manual 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,1821,Ford,Mustang,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,1822,Ford,Mustang,Y,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,1823,Ford,Mustang,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1824,Ford,Mustang,Y,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,1825,Honda,Accord,Y,Automatic 4-spd,1986,3LKUP,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,1826,Honda,Accord,Y,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1827,Honda,Accord,N,Automatic 4-spd,1986,3LKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1828,Honda,Accord,N,Manual 5-spd,1986,,,,0,0,0
+9.694411765,0,31,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,39,0,1829,Honda,Civic,N,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,1830,Honda,Civic,N,Automatic 4-spd,1986,,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,32,0,1831,Honda,Civic,N,Manual 5-spd,1986,,,,0,0,0
+12.20777778,0,26,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,1832,Honda,Civic,Y,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1833,Acura,Integra,N,Automatic 4-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,1834,Acura,Integra,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,1835,Honda,Prelude,N,Automatic 4-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1836,Honda,Prelude,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1837,Honda,Prelude,N,Automatic 4-spd,1986,3LKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1838,Honda,Prelude,Y,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,26,0,1839,Hyundai,Pony Excel,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,28,0,1840,Hyundai,Pony Excel,N,Manual 4-spd,1986,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,1841,Hyundai,Pony Excel,N,Manual 5-spd,1986,,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,31,0,1842,Isuzu,I-Mark,N,Automatic 3-spd,1986,,,,0,0,0
+9.694411765,0,32,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,38,0,1843,Isuzu,I-Mark,N,Manual 5-spd,1986,SIL,,,0,0,0
+10.3003125,0,29,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,36,0,1844,Isuzu,I-Mark,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,1845,Isuzu,Impulse,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,1846,Isuzu,Impulse,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,1847,Isuzu,Impulse,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1848,Isuzu,Impulse,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,1849,Isuzu,Impulse,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,1850,Isuzu,Impulse,N,Manual 5-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,1851,Jaguar,XJS,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,1852,Jaguar,XJ6,Y,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,1853,Mercury,Capri,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1854,Mercury,Capri,N,Manual 4-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,1855,Mercury,Capri,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,1856,Mercury,Capri,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1857,Mercury,Capri,Y,Manual 5-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,1858,Maserati,Biturbo 425,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,1859,Mercedes-Benz,190,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,22,0,1860,Mercedes-Benz,190,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,1861,Mercedes-Benz,190,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,24,0,1862,Mercedes-Benz,190,N,Manual 5-spd,1986,,,,0,0,0
+13.64946429,0,26,0,0,363.5714286,28,0,1800,0,Diesel,Diesel,31,0,1863,Mercedes-Benz,190,Y,Automatic 4-spd,1986,,Diesel,,0,0,0
+13.64946429,0,25,0,0,363.5714286,28,0,1800,0,Diesel,Diesel,34,0,1864,Mercedes-Benz,190,Y,Manual 5-spd,1986,,Diesel,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,1865,Mitsubishi,Cordia,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,1866,Mitsubishi,Cordia,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1867,Mitsubishi,Cordia,N,Manual 5-spd,1986,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,29,0,1868,Mitsubishi,Mirage,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+9.988181818,0,31,0,0,269.3030303,33,0,1450,0,Regular,Regular Gasoline,37,0,1869,Mitsubishi,Mirage,N,Manual 4-spd,1986,SIL,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,35,0,1870,Mitsubishi,Mirage,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,24,0,1871,Mitsubishi,Mirage,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,1872,Mitsubishi,Mirage,Y,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,1873,Mitsubishi,Starion,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,1874,Mitsubishi,Starion,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,26,0,1875,Mitsubishi,Tredia,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,1876,Mitsubishi,Tredia,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1877,Mitsubishi,Tredia,N,Manual 5-spd,1986,,,,0,0,0
+12.20777778,0,25,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,29,0,1878,Plymouth,Colt,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+9.988181818,0,31,0,0,269.3030303,33,0,1450,0,Regular,Regular Gasoline,37,0,1879,Plymouth,Colt,N,Manual 4-spd,1986,SIL,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,35,0,1880,Plymouth,Colt,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,24,0,1881,Plymouth,Colt,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2400,0,Premium,Premium Gasoline,28,0,1882,Plymouth,Colt,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,1883,Plymouth,Conquest,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,1884,Plymouth,Conquest,N,Manual 5-spd,1986,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,1885,Plymouth,Turismo,N,Manual 4-spd,1986,SIL,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,1886,Plymouth,Turismo,N,Manual 4-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,1887,Plymouth,Turismo,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,1888,Plymouth,Turismo,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,1889,Plymouth,Turismo,N,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1890,Pontiac,Firebird,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,1891,Pontiac,Firebird,Y,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,1892,Pontiac,Firebird,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1893,Pontiac,Firebird,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,1894,Pontiac,Firebird,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,1895,Pontiac,Firebird,N,Automatic 4-spd,1986,,,,0,0,0
+9.155833333,0,34,0,0,246.8611111,36,0,1300,0,Regular,Regular Gasoline,39,0,1896,Pontiac,Firefly,N,Automatic 3-spd,1986,,,,0,0,0
+8.24025,0,37,0,0,222.175,40,0,1200,0,Regular,Regular Gasoline,45,0,1897,Pontiac,Firefly,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,1898,Pontiac,Sunbird Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,1899,Pontiac,Sunbird Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,1900,Pontiac,Sunbird Convertible,N,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,1901,Pontiac,Sunbird Convertible,N,Manual 5-spd,1986,SIL,,,0,0,0
+11.36586207,0,27,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,31,0,1902,Pontiac,Sunburst,N,Automatic 3-spd,1986,,,,0,0,0
+9.694411765,0,32,0,0,261.3823529,34,0,1400,0,Regular,Regular Gasoline,38,0,1903,Pontiac,Sunburst,N,Manual 5-spd,1986,SIL,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1904,Pontiac,1000,N,Automatic 3-spd,1986,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,1905,Pontiac,1000,Y,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,1906,Pontiac,1000,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,1907,Renault,Alliance Convertible,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,1908,Renault,Alliance Convertible,N,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,1909,Renault,Fuego,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,1910,Renault,Fuego,N,Manual 5-spd,1986,,,,0,0,0
+41.20125,0,7,0,0,1110.875,8,0,5950,0,Regular,Regular Gasoline,10,0,1911,Rolls-Royce,Corniche II/Continental,N,Automatic 3-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,1912,Subaru,Hatchback,N,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,1913,Subaru,Hatchback,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,23,0,1914,Subaru,Hatchback,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1915,Subaru,Hatchback,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,1916,Subaru,XT,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,24,0,1917,Subaru,XT,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1918,Subaru,XT,N,Manual 5-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1919,Subaru,XT,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1920,Toyota,Celica,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1921,Toyota,Celica,Y,Automatic 4-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1922,Toyota,Celica,N,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1923,Toyota,Celica,Y,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,1924,Toyota,Celica Supra,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,20,0,1925,Toyota,Celica Supra,N,Manual 5-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,1926,Toyota,Corolla Sport,N,Automatic 4-spd,1986,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,1927,Toyota,Corolla Sport,N,Manual 5-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,1928,Toyota,Corolla Sport,Y,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,1929,Toyota,Supra,Y,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,3400,0,Premium,Premium Gasoline,21,0,1930,Toyota,Supra,Y,Manual 5-spd,1986,,,,0,0,0
+12.20777778,0,26,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,29,0,1931,Toyota,Tercel,N,Automatic 3-spd,1986,,,,0,0,0
+10.3003125,0,30,0,0,277.71875,32,0,1500,0,Regular,Regular Gasoline,35,0,1932,Toyota,Tercel,Y,Manual 4-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,34,0,1933,Toyota,Tercel,Y,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,1934,Volkswagen,Scirocco,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1935,Volkswagen,Scirocco,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1936,Volkswagen,Scirocco 16v,N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,1937,Bitter Gmbh and Co. Kg,Bitter SC,N,Manual 5-spd,1986,,,,0,0,0
+16.61673913,0,21,0,0,442.6086957,23,0,2200,0,Diesel,Diesel,26,0,1938,BMW,5 Series,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,1939,BMW,5 Series,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,1940,BMW,5 Series,Y,Manual 5-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,1941,BMW,5 Series,N,Automatic 4-spd,1986,2MODE,,,0,0,0
+19.38882353,0,14,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,1942,BMW,5 Series,Y,Manual 5-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,1943,BMW,7 Series,Y,Automatic 4-spd,1986,2MODE,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,1944,BMW,7 Series,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,1945,Buick,Skyhawk,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,1946,Buick,Skyhawk,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,1947,Buick,Skyhawk,N,Manual 4-spd,1986,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,1948,Buick,Skyhawk,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1949,Buick,Skyhawk,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,1950,Buick,Skyhawk,N,Manual 4-spd,1986,SIL,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,1951,Buick,Somerset/Skylark,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,31,0,1952,Buick,Somerset/Skylark,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,1953,Buick,Somerset/Skylark,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,1954,Cadillac,Cimarron,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1955,Cadillac,Cimarron,N,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,1956,Cadillac,Cimarron,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,1957,Cadillac,Cimarron,N,Manual 4-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1958,Chevrolet,Cavalier,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,1959,Chevrolet,Cavalier,N,Manual 4-spd,1986,SIL,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1960,Chevrolet,Cavalier,N,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,1961,Chevrolet,Cavalier,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1962,Chevrolet,Cavalier,N,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,1963,Chevrolet,Nova,Y,Automatic 3-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,1964,Chevrolet,Nova,Y,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,1965,Nissan,Maxima,N,Automatic 4-spd,1986,2LKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1966,Nissan,Maxima,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,1967,Nissan,Stanza,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,1968,Nissan,Stanza,N,Manual 5-spd,1986,,,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,1969,Dodge,Omni,N,Manual 4-spd,1986,SIL,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,1970,Dodge,Omni,N,Manual 4-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1971,Dodge,Omni,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,1972,Dodge,Omni,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2650,0,Premium,Premium Gasoline,27,0,1973,Dodge,Omni,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,25,0,1974,Dodge,Omni,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1975,Ford,Escort,Y,Automatic 3-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,1976,Ford,Escort,Y,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,1977,Ford,Escort,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,1978,Ford,Escort,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,1979,Ford,Escort,N,Manual 5-spd,1986,SIL,,,0,0,0
+11.24073529,0,31,0,0,299.4117647,34,0,1500,0,Diesel,Diesel,39,0,1980,Ford,Escort,N,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+10.0575,0,34,0,0,267.8947368,38,0,1350,0,Diesel,Diesel,44,0,1981,Ford,Escort FS,N,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+11.24073529,0,31,0,0,299.4117647,34,0,1500,0,Diesel,Diesel,39,0,1982,Ford,Tempo,N,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,1983,Ford,Tempo,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1984,Ford,Tempo,Y,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,1985,Ford,Tempo,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,1986,Ford,Thunderbird,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,1987,Ford,Thunderbird,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,1988,Ford,Thunderbird,Y,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1989,Ford,Thunderbird,Y,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1990,Ford,Thunderbird,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,1991,Acura,Legend,N,Automatic 4-spd,1986,3LKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,1992,Acura,Legend,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,1993,Lambda Control Systems,300E,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,1994,Mercury,Cougar,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,1995,Mercury,Cougar,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,1996,Mercury,Cougar,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1997,Mercury,Cougar,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,1998,Mercury,Cougar,Y,Automatic 4-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,1999,Mercury,Lynx,N,Automatic 3-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,2000,Mercury,Lynx,N,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,2001,Mercury,Lynx,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2002,Mercury,Lynx,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,2003,Mercury,Lynx,N,Manual 5-spd,1986,SIL,,,0,0,0
+11.24073529,0,31,0,0,299.4117647,34,0,1500,0,Diesel,Diesel,39,0,2004,Mercury,Lynx,N,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+11.24073529,0,31,0,0,299.4117647,34,0,1500,0,Diesel,Diesel,39,0,2005,Mercury,Topaz,N,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,30,0,2006,Mercury,Topaz,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2007,Mercury,Topaz,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,2008,Mercury,Topaz,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2009,Merkur,XR4Ti,Y,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2010,Merkur,XR4Ti,N,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2011,Mazda,323,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,27,0,2012,Mazda,323,N,Manual 4-spd,1986,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,2013,Mazda,323,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2014,Mazda,626,Y,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2015,Mazda,626,Y,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2016,Mazda,626,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,20,0,2017,Mercedes-Benz,300E,Y,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,23,0,2018,Mercedes-Benz,300E,N,Manual 5-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,2019,Mercedes-Benz,560SEC,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2020,Mitsubishi,Galant,N,Automatic 4-spd,1986,VLKUP,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,2021,Oldsmobile,Calais,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,31,0,2022,Oldsmobile,Calais,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,2023,Oldsmobile,Calais,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2024,Oldsmobile,Firenza,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,2025,Oldsmobile,Firenza,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,2026,Oldsmobile,Firenza,N,Manual 4-spd,1986,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,2027,Oldsmobile,Firenza,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2028,Oldsmobile,Firenza,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2029,Oldsmobile,Firenza,N,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2030,Oldsmobile,Firenza,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2031,Oldsmobile,Firenza,N,Manual 4-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2032,Peugeot,505 Sedan,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2033,Peugeot,505 Sedan,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,20,0,2034,Peugeot,505 Sedan,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2035,Peugeot,505 Sedan,N,Manual 5-spd,1986,,,,0,0,0
+17.37204545,0,21,0,0,462.7272727,22,0,2300,0,Diesel,Diesel,24,0,2036,Peugeot,505 Sedan,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+14.69942308,0,24,0,0,391.5384615,26,0,1950,0,Diesel,Diesel,30,0,2037,Peugeot,505 Sedan,N,Manual 5-spd,1986,,Diesel,,0,0,0
+10.987,0,26,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,2038,Plymouth,Horizon,N,Manual 4-spd,1986,SIL,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,30,0,2039,Plymouth,Horizon,N,Manual 4-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2040,Plymouth,Horizon,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,2041,Plymouth,Horizon,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,2042,Pontiac,Grand Am,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,20,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,31,0,2043,Pontiac,Grand Am,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,25,0,2044,Pontiac,Grand Am,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2045,Pontiac,Sunbird,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,24,0,2046,Pontiac,Sunbird,Y,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2750,0,Premium,Premium Gasoline,26,0,2047,Pontiac,Sunbird,N,Manual 4-spd,1986,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,2048,Pontiac,Sunbird,N,Manual 5-spd,1986,SIL,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2049,Pontiac,Sunbird,N,Manual 4-spd,1986,SIL,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,27,0,2050,Renault,Alliance/Encore,N,Automatic 3-spd,1986,,,,0,0,0
+9.988181818,0,30,0,0,269.3030303,33,0,1450,0,Regular,Regular Gasoline,37,0,2051,Renault,Alliance/Encore,N,Manual 4-spd,1986,SIL,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,2052,Renault,Alliance/Encore,N,Manual 4-spd,1986,,,,0,0,0
+10.63258065,0,28,0,0,286.6774194,31,0,1550,0,Regular,Regular Gasoline,35,0,2053,Renault,Alliance/Encore,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2054,Renault,Alliance/Encore,N,Automatic 3-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,2055,Renault,Alliance/Encore,N,Manual 5-spd,1986,SIL,,,0,0,0
+41.20125,0,7,0,0,1110.875,8,0,5950,0,Regular,Regular Gasoline,10,0,2056,Rolls-Royce,Camargue,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2057,Saab,900,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2058,Saab,900,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2059,Saab,900,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2060,Saab,900,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,2061,Saab,900,N,Manual 5-spd,1986,SIL,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2062,Subaru,Sedan/3 Door,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2063,Subaru,Sedan/3 Door,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,22,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,24,0,2064,Subaru,Sedan/3 Door,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2065,Subaru,Sedan/3 Door,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,27,0,2066,Subaru,3 Door 4WD Turbo,Y,Manual 5-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2067,Texas Coach Company,500 SEC,N,Automatic 4-spd,1986,,,,0,0,0
+13.1787931,0,26,0,0,351.0344828,29,0,1750,0,Diesel,Diesel,33,0,2068,Toyota,Camry,Y,Automatic 4-spd,1986,,Diesel,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2069,Toyota,Camry,Y,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,31,0,2070,Toyota,Camry,N,Manual 5-spd,1986,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,30,0,2071,Toyota,Corolla,Y,Automatic 3-spd,1986,,,,0,0,0
+12.20777778,0,24,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,32,0,2072,Toyota,Corolla,N,Automatic 4-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,34,0,2073,Toyota,Corolla,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,2074,Toyota,Cressida,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2075,Toyota,Cressida,N,Manual 5-spd,1986,,,,0,0,0
+10.91957143,0,31,0,0,290.8571429,35,0,1450,0,Diesel,Diesel,40,0,2076,Volkswagen,Golf,Y,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2077,Volkswagen,Golf,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,2078,Volkswagen,Golf,N,Manual 5-spd,1986,SIL,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2079,Volkswagen,GTI,N,Manual 5-spd,1986,SIL,,,0,0,0
+11.24073529,0,31,0,0,299.4117647,34,0,1500,0,Diesel,Diesel,39,0,2080,Volkswagen,Jetta,N,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+10.91957143,0,31,0,0,290.8571429,35,0,1450,0,Diesel,Diesel,40,0,2081,Volkswagen,Jetta,N,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2082,Volkswagen,Jetta,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,2083,Volkswagen,Jetta,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2084,Volkswagen,Jetta GLI,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2085,Volkswagen,Jetta GLI,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2086,Volkswagen,Quantum,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2087,Volkswagen,Quantum,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2088,Volvo,240 DL/240 GL,Y,Automatic 4-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2089,Volvo,240 DL/240 GL,N,Manual 4-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2090,Dodge,GLH-S,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,2091,Audi,5000 CS quattro,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2092,Audi,5000 S,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2093,Audi,5000 S,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2094,Audi,5000 S,N,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2095,Audi,5000 S,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,2096,Buick,Century,Y,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2097,Buick,Century,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2098,Buick,Century,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2099,Buick,Century,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2100,Buick,Regal,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,22,0,2101,Buick,Regal,Y,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2102,Buick,Regal,Y,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2103,Buick,Regal,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,2104,Buick,Riviera,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,2105,Cadillac,Eldorado,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,2106,Cadillac,Seville,N,Automatic 4-spd,1986,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,2107,Chevrolet,Celebrity,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,2108,Chevrolet,Celebrity,N,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2109,Chevrolet,Celebrity,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2110,Chevrolet,Celebrity,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2111,Chevrolet,Celebrity,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2112,Chevrolet,Celebrity,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2113,Chevrolet,Monte Carlo,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2114,Chevrolet,Monte Carlo,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,2115,Chevrolet,Monte Carlo,Y,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2116,Chrysler,LeBaron,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2117,Chrysler,LeBaron,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2118,Chrysler,LeBaron,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2119,Chrysler,LeBaron GTS,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2120,Chrysler,LeBaron GTS,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,2121,Chrysler,LeBaron GTS,Y,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,2122,Chrysler,LeBaron GTS,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2123,Chrysler,LeBaron GTS,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,2124,Chrysler,LeBaron GTS,N,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2125,Chrysler,Limousine,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2126,Chrysler,New Yorker,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2127,Chrysler,New Yorker,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,2128,Chrysler,Newport/Fifth Avenue,Y,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2129,Dodge,Aries,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2130,Dodge,Aries,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,2131,Dodge,Aries,N,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2132,Dodge,Aries,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2133,Dodge,Aries,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2134,Dodge,Diplomat,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,2135,Dodge,Diplomat,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2136,Dodge,Diplomat,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2137,Dodge,Lancer,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2138,Dodge,Lancer,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,2139,Dodge,Lancer,N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2900,0,Premium,Premium Gasoline,26,0,2140,Dodge,Lancer,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2141,Dodge,Lancer,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,2142,Dodge,Lancer,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2143,Dodge,600,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2144,Dodge,600,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2145,Dodge,600,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2146,Ford,LTD,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2147,Ford,LTD,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2148,Ford,Taurus,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,2149,Ford,Taurus,Y,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2150,Ford,Taurus,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2151,Lincoln,Continental,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2152,Lincoln,Mark VII,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2153,Mercury,Marquis,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2154,Mercury,Marquis,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2155,Mercury,Sable,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2156,Mercury,Sable,N,Automatic 4-spd,1986,,,,0,0,0
+41.20125,0,7,0,0,1110.875,8,0,5950,0,Regular,Regular Gasoline,10,0,2157,Maserati,Quattroporte,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3900,0,Premium,Premium Gasoline,17,0,2158,Mercedes-Benz,420SEL,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,4500,0,Premium,Premium Gasoline,15,0,2159,Mercedes-Benz,560SEL,N,Automatic 4-spd,1986,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,2160,Oldsmobile,Cutlass Ciera,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2161,Oldsmobile,Cutlass Ciera,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2162,Oldsmobile,Cutlass Ciera,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2163,Oldsmobile,Cutlass Ciera,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2164,Oldsmobile,Cutlass Ciera,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,2165,Oldsmobile,Cutlass Ciera,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2166,Oldsmobile,Cutlass Supreme,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2167,Oldsmobile,Cutlass Supreme,Y,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2168,Oldsmobile,Cutlass Supreme,Y,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,2169,Oldsmobile,Toronado,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2170,Plymouth,Caravelle,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2171,Plymouth,Caravelle,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2172,Plymouth,Caravelle,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3650,0,Premium,Premium Gasoline,20,0,2173,Plymouth,Gran Fury,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2174,Plymouth,Gran Fury,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2175,Plymouth,Gran Fury,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2176,Plymouth,Reliant,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2177,Plymouth,Reliant,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,2178,Plymouth,Reliant,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2179,Plymouth,Reliant,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2180,Plymouth,Reliant,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2181,Pontiac,Bonneville,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2182,Pontiac,Bonneville,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2183,Pontiac,Bonneville,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,2184,Pontiac,Bonneville,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2185,Pontiac,Grand Prix,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2186,Pontiac,Grand Prix,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2187,Pontiac,Grand Prix,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,2188,Pontiac,Grand Prix,N,Automatic 4-spd,1986,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,2189,Pontiac,6000,Y,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2190,Pontiac,6000,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2191,Pontiac,6000,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2192,Pontiac,6000,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2193,Pontiac,6000,N,Automatic 4-spd,1986,,,,0,0,0
+36.62333333,0,8,0,0,987.4444444,9,0,5300,0,Regular,Regular Gasoline,10,0,2194,Rolls-Royce,Silver Spirit/Spur/Mulsanne,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2195,Texas Coach Company,500SE,N,Automatic 4-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2196,Texas Coach Company,500SEL,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2197,Volvo,740/760,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2198,Volvo,740/760,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2199,Volvo,740/760,N,Manual 4-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2200,Volvo,740/760,N,Manual 4-spd,1986,SIL,,,0,0,0
+16.61673913,0,21,0,0,442.6086957,23,0,2200,0,Diesel,Diesel,24,0,2201,Volvo,740/760,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+15.924375,0,22,0,0,424.1666667,24,0,2100,0,Diesel,Diesel,27,0,2202,Volvo,740/760,N,Manual 4-spd,1986,,Diesel,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2203,Volvo,740/760,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,2204,Buick,Electra/Park Avenue,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2205,Buick,LeSabre,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,2206,Buick,LeSabre,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,24,0,2207,Cadillac,Fleetwood/DeVille,Y,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2208,Cadillac,Fleetwood Brougham,Y,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2209,Cadillac,Limousine,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2210,Chevrolet,Caprice,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2211,Chevrolet,Caprice,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,2212,Chevrolet,Caprice,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2213,Chevrolet,Caprice,N,Automatic 4-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,18,0,2214,Chevrolet,Caprice,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2215,Ford,LTD Crown Victoria,Y,Automatic 4-spd,1986,,,,0,0,0
+23.54357143,0,11,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2216,Ford,LTD Crown Victoria,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,17,0,2217,Ford,LTD Crown Victoria,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2218,Mercury,Grand Marquis,Y,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2219,Lincoln,Town Car,Y,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,16,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2220,London Coach Co Inc,London Taxi,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2221,Oldsmobile,Delta 88 Royale,Y,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,2222,Oldsmobile,Delta 88 Royale,Y,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,2223,Oldsmobile,Ninety-Eight Regency,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2224,Pontiac,Parisienne,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2225,Pontiac,Parisienne,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,2226,Pontiac,Parisienne,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2227,Pontiac,Parisienne,N,Automatic 4-spd,1986,,,,0,0,0
+41.20125,0,7,0,0,1110.875,8,0,5950,0,Regular,Regular Gasoline,9,0,2228,Rolls-Royce,Silver Spur Limousine,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,2229,Saab,9000,N,Manual 5-spd,1986,SIL,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2230,Buick,Skyhawk Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,2231,Buick,Skyhawk Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2232,Buick,Skyhawk Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2233,Buick,Skyhawk Wagon,N,Manual 4-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2234,Chevrolet,Cavalier Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2235,Chevrolet,Cavalier Wagon,N,Manual 4-spd,1986,SIL,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,2236,Chevrolet,Cavalier Wagon,Y,Manual 5-spd,1986,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2237,Chevrolet,Cavalier Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2238,Chevrolet,Cavalier Wagon,N,Manual 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2239,Nissan,Maxima Wagon,N,Automatic 4-spd,1986,2LKUP,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,27,0,2240,Nissan,Sentra Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+10.987,0,27,0,0,296.2333333,30,0,1600,0,Regular,Regular Gasoline,35,0,2241,Nissan,Sentra Wagon,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,2242,Dodge,Colt Vista,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2243,Dodge,Colt Vista,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2244,Ford,Escort Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,2245,Ford,Escort Wagon,N,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,2246,Ford,Escort Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+11.24073529,0,31,0,0,299.4117647,34,0,1500,0,Diesel,Diesel,39,0,2247,Ford,Escort Wagon,Y,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,2248,Honda,Civic Wagon,Y,Automatic 4-spd,1986,,,,0,0,0
+11.77178571,0,26,0,0,317.3928571,28,0,1700,0,Regular,Regular Gasoline,32,0,2249,Honda,Civic Wagon,N,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,26,0,2250,Honda,Civic Wagon 4WD,Y,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,26,0,2251,Mercury,Lynx Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,35,0,2252,Mercury,Lynx Wagon,N,Manual 4-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,31,0,2253,Mercury,Lynx Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+11.24073529,0,31,0,0,299.4117647,34,0,1500,0,Diesel,Diesel,39,0,2254,Mercury,Lynx Wagon,N,Manual 5-spd,1986,SIL,Diesel,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,21,0,2255,Mazda,GLC Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,26,0,2256,Mazda,GLC Wagon,N,Manual 4-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,27,0,2257,Mazda,GLC Wagon,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,2258,Mitsubishi,Space Wagon,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2259,Oldsmobile,Firenza Cruiser,N,Automatic 3-spd,1986,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,2260,Oldsmobile,Firenza Cruiser,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2261,Oldsmobile,Firenza Cruiser,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2262,Oldsmobile,Firenza Cruiser,N,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2263,Oldsmobile,Firenza Cruiser,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2264,Oldsmobile,Firenza Cruiser,N,Manual 4-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,2265,Plymouth,Colt Vista,N,Automatic 3-spd,1986,VLKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2266,Plymouth,Colt Vista,N,Manual 5-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2267,Pontiac,Sunbird Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+12.20777778,0,23,0,0,329.1481481,27,0,1750,0,Regular,Regular Gasoline,34,0,2268,Pontiac,Sunbird Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2269,Pontiac,Sunbird Wagon,N,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2270,Renault,18i Sportwagon,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,20,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,28,0,2271,Renault,18i Sportwagon,N,Manual 5-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,28,0,2272,Subaru,Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2273,Subaru,Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,22,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,24,0,2274,Subaru,Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2275,Subaru,Wagon,N,Manual 5-spd,1986,,,,0,0,0
+12.67730769,0,24,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,28,0,2276,Toyota,Tercel Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+11.36586207,0,26,0,0,306.4482759,29,0,1650,0,Regular,Regular Gasoline,33,0,2277,Toyota,Tercel Wagon 2WD,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,23,0,2278,Toyota,Tercel Wagon 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,2279,Toyota,Tercel Wagon 4WD,Y,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2280,Volkswagen,Quantum Syncro Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2281,Volkswagen,Quantum Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2282,Volkswagen,Quantum Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2283,Volkswagen,Quantum Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2284,Volkswagen,Quantum Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,23,0,2285,Audi,5000 CS quattro Wagon,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2286,Audi,5000S Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2287,Audi,5000S Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,2288,Buick,Century Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2289,Buick,Century Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2290,Buick,Century Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,17,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,27,0,2291,Buick,Century Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+14.33086957,0,19,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,29,0,2292,Chevrolet,Celebrity Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,29,0,2293,Chevrolet,Celebrity Wagon,N,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2294,Chevrolet,Celebrity Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2295,Chevrolet,Celebrity Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2296,Chevrolet,Celebrity Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2297,Chevrolet,Celebrity Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,3050,0,Premium,Premium Gasoline,22,0,2298,Chrysler,Town and Country Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2299,Chrysler,Town and Country Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2300,Nissan,Stanza Wagon 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2301,Nissan,Stanza Wagon 2WD,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2302,Dodge,Aries Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,2303,Dodge,Aries Wagon,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2304,Dodge,Aries Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2305,Ford,LTD Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,28,0,2306,Ford,Taurus Wagon,Y,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2307,Ford,Taurus Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2308,Ford,Taurus Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2309,Mercury,Marquis Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,26,0,2310,Mercury,Sable Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2311,Mercury,Sable Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,2312,Oldsmobile,Cutlass Cruiser,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2313,Oldsmobile,Cutlass Cruiser,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2314,Oldsmobile,Cutlass Cruiser,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2315,Oldsmobile,Cutlass Cruiser,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2316,Oldsmobile,Cutlass Cruiser,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2317,Peugeot,505 Station Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2318,Peugeot,505 Station Wagon,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,20,0,2319,Peugeot,505 Station Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+17.37204545,0,21,0,0,462.7272727,22,0,2300,0,Diesel,Diesel,24,0,2320,Peugeot,505 Station Wagon,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2321,Plymouth,Reliant Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+12.67730769,0,22,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,32,0,2322,Plymouth,Reliant Wagon,Y,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2323,Plymouth,Reliant Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,2324,Pontiac,6000 Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2325,Pontiac,6000 Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2326,Pontiac,6000 Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2327,Pontiac,6000 Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2328,Pontiac,6000 Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,3250,0,Premium,Premium Gasoline,21,0,2329,Toyota,Cressida Wagon,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2330,Volvo,240 DL/240 GL Wagon,Y,Automatic 4-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2331,Volvo,240 DL/240 GL Wagon,N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2332,Volvo,740/760 Wagon,Y,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2333,Volvo,740/760 Wagon,Y,Automatic 4-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2334,Volvo,740/760 Wagon,N,Manual 4-spd,1986,SIL,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2335,Volvo,740/760 Wagon,N,Manual 4-spd,1986,SIL,,,0,0,0
+16.61673913,0,21,0,0,442.6086957,23,0,2200,0,Diesel,Diesel,24,0,2336,Volvo,740/760 Wagon,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,2337,Buick,LeSabre/Electra Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,2338,Chevrolet,Caprice Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,2339,Chevrolet,Caprice Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2340,Ford,LTD Crown Victoria Wagon,Y,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,16,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,24,0,2341,Mercury,Grand Marquis Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,2342,Oldsmobile,Custom Cruiser,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,2343,Pontiac,Parisienne Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,22,0,2344,Pontiac,Parisienne Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,2345,Chevrolet,S10 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2346,Chevrolet,S10 Pickup 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2347,Chevrolet,S10 Pickup 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2348,Chevrolet,S10 Pickup 2WD,Y,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2349,Chevrolet,S10 Pickup 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2350,Chevrolet,S10 Pickup 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2351,Nissan,Truck 2WD,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,20,0,2352,Nissan,Truck 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2353,Nissan,Truck 2WD,Y,Manual 5-spd,1986,,,,0,0,0
+14.155,0,26,0,0,377.037037,27,0,1900,0,Diesel,Diesel,30,0,2354,Nissan,Truck 2WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2355,Nissan,Truck 2WD (new Version),N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2356,Nissan,Truck 2WD (new Version),Y,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2357,Nissan,Truck 2WD (new Version),N,Automatic 4-spd,1986,VLKUP,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2358,Nissan,Truck 2WD (new Version),N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,2359,Dodge,Ram 50 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2360,Dodge,Ram 50 Pickup 2WD,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,19,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,20,0,2361,Dodge,Ram 50 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2362,Dodge,Ram 50 Pickup 2WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2363,Ford,Courier Pickup 2WD,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2364,Ford,Ranger Pickup 2WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2365,Ford,Ranger Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+14.155,0,25,0,0,377.037037,27,0,1900,0,Diesel,Diesel,29,0,2366,Ford,Ranger Pickup 2WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,26,0,2367,Ford,Ranger Pickup 2WD,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2368,Ford,Ranger Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2369,Ford,Ranger Pickup 2WD,Y,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,26,0,2370,GMC,S15 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2371,GMC,S15 Pickup 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+13.73375,0,21,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,28,0,2372,GMC,S15 Pickup 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2373,GMC,S15 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2374,GMC,S15 Pickup 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2375,GMC,S15 Pickup 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2376,Isuzu,Pickup 2WD,N,Manual 4-spd,1986,,,,0,0,0
+13.1844,0,22,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,29,0,2377,Isuzu,Pickup 2WD,N,Manual 4-spd,1986,,,,0,0,0
+15.924375,0,23,0,0,424.1666667,24,0,2100,0,Diesel,Diesel,24,0,2378,Isuzu,Pickup 2WD,N,Automatic 3-spd,1986,,Diesel,,0,0,0
+11.94328125,0,30,0,0,318.125,32,0,1600,0,Diesel,Diesel,35,0,2379,Isuzu,Pickup 2WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+13.64946429,0,26,0,0,363.5714286,28,0,1800,0,Diesel,Diesel,30,0,2380,Isuzu,Pickup 2WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+13.1787931,0,27,0,0,351.0344828,29,0,1750,0,Diesel,Diesel,33,0,2381,Isuzu,Pickup 2WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2382,Isuzu,Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2383,Isuzu,Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2384,Isuzu,Pickup 2WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2385,Isuzu,Pickup 2WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,2386,Mitsubishi,Truck 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2387,Mitsubishi,Truck 2WD,N,Manual 4-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,24,0,2388,Mitsubishi,Truck 2WD,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2389,Mitsubishi,Truck 2WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2390,Mazda,B2000,N,Manual 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2391,Mazda,B2000,Y,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2392,Toyota,Truck 2WD,Y,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2393,Toyota,Truck 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+12.67730769,0,23,0,0,341.8076923,26,0,1850,0,Regular,Regular Gasoline,29,0,2394,Toyota,Truck 2WD,Y,Manual 4-spd,1986,,,,0,0,0
+13.73375,0,22,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,26,0,2395,Toyota,Truck 2WD,N,Manual 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2396,Toyota,Truck 2WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2397,Toyota,Truck 2WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2398,Toyota,Truck 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2399,Toyota,Truck 2WD,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2400,Toyota,Truck 2WD,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2401,Toyota,Truck 2WD,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,17,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,18,0,2402,Dodge,Power Ram50 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2403,Dodge,Power Ram50 4WD,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,22,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,25,0,2404,Ford,Ranger Pickup 4WD,N,Manual 5-spd,1986,,,,0,0,0
+14.69942308,0,24,0,0,391.5384615,26,0,1950,0,Diesel,Diesel,28,0,2405,Ford,Ranger Pickup 4WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2406,Ford,Ranger Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2407,Ford,Ranger Pickup 4WD,N,Manual 5-spd,1986,,,,0,0,0
+15.924375,0,23,0,0,424.1666667,24,0,2100,0,Diesel,Diesel,25,0,2408,Isuzu,Pickup 4WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2409,Isuzu,Pickup 4WD,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2410,Isuzu,Pickup 4WD,N,Manual 5-spd,1986,,,,0,0,0
+21.974,0,15,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2411,Jeep,Scrambler,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2412,Jeep,Scrambler,N,Manual 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2413,Jeep,Scrambler,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,2414,Mitsubishi,Truck 4WD,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2415,Subaru,Brat 4WD,N,Manual 4-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2416,Subaru,Brat 4WD,N,Manual 4-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,18,0,2417,Chevrolet,C10 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2418,Chevrolet,C10 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2419,Chevrolet,C10 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2420,Chevrolet,C10 Pickup 2WD,N,Manual 3-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2421,Chevrolet,C10 Pickup 2WD,N,Manual 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2422,Chevrolet,C10 Pickup 2WD,N,Manual 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2423,Chevrolet,C10 Pickup 2WD,N,Manual 4-spd,1986,Overdrive,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2424,Chevrolet,C10 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,2425,Chevrolet,C10 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2426,Chevrolet,C10 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2427,Chevrolet,C10 Pickup 2WD,N,Manual 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2428,Chevrolet,C10 Pickup 2WD,N,Manual 4-spd,1986,,,,0,0,0
+20.115,0,17,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2429,Chevrolet,C10 Pickup 2WD,Y,Automatic 4-spd,1986,,Diesel,,0,0,0
+20.115,0,18,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2430,Chevrolet,C10 Pickup 2WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+20.115,0,18,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2431,Chevrolet,C10 Pickup 2WD,N,Manual 4-spd,1986,Creeper,Diesel,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2432,Chevrolet,C20 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2433,Chevrolet,C20 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2434,Chevrolet,C20 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2435,Chevrolet,C20 Pickup 2WD,Y,Manual 4-spd,1986,Creeper,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2436,Chevrolet,C20 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,2437,Chevrolet,C20 Pickup 2WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+22.48147059,0,16,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,18,0,2438,Chevrolet,C20 Pickup 2WD,N,Manual 4-spd,1986,Creeper,Diesel,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2439,Chevrolet,El Camino Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2440,Chevrolet,El Camino Pickup 2WD,Y,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2441,Chevrolet,El Camino Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2442,Chevrolet,El Camino Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2443,Dodge,D100/D150 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2444,Dodge,D100/D150 Pickup 2WD,N,Automatic 3-spd,1986,Lockup,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2445,Dodge,D100/D150 Pickup 2WD,N,Manual 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2446,Dodge,D100/D150 Pickup 2WD,N,Manual 4-spd,1986,Overdrive,,,0,0,0
+21.974,0,15,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2447,Dodge,D100/D150 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2448,Dodge,D100/D150 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2449,Dodge,D100/D150 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2450,Dodge,D100/D150 Pickup 2WD,N,Automatic 3-spd,1986,Lockup,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2451,Dodge,D100/D150 Pickup 2WD,N,Manual 4-spd,1986,Overdrive,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,17,0,2452,Dodge,D100/D150 Pickup 2WD,N,Manual 4-spd,1986,Overdrive,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2453,Dodge,D100/D150 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2454,Dodge,D100/D150 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2455,Dodge,D100/D150 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,13,0,2456,Dodge,D100/D150 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2457,Dodge,D250 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2458,Dodge,D250 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2459,Dodge,D250 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2460,Dodge,D250 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2461,Dodge,D250 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2462,Dodge,D250 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2463,Dodge,D250 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,13,0,2464,Dodge,D250 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2465,Ford,F150 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2466,Ford,F150 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2467,Ford,F150 Pickup 2WD,N,Manual 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2468,Ford,F150 Pickup 2WD,Y,Manual 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2469,Ford,F150 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2470,Ford,F150 Pickup 2WD,Y,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,2471,Ford,F150 Pickup 2WD,N,Manual 4-spd,1986,,,,0,0,0
+25.35461538,0,13,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2472,Ford,F150 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2473,Ford,F150 Pickup 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2474,Ford,F250 Pickup 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2475,Ford,F250 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2476,Ford,F250 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2477,Ford,F250 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2478,Ford,F250 Pickup 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2479,GMC,Caballero Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2480,GMC,Caballero Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2481,GMC,Caballero Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2482,GMC,Caballero Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,18,0,2483,GMC,C15 Pickup 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2484,GMC,C15 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2485,GMC,C15 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2486,GMC,C15 Pickup 2WD,N,Manual 3-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2487,GMC,C15 Pickup 2WD,N,Manual 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2488,GMC,C15 Pickup 2WD,N,Manual 4-spd,1986,Overdrive,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2489,GMC,C15 Pickup 2WD,N,Manual 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2490,GMC,C15 Pickup 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,2491,GMC,C15 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2492,GMC,C15 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2493,GMC,C15 Pickup 2WD,N,Manual 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2494,GMC,C15 Pickup 2WD,N,Manual 4-spd,1986,,,,0,0,0
+20.115,0,17,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2495,GMC,C15 Pickup 2WD,Y,Automatic 4-spd,1986,,Diesel,,0,0,0
+20.115,0,18,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2496,GMC,C15 Pickup 2WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+20.115,0,18,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2497,GMC,C15 Pickup 2WD,N,Manual 4-spd,1986,Creeper,Diesel,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2498,GMC,C25 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2499,GMC,C25 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2500,GMC,C25 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2501,GMC,C25 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2502,GMC,C25 Pickup 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,2503,GMC,C25 Pickup 2WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+22.48147059,0,16,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,18,0,2504,GMC,C25 Pickup 2WD,N,Manual 4-spd,1986,Creeper,Diesel,,0,0,0
+14.69942308,0,24,0,0,391.5384615,26,0,1950,0,Diesel,Diesel,29,0,2505,Jeep,Comanche 2WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,2506,Jeep,Comanche 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,25,0,2507,Jeep,Comanche 2WD,Y,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2508,Jeep,Comanche 2WD,N,Manual 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2509,Jeep,Comanche 2WD,Y,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2510,Jeep,Comanche 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2511,Jeep,Comanche 2WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,20,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2512,Toyota,1-Ton Truck 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2513,Toyota,1-Ton Truck 2WD,N,Manual 5-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,2514,Chevrolet,K10 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2515,Chevrolet,K10 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2516,Chevrolet,K10 Pickup 4WD,N,Manual 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2517,Chevrolet,K10 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2518,Chevrolet,K10 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2519,Chevrolet,K10 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2520,Chevrolet,K10 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2521,Chevrolet,K10 Pickup 4WD,N,Manual 4-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2522,Chevrolet,K10 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2523,Chevrolet,K10 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,2524,Chevrolet,K10 Pickup 4WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+22.48147059,0,16,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,19,0,2525,Chevrolet,K10 Pickup 4WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+22.48147059,0,16,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,17,0,2526,Chevrolet,K10 Pickup 4WD,N,Manual 4-spd,1986,Creeper,Diesel,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2527,Chevrolet,K20 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,14,0,2528,Chevrolet,K20 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,2529,Chevrolet,K20 Pickup 4WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+23.8865625,0,15,0,0,636.25,16,0,3200,0,Diesel,Diesel,17,0,2530,Chevrolet,K20 Pickup 4WD,N,Manual 4-spd,1986,Creeper,Diesel,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2531,Chevrolet,T10 (S10) Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2532,Chevrolet,T10 (S10) Pickup 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2533,Chevrolet,T10 (S10) Pickup 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,2534,Chevrolet,T10 (S10) Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2535,Chevrolet,T10 (S10) Pickup 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2536,Chevrolet,T10 (S10) Pickup 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2537,Nissan,Truck 4WD,Y,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2538,Nissan,Truck 4WD,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2539,Nissan,Truck 4WD (new Version),N,Manual 5-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,2540,Nissan,Truck 4WD (new Version),Y,Manual 5-spd,1986,,,,0,0,0
+23.54357143,0,14,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,15,0,2541,Dodge,W100/W150 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+29.96454545,0,11,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2542,Dodge,W100/W150 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2543,Dodge,W100/W150 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2544,Dodge,W100/W150 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2545,Dodge,W100/W150 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+32.961,0,9,0,0,888.7,10,0,4750,0,Regular,Regular Gasoline,11,0,2546,Dodge,W100/W150 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2547,Dodge,W100/W150 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2548,Dodge,W250 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,13,0,2549,Dodge,W250 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+32.961,0,9,0,0,888.7,10,0,4750,0,Regular,Regular Gasoline,11,0,2550,Dodge,W250 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2551,Dodge,W250 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+23.54357143,0,14,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,14,0,2552,Ford,F150 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2553,Ford,F150 Pickup 4WD,N,Manual 4-spd,1986,,,,0,0,0
+21.974,0,15,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2554,Ford,F150 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2555,Ford,F150 Pickup 4WD,Y,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2556,Ford,F150 Pickup 4WD,Y,Manual 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2557,Ford,F150 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+29.96454545,0,11,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2558,Ford,F150 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2559,Ford,F250 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2560,Ford,F250 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2561,Ford,F250 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+29.96454545,0,11,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2562,Ford,F250 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2563,GMC,K15 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,2564,GMC,K15 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2565,GMC,K15 Pickup 4WD,N,Manual 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2566,GMC,K15 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2567,GMC,K15 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,14,0,2568,GMC,K15 Pickup 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2569,GMC,K15 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2570,GMC,K15 Pickup 4WD,Y,Manual 4-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2571,GMC,K15 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2572,GMC,K15 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,2573,GMC,K15 Pickup 4WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+22.48147059,0,16,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,19,0,2574,GMC,K15 Pickup 4WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+22.48147059,0,16,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,17,0,2575,GMC,K15 Pickup 4WD,N,Manual 4-spd,1986,Creeper,Diesel,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2576,GMC,K25 Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,9,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,14,0,2577,GMC,K25 Pickup 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,2578,GMC,K25 Pickup 4WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+23.8865625,0,15,0,0,636.25,16,0,3200,0,Diesel,Diesel,17,0,2579,GMC,K25 Pickup 4WD,N,Manual 4-spd,1986,Creeper,Diesel,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2580,GMC,T15 (S15) Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2581,GMC,T15 (S15) Pickup 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2582,GMC,T15 (S15) Pickup 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,2583,GMC,T15 (S15) Pickup 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2584,GMC,T15 (S15) Pickup 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2585,GMC,T15 (S15) Pickup 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.2874,0,24,0,0,407.2,25,0,2050,0,Diesel,Diesel,26,0,2586,Jeep,Comanche 4WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2587,Jeep,Comanche 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2588,Jeep,Comanche 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2589,Jeep,Comanche 4WD,N,Manual 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2590,Jeep,Comanche 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2591,Jeep,Comanche 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2592,Jeep,Comanche 4WD,N,Manual 5-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2593,Jeep,J-10 Pickup Truck,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2594,Jeep,J-10 Pickup Truck,N,Manual 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2595,Jeep,J-10 Pickup Truck,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2596,Jeep,J-20 Pickup Truck,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2597,Toyota,Truck 4WD,Y,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2598,Toyota,Truck 4WD,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,20,0,2599,Toyota,Truck 4WD,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2600,Toyota,Truck 4WD,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2601,Toyota,Truck 4WD,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2602,Toyota,Truck 4WD,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2603,Chevrolet,Astro 2WD (cargo),N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2604,Chevrolet,Astro 2WD (cargo),N,Manual 4-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2605,Chevrolet,Astro 2WD (cargo),N,Manual 5-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2606,Chevrolet,Astro 2WD (cargo),N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2607,Chevrolet,Astro 2WD (cargo),N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2608,Chevrolet,Astro 2WD (cargo),N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2609,Chevrolet,G10/20 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2610,Chevrolet,G10/20 Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2611,Chevrolet,G10/20 Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2612,Chevrolet,G10/20 Van 2WD,N,Manual 3-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2613,Chevrolet,G10/20 Van 2WD,N,Manual 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2614,Chevrolet,G10/20 Van 2WD,N,Manual 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2615,Chevrolet,G10/20 Van 2WD,N,Manual 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2616,Chevrolet,G10/20 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2617,Chevrolet,G10/20 Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,2618,Chevrolet,G10/20 Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2619,Chevrolet,G10/20 Van 2WD,N,Manual 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2620,Chevrolet,G10/20 Van 2WD,N,Manual 4-spd,1986,,,,0,0,0
+20.115,0,17,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2621,Chevrolet,G10/20 Van 2WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+20.115,0,18,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2622,Chevrolet,G10/20 Van 2WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2623,Chevrolet,G30 Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2624,Chevrolet,G30 Van 2WD,N,Manual 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2625,Dodge,B150/B250 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2626,Dodge,B150/B250 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2627,Dodge,B150/B250 Van 2WD,N,Manual 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2628,Dodge,B150/B250 Van 2WD,N,Manual 4-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2629,Dodge,B150/B250 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2630,Dodge,B150/B250 Van 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2631,Dodge,B150/B250 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2632,Dodge,B150/B250 Van 2WD,N,Manual 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,17,0,2633,Dodge,B150/B250 Van 2WD,N,Manual 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2634,Dodge,B150/B250 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2635,Dodge,B350 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2636,Dodge,B350 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2637,Dodge,B350 Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2638,Ford,Aerostar Van,N,Automatic 4-spd,1986,,,,0,0,0
+13.73375,0,23,0,0,370.2916667,24,0,2000,0,Regular,Regular Gasoline,26,0,2639,Ford,Aerostar Van,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2640,Ford,Aerostar Van,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2641,Ford,Aerostar Van,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2642,Ford,Aerostar Van,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2643,Ford,Aerostar Van,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2644,Ford,E150 Econoline 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,2645,Ford,E150 Econoline 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2646,Ford,E150 Econoline 2WD,N,Manual 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2647,Ford,E150 Econoline 2WD,N,Manual 4-spd,1986,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2648,Ford,E150 Econoline 2WD,Y,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,11,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2649,Ford,E150 Econoline 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,14,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2650,Ford,E250 Econoline 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2651,Ford,E250 Econoline 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2652,Ford,E250 Econoline 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2653,GMC,G15/25 Vandura 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2654,GMC,G15/25 Vandura 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2655,GMC,G15/25 Vandura 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2656,GMC,G15/25 Vandura 2WD,N,Manual 3-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2657,GMC,G15/25 Vandura 2WD,N,Manual 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2658,GMC,G15/25 Vandura 2WD,N,Manual 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2659,GMC,G15/25 Vandura 2WD,N,Manual 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2660,GMC,G15/25 Vandura 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2661,GMC,G15/25 Vandura 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,18,0,2662,GMC,G15/25 Vandura 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2663,GMC,G15/25 Vandura 2WD,N,Manual 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2664,GMC,G15/25 Vandura 2WD,N,Manual 4-spd,1986,,,,0,0,0
+20.115,0,17,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2665,GMC,G15/25 Vandura 2WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+20.115,0,18,0,0,535.7894737,19,0,2700,0,Diesel,Diesel,22,0,2666,GMC,G15/25 Vandura 2WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2667,GMC,G35 Vandura 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2668,GMC,G35 Vandura 2WD,N,Manual 3-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2669,GMC,Safari 2WD (cargo),N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2670,GMC,Safari 2WD (cargo),N,Manual 4-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2671,GMC,Safari 2WD (cargo),N,Manual 5-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2672,GMC,Safari 2WD (cargo),N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2673,GMC,Safari 2WD (cargo),N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2674,GMC,Safari 2WD (cargo),N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2675,Toyota,Cargo Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2676,Toyota,Cargo Van 2WD,Y,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2677,Chevrolet,Astro 2WD (passenger),N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2678,Chevrolet,Astro 2WD (passenger),N,Manual 4-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2679,Chevrolet,Astro 2WD (passenger),N,Manual 5-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2680,Chevrolet,Astro 2WD (passenger),N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2681,Chevrolet,Astro 2WD (passenger),N,Manual 4-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2682,Chevrolet,Astro 2WD (passenger),N,Manual 5-spd,1986,SIL,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2683,Chevrolet,G10/20 Sport Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2684,Chevrolet,G10/20 Sport Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2685,Chevrolet,G10/20 Sport Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2686,Chevrolet,G10/20 Sport Van 2WD,N,Manual 3-spd,1986,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,15,0,2687,Chevrolet,G10/20 Sport Van 2WD,N,Manual 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,12,0,2688,Chevrolet,G10/20 Sport Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2689,Chevrolet,G10/20 Sport Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2690,Chevrolet,G10/20 Sport Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,2691,Chevrolet,G10/20 Sport Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.2325,0,16,0,0,565.5555556,18,0,2800,0,Diesel,Diesel,22,0,2692,Chevrolet,G10/20 Sport Van 2WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+22.48147059,0,16,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,19,0,2693,Chevrolet,G10/20 Sport Van 2WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,13,0,2694,Chevrolet,G30 Sport Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2695,Chevrolet,G30 Sport Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2696,Dodge,B150/B250 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2697,Dodge,B150/B250 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2698,Dodge,B150/B250 Wagon 2WD,N,Manual 4-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2699,Dodge,B150/B250 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2700,Dodge,B150/B250 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2701,Dodge,B150/B250 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2702,Dodge,B150/B250 Wagon 2WD,N,Manual 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,17,0,2703,Dodge,B150/B250 Wagon 2WD,N,Manual 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2704,Dodge,B150/B250 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2705,Dodge,B350 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2706,Dodge,B350 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+32.961,0,9,0,0,888.7,10,0,4750,0,Regular,Regular Gasoline,11,0,2707,Dodge,B350 Wagon 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2708,Ford,Aerostar Wagon,N,Manual 5-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,20,0,2709,Ford,Aerostar Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2710,Ford,Aerostar Wagon,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,2711,Ford,Aerostar Wagon,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2712,Ford,Aerostar Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2713,Ford,E150 Club Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2714,Ford,E150 Club Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,2715,Ford,E150 Club Wagon,N,Manual 4-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2716,Ford,E150 Club Wagon,N,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,11,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2717,Ford,E150 Club Wagon,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2718,GMC,G15/25 Rally 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2719,GMC,G15/25 Rally 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2720,GMC,G15/25 Rally 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2721,GMC,G15/25 Rally 2WD,N,Manual 3-spd,1986,,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,15,0,2722,GMC,G15/25 Rally 2WD,N,Manual 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,12,0,2723,GMC,G15/25 Rally 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2724,GMC,G15/25 Rally 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2725,GMC,G15/25 Rally 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,2726,GMC,G15/25 Rally 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.2325,0,16,0,0,565.5555556,18,0,2800,0,Diesel,Diesel,22,0,2727,GMC,G15/25 Rally 2WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+22.48147059,0,16,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,19,0,2728,GMC,G15/25 Rally 2WD,N,Manual 4-spd,1986,,Diesel,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,13,0,2729,GMC,G35 Rally 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2730,GMC,G35 Rally 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2731,GMC,Safari 2WD (passenger),N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2732,GMC,Safari 2WD (passenger),N,Manual 4-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2733,GMC,Safari 2WD (passenger),N,Manual 5-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2734,GMC,Safari 2WD (passenger),N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2735,GMC,Safari 2WD (passenger),N,Manual 4-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2736,GMC,Safari 2WD (passenger),N,Manual 5-spd,1986,SIL,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2737,Toyota,Van 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2738,Toyota,Van 2WD,N,Manual 5-spd,1986,,,,0,0,0
+23.54357143,0,14,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,14,0,2739,Volkswagen,Vanagon Syncro 4WD,N,Manual 5-spd,1986,Creeper,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,15,0,2740,Volkswagen,Vanagon/Camper 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,15,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2741,Volkswagen,Vanagon/Camper 2WD,N,Manual 4-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2742,Chevrolet,Suburban C10 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2743,Chevrolet,Suburban C10 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,2744,Chevrolet,Suburban C10 2WD,Y,Automatic 4-spd,1986,,,,0,0,0
+21.2325,0,16,0,0,565.5555556,18,0,2800,0,Diesel,Diesel,22,0,2745,Chevrolet,Suburban C10 2WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2746,Chevrolet,S10 Blazer 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2747,Chevrolet,S10 Blazer 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2748,Chevrolet,S10 Blazer 2WD,Y,Manual 5-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2749,Chevrolet,S10 Blazer 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2750,Chevrolet,S10 Blazer 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2751,Chevrolet,S10 Blazer 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2752,Dodge,AD100/AD150 Ramcharger 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,13,0,2753,Dodge,AD100/AD150 Ramcharger 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2754,Dodge,AD100/AD150 Ramcharger 2WD,Y,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2755,Dodge,AD100/AD150 Ramcharger 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,2756,Dodge,Caravan/Ram Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2757,Dodge,Caravan/Ram Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2758,Dodge,Caravan/Ram Van 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2759,Dodge,Caravan/Ram Van 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,2760,Dodge,Caravan/Ram Van 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,2761,Dodge,Caravan/Ram Van 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2762,Dodge,Caravan/Ram Van 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2763,Ford,Bronco II 2WD,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2764,Ford,Bronco II 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2765,Ford,Bronco II 2WD,N,Manual 5-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2766,GMC,C15 Suburban 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,15,0,2767,GMC,C15 Suburban 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,11,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,2768,GMC,C15 Suburban 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+21.2325,0,16,0,0,565.5555556,18,0,2800,0,Diesel,Diesel,22,0,2769,GMC,C15 Suburban 2WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2770,GMC,S15 Jimmy 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2771,GMC,S15 Jimmy 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+14.98227273,0,20,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2772,GMC,S15 Jimmy 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2773,GMC,S15 Jimmy 2WD,Y,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2774,GMC,S15 Jimmy 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,21,0,2775,GMC,S15 Jimmy 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+14.69942308,0,24,0,0,391.5384615,26,0,1950,0,Diesel,Diesel,29,0,2776,Jeep,Cherokee/Wagoneer 2WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,2777,Jeep,Cherokee/Wagoneer 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,25,0,2778,Jeep,Cherokee/Wagoneer 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2779,Jeep,Cherokee/Wagoneer 2WD,N,Manual 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2780,Jeep,Cherokee/Wagoneer 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2781,Jeep,Cherokee/Wagoneer 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2782,Jeep,Cherokee/Wagoneer 2WD,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,21,0,2783,Plymouth,Voyager 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,2784,Plymouth,Voyager 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.69571429,0,18,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,25,0,2785,Plymouth,Voyager 2WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2786,Plymouth,Voyager 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+23.8865625,0,15,0,0,636.25,16,0,3200,0,Diesel,Diesel,16,0,2787,Vixen Motor Company,21 TD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2788,American Motors Corporation,Eagle,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2789,American Motors Corporation,Eagle,N,Manual 5-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,2790,Chevrolet,K10 Blazer 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2791,Chevrolet,K10 Blazer 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2792,Chevrolet,K10 Blazer 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,2793,Chevrolet,K10 Blazer 4WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2794,Chevrolet,Suburban K10 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2795,Chevrolet,Suburban K10 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2796,Chevrolet,Suburban K10 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+23.8865625,0,15,0,0,636.25,16,0,3200,0,Diesel,Diesel,20,0,2797,Chevrolet,Suburban K10 4WD,Y,Automatic 4-spd,1986,,Diesel,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2798,Chevrolet,T10 (S10) Blazer 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2799,Chevrolet,T10 (S10) Blazer 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2800,Chevrolet,T10 (S10) Blazer 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,2801,Chevrolet,T10 (S10) Blazer 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,2802,Chevrolet,T10 (S10) Blazer 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2803,Chevrolet,T10 (S10) Blazer 4WD,Y,Manual 5-spd,1986,SIL,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2804,Nissan,Stanza Wagon 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2805,Nissan,Stanza Wagon 4WD,N,Manual 5-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,13,0,2806,Dodge,AW100/AW150 Ramcharger 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2807,Dodge,AW100/AW150 Ramcharger 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,13,0,2808,Dodge,AW100/AW150 Ramcharger 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+32.961,0,9,0,0,888.7,10,0,4750,0,Regular,Regular Gasoline,11,0,2809,Dodge,AW100/AW150 Ramcharger 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2810,Dodge,AW100/AW150 Ramcharger 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2811,Dodge,Colt Vista 4WD,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2812,Ford,Bronco II 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2813,Ford,Bronco II 4WD,N,Manual 5-spd,1986,,,,0,0,0
+23.54357143,0,14,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,14,0,2814,Ford,Bronco 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2815,Ford,Bronco 4WD,N,Manual 4-spd,1986,,,,0,0,0
+21.974,0,14,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,16,0,2816,Ford,Bronco 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,2817,Ford,Bronco 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2818,Ford,Bronco 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+29.96454545,0,11,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2819,Ford,Bronco 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,16,0,2820,GMC,K15 Jimmy 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+23.54357143,0,12,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2821,GMC,K15 Jimmy 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2822,GMC,K15 Jimmy 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+22.48147059,0,15,0,0,598.8235294,17,0,3000,0,Diesel,Diesel,20,0,2823,GMC,K15 Jimmy 4WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+27.4675,0,11,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2824,GMC,K15 Suburban 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+27.4675,0,10,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,15,0,2825,GMC,K15 Suburban 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2826,GMC,K15 Suburban 4WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+23.8865625,0,15,0,0,636.25,16,0,3200,0,Diesel,Diesel,20,0,2827,GMC,K15 Suburban 4WD,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2828,GMC,T15 (S15) Jimmy 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,23,0,2829,GMC,T15 (S15) Jimmy 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,24,0,2830,GMC,T15 (S15) Jimmy 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,14,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,2831,GMC,T15 (S15) Jimmy 4WD,N,Automatic 4-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,19,0,2832,GMC,T15 (S15) Jimmy 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2833,GMC,T15 (S15) Jimmy 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+15.2874,0,24,0,0,407.2,25,0,2050,0,Diesel,Diesel,26,0,2834,Isuzu,Trooper,Y,Manual 5-spd,1986,,Diesel,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2835,Isuzu,Trooper,Y,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2836,Isuzu,Trooper,N,Manual 5-spd,1986,,,,0,0,0
+15.2874,0,24,0,0,407.2,25,0,2050,0,Diesel,Diesel,26,0,2837,Jeep,Cherokee/Wagoneer 4WD,N,Manual 5-spd,1986,,Diesel,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2838,Jeep,Cherokee/Wagoneer 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,24,0,2839,Jeep,Cherokee/Wagoneer 4WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2840,Jeep,Cherokee/Wagoneer 4WD,N,Manual 4-spd,1986,,,,0,0,0
+16.4805,0,18,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,23,0,2841,Jeep,Cherokee/Wagoneer 4WD,N,Manual 5-spd,1986,SIL,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2842,Jeep,Cherokee/Wagoneer 4WD,Y,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2843,Jeep,Cherokee/Wagoneer 4WD,N,Manual 5-spd,1986,,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,19,0,2844,Jeep,CJ7,N,Manual 4-spd,1986,SIL,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,17,0,2845,Jeep,CJ7,N,Manual 5-spd,1986,SIL,,,0,0,0
+21.974,0,15,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2846,Jeep,CJ7,N,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,18,0,2847,Jeep,CJ7,N,Manual 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,20,0,2848,Jeep,CJ7,Y,Manual 5-spd,1986,,,,0,0,0
+23.54357143,0,14,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,16,0,2849,Jeep,Grand Wagoneer,N,Automatic 3-spd,1986,,,,0,0,0
+21.974,0,13,0,0,592.4666667,15,0,3200,0,Regular,Regular Gasoline,17,0,2850,Jeep,Grand Wagoneer,N,Manual 4-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2851,Jeep,Grand Wagoneer,Y,Automatic 3-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,16,0,2852,Mitsubishi,Montero,N,Automatic 3-spd,1986,,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,18,0,2853,Mitsubishi,Montero,N,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,17,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,23,0,2854,Plymouth,Colt Vista 4WD,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2855,Subaru,Hatchback 4WD,N,Manual 4-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2856,Subaru,Hatchback 4WD,N,Manual 4-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2857,Subaru,Sedan/3 Door 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,2858,Subaru,Sedan/3 Door 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2859,Subaru,Sedan/3 Door 4WD,N,Manual 5-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2860,Subaru,Sedan/3 Door 4WD,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2861,Subaru,Sedan/3 Door 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2862,Subaru,Sedan/3 Door 4WD,N,Manual 5-spd,1986,,,,0,0,0
+15.69571429,0,19,0,0,423.1904762,21,0,2250,0,Regular,Regular Gasoline,22,0,2863,Subaru,Wagon 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2864,Subaru,Wagon 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.33086957,0,21,0,0,386.3913043,23,0,2050,0,Regular,Regular Gasoline,26,0,2865,Subaru,Wagon 4WD,N,Manual 5-spd,1986,,,,0,0,0
+14.98227273,0,19,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,26,0,2866,Subaru,Wagon 4WD,Y,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2867,Subaru,Wagon 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2868,Subaru,Wagon 4WD,N,Manual 5-spd,1986,,,,0,0,0
+16.4805,0,19,0,0,444.35,20,0,2400,0,Regular,Regular Gasoline,22,0,2869,Subaru,XT 4WD,N,Automatic 3-spd,1986,,,,0,0,0
+14.98227273,0,21,0,0,403.9545455,22,0,2150,0,Regular,Regular Gasoline,25,0,2870,Subaru,XT 4WD,N,Manual 5-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,27,0,2871,Suzuki,Samurai,N,Manual 5-spd,1986,,,,0,0,0
+13.1844,0,23,0,0,355.48,25,0,1900,0,Regular,Regular Gasoline,27,0,2872,Suzuki,Samurai Convertible,Y,Manual 5-spd,1986,,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,2873,Toyota,4Runner 4WD,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+18.31166667,0,17,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,20,0,2874,Toyota,4Runner 4WD,N,Automatic 4-spd,1986,2MODE 2LKUP,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2875,Toyota,4Runner 4WD,Y,Manual 5-spd,1986,,,,0,0,0
+17.34789474,0,18,0,0,467.7368421,19,0,2500,0,Regular,Regular Gasoline,22,0,2876,Volga Associated Automobile,Niva,N,Manual 4-spd,1986,2MODE,,,0,0,0
+19.38882353,0,17,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,18,0,2877,Chevrolet,S10 Cab Chassis 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2878,Chevrolet,S10 Cab Chassis 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,13,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2879,Chevrolet,S10 Cab Chassis 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+23.54357143,0,14,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,14,0,2880,Nissan,Truck Cab Chassis 2WD,N,Manual 5-spd,1986,,,,0,0,0
+29.96454545,0,11,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,11,0,2881,Nissan,Truck Cab Chassis 2WD,N,Automatic 4-spd,1986,VLKUP,,,0,0,0
+25.35461538,0,13,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2882,Nissan,Truck Cab Chassis 2WD,N,Manual 5-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,2883,Dodge,D250 Cab Chassis 2WD,N,Automatic 3-spd,1986,,,,0,0,0
+18.31166667,0,16,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,21,0,2884,Ford,Ranger Pickup Cab Chassis,N,Automatic 4-spd,1986,,,,0,0,0
+19.38882353,0,15,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,2885,Ford,Ranger Pickup Cab Chassis,N,Manual 5-spd,1986,,,,0,0,0
+19.38882353,0,17,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,18,0,2886,GMC,S15 Cab Chassis 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+25.35461538,0,12,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2887,GMC,S15 Cab Chassis 2WD,N,Automatic 4-spd,1986,,,,0,0,0
+25.35461538,0,13,0,0,683.6153846,13,0,3650,0,Regular,Regular Gasoline,14,0,2888,GMC,S15 Cab Chassis 2WD,N,Manual 4-spd,1986,SIL,,,0,0,0
+27.4675,0,12,0,0,740.5833333,12,0,4000,0,Regular,Regular Gasoline,12,0,2889,Toyota,Cab/Chassis,N,Automatic 4-spd,1986,,,,0,0,0
+23.54357143,0,14,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,15,0,2890,Toyota,Cab/Chassis,N,Manual 4-spd,1986,,,,0,0,0
+18.31166667,0,15,0,0,493.7222222,18,0,2650,0,Regular,Regular Gasoline,22,0,29557,Mazda,RX-7,N,Manual 5-spd,1986,,,,0,0,0
+29.96454545,0,10,0,0,807.9090909,11,0,4350,0,Regular,Regular Gasoline,12,0,29572,Toyota,Land Cruiser Wagon 4WD,N,Manual 4-spd,1986,,,,0,0,0
+17.37204545,0,21,0,0,462.7272727,22,0,2300,0,Diesel,Diesel,24,0,29583,Mercedes-Benz,300SDL,N,Automatic 4-spd,1986,,Diesel,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,29613,Chevrolet,C10 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,29614,Chevrolet,C10 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+20.600625,0,15,0,0,555.4375,16,0,3000,0,Regular,Regular Gasoline,17,0,29615,Ford,F150 Pickup 2WD,Y,Manual 4-spd,1986,Creeper,,,0,0,0
+19.38882353,0,16,0,0,522.7647059,17,0,2800,0,Regular,Regular Gasoline,19,0,29616,GMC,C15 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
+23.54357143,0,13,0,0,634.7857143,14,0,3400,0,Regular,Regular Gasoline,17,0,29617,GMC,C15 Pickup 2WD,N,Manual 4-spd,1986,Creeper,,,0,0,0
