@@ -77,11 +77,16 @@ public class FuelCostActivity extends AppCompatActivity {
             double unitCost = Double.parseDouble(unitCostField.getText().toString());
             double amtBought = Double.parseDouble(amtBoughtField.getText().toString());
 
-            if (hypothetical)
-            { result = calculateHypotheticalCost(unitCost,amtBought); }
-            else
-            { result = calculateCost(unitCost,amtBought, this.getFileStreamPath(ExpenditureDataLog.FILE),
-                    immediateTransfer); }
+            if (hypothetical) {
+                result = calculateHypotheticalCost(unitCost,amtBought);
+            }
+            else {
+                if (VehicleSelectionActivity.warnNoSelection(this))
+                    return;
+
+                result = calculateCost(unitCost,amtBought, this.getFileStreamPath(ExpenditureDataLog.FILE),
+                    immediateTransfer);
+            }
 
         } catch (NumberFormatException e) {
             // write to the screen that there is an issue with the input

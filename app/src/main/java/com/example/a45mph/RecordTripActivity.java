@@ -70,7 +70,11 @@ public class RecordTripActivity extends AppCompatActivity {
             // get input from the fields
             double unitCost = Double.parseDouble(odometerField.getText().toString());
             double consumption = Double.parseDouble(consumptionField.getText().toString());
-            mileage = recordTrip(unitCost,consumption);
+
+            if(!VehicleSelectionActivity.warnNoSelection(this))
+                mileage = recordTrip(unitCost,consumption);
+            else
+                return 0;
 
             Toast.makeText(getApplicationContext(),"Trip recorded with" +
                     " average gas mileage of " + mileage + " mpg.",Toast.LENGTH_LONG).show();

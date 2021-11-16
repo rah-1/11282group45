@@ -10,6 +10,7 @@ import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 public class EnvironmentalTrackingActivity extends AppCompatActivity {
@@ -30,6 +31,9 @@ public class EnvironmentalTrackingActivity extends AppCompatActivity {
         total = (TextView) findViewById(R.id.gCO2textviewemissionscalculator);
 
         try {
+
+            if(VehicleSelectionActivity.warnNoSelection(this))
+                throw new IOException();
 
             avg.setText(Double.toString(EmissionsCalculator.getAverageEmissions(new Scanner(getApplicationContext().getFileStreamPath(TripDataLog.FILE)),
                     VehicleProfileAdapter.currentProfile)) + " grams of CO2");

@@ -33,7 +33,7 @@ public class TripHolder extends RecyclerView.ViewHolder {
     public void setConsumption(double c) { con.setText(Double.toString(c));}
     public void setConsumption(String c) { con.setText(c); }
 
-    public void setTime(LocalDateTime t) { time.setText(t.toString()); }
+    public void setTime(LocalDateTime t) { time.setText(DataLog.getDateAndTime(t)); }
     public void setTime(String t) { time.setText(t); }
 
     public void setVehicle(VehicleProfile v) { vehicle.setText(v.getName()); }
