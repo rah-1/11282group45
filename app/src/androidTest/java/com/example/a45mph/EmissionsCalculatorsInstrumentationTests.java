@@ -30,6 +30,7 @@ public class EmissionsCalculatorsInstrumentationTests {
     public void testGetTripEmissions() {
         try {
             assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
+            assert InstrumentationTestHelper.setUpFile(VehicleProfile.FILEPATH);
             VehicleProfile vp = new VehicleProfile("Dodge","Charger","Mom's Car",2014,"1000",
                     new Fueltype("Regular"),444, LocalDateTime.now());
             VehicleSelectionActivity.profileAdapter.addProfile(vp);
@@ -48,6 +49,7 @@ public class EmissionsCalculatorsInstrumentationTests {
     @Test
     public void testGetTotalTripEmissions(){
         assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
+        assert InstrumentationTestHelper.setUpFile(VehicleProfile.FILEPATH);
         VehicleProfile vp = new VehicleProfile("Dodge","Charger","Mom's Car",
                 2014,"1000",new Fueltype("Regular"),202,LocalDateTime.now());
         VehicleProfile vp1 = new VehicleProfile("Dodge","Ram F150", "Dad's Truck",
@@ -71,6 +73,8 @@ public class EmissionsCalculatorsInstrumentationTests {
 
     @Test
     public void testGetAverageEmissions() {
+        assert InstrumentationTestHelper.setUpTests(TripDataLog.FILEPATH);
+        assert InstrumentationTestHelper.setUpFile(TripDataLog.FILEPATH);
         VehicleProfile vp = new VehicleProfile("Dodge","Ram F150", "Dad's Truck",
                 2007,"1001",new Fueltype("Regular"), 577,LocalDateTime.now());
 
@@ -93,7 +97,8 @@ public class EmissionsCalculatorsInstrumentationTests {
 
         try {
             useAppContext();
-            assert InstrumentationTestHelper.setUpTests(appContext.getFileStreamPath("tripLog.csv").toString());
+            assert InstrumentationTestHelper.setUpTests(appContext.getFileStreamPath(TripDataLog.FILE).toString());
+            assert InstrumentationTestHelper.setUpFile(appContext.getFileStreamPath(VehicleProfile.FILE).toString());
 
             LocalDateTime instant1 = LocalDateTime.now();
             LocalDateTime instant2 = LocalDateTime.now();

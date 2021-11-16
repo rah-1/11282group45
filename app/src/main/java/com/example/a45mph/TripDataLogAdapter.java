@@ -53,6 +53,7 @@ public class TripDataLogAdapter extends RecyclerView.Adapter {
         trip.setOdometer(tripLogs.get(position).getOdometer());
         trip.setTime(tripLogs.get(position).getTime());
         trip.setVehicle(tripLogs.get(position).getVehicle());
+        trip.setMileage(tripLogs.get(position).getMileage());
     }
 
     @Override

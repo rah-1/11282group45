@@ -15,6 +15,7 @@ public class TripHolder extends RecyclerView.ViewHolder {
     private TextView con;
     private TextView time;
     private TextView vehicle;
+    private TextView mileage;
     private ConstraintLayout layout;
 
     public TripHolder(@NonNull View itemView) {
@@ -24,6 +25,7 @@ public class TripHolder extends RecyclerView.ViewHolder {
         con = itemView.findViewById(R.id.contexttriplist);
         time = itemView.findViewById(R.id.timetexttriplist);
         vehicle = itemView.findViewById(R.id.vehicletexttriplist);
+        mileage = itemView.findViewById(R.id.mileagetexttriplist);
         layout = itemView.findViewById(R.id.triplistitem);
     }
 
@@ -38,6 +40,9 @@ public class TripHolder extends RecyclerView.ViewHolder {
 
     public void setVehicle(VehicleProfile v) { vehicle.setText(v.getName()); }
     public void setVehicle(String v) { vehicle.setText(v); }
+
+    public void setMileage(double m) { mileage.setText(Double.toString(m)); }
+    public void setMileage(String m) { mileage.setText(m); }
 
     public ConstraintLayout getLayout() { return layout; }
 }

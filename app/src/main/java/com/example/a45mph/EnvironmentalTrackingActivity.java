@@ -17,6 +17,7 @@ public class EnvironmentalTrackingActivity extends AppCompatActivity {
     private RecyclerView emissionList;
     private TextView avg;
     private TextView total;
+    private TextView mileage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,6 +30,7 @@ public class EnvironmentalTrackingActivity extends AppCompatActivity {
 
         avg = (TextView) findViewById(R.id.averagegCO2textviewemissionscalculator);
         total = (TextView) findViewById(R.id.gCO2textviewemissionscalculator);
+        mileage = (TextView) findViewById(R.id.mileagetextviewemissionscalculator);
 
         try {
 
@@ -39,9 +41,11 @@ public class EnvironmentalTrackingActivity extends AppCompatActivity {
                     VehicleProfileAdapter.currentProfile)) + " grams of CO2");
             total.setText(Double.toString(EmissionsCalculator.getTotalEmissions(new Scanner(getApplicationContext().getFileStreamPath(TripDataLog.FILE)),
                     VehicleProfileAdapter.currentProfile)) + " grams of CO2");
+            mileage.setText(Double.toString(EmissionsCalculator.getAverageMileage(getApplicationContext().getFileStreamPath(TripDataLog.FILE))) + " mpg");
         } catch (Exception e) {
             avg.setText("? grams of CO2");
             total.setText(avg.getText());
+            mileage.setText("? mpg");
         }
     }
 

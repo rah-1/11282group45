@@ -48,10 +48,7 @@ public abstract class EmissionsCalculator {
             }
         }
 
-        if (sum == 0 || i == 0)
-            return 0;
-
-        return Math.round((sum / i) * 100) / 100.0;
+        return getAverage(sum,i);
     }
 
     public static ArrayList<EmissionDataLog> getAllEmissions(File file) throws IOException {
@@ -64,5 +61,28 @@ public abstract class EmissionsCalculator {
         }
 
         return emit;
+    }
+
+    public static double getAverageMileage(File file) throws IOException {
+        ArrayList<TripDataLog> trips = TripDataLog.loadTripDataLogs(file);
+
+        double sum = 0;
+        int i = 0;
+
+        for (TripDataLog t : trips)
+        {
+            sum += t.getMileage();
+            i++;
+        }
+
+        return getAverage(sum,i);
+    }
+
+    private static double getAverage(double sum, int i)
+    {
+        if (sum == 0 || i == 0)
+            return 0;
+
+        return Math.round((sum / i) * 100) / 100.0;
     }
 }
