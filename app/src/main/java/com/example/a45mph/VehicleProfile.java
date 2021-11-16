@@ -9,6 +9,7 @@ import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.util.Locale;
 import java.util.Objects;
 import java.util.Scanner;
 
@@ -158,7 +159,7 @@ public class VehicleProfile extends DataLog {
             String id = line.next();
             String fileMake = line.next();
 
-            if (!Objects.equals(make,fileMake))
+            if (!Objects.equals(make.toLowerCase(),fileMake.toLowerCase()))
                 continue;
 
             String fileModel = line.next();
@@ -176,7 +177,7 @@ public class VehicleProfile extends DataLog {
             }
 
             if (modelList.size() == 0) {
-                if (!Objects.equals(fileModel,model)) {
+                if (!Objects.equals(fileModel.toLowerCase(),model.toLowerCase())) {
                     continue;
                 }
             } else {
@@ -184,7 +185,7 @@ public class VehicleProfile extends DataLog {
 
                 for (String cand : modelList)
                 {
-                    match = match || Objects.equals(cand,model);
+                    match = match || Objects.equals(cand.toLowerCase(),model.toLowerCase());
                 }
 
                 if (!match)
@@ -193,7 +194,7 @@ public class VehicleProfile extends DataLog {
 
             skipAttributes(line,1);
 
-            String trany = line.next();
+            String transmit = line.next();
             String fileYear = line.next();
 
 
@@ -202,12 +203,12 @@ public class VehicleProfile extends DataLog {
 
             if (auto) {
 
-                if (!trany.contains("Automatic"))
+                if (!transmit.contains("Automatic"))
                     continue;
 
             } else if (man) {
 
-                if(!Objects.equals(trany,"Manual " + speed + "-spd"))
+                if(!Objects.equals(transmit,"Manual " + speed + "-spd"))
                     continue;
 
             } else {
