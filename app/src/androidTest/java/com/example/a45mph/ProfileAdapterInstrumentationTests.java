@@ -24,6 +24,7 @@ public class ProfileAdapterInstrumentationTests {
     @Test
     public void testProfileSearchSuccessful() {
         try {
+            assert InstrumentationTestHelper.setUpTests(VehicleProfile.FILEPATH);
             VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("Test","Test","Test");
             VehicleSelectionActivity.profileAdapter.addProfile(vp);
@@ -42,6 +43,7 @@ public class ProfileAdapterInstrumentationTests {
     @Test
     public void testProfileSearchMultiple() {
         try {
+            assert InstrumentationTestHelper.setUpTests(VehicleProfile.FILEPATH);
             VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("Test","Test","Test");
             VehicleProfile vp1 = VehicleProfilesActivity.createVehicleProfile("Not It", "Not It", "Not It");
@@ -63,6 +65,7 @@ public class ProfileAdapterInstrumentationTests {
     @Test
     public void testProfileSearchUnsuccessful() {
         try {
+            assert InstrumentationTestHelper.setUpTests(VehicleProfile.FILEPATH);
             VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
             VehicleProfile vp = VehicleProfilesActivity.createVehicleProfile("Test","Test","Test");
             VehicleSelectionActivity.profileAdapter.addProfile(vp);

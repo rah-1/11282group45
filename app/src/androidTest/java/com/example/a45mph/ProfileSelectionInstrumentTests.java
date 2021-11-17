@@ -9,7 +9,6 @@ import androidx.test.platform.app.InstrumentationRegistry;
 import org.junit.Test;
 
 public class ProfileSelectionInstrumentTests {
-    private final String FILEPATH = "/data/data/com.example.a45mph/vehicles.csv";
 
     @Test
     public void useAppContext() {
@@ -22,7 +21,7 @@ public class ProfileSelectionInstrumentTests {
     public void testAdditionToList()
     {
         try {
-            InstrumentationTestHelper.setUpFile(FILEPATH);
+            InstrumentationTestHelper.setUpTests(VehicleProfile.FILEPATH);
             VehicleProfile vp = new VehicleProfile();
             vp.transfer();
             VehicleProfileAdapter adapter = new VehicleProfileAdapter();
@@ -40,7 +39,7 @@ public class ProfileSelectionInstrumentTests {
     public void testSelection()
     {
         try {
-            InstrumentationTestHelper.setUpFile(FILEPATH);
+            InstrumentationTestHelper.setUpTests(VehicleProfile.FILEPATH);
             VehicleProfile vp = new VehicleProfile();
             vp.transfer();
             VehicleProfileAdapter adapter = new VehicleProfileAdapter();

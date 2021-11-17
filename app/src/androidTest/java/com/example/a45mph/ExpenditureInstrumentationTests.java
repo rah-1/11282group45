@@ -26,7 +26,7 @@ public class ExpenditureInstrumentationTests {
     public void testExpenditureRecording1() {
 
         try {
-            InstrumentationTestHelper.setUpFile(ExpenditureDataLog.FILEPATH);
+            assert InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
             ExpenditureDataLog log = new ExpenditureDataLog(10.00,22,thisInstant,testCar);
@@ -46,7 +46,7 @@ public class ExpenditureInstrumentationTests {
     public void testExpenditureRecording2() {
 
         try {
-            InstrumentationTestHelper.setUpFile(ExpenditureDataLog.FILEPATH);
+            InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
             ExpenditureDataLog log = new ExpenditureDataLog(10.00,22,thisInstant,testCar);
@@ -68,11 +68,10 @@ public class ExpenditureInstrumentationTests {
     public void testExpenditureRecording3() {
 
         try {
-            InstrumentationTestHelper.setUpFile(ExpenditureDataLog.FILEPATH);
+            InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
             LocalDateTime thisInstant = LocalDateTime.now();
             VehicleProfile testCar = new VehicleProfile();
             ExpenditureDataLog log = new ExpenditureDataLog(10.00,22,thisInstant,testCar);
-            ExpenditureDataLog log1 = new ExpenditureDataLog(23.94,12,thisInstant,testCar);
 
             assertEquals(log.getExpenditure(),10.00,0);
             assertEquals(log.getAmountBought(), 22.00, 0);
@@ -86,6 +85,8 @@ public class ExpenditureInstrumentationTests {
 
     @Test
     public void testReadLog() {
+        assert InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
+        assert InstrumentationTestHelper.setUpFile(VehicleProfile.FILEPATH);
         LocalDateTime thisInstant = LocalDateTime.now();
         VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
         VehicleSelectionActivity.profileAdapter = new VehicleProfileAdapter();
@@ -105,6 +106,7 @@ public class ExpenditureInstrumentationTests {
     public void testLoadExpenditures() {
         try {
             assert InstrumentationTestHelper.setUpTests(ExpenditureDataLog.FILEPATH);
+            assert InstrumentationTestHelper.setUpFile(VehicleProfile.FILEPATH);
             VehicleProfile testCar = new VehicleProfile("Test","Test","Test");
             VehicleSelectionActivity.profileAdapter.addProfile(testCar);
 
