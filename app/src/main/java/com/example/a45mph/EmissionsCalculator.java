@@ -63,7 +63,7 @@ public abstract class EmissionsCalculator {
         return emit;
     }
 
-    public static double getAverageMileage(File file) throws IOException {
+    public static double getAverageMileage(File file, VehicleProfile vp) throws IOException {
         ArrayList<TripDataLog> trips = TripDataLog.loadTripDataLogs(file);
 
         double sum = 0;
@@ -71,6 +71,9 @@ public abstract class EmissionsCalculator {
 
         for (TripDataLog t : trips)
         {
+            if(!Objects.equals(t.getVehicle().getName(),vp.getName()))
+                continue;
+
             sum += t.getMileage();
             i++;
         }
