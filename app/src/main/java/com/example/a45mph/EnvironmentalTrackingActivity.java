@@ -41,7 +41,7 @@ public class EnvironmentalTrackingActivity extends AppCompatActivity {
                     VehicleProfileAdapter.currentProfile)) + " grams of CO2");
             total.setText(Double.toString(EmissionsCalculator.getTotalEmissions(new Scanner(getApplicationContext().getFileStreamPath(TripDataLog.FILE)),
                     VehicleProfileAdapter.currentProfile)) + " grams of CO2");
-            mileage.setText(Double.toString(EmissionsCalculator.getAverageMileage(getApplicationContext().getFileStreamPath(TripDataLog.FILE))) + " mpg");
+            mileage.setText(Double.toString(EmissionsCalculator.getAverageMileage(getApplicationContext().getFileStreamPath(TripDataLog.FILE),VehicleProfileAdapter.currentProfile)) + " mpg");
         } catch (Exception e) {
             avg.setText("? grams of CO2");
             total.setText(avg.getText());
