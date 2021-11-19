@@ -12,3 +12,6 @@ Through the course of its development, the members of 45mph used the following r
 * A Stackoverflow question that shows how to make Activities Scrollable (https://stackoverflow.com/questions/4055537/how-do-you-make-a-linearlayout-scrollable/4055570)
 * This Video Tutorial which showed us the basics of Android Studio and how to develop Android apps (https://youtu.be/tZvjSl9dswg)
 * This website that shows how to work with formatting times using the LocalDateTime class (https://javarevisited.blogspot.com/2017/01/how-to-create-localdatetime-in-java-8.html)
+
+## Data
+* We obtained the vehicle emissions data used in this application from the website fueleconomy.gov (https://www.fueleconomy.gov/feg/ws/index.shtml#emissions)
