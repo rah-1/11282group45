@@ -46,7 +46,8 @@ Following this set of instructions, you will have to go through the process of i
 Having followed these instructions and cloned/moved the project to a known location on your device, you should be ready to move into the operation instructions where we will cover how to use the application using your newly installed emulator.
 
 ## Operation Instructions
-Instructions for operating the application are less complicated than installing Android Studio and its emulators. Take the following steps to run the emulator in the correct configuration.
+Instructions for operating the application are less complicated than installing Android Studio and its emulators. Take the following steps to run the emulator in the correct configuration. If you are using an exported APK, be sure to open the project through the "build or debug APK" option.
+
 *	Ensure that the configuration “app” is selected if you’re using a repository cloned from our project’s GitHub repo or an export of the source code. Ensure that the selected configuration is “GGMC” if you are using an exported APK version of this project.  
 *	With the correct configuration selected, press the green run button. If the configuration is not correct, use the configuration dropdown menu next to the green run button to select it.  
 *	The application should open automatically, but if it does not, navigate to the emulator’s app menu and select the application called “Green Gas Mileage Calculator” with the 45mph logo in its app icon.  
